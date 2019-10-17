@@ -31,6 +31,8 @@
 - OM přinese truhlu + vstoupí
     - video + vysílačka + výměna za svou alt. verzi
     - posádka se dívá na zašuměné video, zatímco OM třeba vidí ostré a komentuje to podle toho vysílačkou
+        - alternativa bez videa je pouze jeho mluvení vysílačkou, po chvíli přestane odpovídat
+        - nemusí odpovídat do té doby, než se vrátí (po návratu se pak musí vymluvit, proč neodpovídal)
     - nápad: do základny můžou jít až po nabrání truhly podruhé s motivací získat nástroje na její otevření
 - příprava na odlet + zadání hmotnosti
     - časování se možná řeší tím, že pokud se budou chtít hádat po návratu OM, budou se hádat, a kapitánka až pak přikáže odlet
