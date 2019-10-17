@@ -8,7 +8,9 @@ _Rozpracovaný dokuemnt. Modře značím neúplnou věc, kterou je potřeba na j
 
 # Příprava
 
-# 1. scéna (párty)
+---
+
+# 1 Párty
 
 - Socializace (doladit, aby byl prostor pro tanec i povídání)
 - Rozhodnutí Alex: Odejde sama nebo s někým?
@@ -16,9 +18,7 @@ _Rozpracovaný dokuemnt. Modře značím neúplnou věc, kterou je potřeba na j
 - Johnny každopádně Alex osloví na konci (pro případ, že to Marc neudělá).
     - Zpětně nevím, jestli tohle balení je tak super nápad. Typicky u Marca je předem jasná “správná” odpověď co dělat, takže to je potenciálně dost nezajímavé. Ale třeba to ještě dál zužitkujem. (G)
 
-# 1. střih
-
-# 2. scéna (porucha)
+# 2 Porucha
 
 - vyzkoušení mechanik
 - Rozhodnutí: Kratší, nebo delší cestou?
@@ -30,9 +30,7 @@ _Rozpracovaný dokuemnt. Modře značím neúplnou věc, kterou je potřeba na j
     - TODO: vymyslet, co reálně budou dělat.
     - Nápad: Vysílačka?
 
-# 2. střih
-
-# 3. scéna (přiblížení a nabrání koule)
+# 3 Přiblížení a nabrání
 
 - Možná rozhodnutí: Vstoupí do základny? Kam poletí dál?
     - TODO: v čem je dilema vstupu + důsledek?
@@ -54,11 +52,11 @@ _Rozpracovaný dokuemnt. Modře značím neúplnou věc, kterou je potřeba na j
     - Eskalace: doktorka zjistí a pak řekne OM, že pokud se jeho stav bude stupňovat, nepřežije to (a že neví, co mu je).
     - Dilema OM v závěru: jestli kvůli mizivé šanci na přežití obětuje svoje alt. já, nebo jestli přejde, zemře, a jeho alt. já spolehlivě přežije (přežití dostane slíbeno v alt postavě).
 
-# 3. střih (1. sny)
+# 3a střih -- 1. sny
 
 - TODO: Jak udělat, aby jim došlo, že sny způsobuje koule?
 
-# 4. scéna
+# 4 Let zpět
 
 - TODO: Koule už něco dělá. Co a proč?
 - TODO: Lobbing stran, zprávy. Vyrobit, co zajímavého?
@@ -71,9 +69,9 @@ _Rozpracovaný dokuemnt. Modře značím neúplnou věc, kterou je potřeba na j
     - Vyhazování: checklist, tlačítka arm a jettison, crew status: cargo weight less then or equal 10t → arbitrary, more than 10t → emergency (připásaní)
     - OM může chtít kouli vyhodit, aby se na něj nepřišlo (a tvrdit např. že pokud bude těžká vyhodit už nepůjde, protože zařízení není dost silné aby bez rozbití “odtlačilo loď od koule”), naopak FE dává argumenty, že “nemožnost vyhodit” je fyzikálně blbost a chce nevyhazovat.
 
-# 4. střih (2. sny)
+# 4a střih -- 2. sny
 
-# 5. scéna
+# 5 Finále
 
 - Setkání s loděmi (?)
     - Nápad: vysílačka, volací znaky, …
@@ -89,6 +87,8 @@ _Rozpracovaný dokuemnt. Modře značím neúplnou věc, kterou je potřeba na j
     - Ty co odcházejí NPC odvede do tmy.
     - Nápad: na NPC a věci dávat stužky, žádná → nejsem tu, oranžová → jsem tu ale nelze se mě dotknout (duch), červená → fyzicky tu jsem (příp další signalizace). Může být i na předměty.
 
-# Epilog
+# 6 Epilog
+
+---
 
 # Debriefing

@@ -32,6 +32,14 @@ Náhodné nápady:
     - alá hrstka, mohou je psát, kapitánka je donutí, pokud jdou do něčeho nebezpečného, na konci přečteme ty, kteří se rozhodnou projít bránou? (při sledování hvězd za tmy a uvedení něco typu "po návratu na zemi se často díváte na oblohu ..."  by bylo to čtení efektní)
     - možná by se daly psát v meziscénách
     - případně ne rozlučkové, jen normální, s tím, že bude jen chvilka radiový kontakt, tak si to musí nachystat a pak se to jednorázově odvysílá
-
+- nápady na název
+    - Kosmos, (něco) nekonečno / infinit, Moře dveří, (nějaký latinský citát)
+    - Možná pojmenovávat i kapitoly?
+    - Slogan: "soundrack, postavy a scény z vašich oblíbených sci-fi filmů" nebo podobně
+    - latinské: "in tenebris" - v temnotě
+    - něco s osudem?
 - "nemáme lano" mechanika
     - pokud řeší, jestli je na lodi X, tak pokud to není fyzicky ve scéně, odpověď je "toto v lodi není"
+- letí na ně řízená střela + zvrat
+    - mine je
+    - ve skutečnosti vysílá rádiem nějaké info, aby přebila rušení
