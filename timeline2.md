@@ -122,13 +122,12 @@
 - nápad: nějak zapojit mrtvého člena posádky
     - např. na ně může mluvit skrz vysílačku, jakmile se dost přiblíží slunci
     - nebo může přijít nějak jako "duch" a facilitovat pálení postav
-- nápad: nějak zapojit cizí lodě
-    - spíš ne, už je to překombinované
 
 - _varianta koule na palubě_
 - zástupná činnost před rozhodováním (?)
     - nápad: navigátor (nebo někdo jiný) se tajně vzbudí, protože doběhla simulace. Z té vyplyne, že s koulí se něco začne dít při přiblížení ke slunci. Protože není jisté, jak to bude vypadat, a může to být nebezpečné pro loď, probudí zbytek posádky a vysvětlí jim situaci. Pak se budou hádat o to, jestli kontejner otevřít.
     - nápad: při částečném přiblížení (tj. nějaký čas od začátku scény) získá navigátor z koule doplňující data, která mu přesně vysvětlí, co se děje. Tehdy jim přesně vysvětlí, co se s koulí bude dít.
+    - nápad: kód ke krabici -- datum utopení bratra?
 - dostanou alt. postavy
     - jak je dostanou?
     - nápad: bude to sen před touto scénou
@@ -147,8 +146,10 @@
     - ošetřit otázku "jdeme do stejné reality?" a otázky obecně
         - mohou se snažit vymýšlet různá řešení a klást nečekané otázky
         - je potřeba ošetřit, aby to neblokovalo hru, resp. nevedlo k "PJ interakci", kdybychom odpovídali
+    - možnost: někdo má motivaci objevitelství
 - akt rozhodnutí
     - jak proběhne? co, když by se třeba rozmysleli během loučení?
+    - TODO: co, když by se rozhodli nikdo nevstoupit?
 - rozlučková večeře
     - asi by měla navrhnout kapitánka
 - příprava vzkazů rodinám (?)
@@ -156,10 +157,9 @@
     - nápad na pitch na konec: "Je to jako útes, z kterého se můžeme vrhnout do neznáma. Možná tam čeká tma, ale možná taky něco nového, lepšího." Nebo "we're gonna climb it" PSB první písnička (vlastně by mohli dostat na výběr)
     - musí otevřít krabici, pokud to před tím neudělali
     - jak dostanou instrukce, co přesně dělat?
+    - nápad: pálení postav
 
 - _varianta vyhozené koule_
-- černá díra a vletění dovnitř
-
 - začátek: info padáme do černé díry
     - něco v smyslu můžem se vzdálit, ale neunikneme gravitaci díry
     - dalo by se něco odvysílat (special způsobem)
@@ -193,40 +193,11 @@
 - hádka, jestli zpomalit nebo zkusit se zachránit
     - dát někomu motivaci "objevitelství"
     - rozhodnutí (zážeh) je potřeba udělat v konkrétní okamžik oribty
-- konec: zpomalení a pád / odlet
-
-- možnosti:
-    - zástupná činnost: jsme moc těžcí; rozhodování, koho obětovat
-    - zvrat: ze simulace vypadne _možnost_, že pád do díry přežijí a přeskočí do alt. reality
-        - pak začne skutečná hádka, případně sci-fi diskuze, jestli tomu věřit, nebo ne (interpretace událostí do té doby, pokud viděli ve snu postavy tak toho a podobně)
-    - dalo by se triggerovat loučení (např. od rozhodnutí udělají zpomalovací zážeh, začnou padat, budu se hlásit odpočet. Ale nějak by bylo nutné je navést, aby nezamrzli, a využili odpočet k hraní -- min. upozorněním, že to může být posledních X sekund jejich života, nikdo neví)
-        - teoreticky taky prostě jen mít video / gradaci hudby jak brzdí / padají a jenom někdo řekne "pojďme si to vychutnat" něco v tom smyslu
-    - nějaká role jiných lodí?
-    - co, když rozhodnou, že chtějí i tak odletět, ne padnout do díry?
-    - závěrečná scéna pálení postav? jak vysvětlit / zorganizovat? dává tu smysl?
-    - nápad: jedna postava (jíž byl nejbližší obětovaný v minulé scéně) dostane hráč na výběr, jestli se chce obětovat v této scéně. Pokud souhlasí, dostane tajnou instrukci, např. že on bude ten co počítá dráhu, ví, že jeden musí vyskočit, při manévru si pak vezme vysílačku a/nebo skafandr a provede to. Nebo to počítá někdo jiný, a této postavě to dá na kontrolu, a tato postava najde chybu, ale zatají ji a naplánuje vyskočit (viz).
-    - může implikovat víc verzí scény (např. vybírání obětovaného nedává smysl, pokud si někdo vybere být obětován dobrovolně)
-    - cizí lodě
-        - nějaká se objeví a nabídne záchranu, kde před tím se zdál únikový manévr nejistý nebo vedoucí někam, kam nechtějí (někdo by je musel zachraňovat z volného vesmíru např.)
-        - objeví se víc lodí (např. postupně), hádají se a postavy se rozhodují, komu vyhovět
-        - zajímavé: sdílené rádio, hráči mohou sledovat hádku lodí a zasáhnout, nebo neodpovídat v rádiu na volání, bluffovat, navázat tajný kanál s jenou lodí a podobně (např. agent té mocnosti může mít tajnou vysílačku nebo tak)
-        - cizí lodě si můžou vyhrožovat a pak např. jedna druhou (kvůli nečinnosti postav třeba) zničit (nemusí to vidět, např. vyprší ultimatum a jedna loď přestane odpovídat na vysílačku)
-    - pokud budou "padat", na konci vyzve někdo aby zmáčkli ovládání současně
-    - po skončení např. ukázka země s jinak uspořádanými světadíly
-    - zachytí nějakou zprávu ze země (nebo např. haluz s morseovkou nějak opticky?)
-
-- poznámky: závěrečné rozhodování
-    - pálení postav
-    - buď přijmou svoji alt. verzi nebo zůstanou, jak jsou
-    - lze provést jen v určitý okamžik (odpočet)
-        - například "v periheliu kvůli největšímu zakřivení prostoru"
         - riziko: rozhodnou se dřív, než vyprší časovač
-    - TODO: musí ne/projít všichni, nebo se mohou rozdělit?
-        - nápad: ovlivňuje to dřívější ne/vyhození koule z lodi. Pokud byla vyhozena, musí zabrzdit a spadnout do ní jako do černé díry, případně zrychlit a uletět (případně hodit něco / někoho dovnitř). Pokud zůstala na palubě, mohou se rozdělit a jedna skupina přistoupí, druhá zůstane.
-        - nápad: při házení někoho dovnitř buď může letět člunem (pokud bude člun), nebo může taky vzít smetí plus sebe a skočit tam ve skafandru.
-    - TODO: kdy se to dozvědí a jak bude rozhodování vypadat/trvat?
-        - nápad: spočítá to někdo, ten to bude vědět už o scénu dřív (případně +1, komu to řekne), oznámí to na začátku této scény podle nějakého potvrzeného měření.
-    - další zajímavá motivace pro vstup: objevitelství. Někdo může říct "jsme první, kdo překročí práh tohoto světa"
+    - nápad: při pádu navrhnout zmáčknout tlačítko zážehu společně
+    - nápad: při padání vyhlásí někdo "pojďme se rozloučit" nebo něco tak (pokud bude na pád vyhrazen určitý čas). "Může to být posledních x sekund jejich života." Můžou jim popřát hodně štěstí i okolní lodě.
+- konec: zpomalení a pád / odlet
+    - nápad: po skončení např. ukázka země s jinak uspořádanými světadíly
 
 ---
 

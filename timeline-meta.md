@@ -14,3 +14,9 @@ Zde jsou úvahy, zdůvodnění, zrušené alternativy a podobné věci k scéná
     - prozatím překomplikované, přidat jen pokud to bude vypadat že se to hodí
     - risk: budou víc připravení, že je něco špatně
     - potenciální gain: napětí, že hráči reálně nebudou vědět a budou napjatí, jestli se zachrání všichni
+
+# 5 Finále
+
+- Teorie je, že pokud kouli vyhodili, zajímá je víc přežití a pokud nechali na palubě, zajímá je víc "kam králičí nora vede".
+    - Pokud přežití, pak teda poslední scéna je víc o "řešení" a možnosti přežít, případně za jakou cenu.
+    - Pokud králičí nora, pak je to víc o postavách a řešení vztahů a důsledků rozhodnutí vůči sobě navzájem.

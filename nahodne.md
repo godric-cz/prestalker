@@ -43,3 +43,10 @@ Náhodné nápady:
 - letí na ně řízená střela + zvrat
     - mine je
     - ve skutečnosti vysílá rádiem nějaké info, aby přebila rušení
+- cizí lodě
+    - nějaká se objeví a nabídne záchranu, kde před tím se zdál únikový manévr nejistý nebo vedoucí někam, kam nechtějí (někdo by je musel zachraňovat z volného vesmíru např.)
+    - objeví se víc lodí (např. postupně), hádají se a postavy se rozhodují, komu vyhovět
+    - zajímavé: sdílené rádio, hráči mohou sledovat hádku lodí a zasáhnout, nebo neodpovídat v rádiu na volání, bluffovat, navázat tajný kanál s jenou lodí a podobně (např. agent té mocnosti může mít tajnou vysílačku nebo tak)
+    - cizí lodě si můžou vyhrožovat a pak např. jedna druhou (kvůli nečinnosti postav třeba) zničit (nemusí to vidět, např. vyprší ultimatum a jedna loď přestane odpovídat na vysílačku)
+- blikání morseovkou
+    - protože není rádio, tak Země nebo jiná loď mohou v dalekohledu začít blikat světlem -- morseovka
