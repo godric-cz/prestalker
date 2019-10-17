@@ -22,7 +22,7 @@
 
 # 3 Přiblížení a nabrání
 
-- rádio nefunguje (rušení), poslední zprávy
+- začátek: rádio nefunguje (rušení), poslední zprávy, přiblížení k základně za X minut
     - mohou vyzvednout poslední zprávy, které jim přišly během hibernace
 - odhalení zprávy v rušení (?)
 - základna neodpovídá - vstoupit / nevstoupit dovnitř?
@@ -48,6 +48,13 @@
     - nápad: tajné probuzení někoho pro přístup ke kouli (ale co ten nápad s kódem / otcovým narozením?)
 
 - průběžně: hádka, co s koulí
+
+- nápad: sny a přistupování ke kouli
+    - při přiblížení ke krabici s koulí (nebo dotyku koule mimo aktivní zónu) si hráč může prohlížet alternativní postavu
+    - alt. postava má popis a na začátku popis začátku scény, např. "je léto, sedíte s bratrem venku, ale bratr se chce hádat o ..., tobě se to nelíbí protože ..."
+    - orig. postavy mají taky na začátku intro první scény, např. "vcházíte do baru ..."
+    - sny po 4. a 5. scéně jsou a jsou to tato intra (možná i dělat jako hrané mini scény)
+    - tím pádem se alternativní postavy ukazují postupně a téma se tak promítá déle do hry a postupně odhaluje, místo nesouvisející "bomby" na konci
 
 # 4 Let zpět
 
@@ -96,9 +103,13 @@
     - nápad: hlášky, jak se asteroid blíží -- konkrétní okamžik, kdy už to vzdají a odletí, si rozhodnou sami
     - lze říct "letíme do", což působí uvěřitelněji jak "letí na nás" ale je de facto to samé
     - TODO: nějak informovat o řetězu velení (nebo o tom, kdo může fakticky rozhodnout či zapnout motory), pro případ, že kapitánka tam zůstane jako poslední. (téma, že pilot je kvůli vztahům zapne / odmítne zapnout bez povolení je vlastně taky zajímavé)
+    - nápad: aby se nemuseli protáčet mezi místnostma, můžou si převést "terminály" (notebooky) s sebou.
+    - riziko: pokud nechají navigátora na little caprice, nebudou moct letět. Nějak dořešit.
 - konec: kapitánka rozkáže hibernaci NEBO pohřeb?
     - nápad: večeře případně nějaký rituál typu pouštění svíčky a osobní věci / fotky do vesmíru, zhasínání světel dokud nezbyde jen svíčka
+    - nápad: kapitánka čte proslov / motlitbu na pohřbu
     - hibernace do doby, než by se měli dostat mimo radiový stín koule (odhadem)
+    - TODO BUG: co když kouli nevyhodí?
 
 - ošetřit riziko PJ otázek z konzole
     - aby nedělali přes konzole moc doplňujících "PJ" otázek na vlastnosti lodi místo vlastního hraní
@@ -106,7 +117,105 @@
 
 # 5 Finále
 
-- závěrečné rozhodování
+- nezapomenout: záložní postavy pro předání informací
+    - např. navigátor získá data ze simulace -- pokud tam ale zůstal, např. lékařka si přečte jeho "deník" a předá informace o fungování koule dál
+- nápad: nějak zapojit mrtvého člena posádky
+    - např. na ně může mluvit skrz vysílačku, jakmile se dost přiblíží slunci
+    - nebo může přijít nějak jako "duch" a facilitovat pálení postav
+- nápad: nějak zapojit cizí lodě
+    - spíš ne, už je to překombinované
+
+- _varianta koule na palubě_
+- zástupná činnost před rozhodováním (?)
+    - nápad: navigátor (nebo někdo jiný) se tajně vzbudí, protože doběhla simulace. Z té vyplyne, že s koulí se něco začne dít při přiblížení ke slunci. Protože není jisté, jak to bude vypadat, a může to být nebezpečné pro loď, probudí zbytek posádky a vysvětlí jim situaci. Pak se budou hádat o to, jestli kontejner otevřít.
+    - nápad: při částečném přiblížení (tj. nějaký čas od začátku scény) získá navigátor z koule doplňující data, která mu přesně vysvětlí, co se děje. Tehdy jim přesně vysvětlí, co se s koulí bude dít.
+- dostanou alt. postavy
+    - jak je dostanou?
+    - nápad: bude to sen před touto scénou
+- rozhodování, jestli je berou
+    - jakou to má ingame podobu? o čem se baví mezi sebou při rozhodování?
+    - nesmí si je ukazovat, mohou si povídat, co viděli (?)
+    - nápad: není to jen volba, vstoupit do koule je i riskantní
+        - narážka na Čí sny sníš
+        - doplňuje nějaké drama do rozhodování
+    - jak dostanou informace, o čem přesně rozhodují / co přesně se děje?
+    - ošetřit, že na vstup mají jen jednu možnost
+        - aby nedělali plány typu "teď prostě proletíme a vymyslíme při dalším přiblížení slunci co a jak"
+        - například, že se zjeví jiná loď a přikáže jim, aby kouli vydali
+        - nebo, že se koule po čase vypaří
+        - cizí loď asi dělá hru víc konfliktní (nebudou smíření, ale nasraní, že někteří nedostanou za kouli zaplaceno => večeře nebude fungovat). Na druhou stranu cizí loď může být armáda, tj. kouli nedovezou ani tak ani tak. Možná by naopak "vydat se armádě" vs "čekat" mohlo působit dobře jako zástupná činnost, než se odhalí, co se reálně rozhoduje. (Armáda dá časové ultimatum; později se ukáže, že ultimatum vyprší až po DL na vstup do koule.)
+    - ošetřit otázku "jdeme do stejné reality?" a otázky obecně
+        - mohou se snažit vymýšlet různá řešení a klást nečekané otázky
+        - je potřeba ošetřit, aby to neblokovalo hru, resp. nevedlo k "PJ interakci", kdybychom odpovídali
+- akt rozhodnutí
+    - jak proběhne? co, když by se třeba rozmysleli během loučení?
+- rozlučková večeře
+    - asi by měla navrhnout kapitánka
+- příprava vzkazů rodinám (?)
+- akt vstupu do koule
+    - nápad na pitch na konec: "Je to jako útes, z kterého se můžeme vrhnout do neznáma. Možná tam čeká tma, ale možná taky něco nového, lepšího." Nebo "we're gonna climb it" PSB první písnička (vlastně by mohli dostat na výběr)
+    - musí otevřít krabici, pokud to před tím neudělali
+    - jak dostanou instrukce, co přesně dělat?
+
+- _varianta vyhozené koule_
+- černá díra a vletění dovnitř
+
+- začátek: info padáme do černé díry
+    - něco v smyslu můžem se vzdálit, ale neunikneme gravitaci díry
+    - dalo by se něco odvysílat (special způsobem)
+    - plán: odeslat souřadnice plus krátká zpráva na rozloučenou
+    - pak spálit palivo na zvýšení orbity a co nejdelší přežití
+    - pak se hibernovat a doufat v záchranu (ale na 90% nepřijde)
+- zástupný problém: krátká zpráva na rozloučenou
+- zvrat: doběhnutí simulace
+    - simulace říká, že je to červí díra
+    - TODO: doladit, aby automaticky nekývli, ale byli nedůvěřiví
+    - ... tady nápad s tím, že někdo kontroluje výpočet?
+    - pokud zabrzdíme místo zrychlování, pademe tam a přejdeme
+    - TODO: zdůvodnit, aby nechtěli kroužit, ale museli se rozhodnout letět do díry hned. Například:
+        - pomalý pád do díry je zabije (musí brzdit a projít horizont rychle, aby to bylo safe)
+        - nebo čekání v hibernaci je oslabí a průchod nemusí být pro tělo bez problémů
+        - nebo z hibernace nevíme kdy naplánovat probuzení a nemuseli bychom se pádu dožít -- ne tolik dobré, budou asi brát jako gm fiat nebo se hádat, na kolik měsícu hibernaci nastavit.
+    - argument, že je to pravda: ty sny
+    - argument, že je to pravda: ztěžování koule je ve skutečnosti gravitace z druhé strany
+- gradace: přátelská loď na vysílačce - může nás zachránit
+    - dají jim souřadnice (nebo rychlost), kde je mohou vyzvednout (little caprice musí ale zrychlit)
+    - navigátor (nebo někdo) spočítá, na kolik mohou zrychlit
+    - vyjde to na těsno (podle navigátora to spíš vyjde, ale ne na 100%)
+    - pokud to nedopadne, budou kroužit do nekonečna (loď jim případně řekne, že další plavidlo už nikdo poslat nestihne)
+    - jeden člen dostane ke kontrole / sám zkontroluje zrychlení
+        - bude přesvědčen, že to nevyjde (třeba rozkáže vyhodit všechny věci)
+        - bude vědět, že pokud vyhodí všechny věci a on sám sebe, tak to zvládnou (třeba to že to nevyjde viděl ve snu nebo tak)
+        - rozhodne, jak s informací naložit (může to chtít zatajit, aby nemuseli rozhodovat, že někoho obětují, aby když přežijí neměli všichni PTSD)
+        - pokud se rozhodne zatajit, je na něm vyskočit před zážehem motorů ve skafandru ven, případně se rozloučit vysílačkou (asi navést, aby něco řekl. Možná nabídnout nějakou báseň / citát / něco, co by mohl ostatním říct)
+        - ostatní mu nemusí věřit (pak by se muselo nachystat protichůdné názory v postavách, aby bylo zřejmé, že pokud říká "nezvládneme to", nemusí to být pravda). Sám má potom motivaci se obětovat, protože ví, že ostatní nevěří, že je to nutné, a tak to nikdo jiný neudělá.
+        - TODO: ošetřit, aby ho nezastavili v půlce činu -- i když možná nevadí, zachránili by se pak všichni.
+- hádka, jestli zpomalit nebo zkusit se zachránit
+    - dát někomu motivaci "objevitelství"
+    - rozhodnutí (zážeh) je potřeba udělat v konkrétní okamžik oribty
+- konec: zpomalení a pád / odlet
+
+- možnosti:
+    - zástupná činnost: jsme moc těžcí; rozhodování, koho obětovat
+    - zvrat: ze simulace vypadne _možnost_, že pád do díry přežijí a přeskočí do alt. reality
+        - pak začne skutečná hádka, případně sci-fi diskuze, jestli tomu věřit, nebo ne (interpretace událostí do té doby, pokud viděli ve snu postavy tak toho a podobně)
+    - dalo by se triggerovat loučení (např. od rozhodnutí udělají zpomalovací zážeh, začnou padat, budu se hlásit odpočet. Ale nějak by bylo nutné je navést, aby nezamrzli, a využili odpočet k hraní -- min. upozorněním, že to může být posledních X sekund jejich života, nikdo neví)
+        - teoreticky taky prostě jen mít video / gradaci hudby jak brzdí / padají a jenom někdo řekne "pojďme si to vychutnat" něco v tom smyslu
+    - nějaká role jiných lodí?
+    - co, když rozhodnou, že chtějí i tak odletět, ne padnout do díry?
+    - závěrečná scéna pálení postav? jak vysvětlit / zorganizovat? dává tu smysl?
+    - nápad: jedna postava (jíž byl nejbližší obětovaný v minulé scéně) dostane hráč na výběr, jestli se chce obětovat v této scéně. Pokud souhlasí, dostane tajnou instrukci, např. že on bude ten co počítá dráhu, ví, že jeden musí vyskočit, při manévru si pak vezme vysílačku a/nebo skafandr a provede to. Nebo to počítá někdo jiný, a této postavě to dá na kontrolu, a tato postava najde chybu, ale zatají ji a naplánuje vyskočit (viz).
+    - může implikovat víc verzí scény (např. vybírání obětovaného nedává smysl, pokud si někdo vybere být obětován dobrovolně)
+    - cizí lodě
+        - nějaká se objeví a nabídne záchranu, kde před tím se zdál únikový manévr nejistý nebo vedoucí někam, kam nechtějí (někdo by je musel zachraňovat z volného vesmíru např.)
+        - objeví se víc lodí (např. postupně), hádají se a postavy se rozhodují, komu vyhovět
+        - zajímavé: sdílené rádio, hráči mohou sledovat hádku lodí a zasáhnout, nebo neodpovídat v rádiu na volání, bluffovat, navázat tajný kanál s jenou lodí a podobně (např. agent té mocnosti může mít tajnou vysílačku nebo tak)
+        - cizí lodě si můžou vyhrožovat a pak např. jedna druhou (kvůli nečinnosti postav třeba) zničit (nemusí to vidět, např. vyprší ultimatum a jedna loď přestane odpovídat na vysílačku)
+    - pokud budou "padat", na konci vyzve někdo aby zmáčkli ovládání současně
+    - po skončení např. ukázka země s jinak uspořádanými světadíly
+    - zachytí nějakou zprávu ze země (nebo např. haluz s morseovkou nějak opticky?)
+
+- poznámky: závěrečné rozhodování
     - pálení postav
     - buď přijmou svoji alt. verzi nebo zůstanou, jak jsou
     - lze provést jen v určitý okamžik (odpočet)
