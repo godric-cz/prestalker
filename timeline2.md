@@ -1,5 +1,7 @@
 # 1 Párty
 
+- osobní linky TODO:
+
 - socializace
     - doladit, aby byl prostor pro tanec i povídání
     - dát do postav něco na smalltalk _nebo_ instrukci, ať se inspirují vlastním životem
@@ -12,15 +14,22 @@
 
 # 2 Porucha
 
+- osobní linky TODO:
+
 - rozdělení
     - nápad: kapitánka určuje, kdo půjde? (příp. fixně?)
+        - vyřešit, aby měli motivace tam jít různí lidé, aby jim to nebylo jedno, kdo tam jde.
     - nápad: různí lidé mohou mít postranní úmysly.
     - nápad: vyzkoušení mechaniky přeskakování
         - Člověk má lano a karabinu. Karabinu má upevněnou tam, odkud vychází. Přechází s zavřenýma očima k terčíku. Pokud trefí, "vytrhne" karabinu z původního umístění a připevní se k terčíku. Pak skáče na další terčík. Karabina by musela být pro toto vytrhnutelná (něco vydrží, ale plnou sílu ne, tímto hráče taky motivuje chodit pomalu, aby se nevytrhl nezáměrně při netrefení terčíku).
     - nápad: rukavice
+    - motivace od stran, pokud budou
 - konec: ???
 
 # 3 Přiblížení a nabrání
+
+- osobní linky TODO:
+    - TODO dořešit motivaci OM (proč tam nechává své alter ego a proč zatajuje, jak to je doopravdy.) Nápad: protože ví, že na Little caprice není pro víc lidí dostatek life supportu a z alt.reality ví, že pro něj (nejspíš) nikdo nepřiletí.
 
 - začátek: rádio nefunguje (rušení), poslední zprávy, přiblížení k základně za X minut
     - mohou vyzvednout poslední zprávy, které jim přišly během hibernace
@@ -38,12 +47,14 @@
     - časování se možná řeší tím, že pokud se budou chtít hádat po návratu OM, budou se hádat, a kapitánka až pak přikáže odlet
     - někteří chybně zadají hmotnost
     - TODO: motivace (ale např. jeden chce na mars, druhý poblíž země, že tam mají lodě, ... to asi jde)
+    - TODO: ošetřit, pokud nikdo nezadá chybně hmotnost? Možná stačí říct, že když hmotnost nezadá nikdo, selhání motorů je prostě preskript.
     - nápad: tento lobbing by mohl být sociálně už před tím
 - start + selhání motorů => hádka
     - selhání motorů => kurz někam k jupiteru, špatná rychlost, motor neopravitelný
     - TODO: budou se ptát, co se děje - vymyslet, aby dostali info a nepůsobilo to násilně
     - jak dostat informaci: inženýr má sám plán na hack trasy tímto (od začátku), ale v této scéně se dozví z instrukcí, že "již nejde, kvůli opravě v sc.2" a motor by to nevydržel => plán padá. Tím nenápadně získá info, že takto se motor rozesere a může na základě toho hejtit.
     - nápad: příp. další hráčská agenda přímo sabotáž motoru
+    - TODO: ošetřit, že by chtěli vyhodit kouli. Mít něčí motivaci, aby si kouli nechali plus vysvětlit, že vyhazování nemá užitek (nepomůže manévrování ani ničemu a koule nijak daleko neodletí, např. do přednášky před hrou dát, že ručně vyhozená není k ničemu, protože se nijak nevzdálí, protože hvězdná mechanika.)
 - konec: kapitánka rozkáže hibernaci
     - TODO: jak ji nenásilně navést?
     - logika: jsme v rušení, nedá se nic svítit, hibernace před návratem do oblasti, kde se dá vysílat, pak se vzbudíme a uvidíme
@@ -86,6 +97,7 @@
     - TODO BUG: co když budou čerpat palivo až po té, co všichni projdou? Raději celé čerpání zrušit?
 - rozhodování, co s koulí
     - TODO někdo musí otevřít otázku přenosu koule
+        - ošetřit, aby otázka koule byla vůbec relevantní.
     - OM (asi do začátku) koule získala hmotnost. Nový OM má asi motivaci spíš se jí zbavit. Informaci o hmotnosti leakne, jakmile se koule začne řešit.
     - nápad: Na "přehození" koule by mohlo fungovat "cargo jetison" (mechanismus je přesný, když vmanévrují dobře, vystřelí to kouli do druhé lodi jako do branky). Tím si to OM natrénuje, provází to hláška, a může to například našmelit, že vyhodí v poslední chvíli kouli před odletem.
     - nápad: aktuální hmotnost koule je na jettison maximální, pak už by byl problém ji bezpečně z lodi dostat, tj. jeden zajímavý argument pro vyhození.
@@ -107,6 +119,8 @@
     - TODO: nějak informovat o řetězu velení (nebo o tom, kdo může fakticky rozhodnout či zapnout motory), pro případ, že kapitánka tam zůstane jako poslední. (téma, že pilot je kvůli vztahům zapne / odmítne zapnout bez povolení je vlastně taky zajímavé)
     - nápad: aby se nemuseli protáčet mezi místnostma, můžou si převést "terminály" (notebooky) s sebou.
     - riziko: pokud nechají navigátora na little caprice, nebudou moct letět. Nějak dořešit.
+    - riziko: co když by motor nezapnuli?
+        - Možná dát někomu preskript, aby motor pustil bez povolení, pokud všichni ostatní to včas neudělají.
 - konec: kapitánka rozkáže hibernaci NEBO pohřeb?
     - nápad: večeře případně nějaký rituál typu pouštění svíčky a osobní věci / fotky do vesmíru, zhasínání světel dokud nezbyde jen svíčka
     - nápad: kapitánka čte proslov / motlitbu na pohřbu
