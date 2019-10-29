@@ -30,7 +30,7 @@
 # 3 Přiblížení a nabrání
 
 - osobní linky TODO:
-    - TODO dořešit motivaci OM (proč tam nechává své alter ego a proč zatajuje, jak to je doopravdy.) Nápad: protože ví, že na Little caprice není pro víc lidí dostatek life supportu a z alt.reality ví, že pro něj (nejspíš) nikdo nepřiletí.
+    - TODO dořešit motivaci OM (proč tam nechává své alter ego a proč zatajuje, jak to je doopravdy.) Nápad: protože ví, že na Little caprice není pro víc lidí dostatek life supportu a z alt.reality ví, že pro něj (nejspíš) nikdo nepřiletí. Případně chce zničit kouli?
 
 - začátek: rádio nefunguje (rušení), poslední zprávy, přiblížení k základně za X minut
     - mohou vyzvednout poslední zprávy, které jim přišly během hibernace
