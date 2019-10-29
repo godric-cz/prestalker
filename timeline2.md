@@ -23,6 +23,7 @@
     - nápad: vyzkoušení mechaniky přeskakování
         - Člověk má lano a karabinu. Karabinu má upevněnou tam, odkud vychází. Přechází s zavřenýma očima k terčíku. Pokud trefí, "vytrhne" karabinu z původního umístění a připevní se k terčíku. Pak skáče na další terčík. Karabina by musela být pro toto vytrhnutelná (něco vydrží, ale plnou sílu ne, tímto hráče taky motivuje chodit pomalu, aby se nevytrhl nezáměrně při netrefení terčíku).
     - nápad: rukavice
+        - komplikují "práci ve vesmíru", případně i musí pracovat jednou rukou
     - motivace od stran, pokud budou
 - konec: ???
 
