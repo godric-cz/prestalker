@@ -1,0 +1,3 @@
+
+- [x] hlavní příběh
+- [ ] postavy
