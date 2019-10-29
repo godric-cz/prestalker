@@ -36,6 +36,7 @@ Náhodné nápady:
     - Kosmos, (něco) nekonečno / infinit, Moře dveří, (nějaký latinský citát)
     - Možná pojmenovávat i kapitoly?
     - Slogan: "soundrack, postavy a scény z vašich oblíbených sci-fi filmů" nebo podobně
+    - Mít popis jako u filmu: "(Sci-fi) (Dobrodružný) (Drama) Pět postav se vydává ..."
     - latinské: "in tenebris" - v temnotě
     - něco s osudem?
 - "nemáme lano" mechanika
