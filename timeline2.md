@@ -163,7 +163,11 @@
     - ošetřit otázku "jdeme do stejné reality?" a otázky obecně
         - mohou se snažit vymýšlet různá řešení a klást nečekané otázky
         - je potřeba ošetřit, aby to neblokovalo hru, resp. nevedlo k "PJ interakci", kdybychom odpovídali
-    - možnost: někdo má motivaci objevitelství
+    - nápad: někdo má motivaci objevitelství
+    - nápad: doktorka facilituje to, aby se o postavách bavili (např. si bude myslet, že to je davová psychóza a bude chtít, aby si to vyříkali, nebo řekli jí 1v1 třeba)
+    - nápad: doplnit mechanismus, jak získat "tajemství" ostatních alternativních postav.
+        - např. v prvních snech vidí sebe a v druhých i ostatní
+        - realizovat, že mohou v meziscéně (modré světlo) se zvednout a přejít k někomu a "sebrat" mu postavu, on může nějak beze slov reagovat a podobné haluze
 - akt rozhodnutí
     - jak proběhne? co, když by se třeba rozmysleli během loučení?
     - TODO: co, když by se rozhodli nikdo nevstoupit?

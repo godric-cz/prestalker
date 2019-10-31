@@ -23,6 +23,8 @@
 - alt. postava: ???
     - _systém: při vymýšlení se zamyslet nad konceptem člověka, co je to teď, a co by pro takového člověka mohla být relevantní změna_
     - v orig. postavě je hádka s otcem a zranění, tj. to si může vyčítat. Jak by to dopadlo teda jinak? Taky má téma ženy, resp. pravá láska.
+    - nápad: rocker. Pokud se vyhnul nehodě, úplně změnil kariéru, je středně úspěšný hudebník (ale relativně chudý, ne hvězda), žije spíš v nízkém sociálním levelu. Nějaké holce dokonce udělal dítě, ale rychle ji opustil (že by alt. @alexandra? Ale pak je potřeba do poslední scény toto dostat, aby buď to musel sám říct, nebo ostatní se o tom budou bavit).
+    - nápad: šikana. Na střední šikanoval s dalšíma spolužákama jednoho kluka. Jednou u něj viděl zbraň, ale nijak na to nereagoval. Půl roku na to kluk vystřílel školu, včetně všech šikanátorů a pak obrátil zbraň proti sobě. Přežil to jenom Johnny, a protože nikdo další o tom co se dělo před tím nevěděl, nemluvil o tom a vyvázl bez trestu. Způsobilo to ale duševní fuckup (může si to vyčítat, klidně i nějak navázané na ty nestabilní vztahy s ženama). V nové postavě by se toto revalidovalo a řešily alternativy. Viz také, že na stejnou střední chodila @alexandra (dokonce mohli být zrovna spolu), takže na to taky může být nějak navázaná.
 
 # Marc
 
