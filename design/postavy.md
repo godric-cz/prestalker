@@ -2,10 +2,11 @@
 
 - kapitánka
 - utopený bratr
-- ztracený otec (?)
+- nápad: ztracený otec
+    - otec byl kosmonaut, ztratil se při podobné misi, Alexandra chce ve skutečnosti zjistit víc. Možná přešel do alt. reality, možná i kvůli smrti Alexina bratra.
 - slavná
 - nápad: nějak zapojit mámu?
-    - (např. zprávou "nehledej ho" resp. že máma ví o tátovi něco, co alex neřekla? příp. jeho rozlučkový dopis?)
+    - např. zprávou "nehledej ho" resp. že máma ví o tátovi něco, co alex neřekla? příp. jeho rozlučkový dopis?
 
 - alt. postava: bratr přežije, ale marná
     - tím pádem otec neodejde, ale ona bude marná (a ti dva přeberou její slávu)
@@ -25,6 +26,7 @@
     - v orig. postavě je hádka s otcem a zranění, tj. to si může vyčítat. Jak by to dopadlo teda jinak? Taky má téma ženy, resp. pravá láska.
     - nápad: rocker. Pokud se vyhnul nehodě, úplně změnil kariéru, je středně úspěšný hudebník (ale relativně chudý, ne hvězda), žije spíš v nízkém sociálním levelu. Nějaké holce dokonce udělal dítě, ale rychle ji opustil (že by alt. @alexandra? Ale pak je potřeba do poslední scény toto dostat, aby buď to musel sám říct, nebo ostatní se o tom budou bavit).
     - nápad: šikana. Na střední šikanoval s dalšíma spolužákama jednoho kluka. Jednou u něj viděl zbraň, ale nijak na to nereagoval. Půl roku na to kluk vystřílel školu, včetně všech šikanátorů a pak obrátil zbraň proti sobě. Přežil to jenom Johnny, a protože nikdo další o tom co se dělo před tím nevěděl, nemluvil o tom a vyvázl bez trestu. Způsobilo to ale duševní fuckup (může si to vyčítat, klidně i nějak navázané na ty nestabilní vztahy s ženama). V nové postavě by se toto revalidovalo a řešily alternativy. Viz také, že na stejnou střední chodila @alexandra (dokonce mohli být zrovna spolu), takže na to taky může být nějak navázaná.
+    - nápad: musel by ses stát bohem. Aktuální postava něco podělala v byznysu (klidně může být navázáno na hádku s otcem). Alternativní postava to sice nepodělala, ale rostla nahoru, zjistila nekalosti a její život byl na nic, a tak všechno naprášila a firmu položila. Byznys může být na něco napojený, např. lobující strany a/nebo dluhy co má @danny.
 
 # Marc
 

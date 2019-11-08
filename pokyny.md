@@ -1,11 +1,10 @@
-
 # Příprava
 
 (TODO)
 
 Pro vypravěče:
 
-- Vybrat židle pro hibernaci tak, aby se tam dalo svítit na čtení postav.
+- Umístit židle pro hibernaci tak, aby se tam dalo svítit na čtení postav.
 - TODO nápad: otočit židle od scény pro případ, že bychom mezi scénami chtěli nějak (aniž by to hráči viděli) scénu přeuspořádávat.
 
 Informace pro hráče:
@@ -35,7 +34,7 @@ Začátek:
     - např. dva kluci soutěží, zbytek je povzbuzuje, tancovat jde nějaká holka s vítězem, něco tak?
 
 Během scény:
-    - dávat hudbu na míň, když začnou tancovat tak zhlasit
+    - dát hudbu na míň, když začnou tancovat tak zhlasit
     - vyfotit si selfie s Alexandrou ("Vy jste Alexandra Parker? Moje dcera vás zbožňuje, dívá se na všechny ty dokumenty s váma (...)")
     - (TODO - možnost ploužák na vyžádání?)
 
