@@ -29,14 +29,23 @@ Informace pro hráče:
 Příprava: bar + lahev + panáky, gauč?, stůl?, hudba, barevné světlo?, party props? (brýle, nějaká předměty odkazující na vesmír, tematický drink)
 
 Začátek:
-    - (slovní úvod jak se párty rozjížděla, jak už jsou v náladě ... pak pustit hudbu a to exování, např. "54321start?")
-    - (TODO skočit rovnou do zajímavější části párty, všichni už jsou veselí a začátek nějaká aktivita - např. exování piva na rychlost a pak jeden vezme někoho dalšího tancovat)
-    - např. dva kluci soutěží, zbytek je povzbuzuje, tancovat jde nějaká holka s vítězem, něco tak?
+    - Uvést, že jdeme rovnou do pozdější fáze večera, všichni už jsou veselí a docela opilí.
+    - "A jedna s oblíbených věcí, kterou tak opilí lidé na párty dělají je ..." (připravit 2 sklenice a začít nalévat nealko pivo) "... závod v pití piva. Kteří dva z vás jsou nejlepší v této disciplíně?" (vybrat dva) "Ok, Marc a Alex. Ostatní se nebojte povzbuzovat svého favorita. Pozor! 5, 4, ..." (pustit hudbu, ideálně odpočítat na začátek hudby)
+    - TODO - dát někomu instrukci, ať jde tancovat s vítězem? Případně instrukce dalším lidem, aby věděli co rozehrát na začátek?
 
 Během scény:
-    - dát hudbu na míň, když začnou tancovat tak zhlasit
-    - vyfotit si selfie s Alexandrou ("Vy jste Alexandra Parker? Moje dcera vás zbožňuje, dívá se na všechny ty dokumenty s váma (...)")
-    - (TODO - možnost ploužák na vyžádání?)
+    - Dát hudbu na míň, když začnou tancovat tak zhlasit.
+    - Vyfotit si selfie s Alexandrou ("Vy jste Alexandra Parker? Moje dcera vás zbožňuje, dívá se na všechny ty dokumenty s váma (...)").
+    - TODO - možnost ploužák na vyžádání?
 
 Konec:
-    - (TODO - závisí na postavách a jeji cílech. Zatím deadlock.)
+    - Pronést přípitek na šťastnou cestu.
+    - TODO - případně poslední písničku a pustit ploužák?
+
+# 2. scéna
+
+Začátek:
+
+Během scény:
+
+Konec:
