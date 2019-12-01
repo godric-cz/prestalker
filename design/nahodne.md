@@ -51,3 +51,5 @@ Náhodné nápady:
     - cizí lodě si můžou vyhrožovat a pak např. jedna druhou (kvůli nečinnosti postav třeba) zničit (nemusí to vidět, např. vyprší ultimatum a jedna loď přestane odpovídat na vysílačku)
 - blikání morseovkou
     - protože není rádio, tak Země nebo jiná loď mohou v dalekohledu začít blikat světlem -- morseovka
+- sebevražda a pojistný podvod
+    - nějaká postava chce sabotovat loď, aby se zabili, vypadalo to jako nehoda a její rodině museli vyplatit pojistku
