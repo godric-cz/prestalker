@@ -8,7 +8,8 @@ Zároveň všichni postřebujete upustit páru a aspoň chvíli přebít stres, 
 
 Atmosféra je uvolněná a v podstatě není potřeba se omezovat. Všichni chápou, že je to speciální večer, a pokud někdo něco přežene, maximálně se tomu společně zasmějete, ale nic víc.
 
-Začátek: Po přečtení postav se všichni přesunete k baru. Scénu popíše a zahájí vypravěč.
+Začátek:
+    - Po přečtení postav se všichni přesunete k baru. Scénu popíše a zahájí vypravěč.
 
 Během scény:
     - Scéna slouží k představení postav a vytvoření nějakého společného civilního zážitku. Zážitek je to neformální, trochu vtipný a třeba i trochu trapný. Jde o to nasát atmosféru, že i ostatní jsou celou dobu vašeho letu především lidé z masa a kostí s vlastním životem, sny i bolístkami a nedokonalostmi. A ačkoli se v mnohém lišíte, nakonec jsou to stejně v podstatě lidé, jako ty.
@@ -17,7 +18,8 @@ Během scény:
     - Historky z rozluček: další oblíbená zábava jsou historky z výcviku a z rozlučkových párty předchozích misí. Můžete se inspirovat vlastními historkami z rozluček se svobodou, školních akcí, firemních večírků a podobně.
     - Rozdělovat se: Dynamika mezi dvěma lidmi funguje jinak, než mezi třemi nebo pěti. Střídání fází, kdy jste všichni pohromadě, a kdy dva nebo tři odejdou tančit nebo si povídat o životě dá víc prostoru k otevření témat a udělá scénu zajímavější.
 
-Konec: Scéna končí přípitkem.
+Konec:
+    - Scéna končí přípitkem.
 
 # 2. scéna
 
