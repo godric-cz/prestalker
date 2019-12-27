@@ -6,10 +6,17 @@ Pro vypravěče:
 
 - Umístit židle pro hibernaci tak, aby se tam dalo svítit na čtení postav.
 - TODO nápad: otočit židle od scény pro případ, že bychom mezi scénami chtěli nějak (aniž by to hráči viděli) scénu přeuspořádávat.
+- Otestovat funkčnost vysílaček, terminálů.
 
 Informace pro hráče:
 
 - (TODO info o světě a hře)
+- TODO jak se manévruje ve vesmíru (že se nedá s lodí létat libovolně, obracet se a podobně, ale že s palivem co mají se dá udělat celkově max. jedna změna směru a i potom se letí mega dlouho (žádné "otočíme se a vrátíme, poletíme jinam" a podobně))
+- TODO Jak fungují termály.
+- TODO Johnny ovládá počítač / terminál.
+- TODO Jak fungují papíry (pokud bude zachovaná logika "neberte papír, dokud nedostanete instrukci", případně jak určovat, kdo na papír může sahat).
+- Hra je hodně o hraní si na vesmírnou loď.
+- TODO oldschool hra, odehrávání situací, papírky, počítačová hra styl říkání "teď jsi vzal tuto zbraň, která umí to a to"...
 
 - hra je scénovaná
 - mezi scénami probíhá hibernace: sedíte na židlích a čtete pokyny k dané scéně v postavách
@@ -19,6 +26,7 @@ Informace pro hráče:
 - tím scéna hned končí, dál se nedohrává. Ztlumí se světla a sednete si do hibernačních křesel, kde si začnete číst pokyny k další scéně.
 
 - (TODO terminály, případně další mechaniky)
+    - TODO Obecněji: hodilo by se nějak zařídit, aby se vždy dostal aspoň někdo k terminálu, aby bylo možné předávat impro informace (například, pokud jeden kosmonaut z opravy vycouvá a zůstane tam alexandra sama bez vysílačky, tak napsat že telemetrie ukazuje že je v bezvědomí nebo něco, aby pro ni šli ... např.)
 
 (TODO výběr postav)
 
@@ -26,7 +34,8 @@ Informace pro hráče:
 
 # 1. scéna
 
-Příprava: bar + lahev + panáky, gauč?, stůl?, hudba, barevné světlo?, party props? (brýle, nějaká předměty odkazující na vesmír, tematický drink)
+Příprava:
+    - bar + lahev + panáky, gauč?, stůl?, hudba, barevné světlo?, party props? (brýle, nějaká předměty odkazující na vesmír, tematický drink)
 
 Začátek:
     - Uvést, že jdeme rovnou do pozdější fáze večera, všichni už jsou veselí a docela opilí.
@@ -44,8 +53,26 @@ Konec:
 
 # 2. scéna
 
+Příprava:
+    - Vedle Johnnyho počítače položit prázdný flash disk.
+    - Pro Marca nachystat dokument V8704.
+    - Nachystat vysílačky, skafandry, rukavice, šroubovák, baterku, EVA návody N1753 a E2604.
+    - Nachystat panely do vedlejší místnosti (viz s2-panely.md).
+    - Nachystat kříž z izolačky kde je výstup z lodi.
+    - Na Johnnyho terminál napsat: "Nacházíte se zhruba v polovině cesty. Stanice, ke které letíte, se posunula. Podle počítače je teď už příliš daleko. Na manévr, abyste ji ještě dostihli, máte málo paliva. Je potřeba to probrat se zbytkem posádky. Pokud byste na nic nepřišli, jediná možnost by byla obrátit loď zpátky k Zemi a misi ukončit. Nejvíc co říct k technickým možnostem bude mít asi Marc, jako palubní inženýr. Ale probrat by to měla celá posádka (nakonec, jde o misi jako celek). Pokud chceš nová navigační data a detaily potřebného manévru předat Marcovi, dej mu USB flash disk, který leží vedle počítače (slouží jen jako rekvizita, nemusíš na něj nic nahrávat)."
+    <!-- - TODO nápad: kartičky kosmonautů s údaji vč. krevní skupiny, člověk s průstřelem musí dostat správnou transfuzi? -->
+
 Začátek:
 
 Během scény:
+    - Při výstupu vymazat terminál.
+    - TODO Průběžně pouštět zvuk mikrometeoritů, jakmile začnou šroubovat panel 3.
+    - Odepisovat na terminál při zapínání motoru Marcem:
+        - TODO při napsání `otocit` pustit zvuk otáčení a odepsat na terminál potvrzení.
+        - Při `pripravit zazeh` si nachystat zvuk zážehu a pak odepsat potvrzení.
+        - Při `F` pustit zvuk zážehu.
+        - Při `E` ukončit zvuk zážehu.
+        - Terminál se pak vrátí Johnnymu. Až položí nějaké otázky, odepsat, že jsou na správné dráze ke stanici.
 
 Konec:
+    - Ztlumit světla, až Loren uloží všechny do hibernace. Pustit hudbu.
