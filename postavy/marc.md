@@ -12,3 +12,10 @@ Během scény:
 
 Konec:
     - Všichni se uložíte opět do hibernace.
+
+# 3. scéna
+
+Začátek:
+    - Loren tě probouzí z hibernace. Zhruba za 10 minut přistanete na stanici.
+
+Během scény:

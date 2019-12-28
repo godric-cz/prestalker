@@ -63,6 +63,7 @@ Příprava:
     <!-- - TODO nápad: kartičky kosmonautů s údaji vč. krevní skupiny, člověk s průstřelem musí dostat správnou transfuzi? -->
 
 Začátek:
+    - Postupně rozsvítit světla.
 
 Během scény:
     - Při výstupu vymazat terminál.
@@ -76,3 +77,20 @@ Během scény:
 
 Konec:
     - Ztlumit světla, až Loren uloží všechny do hibernace. Pustit hudbu.
+
+# 3. scéna
+
+Příprava:
+    - Za dveře (dovnitř stanice) nachystat s3-vnitrek-stanice.
+
+Začátek:
+
+Během scény:
+    - TODO pustit hlášku "5 minut do přiblížení".
+    - TODO zvuk připojení + hláška připojení + warning tlakování selhalo nebo tak něco. Pak napsat na terminál Johnnymu: "Ve stanici není vzduch, je možné vstoupit jenom ve skafandru. Druhý skafandr je zničený mikrometeoritem, takže vstoupit může jenom jeden (Danny, operations manager, protože má na starosti náklad)." (TODO vzduch vypustilo alterego aby mohlo udusit dannyho)
+
+    TODO
+        hotovo: vstup dannyho do stanice
+        pokračovat: příprava na odlet a zadání hmotnosti (viz timeline2)
+
+Konec:

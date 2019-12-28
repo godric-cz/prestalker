@@ -13,3 +13,11 @@ Během scény:
 
 Konec:
     - Všichni se uložíte opět do hibernace.
+
+# 3. scéna
+
+Začátek:
+    - Loren tě probouzí z hibernace. Zhruba za 10 minut přistanete na stanici.
+
+Během scény:
+    - Jako operations manager budeš vyzvedávat náklad. Po přistání si vezmeš skafandr, baterku a vysílačku a půjdeš do stanice. Domluv se, komu dáš druhou vysílačku a budeš s ním během výstupu komunikovat. Pak vystup z lodi (označeno křížem na zemi) a dál se řiď papírem, který najdeš na druhé straně přímo před tebou.

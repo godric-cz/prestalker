@@ -15,3 +15,12 @@ Během scény:
 
 Konec:
     - Všichni se uložíte opět do hibernace.
+
+# 3. scéna
+
+Začátek:
+    - Loren tě probouzí z hibernace. Zhruba za 10 minut přistanete na stanici.
+    - Nějaké silné rušení ruší dálkovou vysílačku. Nemůžete odesílat ani příjmat zprávy ze Země. Vysílačky na krátkou vzdálenost (např. ve skafandrech) fungují. Je to nepříjemná komplikace, ale nemělo by to bránit pokračování v misi. Je potřeba to oznámit posádce.
+
+Během scény:
+    - Jakmile budete 5 minut od stanice (ozve se hláška) je potřeba se spojit se stanicí vysílačkou (normální vysílačka na kanálu 1) a oznámit jim, že přiletíte.

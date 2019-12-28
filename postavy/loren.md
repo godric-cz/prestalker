@@ -19,3 +19,10 @@ Během scény:
 
 Konec:
     - Uložíš ostatní a nakonec i sebe do hibernačních jednotek a pokračujete v cestě.
+
+# 3. scéna
+
+Začátek:
+    - Probouzíš se z hibernace. Probudíš kapitánku a pak ostatní, stejně jako minule. Zhruba za 10 minut přistanete na stanici.
+
+Během scény:
