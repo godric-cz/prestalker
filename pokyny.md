@@ -18,6 +18,7 @@ Informace pro hráče:
 - Hra je hodně o hraní si na vesmírnou loď.
 - TODO oldschool hra, odehrávání situací, papírky, počítačová hra styl říkání "teď jsi vzal tuto zbraň, která umí to a to"...
 - TODO Postavy jsou experti (jak zacházet s informacemi z papíru atd.)
+- TODO Stanice je uvnitř asteroidu (aby se nedivili vrtání a podobně).
 
 - hra je scénovaná
 - mezi scénami probíhá hibernace: sedíte na židlích a čtete pokyny k dané scéně v postavách
