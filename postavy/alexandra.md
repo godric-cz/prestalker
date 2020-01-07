@@ -24,3 +24,8 @@ Začátek:
 
 Během scény:
     - Jakmile budete 5 minut od stanice (ozve se hláška) je potřeba se spojit se stanicí vysílačkou (normální vysílačka na kanálu 1) a oznámit jim, že přiletíte.
+    - Po nabrání nákladu zadáš Johnnymu, aby vypočítal dráhu pro návrat. Jak to dokončí, Marc může spustit motory a odstartovat vás konečně zpátky k Zemi. <!-- TODO nápad před startem aby řekla děkovný proslov, pro lepší drama -->
+    - Jakmile odstartujete a Marc s Johnnym zkontrolují stav lodi a dráhu, otevři dokument C8863.
+
+Konec:
+    - Přikážeš hibernaci.

@@ -4,6 +4,7 @@
 - TODO má na starost psychologii posádky
 - TODO ví o Johnnyho fake posudku (nebo ho dělala)
 - Na začátku letu jsi tajně upravila software hibernační jednotky, aby nehlásil zdravotní problémy související s tvou nemocí. Jinak by se totiž na problémy přišlo a let by byl nejspíš přerušen.
+- TODO proč se chce dostat na Mars. Např. že ji tam nechají (jsou precedenty že to může být, ona sama se tam snažila vždycky dostat ale nebrali ji, zbytek se vrátí na Zemi i tak. Případně její nemoc tam bude míň postupovat).
 
 # 2. scéna
 
@@ -26,3 +27,7 @@ Začátek:
     - Probouzíš se z hibernace. Probudíš kapitánku a pak ostatní, stejně jako minule. Zhruba za 10 minut přistanete na stanici.
 
 Během scény:
+    - Před startem bude Johnny potřebovat znát zbývající hmotnost kyslíku v systému podpory života a zásob. Celkem to je 805kg. Spočítala sis ale, že když řekneš zhruba 1300kg, zážeh bude silnější právě o tolik, že nasměruje loď na Mars, kam se chceš dostat!
+
+Konec:
+    - Všichni se uložíte do hibernace.

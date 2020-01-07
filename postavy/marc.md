@@ -19,3 +19,9 @@ Začátek:
     - Loren tě probouzí z hibernace. Zhruba za 10 minut přistanete na stanici.
 
 Během scény:
+    - Po nabrání nákladu zajišťuješ odlet zpátky na Zemi. Postup je v dokumentu F4415.
+    - Johnny bude potřebovat znát hmotnost zbývajícího paliva kvůli výpočtu startovacího manévru. Je to 4392kg.
+    <!-- TODO nápad: chce např. na Mars, chtěl to ohackovat špatným zadáním paliva, ale kvůli úpravě motorů ví, že už to nejde a bylo by to nebezpečné. Nebo naopak někdo ho může (neprávem) podezírat, že to chtěl nafakeovat. Případně o tom s někým před tím mluvil. ... -->
+
+Konec:
+    - Všichni se uložíte do hibernace.

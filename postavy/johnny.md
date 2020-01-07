@@ -21,3 +21,8 @@ Začátek:
 
 Během scény:
     - Během přiblížení ke stanici kontroluj terminál. Budou se na něm objevovat informace o manévru a o stanici.
+    - Po nabrání nákladu je potřeba vypočítat dráhu pro návrat. Zadej do terminálu `draha pro navrat` a dostaneš instrukce, jak na to.
+    - Až odstartujete, zkotroluj pomocí terminálu, že jste na správné dráze směrem k Zemi.
+
+Konec:
+    - Všichni se uložíte do hibernace.

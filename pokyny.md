@@ -17,6 +17,7 @@ Informace pro hráče:
 - TODO Jak fungují papíry (pokud bude zachovaná logika "neberte papír, dokud nedostanete instrukci", případně jak určovat, kdo na papír může sahat).
 - Hra je hodně o hraní si na vesmírnou loď.
 - TODO oldschool hra, odehrávání situací, papírky, počítačová hra styl říkání "teď jsi vzal tuto zbraň, která umí to a to"...
+- TODO Postavy jsou experti (jak zacházet s informacemi z papíru atd.)
 
 - hra je scénovaná
 - mezi scénami probíhá hibernace: sedíte na židlích a čtete pokyny k dané scéně v postavách
@@ -82,15 +83,27 @@ Konec:
 
 Příprava:
     - Za dveře (dovnitř stanice) nachystat s3-vnitrek-stanice.
+    - Nachystat dokument F4415 (odlet), C8863 (krize).
 
 Začátek:
 
 Během scény:
     - TODO pustit hlášku "5 minut do přiblížení".
     - TODO zvuk připojení + hláška připojení + warning tlakování selhalo nebo tak něco. Pak napsat na terminál Johnnymu: "Ve stanici není vzduch, je možné vstoupit jenom ve skafandru. Druhý skafandr je zničený mikrometeoritem, takže vstoupit může jenom jeden (Danny, operations manager, protože má na starosti náklad)." (TODO vzduch vypustilo alterego aby mohlo udusit dannyho)
+    - Po nabrání nákladu odepsat Johnnymu na `draha pro navrat` následující: "K určení správné dráhy je potřeba znát přesnou hmotnost lodi a všeho na palubě. Zjisti, kolik zbývá zásob a kyslíku (od Loren), paliva (od Marca) a hmotnost nákladu (od Dannyho). Zadej čísla sem, a obratem dostaneš výsledek, na jak dlouho zapnout hlavní motor, aby loď letěla správným směrem. Výsledek pak řekni Marcovi a předej mu terminál, on provede samotný start."
+    - Jakmile čísla zadá, smazat obsah terminálu a vložit jen číslo "204 sekund".
+    - Odepisovat na terminál při startu motoru (viz dokument odlet).
+    - TODO Po `F` pustit "nepodařený start".
+    - Na terminál tak po 30s postupně přidávat informace:
+        - "Motor selhal a zatím nejde znova nahodit. Detaily zjišťuješ postupně. Zatím vidíš, že ani jedno z tří čerpadel paliva nefunguje."
+        - "Hydraulika ovládající směr hlavního motoru je bez tlaku a taky nefunguje."
+        - "Těsně před selháním došlo k přehřátí spalovací komory, které ale počítač ignoroval, kvůli odstranění pojistek v minulé scéně. Spalovací komora proto nevydržela tlak, roztrhla se a zničila čerpadla i hydrauliku. Motor je tím pádem zničený a neopravíte ho.
 
-    TODO
-        hotovo: vstup dannyho do stanice
-        pokračovat: příprava na odlet a zadání hmotnosti (viz timeline2)
+        Motor měl ale i bez pojistek vydržet. Těsně, ale vydržet. Jediné vysvětlení je, že někdo špatně zadal hmotnost lodi, počítač pak nastavil nepřiměřený výkon a motor nevydržel kvůli tomu.
+
+        Terminál teď smaž a vrať Johnnymu, aby zjistil vaši současnou dráhu."
+    - Až terminál dostane Johnny, napsat: "Zrychlili jste jenom na asi polovinu rychlosti, kterou jste potřebovali. Míříte přibližně k dráze Jupiteru. K Zemi, ani žádné z vnitřních planet, se bez funkčního motoru přiblížit nedokážete. Od teď jste vesmírní trosečníci."
+    - Na kód (zadá Alexandra) odepsat: "Nouzové vysílání zapnuto."
 
 Konec:
+    - Kapitánka přikáže hibernaci. Jak se hibernují, ztlumit světla.
