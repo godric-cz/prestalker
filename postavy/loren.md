@@ -31,3 +31,8 @@ Během scény:
 
 Konec:
     - Všichni se uložíte do hibernace.
+
+# 4. scéna
+
+Začátek:
+    - Probouzíš se z hibernace. Probudíš kapitánku a pak ostatní, stejně jako minule.

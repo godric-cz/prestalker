@@ -26,3 +26,11 @@ Během scény:
 
 Konec:
     - Všichni se uložíte do hibernace.
+
+# 4. scéna
+
+Začátek:
+    - Loren tě probouzí z hibernace.
+
+Během scény:
+    - Používáš terminál k navigaci a získávání informací z radaru.

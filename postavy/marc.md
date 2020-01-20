@@ -25,3 +25,8 @@ Během scény:
 
 Konec:
     - Všichni se uložíte do hibernace.
+
+# 4. scéna
+
+Začátek:
+    - Loren tě probouzí z hibernace.
