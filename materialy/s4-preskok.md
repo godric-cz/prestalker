@@ -35,3 +35,5 @@ _Pro zjednodušení prostě vrať skafandr do původní místnosti._
 <!-- TODO možná přes orga, pokud by to nešlo aniž by se potkali -->
 
 Teď je potřeba domluvit, v jakém pořadí se přesune zbytek a jestli budete přesouvat i náklad.
+
+Tato loď se řídí, stejně jako vaše, pomocí terminálu. Zatím se starej o terminál ty, a jakmile přijde na palubu Johnny, řekni mu, ať se o terminál stará on.

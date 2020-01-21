@@ -115,11 +115,14 @@ Konec:
 
 Začátek:
     - nachystat Z7074 (přiblížení), přeskok (za dveře)
+    - nachystat M6511 a sirky do druhé lodi
     - TODO přesýpací hodiny za dveře
     <!-- TODO nápad: po dobu letu sluchátka s hudbou? -->
     <!-- TODO v přeskoku: "rozsviť světla v místnosti" -->
     - TODO je potřeba tři zvukově oddělené prostory, nebo vymyslet nějaký trik (např. dva prostory a sluchátka při přeskoku, ale to by bylo potřeba vyladit. Jestli přeskakující může zbytek vidět apod.)
-    - TODO nezapomenout na zápletku "roste hmotnost".
+    - TODO nezapomenout na zápletku "roste hmotnost" a "vysílá to koule? vyhodit? - ale nepůjde najít následně"
+    - TODO aby někdo spustil zážeh, pokud to ostatní vyzevlí.
+    - připravit si svíčku
 
 Přiblížení objektu (TODO hlášky):
     - Pustit, až se vyčerpá počáteční téma scény: "(houkání) unknown object approaching, approach in 5 minutes"
@@ -138,3 +141,23 @@ Přeskok prvního:
     - Jakmile zmáčkně `J` tak `cargo jettisoned`.
     - Jakmile postava "letí", odnést počítač z little caprice na tu druhou loď. TODO jak pak řešit další přeskoky.
     - Jakmile postava "letí", vyměnit dokument preskok za preskok-zjednoduseny.
+
+Asteroid:
+    - TODO doladit podle toho, jak rychle poběží přesýpací hodiny. Nejspíš to bude 5 minut (běžně k sehnání).
+    - Jakmile bude přeskakovat __před__poslední člověk, spustit "(houkání) unknown object approaching, approach in 5 minutes"
+    - Na terminál: "Na okraji radaru je vidět nějaký velký, rychle se blížící objekt. Není jasné, co to je."
+    - Později pustit: "unknown object approaching, approach in 3 minutes"
+    - Na terminál: "Je to pás meteoritů. Pokud vás zasáhne, riskujete zničení lodi. Letí rychle, takže jediný způsob jak mu uniknout, je zapnout hlavní motor, zrychlit na plnou rychlost a odletět.
+
+    Připravit motor na zážeh chvíli trvá, napište `pripravit zazeh`, aby příprava začala. Až bude motor připraven, ozve se potvrzení. Potom můžete motor spustit stisknutím `F`. Spustit motor je nutné nejpozději asi minutu před očekávaným dopadem meteoritů, jinak nemusíte stihnout nabrat rychlost včas."
+    - Pustit: "preparing main engine".
+    - Pustit: "unknown object approaching, approach in 2 minutes"
+    - Pustit: "main engine ready".
+    - Na terminál: "Hlavní motor připraven, zážeh spustíte stisknutím `F`.".
+    - Pustit: "unknown object approaching, approach in 1 minute".
+    - Po stisknutí `F` pustit: zvuk startu.
+    - Odvést ponechaného k sobě a vzít mu vysílačku.
+    - Nachystat svíčku do středu hlavní místnosti.
+
+Konec:
+    -
