@@ -15,7 +15,7 @@ Informace pro hráče:
 - TODO Jak fungují termály.
 - TODO Johnny ovládá počítač / terminál.
 - TODO Jak fungují papíry (pokud bude zachovaná logika "neberte papír, dokud nedostanete instrukci", případně jak určovat, kdo na papír může sahat).
-- Hra je hodně o hraní si na vesmírnou loď.
+- Hra je hodně o hraní si na vesmírnou loď. +TODO některé věci typu "zmáčkni X" jsou jen na efekt, udělat je musí bez možnosti výběru, ale když by se staly automaticky vypadalo by to blbě.
 - TODO oldschool hra, odehrávání situací, papírky, počítačová hra styl říkání "teď jsi vzal tuto zbraň, která umí to a to"...
 - TODO Postavy jsou experti (jak zacházet s informacemi z papíru atd.)
 - TODO Stanice je uvnitř asteroidu (aby se nedivili vrtání a podobně).
@@ -108,3 +108,56 @@ Během scény:
 
 Konec:
     - Kapitánka přikáže hibernaci. Jak se hibernují, ztlumit světla.
+
+<!-- TODO sny? -->
+
+# 4. scéna
+
+Začátek:
+    - nachystat Z7074 (přiblížení), přeskok (za dveře)
+    - nachystat M6511
+    - TODO přesýpací hodiny za dveře
+    <!-- TODO nápad: po dobu letu sluchátka s hudbou? -->
+    <!-- TODO v přeskoku: "rozsviť světla v místnosti" -->
+    - TODO je potřeba tři zvukově oddělené prostory, nebo vymyslet nějaký trik (např. dva prostory a sluchátka při přeskoku, ale to by bylo potřeba vyladit. Jestli přeskakující může zbytek vidět apod.)
+    - TODO nezapomenout na zápletku "roste hmotnost" a "vysílá to koule? vyhodit? - ale nepůjde najít následně"
+    - TODO aby někdo spustil zážeh, pokud to ostatní vyzevlí.
+    - připravit si svíčku a sirky
+
+Přiblížení objektu (TODO hlášky):
+    - Pustit, až se vyčerpá počáteční téma scény: "(houkání) unknown object approaching, approach in 5 minutes"
+    - Na terminál Johnnymu: "Objekt letí téměř stejnou rychlostí, jako vy. Jakmile bude u vás, jste schopní u něj 'zaparkovat' (=srovnat s ním rychlost) i jen za pomocí manévrovacích trysek, které vám fungují."
+    - Po pár minutách: "object in radio distance"
+    - Na terminál Johnnymu: "Objekt je už dost blízko pro použití vysílačky a detailního přibližovacího radaru. Podle radaru to vypadá, jako loď! Ale nevysílá žádný signál, ani základní identifikaci."
+    <!-- TODO možná by šlo sjednotit info o vysílačkách, že na nouzové frekvenci je vždy kanál 1, kde komunikují s loděma, stanicema apod... aby to tady sami vyzkoušeli? -->
+    - Po pár minátch: "object in visual distance"
+    - Na terminál Johnnymu: "Objekt je nyní tak blízko, že ho vidíte v dalekohledu (který jinak používáte k přibližování k stanicím a podobně). Skutečně je to loď, velmi se podobá té vaší, ale má otevřený nákladový prostor. Pokyn: Až se přiblížíte nejvíc (ozve se hlášení), zmáčkni Y, čímž poblíž lodi zastavíte."
+    - Po pár minutách: "object distance minimal"
+    - TODO zvuky manévrovacích trysek.
+
+Přeskok prvního:
+    - TODO stát za dveřma, až tam půjde ten člověk, nebo něco?
+    - Danny vezme terminál, píše `cargo jettison arm`, odpověď `stand by` a potom TODO zvuk a nápis `cargo jettison ready` případně `press J`.
+    - Jakmile zmáčkně `J` tak `cargo jettisoned`.
+    - Jakmile postava "letí", odnést počítač z little caprice na tu druhou loď. TODO jak pak řešit další přeskoky.
+    - Jakmile postava "letí", vyměnit dokument preskok za preskok-zjednoduseny.
+
+Asteroid:
+    - TODO doladit podle toho, jak rychle poběží přesýpací hodiny. Nejspíš to bude 5 minut (běžně k sehnání).
+    - Jakmile bude přeskakovat __před__poslední člověk, spustit "(houkání) unknown object approaching, approach in 5 minutes"
+    - Na terminál: "Na okraji radaru je vidět nějaký velký, rychle se blížící objekt. Není jasné, co to je."
+    - Později pustit: "unknown object approaching, approach in 3 minutes"
+    - Na terminál: "Je to pás meteoritů. Pokud vás zasáhne, riskujete zničení lodi. Letí rychle, takže jediný způsob jak mu uniknout, je zapnout hlavní motor, zrychlit na plnou rychlost a odletět.
+
+    Připravit motor na zážeh chvíli trvá, napište `pripravit zazeh`, aby příprava začala. Až bude motor připraven, ozve se potvrzení. Potom můžete motor spustit stisknutím `F`. Spustit motor je nutné nejpozději asi minutu před očekávaným dopadem meteoritů, jinak nemusíte stihnout nabrat rychlost včas."
+    - Pustit: "preparing main engine".
+    - Pustit: "unknown object approaching, approach in 2 minutes"
+    - Pustit: "main engine ready".
+    - Na terminál: "Hlavní motor připraven, zážeh spustíte stisknutím `F`.".
+    - Pustit: "unknown object approaching, approach in 1 minute".
+    - Po stisknutí `F` pustit: zvuk startu.
+    - Odvést ponechaného k sobě a vzít mu vysílačku.
+    - Nachystat svíčku a sirky do středu hlavní místnosti.
+
+Konec:
+    - Jakmile promluví kapitánka (nebo zástupce), zhasnout a pustit hudbu.

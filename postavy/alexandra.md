@@ -29,3 +29,14 @@ Během scény:
 
 Konec:
     - Přikážeš hibernaci.
+
+# 4. scéna
+
+Začátek:
+    - Loren tě probouzí z hibernace. Po probuzení zjišťuješ, že rušení dálkové vysílačky nezmizelo. To je divné, cestou ke stanici v této vzdálenosti žádné rušení nebylo. Je potřeba to oznámit posádce a rozhodnout další postup.
+
+Během scény:
+    - Jakmile skončí zážeh motoru a situace se uklidní, otevři dokument M6511.
+
+Konec:
+    - Zhasnou se světla a ozve se hudba.
