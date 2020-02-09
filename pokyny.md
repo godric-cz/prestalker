@@ -115,14 +115,14 @@ Konec:
 
 Začátek:
     - nachystat Z7074 (přiblížení), přeskok (za dveře)
-    - nachystat M6511 a sirky do druhé lodi
+    - nachystat M6511
     - TODO přesýpací hodiny za dveře
     <!-- TODO nápad: po dobu letu sluchátka s hudbou? -->
     <!-- TODO v přeskoku: "rozsviť světla v místnosti" -->
     - TODO je potřeba tři zvukově oddělené prostory, nebo vymyslet nějaký trik (např. dva prostory a sluchátka při přeskoku, ale to by bylo potřeba vyladit. Jestli přeskakující může zbytek vidět apod.)
     - TODO nezapomenout na zápletku "roste hmotnost" a "vysílá to koule? vyhodit? - ale nepůjde najít následně"
     - TODO aby někdo spustil zážeh, pokud to ostatní vyzevlí.
-    - připravit si svíčku
+    - připravit si svíčku a sirky
 
 Přiblížení objektu (TODO hlášky):
     - Pustit, až se vyčerpá počáteční téma scény: "(houkání) unknown object approaching, approach in 5 minutes"
@@ -157,7 +157,7 @@ Asteroid:
     - Pustit: "unknown object approaching, approach in 1 minute".
     - Po stisknutí `F` pustit: zvuk startu.
     - Odvést ponechaného k sobě a vzít mu vysílačku.
-    - Nachystat svíčku do středu hlavní místnosti.
+    - Nachystat svíčku a sirky do středu hlavní místnosti.
 
 Konec:
-    -
+    - Jakmile promluví kapitánka (nebo zástupce), zhasnout a pustit hudbu.

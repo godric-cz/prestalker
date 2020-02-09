@@ -30,3 +30,6 @@ Konec:
 
 Začátek:
     - Loren tě probouzí z hibernace.
+
+Konec:
+    - Zhasnou se světla a ozve se hudba.

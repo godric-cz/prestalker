@@ -37,3 +37,6 @@ Začátek:
 
 Během scény:
     - Jakmile skončí zážeh motoru a situace se uklidní, otevři dokument M6511.
+
+Konec:
+    - Zhasnou se světla a ozve se hudba.

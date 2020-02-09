@@ -35,3 +35,6 @@ Začátek:
 Během scény:
     - Používáš terminál k navigaci a získávání informací z radaru.
     - Jakmile skončí zážeh motoru a situace se uklidní, Alexandra otevře dokument M6511. Pokud to z nějakého důvodu nebude moct udělat, otevři ho ty.
+
+Konec:
+    - Zhasnou se světla a ozve se hudba.

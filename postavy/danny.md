@@ -33,3 +33,6 @@ Začátek:
 Během scény:
     - Jakmile zastavíte poblíž objektu (ozve se "object distance minimal"), přečti si dokument Z7074.
     - Chceš přežít. Jakmile vám bude hrozit nebezpečí a bude potřeba zapnout hlavní motor (bude zřejmé ze situace), pokud se k tomu nikdo jiný nebude mít, uděláš to v poslední možné chvíli ty (zmáčkneš F na terminálu a tím se motor zapne).
+
+Konec:
+    - Zhasnou se světla a ozve se hudba.

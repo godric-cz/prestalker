@@ -127,6 +127,7 @@
     - nápad: kapitánka čte proslov / motlitbu na pohřbu
     - hibernace do doby, než by se měli dostat mimo radiový stín koule (odhadem)
     - TODO BUG: co když kouli nevyhodí?
+    - FIX: pokud ji vyhodí, twist je černá díra. Pokud ne, myslí si, že letí k Zemi a twist je doběhnutí simulace, probuzení zbytku a možnost "vstoupit".
 
 - ošetřit riziko PJ otázek z konzole
     - aby nedělali přes konzole moc doplňujících "PJ" otázek na vlastnosti lodi místo vlastního hraní

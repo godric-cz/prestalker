@@ -36,3 +36,6 @@ Konec:
 
 Začátek:
     - Probouzíš se z hibernace. Probudíš kapitánku a pak ostatní, stejně jako minule.
+
+Konec:
+    - Zhasnou se světla a ozve se hudba.
