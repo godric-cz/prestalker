@@ -140,6 +140,7 @@
 - nápad: nějak zapojit mrtvého člena posádky
     - např. na ně může mluvit skrz vysílačku, jakmile se dost přiblíží slunci
     - nebo může přijít nějak jako "duch" a facilitovat pálení postav
+    - případně přiblíží se další loď a on mluví z vysílačky. Může tvrdit, že to přežil (posádka se bude hádat, jestli je to reálné), nebo může tvrdit, že zůstal na stanici a oni začali bláznit. Může mít agendu přesvědčit je k nějakému konkrétnímu výsledku (například, aby kouli vydali armádě, nebo aby ji vyhodili ven). Nebo může mluvit do vysílačky nezávisle na armádě a naopak motivovat postavy, aby kouli nevydaly a vstoupily do ní (může Alexandře i udělat ten twist "Alexandra celou dobu kód zná"). Nebo může taky být tento člen "v počítači" (v stylu koule) a říkat věci (i tady se dá udělat twist s "Alexandra kód zná").
 
 - _varianta koule na palubě_
 - zástupná činnost před rozhodováním (?)
