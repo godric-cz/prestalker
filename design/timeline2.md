@@ -142,7 +142,42 @@
     - nebo může přijít nějak jako "duch" a facilitovat pálení postav
     - případně přiblíží se další loď a on mluví z vysílačky. Může tvrdit, že to přežil (posádka se bude hádat, jestli je to reálné), nebo může tvrdit, že zůstal na stanici a oni začali bláznit. Může mít agendu přesvědčit je k nějakému konkrétnímu výsledku (například, aby kouli vydali armádě, nebo aby ji vyhodili ven). Nebo může mluvit do vysílačky nezávisle na armádě a naopak motivovat postavy, aby kouli nevydaly a vstoupily do ní (může Alexandře i udělat ten twist "Alexandra celou dobu kód zná"). Nebo může taky být tento člen "v počítači" (v stylu koule) a říkat věci (i tady se dá udělat twist s "Alexandra kód zná").
 
-- _varianta koule na palubě_
+## Varianta koule na palubě: nástřel verze 2
+
+- Mrtvý hacknul hibernaci
+    - Hibernace se rozbila. Z logů vyplývá, že to sabotoval ten mrtvý.
+    - Jak, to není zřejmé. Mohl to nějak hodně sofistikovaně nakódit v počítači ještě před tím, než přešli na druhou loď. Nebo to udělal někdo jiný, ale zfalšoval log. Nebo to udělal ze záhrobí.
+    - Konflikt o to, kdo to reálně udělal, proč, případně vytahování špíny na mrtvého. "Musíme zjistit, proč to udělal, ať každý řekne, co o něm ví." Na toto bychom hráče museli navést, ale jde to udělat.
+- (pohyblivě) Zprávy v počítači
+    - Něco divného (nečitelné znaky, neočekávaně) se může objevit už na začátku, když vyšetřují, co se stalo s hibernací.
+    - Dál se může konkretizovat. (Jak moc konkretizovat TODO. Když by to šlo, tak raději ne úplně full-blown "jsem váš mrtvý kolega a říkám vám udělejte X".)
+    - Může být "ťuk ťuk" těsně před tím, než se ozve cizí loď z vysílačky.
+    - Navede Alexandru, že kód zná (viz nápady výš).
+    - Obecně podporuje stranu "otevření bedny".
+- Vojenská loď
+    - Z krátkovlné vysílačky se ozve vojenská loď (nemohli se spojit kvůli rušení jinak).
+    - Chce, aby vydali kouli.
+    - TODO např. ruská -- obecně vyladit "atraktivitu lodi" tak, aby kouli nevydali automaticky, ale zároveň to nebrali jako úplně vyloučené.
+- (pohyblivě) Doběhnutí simulace
+    - TODO Časově umístit tak, aby zvraty šly pro / proti / pro / proti otevření bedny resp. vydání se vojákům.
+    - Objeví se data ze simulace, která běžela (např. že ji spustila mrtvá postava) a naznačuje, že koule je něco s paralelníma vesmírama resp. rozhodováním. (Míra detailu vysvětlení TODO, ale každopádně nevysvětlit na 100%.)
+- Gaslighting
+    - V rádiu "někdo s vámi chce mluvit".
+    - Mluví mrtvá postava a přesvědčuje je k vydání koule.
+    - Popře jejich vzpomínky. Řekne, že zůstala na stanici, že zbytek z koule blázní (nebo že tam byl jed nebo whatever), proto tam postavu nechali, zachránila ji loď, koule je špatná a mají se jí co nejdřív zbavit.
+    - Hráč mrtvé postavy teda hraje hru, že ve vysílačce teda kolegy nabádá se vzdát, a v počítači naopak podporuje kouli otevřít.
+    - Podporuje ten psycho / mysteriozní feeling, co chceme.
+- Dělení
+    - alt. postavy by asi museli vidět ve snech
+    - na začátku instrukce, že od otevření krabice je vše abstraktní a nemluví se (resp. pokud krabice bude otevřena vůbec)
+    - na scéně se s otevřením objeví mrtvá postava a nabízí jim alternativní charsheety, které buď vezmou, nebo si nechají ty svoje
+    - Ty, co si charsheety nechali, nechá stát na místě. Na druhou stranu postaví ty, co vzali alt charsheety. Světla se zamíří na dvě místa, kde hráči stojí. Doprostřed dá urnu do které dá všechny nadbytečné charsheety a zapálí je. Pak se přidá k "přešlým" postavám a postupně se s hudbou ztlumí světlo na ně a pak i na ty původní. Mohou na sebe zamávat, nebo něco.
+- Možnost epilogu
+    - Buď odvyprávět, nebo i odehrát (pokud bychom vynalezli způsob, aby to nepůsobilo debilně).
+    - Postavy, které nepřešly, jsou "zachráněny" na vojenské lodi, dostanou deky, teplý čaj, koule je pryč, ostatní postavy jsou pryč, nikdo neví co se stalo. Mají pár vět na uzavření. (Možná i dát explicitní návrhy, co říct.)
+
+## varianta koule na palubě
+
 - zástupná činnost před rozhodováním (?)
     - nápad: navigátor (nebo někdo jiný) se tajně vzbudí, protože doběhla simulace. Z té vyplyne, že s koulí se něco začne dít při přiblížení ke slunci. Protože není jisté, jak to bude vypadat, a může to být nebezpečné pro loď, probudí zbytek posádky a vysvětlí jim situaci. Pak se budou hádat o to, jestli kontejner otevřít.
     - nápad: při částečném přiblížení (tj. nějaký čas od začátku scény) získá navigátor z koule doplňující data, která mu přesně vysvětlí, co se děje. Tehdy jim přesně vysvětlí, co se s koulí bude dít.
@@ -182,7 +217,8 @@
     - jak dostanou instrukce, co přesně dělat?
     - nápad: pálení postav
 
-- _varianta vyhozené koule_
+## Varianta vyhozené koule
+
 - začátek: info padáme do černé díry
     - něco v smyslu můžem se vzdálit, ale neunikneme gravitaci díry
     - dalo by se něco odvysílat (special způsobem)
