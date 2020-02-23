@@ -158,6 +158,7 @@
     - Z krátkovlné vysílačky se ozve vojenská loď (nemohli se spojit kvůli rušení jinak).
     - Chce, aby vydali kouli.
     - TODO např. ruská -- obecně vyladit "atraktivitu lodi" tak, aby kouli nevydali automaticky, ale zároveň to nebrali jako úplně vyloučené.
+    - TODO třetí alternativa vzdát se, ale kouli vyhodit. Někdo by měl navrhnout. Koule je malá, takže už ji ve vesmíru nikdo nikdy nenajde.
 - (pohyblivě) Doběhnutí simulace
     - TODO Časově umístit tak, aby zvraty šly pro / proti / pro / proti otevření bedny resp. vydání se vojákům.
     - Objeví se data ze simulace, která běžela (např. že ji spustila mrtvá postava) a naznačuje, že koule je něco s paralelníma vesmírama resp. rozhodováním. (Míra detailu vysvětlení TODO, ale každopádně nevysvětlit na 100%.)
@@ -175,6 +176,10 @@
 - Možnost epilogu
     - Buď odvyprávět, nebo i odehrát (pokud bychom vynalezli způsob, aby to nepůsobilo debilně).
     - Postavy, které nepřešly, jsou "zachráněny" na vojenské lodi, dostanou deky, teplý čaj, koule je pryč, ostatní postavy jsou pryč, nikdo neví co se stalo. Mají pár vět na uzavření. (Možná i dát explicitní návrhy, co říct.)
+
+Obecné poznámky k této variantě:
+
+- Napsat, že hra je mysteriózní. Resp., že neexistuje jedno konkrétní vysvětlení toho, co se přesně stalo, ale existuje jich víc, a záměrně nejsou nahlas řečena (a obecně návod, jak nad tím přemýšlet). (Protože čeští hráči většinou očekávají jasné vysvětlení "příběhu" a cítí se podvedení, pokud jim ho autor nedá, což interpretují, jako že se jim hra "nelíbí".)
 
 ## varianta koule na palubě
 
