@@ -161,3 +161,14 @@ Asteroid:
 
 Konec:
     - Jakmile promluví kapitánka (nebo zástupce), zhasnout a pustit hudbu.
+
+# 5. scéna
+
+Příprava:
+    - mrtvá postava - ne postava, ale bokem a instrukce TODO
+
+Začátek:
+
+Během scény:
+
+Konec:

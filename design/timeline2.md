@@ -157,7 +157,7 @@
 - Vojenská loď
     - Z krátkovlné vysílačky se ozve vojenská loď (nemohli se spojit kvůli rušení jinak).
     - Chce, aby vydali kouli.
-    - TODO např. ruská -- obecně vyladit "atraktivitu lodi" tak, aby kouli nevydali automaticky, ale zároveň to nebrali jako úplně vyloučené.
+    - TODO např. ruská -- obecně vyladit "atraktivitu" lodi tak, aby kouli nevydali automaticky, ale zároveň to nebrali jako úplně vyloučené.
     - TODO třetí alternativa vzdát se, ale kouli vyhodit. Někdo by měl navrhnout. Koule je malá, takže už ji ve vesmíru nikdo nikdy nenajde.
 - (pohyblivě) Doběhnutí simulace
     - TODO Časově umístit tak, aby zvraty šly pro / proti / pro / proti otevření bedny resp. vydání se vojákům.
@@ -176,6 +176,7 @@
 - Možnost epilogu
     - Buď odvyprávět, nebo i odehrát (pokud bychom vynalezli způsob, aby to nepůsobilo debilně).
     - Postavy, které nepřešly, jsou "zachráněny" na vojenské lodi, dostanou deky, teplý čaj, koule je pryč, ostatní postavy jsou pryč, nikdo neví co se stalo. Mají pár vět na uzavření. (Možná i dát explicitní návrhy, co říct.)
+    - Pokud se budou ptát, kde je mrtvá postava, popřít, že s ní ve vysílačce mluvili. Možnost: sestříhat během scény fake nahrávku, kde bude "někdo s vámi chce mluvit" a pak mluví druhý org, ne mrtvá postava, oni odpovídají, odpovídá org atd. Potom jim to pustit jako důkaz.
 
 Obecné poznámky k této variantě:
 
