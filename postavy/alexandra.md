@@ -44,14 +44,14 @@ Konec:
 # 5. scéna
 
 Začátek:
-    - Došlo k poruše hibernační jednotky a počítač vás automaticky probudil. Po probuzení zkontroluješ záznamy v počítači. Podle nich nějak upravoval hibernační jednotku váš mrtvý kolega. Změny jsou ale zaheslované, takže zjistit přesně, co se stalo, a případně to upravit zpět bez hesla nejde.
+    - _V přechozí scéně jedena z postav zemřela. Pokud v následujícím textu narazíš na nějaký pokyn, který se týká této postavy, prostě ho ignoruj (případně vykonej bez ní)._
+    - Došlo k poruše hibernační jednotky a počítač vás automaticky probudil. Po probuzení společně zkontrolujete záznamy v počítači. Podle nich nějak upravoval hibernační jednotku váš mrtvý kolega. Změny jsou ale zaheslované, takže zjistit přesně, co se stalo, a případně to upravit zpět bez hesla nejde.
 
-    To nedává smysl. Jak by to udělal, když na této lodi ani nebyl? A i kdyby to nějak dokázal předem, tak proč? Ostatní zabav nějakým krycím příběhem: Třeba, že je o mrtvé postavě potřeba dát společně dohromady co nejvíc informací, abyste přišli na to, jaké mohla dát heslo.
+    Nedává to smysl. Jak by to udělal, když na této lodi ani nebyl? A i kdyby to nějak dokázal předem, tak proč? Ostatní zabav nějakým krycím příběhem: Třeba, že je o mrtvé postavě potřeba dát společně dohromady co nejvíc informací, abyste přišli na to, jaké mohla použít heslo.
 
     Ve skutečnosti je ale mnohem pravděpodobnější, že to udělal tajně někdo z vás, a podařilo se mu nějak záznamy zfalšovat. Pokud jsi ochotná věřit Loren, zkus si ji vzít stranou a přijít na to, kdo to může být. Ona je nakonec ten, kdo má mít o psychologických profilech posádky nejlepší přehled.
 
-    TODO dál co? Pouta?
-    ... (v této scéně můžete používat počítač všichni).
-        - TODO zamyslet se nad duplikací, jestli fakt toto dávat do postav, nebo do dokumentu a garantovat, že to dostane právě jeden. Možná dát piklení jedné z postav a i Loren proaktivně jako "najdi nejdůvěryhodnějšího a určete kdo to byl" a třeba nějaká akce, zdrhovačka / pouta nebo něco.
-        - TODO hibernaci hackovala i Loren (viz osobní linka), možná nějak navázat.
-        - TODO synchronizace orgové <-> mrtvá postava <-> scéna (nějak mobilem, aby orgové mohli být v hlavní místnosti?)
+    Jakmile dojdeš k názoru, kdo to mohl být, je potřeba ho spoutat (použij připravené stahovací pásky). Jinak hrozí, že provede něco dalšího. Pokud se nenechá po dobrém, vem si na pomoc někoho dalšího z posádky.
+
+    Pak zkuste zjistit heslo. (Například výměnou za to, že postavu pustíte. Každopádně ale bez násilí. I kdyby to někoho napadlo, tak to zakážeš.)
+    - _V této scéně můžete používat počítač všichni (a číst, pokud ho používá někdo jiný)._

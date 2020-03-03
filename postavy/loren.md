@@ -39,3 +39,16 @@ Začátek:
 
 Konec:
     - Zhasnou se světla a ozve se hudba.
+
+# 5. scéna
+
+Začátek:
+    - _V přechozí scéně jedena z postav zemřela. Pokud v následujícím textu narazíš na nějaký pokyn, který se týká této postavy, prostě ho ignoruj (případně vykonej bez ní)._
+    - Došlo k poruše hibernační jednotky a počítač vás automaticky probudil. Po probuzení společně zkontrolujete záznamy v počítači. Podle nich nějak upravoval hibernační jednotku váš mrtvý kolega. Změny jsou ale zaheslované, takže zjistit přesně, co se stalo, a případně to upravit zpět bez hesla nejde.
+
+    Že by to skutečně udělal mrtvý kosmonaut, je nesmysl. Spíš se zdá, že někdo záznamy v počítači zfalšoval. Ale to by nebylo jen tak. Odhaduješ, že by to dokázal jen Marc a možná Alexandra.
+
+    Je potřeba zjistit, kdo to byl, a dostat z něj heslo. Každopádně ale domluvou, ne násilím (tomu bys zabránila). Možná bude lepší na začátek neříkat, že podezíráš někoho z ostatních, a vytáhnout to až po chvíli, abys co nejlíp viděla, jak kdo reaguje (a mohla tak odhadnout, kdo to byl).
+
+    Pokud zjistíš, kdo to byl, měli byste ho asi raději spoutat, ať neprovede něco dalšího ostatním ani sobě. Použijte připravené stahovací pásky.
+    - _V této scéně můžete používat počítač všichni (a číst, pokud ho používá někdo jiný)._

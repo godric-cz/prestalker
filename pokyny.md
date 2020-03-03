@@ -164,8 +164,16 @@ Konec:
 
 # 5. scéna
 
+TODO:
+    - TODO laciné řešení zámku na nákladu: zámek s číselníkem.
+    - TODO Nápad: Hibernaci hackovala i Loren (viz osobní linka), možná nějak navázat. Případně v jiných postavách.
+    - TODO synchronizace orgové <-> mrtvá postava <-> scéna (nějak mobilem, aby orgové mohli být v hlavní místnosti? Mrtvá postava být v hlavní místnosti nemůže.)
+    - TODO zamyslet se nad duplikací, jestli fakt úvodní pokyny dávat do postav, nebo do dokumentu a garantovat, že to dostane právě jeden. Možná dát piklení jedné z postav a i Loren proaktivně jako "najdi nejdůvěryhodnějšího a určete kdo to byl" a třeba nějaká akce, zdrhovačka / pouta nebo něco.
+    - TODO jestliže se bude spoutávat, tak mít pro mrtvou postavu štípačky nebo nůžky do závěrečné snové sekvence.
+
 Příprava:
-    - mrtvá postava - ne postava, ale bokem a instrukce TODO
+    - TODO mrtvá postava - nečte postavu, ale vzít bokem a instrukce
+    - nachystat zdrhovačky pro spoutání
 
 Začátek:
 
