@@ -9,7 +9,7 @@ Už od dob plaveb prvních lodí, ještě dávno, než lidstvo vůbec začalo p�
 Je tvým úkolem (jako kapitána nebo zástupce) toto rozloučení vést:
 
 - Řekni ostatním, že byste to měli udělat.
-- Kdo chce, může si rozmyslet jestli chce něco říct, případně napsat na papír nebo nechat nějaký předmět, který mu ztraceného člena posádky připomínal (viz dál). Dej ostatním potřebný čas, aby si to rozmysleli.
-- Pak se shromáždíte v nákladovém prostoru. Tam rozsvítíte lucernu, položíte kolem vzkazy a předměty a řeknete, co chcete říct. Ty mluvíš jako poslední.
+- Kdo chce, může si rozmyslet jestli chce něco říct, případně napsat na papír vzkaz nebo připravit nějaký předmět, který mu ztraceného člena posádky připomínal (víc viz dál). Dej ostatním potřebný čas, aby si to rozmysleli.
+- Pak se shromáždíte v nákladovém prostoru. Tam symbolicky rozsvítíte lucernu, položíte kolem vzkazy a předměty a promluví ti, kteří chtějí něco říct. Ty mluvíš jako poslední.
 - Nakonec se vrátíte, otevřete nákladový prostor a necháte tím lucernu a předměty odlétnout z lodi, dokud vám světlo nezmizí z dohledu a nesplyne s hvězdným pozadím vesmíru.
-- _Vstupte zpátky do vedlejší místnosti, kde najdeš svíčku a sirky, které symbolizují lucernu. Svíčku zapal, rozlučte se, a jakmile jako poslední promluvíš ty, zhasne se a scéna končí._
+- _Vstupte zpátky do vedlejší místnosti, kde najdeš svíčku a sirky, které symbolizují lucernu. Svíčku zapal, rozlučte se, a jakmile jako poslední promluvíš ty, zhasnou světla a scéna končí._
