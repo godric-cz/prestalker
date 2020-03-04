@@ -36,3 +36,17 @@ Během scény:
 
 Konec:
     - Zhasnou se světla a ozve se hudba.
+
+# 5. scéna
+
+Začátek:
+    - Došlo k poruše hibernační jednotky a počítač vás automaticky probudil. Po probuzení společně zkontrolujete záznamy v počítači. Podle nich nějak upravoval hibernační jednotku váš mrtvý kolega. Změny jsou ale zaheslované, takže zjistit přesně, co se stalo, a případně to upravit zpět bez hesla nejde.
+
+    Nedává smysl, že by to kdokoli udělal schválně. Musí to nějak způsobovat náklad. Možná se tady během hibernace dokonce objevila nějaká alternativní varianta vašeho mrtvého kolegy. Nebo je možné, že skrz náklad je možné počítač nějak vzdáleně ovlivňovat z "druhé strany", ať to znamená co chce. Třeba se v počítači objevují věci z nějaké jiné reality, podobně jako se vám zdají během hibernace ty sny.
+
+    Ať tak nebo tak, je nejvyšší čas náklad vyhodit a krátce zapnout motor, abyste se mu vzdálili. Paliva má loď dost, a jak budete dostatečně daleko, hibernační jednotka se nejspíš odhesluje sama, jakmile na ni náklad přestane působit.
+
+    Navíc náklad téměř určitě způsobuje rušení vysílačky, které pořád trvá. Další důvod pro jeho odhození.
+
+    Je otázka, jak moc odahlit, jak toto všechno víš (tj. říct celý tvůj skutečný příběh), ale tak či tak budeš se budeš snažit přesvědčit ostatní k odhození nákladu.
+    - TODO sny během hibernace (viz předchozí odstavec).

@@ -146,7 +146,11 @@
 
 - Mrtvý hacknul hibernaci
     - Hibernace se rozbila. Z logů vyplývá, že to sabotoval ten mrtvý.
-    - Jak, to není zřejmé. Mohl to nějak hodně sofistikovaně nakódit v počítači ještě před tím, než přešli na druhou loď. Nebo to udělal někdo jiný, ale zfalšoval log. Nebo to udělal ze záhrobí. Nebo to způsobuje náklad a je potřeba ho vyhodit.
+    - Jak, to není zřejmé.
+        - Mohl to nějak hodně sofistikovaně nakódit v počítači ještě před tím, než přešli na druhou loď. -> Probrat, co o něm víme, a dojít tak k heslu.
+        - Nebo to udělal někdo jiný, ale zfalšoval log. -> Zjistit kdo, svázat, vyslechnout.
+        - Nebo to udělal ze záhrobí. -> TODO jak reagovat? (Mohly by to být námořnické historky, ale dává pověrčivost v kontextu hry a postav smysl?)
+        - Nebo to způsobuje náklad. -> Je potřeba ho vyhodit.
     - Konflikt o to, kdo to reálně udělal, proč, případně vytahování špíny na mrtvého. "Musíme zjistit, proč to udělal, ať každý řekne, co o něm ví." Na toto bychom hráče museli navést, ale jde to udělat.
 - (pohyblivě) Zprávy v počítači
     - Něco divného (nečitelné znaky, neočekávaně) se může objevit už na začátku, když vyšetřují, co se stalo s hibernací.

@@ -38,3 +38,10 @@ Během scény:
 
 Konec:
     - Zhasnou se světla a ozve se hudba.
+
+# 5. scéna
+
+Začátek:
+    - Došlo k poruše hibernační jednotky a počítač vás automaticky probudil. Po probuzení společně zkontrolujete záznamy v počítači. Podle nich nějak upravoval hibernační jednotku váš mrtvý kolega. Změny jsou ale zaheslované, takže zjistit přesně, co se stalo, a případně to upravit zpět bez hesla nejde.
+
+    ... TODO

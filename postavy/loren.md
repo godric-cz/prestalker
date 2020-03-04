@@ -43,7 +43,7 @@ Konec:
 # 5. scéna
 
 Začátek:
-    - _V přechozí scéně jedena z postav zemřela. Pokud v následujícím textu narazíš na nějaký pokyn, který se týká této postavy, prostě ho ignoruj (případně vykonej bez ní)._
+    - _V přechozí scéně jedena z postav zemřela. Pokud v následujícím textu narazíš na nějaký pokyn, který se týká této postavy, prostě ho ignoruj (případně ho vykonej bez ní)._
     - Došlo k poruše hibernační jednotky a počítač vás automaticky probudil. Po probuzení společně zkontrolujete záznamy v počítači. Podle nich nějak upravoval hibernační jednotku váš mrtvý kolega. Změny jsou ale zaheslované, takže zjistit přesně, co se stalo, a případně to upravit zpět bez hesla nejde.
 
     Že by to skutečně udělal mrtvý kosmonaut, je nesmysl. Spíš se zdá, že někdo záznamy v počítači zfalšoval. Ale to by nebylo jen tak. Odhaduješ, že by to dokázal jen Marc a možná Alexandra.
