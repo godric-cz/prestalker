@@ -44,4 +44,10 @@ Konec:
 Začátek:
     - Došlo k poruše hibernační jednotky a počítač vás automaticky probudil. Po probuzení společně zkontrolujete záznamy v počítači. Podle nich nějak upravoval hibernační jednotku váš mrtvý kolega. Změny jsou ale zaheslované, takže zjistit přesně, co se stalo, a případně to upravit zpět bez hesla nejde.
 
-    ... TODO
+    Jediné vysvětlení, jak to mohl udělat, je, že celou věc naprogramoval předem a nechal spustit až teď (což počítač dovoluje; sám podobně spouštíš simulace dráhy letu, pokud jde o nějaký složitý manévr co se počítá dlouho).
+
+    Těžko říct, proč to udělal, ale jiný způsob, jak by se to mohlo stát, není. Pokud je v záznamech jeho jméno, udělat to musel skutečně on. Hacknout počítač, aby úpravy provedené jedním člověkem vypadaly jako úpravy od někoho jiného, nejde. Určitě by to vyžadovalo, aby se v počítači fyzicky dlouho "vrtal" (čehož byste si všimli) a i tak by potřeboval speciální vybavení (které na lodi není).
+
+    Rozumné řešení se moc nenabízí. V podstatě jediná strategie je teď zkusit zjistit, proč to udělal a jaké mohl dát heslo. Kdyby chtěl jenom sabotovat loď, mohl to udělat milionem jednodušších způsobů. Toto mnohem víc vypadá, že to udělal schválně právě takto a chtěl tím na něco poukázat nebo něco říct. Pak možná dal schválně i nějaké konkrétní heslo, a je otázka, co se stane, až ho zadáte.
+
+    Teď každopádně dává největší symsl dát si dohromady, co o mrtvém víte (případně jestli ho někdo líp znal) a zkusit přijít na jeho motivy a na heslo.

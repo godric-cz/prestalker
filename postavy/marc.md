@@ -33,3 +33,14 @@ Začátek:
 
 Konec:
     - Zhasnou se světla a ozve se hudba.
+
+# 5. scéna
+
+Začátek:
+    - Došlo k poruše hibernační jednotky a počítač vás automaticky probudil. Po probuzení společně zkontrolujete záznamy v počítači. Podle nich nějak upravoval hibernační jednotku váš mrtvý kolega. Změny jsou ale zaheslované, takže zjistit přesně, co se stalo, a případně to upravit zpět bez hesla nejde.
+
+    TODO dělá to náklad. Nějak přes něj někdo vysílá a hackuje, jedno kdo, ale každopádně náklad vyhodit. Myslím si to, protože jsem si počítal rušení a náklad je nejspíš nějaké zakřivení časoprostoru, přes které prochází rádio nevím odkud.
+
+    TODO nebo ten mrtvý předem udělal "virus", protože viděl co se stane v těch divno snech. (Nápad: "mě navádělo v těch snech něco udělat, neudělal jsem to, ale on třeba ne ... cože, vám se to nedělo?") A je potřeba přijít tím pádem na heslo, co by dal. Obejít se to bez kontaktu se Zemí nedá.
+
+    TODO virus = zjistit motivace mrtvého (viz také Danny).
