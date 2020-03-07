@@ -39,8 +39,11 @@ Konec:
 Začátek:
     - Došlo k poruše hibernační jednotky a počítač vás automaticky probudil. Po probuzení společně zkontrolujete záznamy v počítači. Podle nich nějak upravoval hibernační jednotku váš mrtvý kolega. Změny jsou ale zaheslované, takže zjistit přesně, co se stalo, a případně to upravit zpět bez hesla nejde.
 
-    TODO dělá to náklad. Nějak přes něj někdo vysílá a hackuje, jedno kdo, ale každopádně náklad vyhodit. Myslím si to, protože jsem si počítal rušení a náklad je nejspíš nějaké zakřivení časoprostoru, přes které prochází rádio nevím odkud.
+    Mrtvý kosmonaut to pochopitelně udělat nemohl, ale falšovat tyto záznamy v počítači nejde (šlo by to na Zemi a se speciálním vybavením, ale určitě ne během letu). Lámal sis hlavu, co by to mohlo být, ale napadly tě zatím jen dvě možná vysvětlení. Obě extrémně komplikovaná, ale žádné lepší nápady nemáš:
 
-    TODO nebo ten mrtvý předem udělal "virus", protože viděl co se stane v těch divno snech. (Nápad: "mě navádělo v těch snech něco udělat, neudělal jsem to, ale on třeba ne ... cože, vám se to nedělo?") A je potřeba přijít tím pádem na heslo, co by dal. Obejít se to bez kontaktu se Zemí nedá.
+    A) Způsobuje to náklad. Měl jsi podezření, že způsobuje rušení vysílačky, a protože rušení stále trvá, jenom se to potvrzuje. Navíc pokud tak silné rušení vychází z nákladu, tedy místa přímo uvnitř lodi, může to teoreticky ovlivňovat kde co, včetně ovlivňování fungování počítače, hibernace, ...
 
-    TODO virus = zjistit motivace mrtvého (viz také Danny).
+    Vyvolat rušení, které by způsobilo tak konkrétní změnu jako zaheslování hibernace by sice bylo extrémně složité, ale ne nemožné. Tím pádem by se celý problém mohl vyřešit odhozením nákladu a vzdálením se od něj. Problém je, že odhozený náklad je definitivně pryč. Tak malou věc ve vesmíru už nikdo nikdy nenajde.
+
+    B) Udělal to mrtvý kolega, ale předem. V počítači se dá naplánovat a předpřipravit program, který se spustí časem. Dost možná měl během hibernace taky "sny" a viděl něco, co ho přimělo to udělat. Možná měl někdo z ostatních stejný sen, nebo možná se mrtvý někomu svěřil. Pokud byste na to přišli, snad by se dalo pak zjistit, jaké mohl zadat heslo a počítač opět zprovoznit.
+    - TODO sny v hibernaci (viz předchozí odstavec), (Nápad: "mě navádělo v těch snech něco udělat, neudělal jsem to, ale on třeba ne ... cože, vám se to nedělo?")

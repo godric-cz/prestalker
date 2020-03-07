@@ -170,6 +170,13 @@ TODO:
     - TODO synchronizace orgové <-> mrtvá postava <-> scéna (nějak mobilem, aby orgové mohli být v hlavní místnosti? Mrtvá postava být v hlavní místnosti nemůže.)
     - TODO zamyslet se nad duplikací, jestli fakt úvodní pokyny dávat do postav, nebo do dokumentu a garantovat, že to dostane právě jeden. Možná dát piklení jedné z postav a i Loren proaktivně jako "najdi nejdůvěryhodnějšího a určete kdo to byl" a třeba nějaká akce, zdrhovačka / pouta nebo něco.
     - TODO jestliže se bude spoutávat, tak mít pro mrtvou postavu štípačky nebo nůžky do závěrečné snové sekvence.
+    - TODO inspirace k textu o doběhnutí simulace (původně Marc):
+
+    Způsobuje to náklad. Měl jsi podezření, že způsobuje rušení vysílačky, a pátral jsi, proč a jak by se to mohlo dít. Taky se loď chovala extrémně divně při některých manévrech, skoro jako by se přiblížovala a pak vzdalovala z gravitačního pole nějakého objektu, ale žádný kolem vás nebyl.
+
+    Zkoušel sis to přepočítat, ale z vzorců vycházely nesmysly. Při vaší rychlosti a hmotnosti by muselo být nějaké absurdně vysoké zakřivení časoprostorou, aby čísla vůbec vycházela. Bral jsi to automaticky jako chybu měření, ale teď už je náhod tolik, že to nejde ignorovat.
+
+    Co když v té bedně vlastně není nic, jenom nějaký extrémně křivý vesmír? Pak může být "vevnitř" prakticky cokoli. Planeta, jejíž gravitace na vás působí, jakýkoli zdroj toho rádiového rušení, nějaký rádiový signál ovlivňující počítač...
 
 Příprava:
     - TODO mrtvá postava - nečte postavu, ale vzít bokem a instrukce
