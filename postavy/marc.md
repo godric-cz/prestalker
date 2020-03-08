@@ -45,5 +45,5 @@ Začátek:
 
     Vyvolat rušení, které by způsobilo tak konkrétní změnu jako zaheslování hibernace by sice bylo extrémně složité, ale ne nemožné. Tím pádem by se celý problém mohl vyřešit odhozením nákladu a vzdálením se od něj. Problém je, že odhozený náklad je definitivně pryč. Tak malou věc ve vesmíru už nikdo nikdy nenajde.
 
-    B) Udělal to mrtvý kolega, ale předem. V počítači se dá naplánovat a předpřipravit program, který se spustí časem. Dost možná měl během hibernace taky "sny" a viděl něco, co ho přimělo to udělat. Možná měl někdo z ostatních stejný sen, nebo možná se mrtvý někomu svěřil. Pokud byste na to přišli, snad by se dalo pak zjistit, jaké mohl zadat heslo a počítač opět zprovoznit.
+    B) Udělal to mrtvý kolega, ale předem. V počítači se dá naplánovat a předpřipravit program, který se spustí časem. Dost možná měl kolega během hibernace taky "sny" a viděl něco, co ho přimělo to udělat. Možná měl někdo z ostatních stejný sen, nebo možná se mrtvý někomu svěřil. Pokud to společně proberete a každý řekne, co ví, snad by se dalo pak zjistit, jaké mohl zadat heslo a počítač by se opět zprovoznil.
     - TODO sny v hibernaci (viz předchozí odstavec), (Nápad: "mě navádělo v těch snech něco udělat, neudělal jsem to, ale on třeba ne ... cože, vám se to nedělo?")

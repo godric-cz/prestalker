@@ -179,8 +179,14 @@ TODO:
     Co když v té bedně vlastně není nic, jenom nějaký extrémně křivý vesmír? Pak může být "vevnitř" prakticky cokoli. Planeta, jejíž gravitace na vás působí, jakýkoli zdroj toho rádiového rušení, nějaký rádiový signál ovlivňující počítač...
 
 Příprava:
-    - TODO mrtvá postava - nečte postavu, ale vzít bokem a instrukce
+    - mrtvá postava - nečte postavu, ale vzít bokem a dát instrukce E9197
     - nachystat zdrhovačky pro spoutání
+    - do konzole napsat (znak {} nahradit jménem mrtvého, např. "aparker"):
+        Poslední úpravy:
+        {}: > hibernační jednotka
+        {}: nahrát program...
+        {}: [zaheslováno]
+    - počítač předat mrtvému
 
 Začátek:
 
