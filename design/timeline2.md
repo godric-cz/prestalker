@@ -170,6 +170,7 @@
 - (pohyblivě) Doběhnutí simulace
     - TODO Časově umístit tak, aby zvraty šly pro / proti / pro / proti otevření bedny resp. vydání se vojákům.
     - Objeví se data ze simulace, která běžela (např. že ji spustila mrtvá postava) a naznačuje, že koule je něco s paralelníma vesmírama resp. rozhodováním. (Míra detailu vysvětlení TODO, ale každopádně nevysvětlit na 100%.)
+    - Nápad: Hráči chtějí vysvětlení příběhu. Dát vysvětlení, že koule je propojení do paralelního vesmíru a tím se vysvětlí ty divné věci, co se jim dějou (tj. jsou uspokojení, že dostali vysvětlení záhady) a zároveň nechat tajemství, co bude dál, když do ní vstupují (tj. zachová se mystérium).
 - Gaslighting
     - V rádiu "někdo s vámi chce mluvit".
     - Mluví mrtvá postava a přesvědčuje je k vydání koule.

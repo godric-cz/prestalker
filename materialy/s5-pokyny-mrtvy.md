@@ -25,7 +25,7 @@ Pak postupně posíláš další zprávy, můžeš se inspirovat následujícím
 - __ahoj__ - Stejně jako v předchozím případě, ale teď už na každou případnou zprávu, kterou hráči odpoví, odpovídáš pořád dokola "ahoj".
 - __ale proč?__ - Toto může znamenat třeba něco jako "proč jste mě tam nechali", ale ostatní si to můžou vyložit jakkoli. Opět můžeš zprávu zopakovat, podle toho, co (a jestli něco) hráči odpoví.
 - (něco zopakovat) - Pokud nějaká z postav něco řekne (třeba "To by Alexandra neudělala"), můžeš tu větu obratem napsat na terminál, nebo klidně několikrát rozkopírovat.
-- __ťuk ťuk__ - To je posledná zpráva v této fázi, a než ji zadáš, domluv se s organizátory. U této zprávy je potřeba, aby skutečně v okamžiku zadávání u počítače někdo byl a viděl živě, jak se zpráva objeví.
+- __ťuk ťuk__ - To je poslední zpráva v této fázi, a než ji zadáš, domluv se s organizátory. U této zprávy je potřeba, aby skutečně v okamžiku zadávání u počítače někdo byl a viděl živě, jak se zpráva objeví.
 
 Předchozí seznam slouží jako inspirace, můžeš si ho libovolně upravit a doplnit si vlastní nápady na zprávy. Stačí se držet základních principů:
 
@@ -35,13 +35,24 @@ Předchozí seznam slouží jako inspirace, můžeš si ho libovolně upravit a 
 
 # Fáze 2: vysílačka
 
+Na začátku této fáze se v blízkosti objeví další loď a bude po kosmonautech chtít, aby se jí vzdali a vydali náklad. Hráči se budou rozhodovat, jestli tomu vyhovět, nebo odmítnout.
+
+Tvým cílem bude (společně s organiátory) postupným dávkováním informací toto rozhodování gradovat a držet spoluhráče v napětí. Pokud budou spoluhráči příliš jedné variantě, přidáš informace pro podporu opačné varianty.
+
+V této fázi budeš mít dál k dispozici počítač. Pomocí něj budeš ostatní motivovat, aby si náklad nechali. Kromě toho se ale časem promluvíš z vysílačky v roli tvojí původní postavy. V této roli budeš moct spoluhráče motivovat naopak, aby se vzdali. ... TODO "může to vypadat následovně" nebo tak něco.
+
+
+
 TODO (ne nutně v tomto pořadí):
 
 - "někdo s vámi chce mluvit" a vyprávění fake příběhu
     - možná: pokud jsou příliš naklonění vydání se, zakončit podezřele (např. "to by stačilo" vytrhnout vysílačku a mluvíme my)
+    - opět říct, že příběh je jako inspirace, říct jeho smysl ve hře a preferovat hráče, aby si vytvořil / upravil vlastní.
 - doběhnutí simulace (tedy výsledky na terminál)
 - "Alexandra už to dávno ví"
 - možná: nějaký call to action k otevření nákladu?
+- možná: avizovat, že se otevřením něco stane, a jestli chtějí zariskovat, mají stát poblíž, a jestli ne, mají jít bokem (pokud bychom chtěli nějak racionalizovat diskuzi nad tím ne/brat alt. postavu)
+- možná: uvést, že jedna postava má speciální hru a hodně meta hru (aby nebyli smutní z CP role na konci).
 
 # Fáze 3: závěr
 
