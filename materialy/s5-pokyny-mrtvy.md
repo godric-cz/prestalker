@@ -2,7 +2,7 @@
 
 V této scéně nehraješ postavu, ale máš speciální roli. Budeš mít k dispozici počítač (a později i vysílačku) a pomocí náznaků budeš stupňovat atmosféru a povedeš ostatní postavy k závěru hry.
 
-Můžeš si to představit jako libovolnou z následujícíh variant: jsi duch, počítačový virus, verze mrtvého kosmonauta z alternativního vesmíru, nebo třeba jenom projev davového šílenství, který se zdá ostatním postavám. Jak to je "doopravdy" je čistě na tobě.
+Můžeš si to představit jako libovolnou z následujících variant: jsi duch, počítačový virus, verze mrtvého kosmonauta z alternativního vesmíru, nebo třeba jenom projev davového šílenství, který se zdá ostatním postavám. Jak to je "doopravdy" je čistě na tobě.
 
 Tvoje hra má tři fáze:
 
@@ -37,9 +37,13 @@ Předchozí seznam slouží jako inspirace, můžeš si ho libovolně upravit a 
 
 Na začátku této fáze se v blízkosti objeví další loď a bude po kosmonautech chtít, aby se jí vzdali a vydali náklad. Hráči se budou rozhodovat, jestli tomu vyhovět, nebo odmítnout.
 
-Tvým cílem bude (společně s organiátory) postupným dávkováním informací toto rozhodování gradovat a držet spoluhráče v napětí. Pokud budou spoluhráči příliš jedné variantě, přidáš informace pro podporu opačné varianty.
+Tvým cílem bude (společně s organizátory) postupným dávkováním informací toto rozhodování gradovat a držet spoluhráče v napětí. Pokud budou spoluhráči příliš naklonění jedné variantě, přidáš informace pro podporu opačné varianty.
 
-V této fázi budeš mít dál k dispozici počítač. Pomocí něj budeš ostatní motivovat, aby si náklad nechali. Kromě toho se ale časem promluvíš z vysílačky v roli tvojí původní postavy. V této roli budeš moct spoluhráče motivovat naopak, aby se vzdali. ... TODO "může to vypadat následovně" nebo tak něco.
+V této fázi budeš mít dál k dispozici počítač. Pomocí zpráv v něm budeš ostatní motivovat, aby si náklad nechali. Kromě toho se ale časem promluvíš z vysílačky v roli tvojí původní postavy. V této roli budeš moct spoluhráče motivovat naopak, aby se vzdali.
+
+Zprávy ve vysílačce jsou zhruba následující:
+
+- Nějakou dobu po kontaktu s další lodí, pokud budou nebudou hráči jinak ochotní jednat o vzdání se, použijí organizátoři argument __„někdo by s vámi chtěl mluvit“__ a nechají tě s ostatními mluvit vysílačkou. Řekneš jim, že žiješ, a vysvětlíš to nějakým příběhem, který se podobá, ale zároveň odporuje, tomu, co zažili. Například, že tě nechali na stanici ... TODO doplnit si detaily.
 
 
 
@@ -49,10 +53,13 @@ TODO (ne nutně v tomto pořadí):
     - možná: pokud jsou příliš naklonění vydání se, zakončit podezřele (např. "to by stačilo" vytrhnout vysílačku a mluvíme my)
     - opět říct, že příběh je jako inspirace, říct jeho smysl ve hře a preferovat hráče, aby si vytvořil / upravil vlastní.
 - doběhnutí simulace (tedy výsledky na terminál)
-- "Alexandra už to dávno ví"
+- "Alexandra už to dávno ví" -- TODO bug: Alexandra může být mrtvá postava.
 - možná: nějaký call to action k otevření nákladu?
 - možná: avizovat, že se otevřením něco stane, a jestli chtějí zariskovat, mají stát poblíž, a jestli ne, mají jít bokem (pokud bychom chtěli nějak racionalizovat diskuzi nad tím ne/brat alt. postavu)
 - možná: uvést, že jedna postava má speciální hru a hodně meta hru (aby nebyli smutní z CP role na konci).
+- nápad: druhá loď jim preventivně zničí motor pro případ, že by chtěli odletět. Může to na hráče působit i překvapivě (pokud možnost odletět nezvažovali).
+- nápad: Mohlo by to být i reálně tak, že postava skutečně hraje, tj. reálně ji cizí loď zachránila z vesmíru, akorát ji nutí něco říkat, a ona chce nějaký náznak, že je to fake, do zprávy vpašovat.
+- TODO napsat někam "zdroje" -- de facto inspirace. Mj. Vzpomínka na Zemi.
 
 # Fáze 3: závěr
 
