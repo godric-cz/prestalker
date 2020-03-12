@@ -43,9 +43,13 @@ V této fázi budeš mít dál k dispozici počítač. Pomocí zpráv v něm bud
 
 Zprávy ve vysílačce jsou zhruba následující:
 
-- Nějakou dobu po kontaktu s další lodí, pokud budou nebudou hráči jinak ochotní jednat o vzdání se, použijí organizátoři argument __„někdo by s vámi chtěl mluvit“__ a nechají tě s ostatními mluvit vysílačkou. Řekneš jim, že žiješ, a vysvětlíš to nějakým příběhem, který se podobá, ale zároveň odporuje, tomu, co zažili. Například, že tě nechali na stanici ... TODO doplnit si detaily.
+- Nějakou dobu po kontaktu s další lodí, pokud budou nebudou hráči ochotní jednat o vzdání se, použijí organizátoři argument __"někdo by s vámi chtěl mluvit"__ a nechají tě s ostatními mluvit vysílačkou. Řekneš jim, že žiješ, a vysvětlíš to nějakým příběhem, který se podobá, ale zároveň odporuje, tomu, co zažili. Například, že tě nechali na stanici, proto hmotnost lodi nebyla správná a proto se poškodil motor, a tebe vyzvedla tato loď, která letěla na záchranu, protože za dobu vašeho letu se zjistilo, že náklad je nebezpečný a vyvolává rušení. Klidně si domysli i detaily, například: Jak jsi viděla okénkem, jak ostatní mluví někam do prázdna, jako by si mysleli, že tam jsi, zatímco ty ses dobývala dovnitř, ale úplně tě ignorovali, a nakonec se rozhodli odletět.
+- Příběh výš ber jako inspiraci. Můžeš ho použít, ale klidně libovolně přibarvit, nebo i vymyslet úplně jiný, vlastní. Cílem je zasít ostatním postavám do hlavy pochybnosti, jestli to co prožívají je pravda, jestli nezačínají bláznit a jestli to co se stalo se skutečně stalo tak, jak si to pamatují. Proto by příběh měl být pro ostatní aspoň trochu uvěřitelný.
+- Další zpráva může být, že ostatní skutečně začínají bláznit, a že to způsobuje náklad. Rušení z něj je tak silné a na takových frekvencích, že ovlivňuje jejich vnímání, a že mají tím pádem náklad vydat. V nové lodi je stíněný kontejner, do kterého se náklad zavře, a tím se rušení zabrání.
+- Případně můžete i za běhu s organizátory vymyslet další zprávy.
+- Můžeš tlumočit požadavky organizátorů vůči zbytku kosmonautů jako "vyjednavač".
 
-
+TODO nyní počítač: ...
 
 TODO (ne nutně v tomto pořadí):
 
