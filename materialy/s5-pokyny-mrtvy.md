@@ -43,13 +43,17 @@ V této fázi budeš mít dál k dispozici počítač. Pomocí zpráv v něm bud
 
 Zprávy ve vysílačce jsou zhruba následující:
 
-- Nějakou dobu po kontaktu s další lodí, pokud budou nebudou hráči ochotní jednat o vzdání se, použijí organizátoři argument __"někdo by s vámi chtěl mluvit"__ a nechají tě s ostatními mluvit vysílačkou. Řekneš jim, že žiješ, a vysvětlíš to nějakým příběhem, který se podobá, ale zároveň odporuje, tomu, co zažili. Například, že tě nechali na stanici, proto hmotnost lodi nebyla správná a proto se poškodil motor, a tebe vyzvedla tato loď, která letěla na záchranu, protože za dobu vašeho letu se zjistilo, že náklad je nebezpečný a vyvolává rušení. Klidně si domysli i detaily, například: Jak jsi viděla okénkem, jak ostatní mluví někam do prázdna, jako by si mysleli, že tam jsi, zatímco ty ses dobývala dovnitř, ale úplně tě ignorovali, a nakonec se rozhodli odletět.
+- Nějakou dobu po kontaktu s další lodí, pokud nebudou hráči ochotní jednat o vzdání se, použijí organizátoři argument __"někdo by s vámi chtěl mluvit"__ a nechají tě s ostatními mluvit vysílačkou. Řekneš jim, že žiješ, a vysvětlíš to nějakým příběhem, který se podobá, ale zároveň odporuje, tomu, co zažili. Například, že tě nechali na stanici, proto hmotnost lodi nebyla správná a proto se poškodil motor, a tebe vyzvedla tato loď, která letěla na záchranu, protože za dobu vašeho letu se zjistilo, že náklad je nebezpečný a vyvolává rušení. Klidně si domysli i detaily, například: Jak jsi viděla okénkem, jak ostatní mluví někam do prázdna, jako by si mysleli, že tam jsi, zatímco ty ses dobývala dovnitř, ale úplně tě ignorovali, a nakonec se rozhodli odletět.
 - Příběh výš ber jako inspiraci. Můžeš ho použít, ale klidně libovolně přibarvit, nebo i vymyslet úplně jiný, vlastní. Cílem je zasít ostatním postavám do hlavy pochybnosti, jestli to co prožívají je pravda, jestli nezačínají bláznit a jestli to co se stalo se skutečně stalo tak, jak si to pamatují. Proto by příběh měl být pro ostatní aspoň trochu uvěřitelný.
-- Další zpráva může být, že ostatní skutečně začínají bláznit, a že to způsobuje náklad. Rušení z něj je tak silné a na takových frekvencích, že ovlivňuje jejich vnímání, a že mají tím pádem náklad vydat. V nové lodi je stíněný kontejner, do kterého se náklad zavře, a tím se rušení zabrání.
+- Další zpráva může být, že ostatní skutečně začínají bláznit, a že to způsobuje náklad. Rušení z něj je tak silné a na takových frekvencích, že ovlivňuje jejich vnímání, a že mají tím pádem kvůli vlastní bezpečnosti náklad vydat. V nové lodi je stíněný kontejner, do kterého se náklad zavře, a tím se rušení zabrání.
 - Případně můžete i za běhu s organizátory vymyslet další zprávy.
 - Můžeš tlumočit požadavky organizátorů vůči zbytku kosmonautů jako "vyjednavač".
 
-TODO nyní počítač: ...
+Zprávy v počítači můžou být následující:
+
+- __simulace dokončena... výsledky připraveny v dokumentu N5322__ - TODO (plus dodat do pokynů, plus dvě kopie)
+
+
 
 TODO (ne nutně v tomto pořadí):
 
@@ -59,6 +63,8 @@ TODO (ne nutně v tomto pořadí):
 - doběhnutí simulace (tedy výsledky na terminál)
 - "Alexandra už to dávno ví" -- TODO bug: Alexandra může být mrtvá postava.
 - možná: nějaký call to action k otevření nákladu?
+    - pokud dostanou první kód, můžou náklad otevřít bez infa
+    - pokud kód nemají, aspoň zůstanou ve hře, ale zas nemají možnost řešit, co s ním dál ... nutno domyslet
 - možná: avizovat, že se otevřením něco stane, a jestli chtějí zariskovat, mají stát poblíž, a jestli ne, mají jít bokem (pokud bychom chtěli nějak racionalizovat diskuzi nad tím ne/brat alt. postavu)
 - možná: uvést, že jedna postava má speciální hru a hodně meta hru (aby nebyli smutní z CP role na konci).
 - nápad: druhá loď jim preventivně zničí motor pro případ, že by chtěli odletět. Může to na hráče působit i překvapivě (pokud možnost odletět nezvažovali).
