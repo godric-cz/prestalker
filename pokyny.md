@@ -187,6 +187,8 @@ Příprava:
         {}: nahrát program...
         {}: [zaheslováno]
     - počítač předat mrtvému
+    - nachystat výsledky simulace N5322
+    - nachystat kopii výsledků simulace pro mrtvého N5322
 
 Začátek:
 

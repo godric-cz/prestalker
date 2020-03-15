@@ -16,11 +16,11 @@ Jak rychle posílat zprávy a gradovat situaci se bude řídit tím, jak bude vy
 
 Na začátku scény ostatní postavy řeší nefunkční hibernační jednotku a podezírají z její úpravy tvou původní postavu. Tomu odpovídají i záznamy v počítači. Pokud rovnou začnou zadávat nějaké normální příkazy do počítače, normálně jim od začátku odepisuješ. Po pár minutách (ideálně, když někdo zrovna bude u počítače) pošleš první divnou zprávu:
 
-- __j__ - Prostě jenom jedno nesmyslné písmeno a dál nereaguješ nijak, nebo jenom opět na normálně na normální výzvy.
+- __a__ - Prostě jenom jedno nesmyslné písmeno a dál nereaguješ nijak, nebo jenom opět normálně na normální výzvy.
 
 Pak postupně posíláš další zprávy, můžeš se inspirovat následujícím postupem:
 
-- __jjjjjjjj__ - Použiješ písmeno jako minule a vyplníš s ním obraz.
+- __aaaaaaaa__ - Použiješ písmeno jako minule a vyplníš s ním obraz.
 - __ahoj__ - Případně jiný pozdrav / slovo. Opět chvíli nereaguješ.
 - __ahoj__ - Stejně jako v předchozím případě, ale teď už na každou případnou zprávu, kterou hráči odpoví, odpovídáš pořád dokola "ahoj".
 - __ale proč?__ - Toto může znamenat třeba něco jako "proč jste mě tam nechali", ale ostatní si to můžou vyložit jakkoli. Opět můžeš zprávu zopakovat, podle toho, co (a jestli něco) hráči odpoví.
@@ -51,7 +51,7 @@ Zprávy ve vysílačce jsou zhruba následující:
 
 Zprávy v počítači můžou být následující:
 
-- __simulace dokončena... výsledky připraveny v dokumentu N5322__ - TODO (plus dodat do pokynů, plus dvě kopie)
+- __aparker: simulace dokončena... výsledky připraveny v dokumentu N5322__ - slovo `aparker` nahraď zkráceninou jména své původní postavy, např. `mfriday` pro Marca Fridaye a podobně. Touto zprávou zbytku posádky odhaluješ, že v počítači do teď běžela nějaká simulace, kterou, zdá se, spustila tvoje původní postava. Výsledky simulace naznačují, že náklad může být něco jako průchod do paralelní reality. Detaily si můžeš přečíst i ty, klidně hned, kopie dokumentu N5322 je pro tebe nachystaná. Spoluhráči můžou zareagovat různě: chtít náklad tím spíš vydat, nebo naopak ho odhodit do vesmíru, případně zjistit kód a náklad otevřít. TODO další zprávy podle toho a pamatuj že to máš vyvažovat a na konci směřovat k otevření (teda pokud skutečně budem preferovat otevření).
 
 
 
@@ -70,6 +70,7 @@ TODO (ne nutně v tomto pořadí):
 - nápad: druhá loď jim preventivně zničí motor pro případ, že by chtěli odletět. Může to na hráče působit i překvapivě (pokud možnost odletět nezvažovali).
 - nápad: Mohlo by to být i reálně tak, že postava skutečně hraje, tj. reálně ji cizí loď zachránila z vesmíru, akorát ji nutí něco říkat, a ona chce nějaký náznak, že je to fake, do zprávy vpašovat.
 - TODO napsat někam "zdroje" -- de facto inspirace. Mj. Vzpomínka na Zemi.
+- nápad: Pokud bednu vydají, odehrát nějakou variantu finální scény s organizátory? Případně po scéně nahrávku "zpráv", kde někdo bude říkat, jak zachránili kosmonauty, náklad zmizel, velitel zmizel, reportovali světlo (příp. nějaké videjko) a podobně? -- možná by mělo smysl i pro variantu, že přejdou, říct, že část se ztratila, nebo podobně. Možná by tam mohl vystoupit i ten mrtvý, s kterým bychom něco předtočili během závěrečné scény, pro větší fuckup. Zprávy by taky mohly být převyprávění příběhu jak ho postupně viděli ze Země. (Ta stíhající loď a podobně. Příp. nějaká eskalace mezinárodního napětí.)
 
 # Fáze 3: závěr
 
