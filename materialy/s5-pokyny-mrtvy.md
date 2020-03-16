@@ -43,15 +43,15 @@ V této fázi budeš mít dál k dispozici počítač. Pomocí zpráv v něm bud
 
 Zprávy ve vysílačce jsou zhruba následující:
 
-- Nějakou dobu po kontaktu s další lodí, pokud nebudou hráči ochotní jednat o vzdání se, použijí organizátoři argument __"někdo by s vámi chtěl mluvit"__ a nechají tě s ostatními mluvit vysílačkou. Řekneš jim, že žiješ, a vysvětlíš to nějakým příběhem, který se podobá, ale zároveň odporuje, tomu, co zažili. Například, že tě nechali na stanici, proto hmotnost lodi nebyla správná a proto se poškodil motor, a tebe vyzvedla tato loď, která letěla na záchranu, protože za dobu vašeho letu se zjistilo, že náklad je nebezpečný a vyvolává rušení. Klidně si domysli i detaily, například: Jak jsi viděla okénkem, jak ostatní mluví někam do prázdna, jako by si mysleli, že tam jsi, zatímco ty ses dobývala dovnitř, ale úplně tě ignorovali, a nakonec se rozhodli odletět.
-- Příběh výš ber jako inspiraci. Můžeš ho použít, ale klidně libovolně přibarvit, nebo i vymyslet úplně jiný, vlastní. Cílem je zasít ostatním postavám do hlavy pochybnosti, jestli to co prožívají je pravda, jestli nezačínají bláznit a jestli to co se stalo se skutečně stalo tak, jak si to pamatují. Proto by příběh měl být pro ostatní aspoň trochu uvěřitelný.
-- Další zpráva může být, že ostatní skutečně začínají bláznit, a že to způsobuje náklad. Rušení z něj je tak silné a na takových frekvencích, že ovlivňuje jejich vnímání, a že mají tím pádem kvůli vlastní bezpečnosti náklad vydat. V nové lodi je stíněný kontejner, do kterého se náklad zavře, a tím se rušení zabrání.
+- Nějakou dobu po kontaktu s další lodí, pokud nebudou hráči ochotní jednat o vzdání se, použijí organizátoři argument __"někdo by s vámi chtěl mluvit"__ a nechají tě s ostatními mluvit vysílačkou. Řekneš jim, že žiješ, a vysvětlíš to nějakým příběhem, který se trochu podobá, ale zároveň odporuje, tomu, co zažili. Například, že tě nechali na stanici, proto hmotnost lodi nebyla správná a proto se poškodil motor, a tebe vyzvedla tato loď, která letěla na záchranu, protože za dobu vašeho letu se zjistilo, že náklad je nebezpečný a vyvolává rušení. Klidně si domysli i detaily, například: Jak jsi viděla okénkem, jak ostatní mluví někam do prázdna, jako by si mysleli, že tam jsi, zatímco ty ses dobývala dovnitř, ale úplně tě ignorovali, a nakonec se rozhodli odletět.
+- Příběh výš ber jako inspiraci. Můžeš ho použít, ale klidně libovolně přibarvit, nebo i vymyslet úplně jiný, vlastní. Cílem je zasít ostatním postavám do hlavy pochybnosti, jestli to, co prožívají, je pravda, jestli nezačínají bláznit a jestli to, co se stalo, se skutečně stalo tak, jak si to pamatují. Proto by příběh měl být pro ostatní aspoň trochu uvěřitelný.
+- Další zpráva může být na přímo varování ostatním, že nejspíš mají halucinace, a že to způsobuje náklad. Rušení z něj je tak silné a na takových frekvencích, že ovlivňuje jejich vnímání, a že mají tím pádem kvůli vlastní bezpečnosti náklad vydat. V nové lodi je stíněný kontejner, do kterého se náklad zavře, a tím se rušení zabrání.
 - Případně můžete i za běhu s organizátory vymyslet další zprávy.
-- Můžeš tlumočit požadavky organizátorů vůči zbytku kosmonautů jako "vyjednavač".
+- Krom toho můžeš tlumočit požadavky organizátorů vůči zbytku kosmonautů jako "vyjednavač".
 
 Zprávy v počítači můžou být následující:
 
-- __aparker: simulace dokončena... výsledky připraveny v dokumentu N5322__ - slovo `aparker` nahraď zkráceninou jména své původní postavy, např. `mfriday` pro Marca Fridaye a podobně. Touto zprávou zbytku posádky odhaluješ, že v počítači do teď běžela nějaká simulace, kterou, zdá se, spustila tvoje původní postava. Výsledky simulace naznačují, že náklad může být něco jako průchod do paralelní reality. Detaily si můžeš přečíst i ty, klidně hned, kopie dokumentu N5322 je pro tebe nachystaná. Spoluhráči můžou zareagovat různě: chtít náklad tím spíš vydat, nebo naopak ho odhodit do vesmíru, případně zjistit kód a náklad otevřít. TODO další zprávy podle toho a pamatuj že to máš vyvažovat a na konci směřovat k otevření (teda pokud skutečně budem preferovat otevření).
+- __aparker: simulace dokončena... výsledky připraveny v dokumentu N5322__ - slovo `aparker` nahraď zkráceninou jména své původní postavy, např. `mfriday` pro Marca Fridaye a podobně. Touto zprávou zbytku posádky odhaluješ, že v počítači do teď běžela nějaká simulace, kterou, zdá se, spustila tvoje původní postava. Výsledky simulace naznačují, že náklad může být něco jako průchod do paralelní reality. Detaily si můžeš přečíst i ty, klidně hned, kopie dokumentu N5322 je pro tebe nachystaná. Spoluhráči můžou zareagovat různě: chtít náklad tím spíš vydat, nebo naopak ho odhodit do vesmíru, případně zjistit kód a náklad otevřít. Podle toho vybírej další zprávy. Cílem je, aby se ostatní příliš jednoznačně nepřiklonili k jediné variantě.
 
 
 
@@ -60,12 +60,16 @@ TODO (ne nutně v tomto pořadí):
 - "někdo s vámi chce mluvit" a vyprávění fake příběhu
     - možná: pokud jsou příliš naklonění vydání se, zakončit podezřele (např. "to by stačilo" vytrhnout vysílačku a mluvíme my)
     - opět říct, že příběh je jako inspirace, říct jeho smysl ve hře a preferovat hráče, aby si vytvořil / upravil vlastní.
+
 - doběhnutí simulace (tedy výsledky na terminál)
-- "Alexandra už to dávno ví" -- TODO bug: Alexandra může být mrtvá postava.
+- "Alexandra už to dávno ví" 1 -- v podstatě teasing, protože reálně to postavy nemají šanci vyluštit. Tím pádem lépe blíž začátku, aby byl na konci lepší efekt, jakmile se to vysvětlí / odhalí. TODO bug: Alexandra může být mrtvá postava. Možná nějak nasdílet příběh o bratrovi v předchozí scéně s někým dalším (třeba že na něj bude vzpomínat v některé scéně, nebo něco takového).
+- "Alexandra už to dávno ví" 2 -- reálné odhalení čísla.
 - možná: nějaký call to action k otevření nákladu?
     - pokud dostanou první kód, můžou náklad otevřít bez infa
     - pokud kód nemají, aspoň zůstanou ve hře, ale zas nemají možnost řešit, co s ním dál ... nutno domyslet
 - možná: avizovat, že se otevřením něco stane, a jestli chtějí zariskovat, mají stát poblíž, a jestli ne, mají jít bokem (pokud bychom chtěli nějak racionalizovat diskuzi nad tím ne/brat alt. postavu)
+
+- možná: zmínit, že na konci to má cílit k otevření krabice (pokud to teda bude zamýšlený preferovaný konec)
 - možná: uvést, že jedna postava má speciální hru a hodně meta hru (aby nebyli smutní z CP role na konci).
 - nápad: druhá loď jim preventivně zničí motor pro případ, že by chtěli odletět. Může to na hráče působit i překvapivě (pokud možnost odletět nezvažovali).
 - nápad: Mohlo by to být i reálně tak, že postava skutečně hraje, tj. reálně ji cizí loď zachránila z vesmíru, akorát ji nutí něco říkat, a ona chce nějaký náznak, že je to fake, do zprávy vpašovat.
