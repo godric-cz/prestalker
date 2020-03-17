@@ -62,19 +62,36 @@ TODO (ne nutně v tomto pořadí):
     - opět říct, že příběh je jako inspirace, říct jeho smysl ve hře a preferovat hráče, aby si vytvořil / upravil vlastní.
 
 - doběhnutí simulace (tedy výsledky na terminál)
-- "Alexandra už to dávno ví" 1 -- v podstatě teasing, protože reálně to postavy nemají šanci vyluštit. Tím pádem lépe blíž začátku, aby byl na konci lepší efekt, jakmile se to vysvětlí / odhalí. TODO bug: Alexandra může být mrtvá postava. Možná nějak nasdílet příběh o bratrovi v předchozí scéně s někým dalším (třeba že na něj bude vzpomínat v některé scéně, nebo něco takového).
+    - co by se tady mělo sdělit?
+- "Alexandra už to dávno ví" 1
+    - v podstatě teasing, protože reálně to postavy nemají šanci vyluštit. Tím pádem lépe blíž začátku, aby byl na konci lepší efekt, jakmile se to vysvětlí / odhalí.
+    - TODO bug: Alexandra může být mrtvá postava. Možná nějak nasdílet příběh o bratrovi v předchozí scéně s někým dalším (třeba že na něj bude vzpomínat v některé scéně, nebo něco takového).
+    - Může vygenerovat drama, že se Alexandry budou ptát, ona neví, můžou ji podezírat a řešit to.
 - "Alexandra už to dávno ví" 2 -- reálné odhalení čísla.
 - možná: nějaký call to action k otevření nákladu?
     - pokud dostanou první kód, můžou náklad otevřít bez infa
     - pokud kód nemají, aspoň zůstanou ve hře, ale zas nemají možnost řešit, co s ním dál ... nutno domyslet
 - možná: avizovat, že se otevřením něco stane, a jestli chtějí zariskovat, mají stát poblíž, a jestli ne, mají jít bokem (pokud bychom chtěli nějak racionalizovat diskuzi nad tím ne/brat alt. postavu)
+- "nevydávejte" nějaká jednoduchá nevysvětlená výzva, ať nevydávají
+- nějaký citát z Alenky nebo z Bible
+    - jako motivace k otevření. Něco stylu "jděte do králičí nory", "vaše cesta" a podobně.
+    - Čtení Bible by se mohlo naskriptovat v 4. scéně a tady citátem vrátit.
+- "jsme blízko" -- ve smyslu "vy a já jsme blízko" nebo "jsem skoro u vás" a podobně.
+
+
+
+Nápady:
 
 - možná: zmínit, že na konci to má cílit k otevření krabice (pokud to teda bude zamýšlený preferovaný konec)
 - možná: uvést, že jedna postava má speciální hru a hodně meta hru (aby nebyli smutní z CP role na konci).
 - nápad: druhá loď jim preventivně zničí motor pro případ, že by chtěli odletět. Může to na hráče působit i překvapivě (pokud možnost odletět nezvažovali).
 - nápad: Mohlo by to být i reálně tak, že postava skutečně hraje, tj. reálně ji cizí loď zachránila z vesmíru, akorát ji nutí něco říkat, a ona chce nějaký náznak, že je to fake, do zprávy vpašovat.
 - TODO napsat někam "zdroje" -- de facto inspirace. Mj. Vzpomínka na Zemi.
-- nápad: Pokud bednu vydají, odehrát nějakou variantu finální scény s organizátory? Případně po scéně nahrávku "zpráv", kde někdo bude říkat, jak zachránili kosmonauty, náklad zmizel, velitel zmizel, reportovali světlo (příp. nějaké videjko) a podobně? -- možná by mělo smysl i pro variantu, že přejdou, říct, že část se ztratila, nebo podobně. Možná by tam mohl vystoupit i ten mrtvý, s kterým bychom něco předtočili během závěrečné scény, pro větší fuckup. Zprávy by taky mohly být převyprávění příběhu jak ho postupně viděli ze Země. (Ta stíhající loď a podobně. Příp. nějaká eskalace mezinárodního napětí.)
+- nápad: Pokud bednu vydají, odehrát nějakou variantu finální scény s organizátory? Případně po scéně nahrávku "zpráv", kde někdo bude říkat, jak zachránili kosmonauty, náklad zmizel, velitel zmizel, reportovali světlo (příp. nějaké videjko) a podobně? -- možná by mělo smysl i pro variantu, že přejdou, říct, že část se ztratila, nebo podobně. Možná by tam mohl vystoupit i ten mrtvý, s kterým bychom něco předtočili během závěrečné scény, pro větší fuckup. Zprávy by taky mohly být převyprávění příběhu jak ho postupně viděli ze Země. (Ta stíhající loď a podobně. Příp. nějaká eskalace mezinárodního napětí.) Ve zprávách, že ty, co odmítli, vytáhli v bezvědomí (a ty, co přijali, že tam nebyli).
+- Mrtvá postava může spolupracovat (teď jsem jim utekla a můžu mluvit otevřeně, pomůžu vám apod.) nebo i se objevit na scéně (uteče ve skafandru z původní lodi např.).
+- Nějak odlišit (např. barevně) normální zprávy v terminálu od divno zpráv.
+- sny beze slov a pod světlem jako závěrečná scéna
+- po otevření boxu hrát hudbu
 
 # Fáze 3: závěr
 
