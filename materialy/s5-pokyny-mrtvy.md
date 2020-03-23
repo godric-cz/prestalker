@@ -67,6 +67,7 @@ TODO (ne nutně v tomto pořadí):
     - v podstatě teasing, protože reálně to postavy nemají šanci vyluštit. Tím pádem lépe blíž začátku, aby byl na konci lepší efekt, jakmile se to vysvětlí / odhalí.
     - TODO bug: Alexandra může být mrtvá postava. Možná nějak nasdílet příběh o bratrovi v předchozí scéně s někým dalším (třeba že na něj bude vzpomínat v některé scéně, nebo něco takového).
     - Může vygenerovat drama, že se Alexandry budou ptát, ona neví, můžou ji podezírat a řešit to.
+    - Možná, pokud není na scéně (nebo i pokud je) mít její osobní složku a vydat to jako dokument (tam bude "otec, nějaká info, narozen xyz, bratr, nějaké info, narozen xyz, zemřel xyz, riziko že ji ovlivňuje, bla bla". Možná toto bude mít Loren od začátku info? Psychologické profily?)
 - "Alexandra už to dávno ví" 2 -- reálné odhalení čísla.
 - možná: nějaký call to action k otevření nákladu?
     - pokud dostanou první kód, můžou náklad otevřít bez infa
@@ -77,8 +78,29 @@ TODO (ne nutně v tomto pořadí):
     - jako motivace k otevření. Něco stylu "jděte do králičí nory", "vaše cesta" a podobně.
     - Čtení Bible by se mohlo naskriptovat v 4. scéně a tady citátem vrátit.
 - "jsme blízko" -- ve smyslu "vy a já jsme blízko" nebo "jsem skoro u vás" a podobně.
+- můžou si myslet, že je to über-bomba, ale otevřením se aktivuje. Tím se oni obětují, ale bomba nepadne do nepovolaných rukou.
+    - asi ne, spíš překombinované
+    - může to použít ale jako argument druhá strana ("dejte nám bombu"), čímž zdánlivě motivuje vydání, ale může to být i protiargument ("zas měnili argumentaci, před tím psycho věc, teď bomba, určitě lžou a něco na nás šijou")
 
+Rozklad úrovně informovanosti:
 
+1. cizí loď "vydejte to"
+...
+N. vše:
+    - máme kód
+    - můžeme / chceme to otevřít
+        - co kdyby jim mrtvá postava z cizí lodi nabízela, že kód ví, a že to otevřou společně, jakmile se nalodí a náklad odevzdají?
+    - asi taky: blízkostí při otevření se s námi něco stane
+        - možná nějak říct "alt. reality se propojí, nedá se předvídat, co to znamená nebo jak to budete prožívat, ale možná budete prožívat realitu, vzpomínky a to co se stalo úplně odlišně"
+    - asi taky: je to něco s alt. realitou
+
+Rozklad gradace:
+
+1. je to nebezpečné (světu), nechceme vydat
+2. jsou blízko, už to nejde vyhodit
+3. otevření to neutralizuje, ale je risk
+    - možná nejdřív "risk na levlu obětovat se" a pak "možná ne obětovat se ale přejít jinam / dál"
+4. možnost: otevřít a schovat, tvrdit, že bylo prázdné
 
 Nápady:
 
@@ -87,11 +109,12 @@ Nápady:
 - nápad: druhá loď jim preventivně zničí motor pro případ, že by chtěli odletět. Může to na hráče působit i překvapivě (pokud možnost odletět nezvažovali).
 - nápad: Mohlo by to být i reálně tak, že postava skutečně hraje, tj. reálně ji cizí loď zachránila z vesmíru, akorát ji nutí něco říkat, a ona chce nějaký náznak, že je to fake, do zprávy vpašovat.
 - TODO napsat někam "zdroje" -- de facto inspirace. Mj. Vzpomínka na Zemi.
-- nápad: Pokud bednu vydají, odehrát nějakou variantu finální scény s organizátory? Případně po scéně nahrávku "zpráv", kde někdo bude říkat, jak zachránili kosmonauty, náklad zmizel, velitel zmizel, reportovali světlo (příp. nějaké videjko) a podobně? -- možná by mělo smysl i pro variantu, že přejdou, říct, že část se ztratila, nebo podobně. Možná by tam mohl vystoupit i ten mrtvý, s kterým bychom něco předtočili během závěrečné scény, pro větší fuckup. Zprávy by taky mohly být převyprávění příběhu jak ho postupně viděli ze Země. (Ta stíhající loď a podobně. Příp. nějaká eskalace mezinárodního napětí.) Ve zprávách, že ty, co odmítli, vytáhli v bezvědomí (a ty, co přijali, že tam nebyli).
+- nápad: Pokud bednu vydají, odehrát nějakou variantu finální scény s organizátory? Případně po scéně nahrávku "zpráv", kde někdo bude říkat, jak zachránili kosmonauty, náklad zmizel, velitel zmizel, reportovali světlo (příp. nějaké videjko) a podobně? -- možná by mělo smysl i pro variantu, že přejdou, říct, že část se ztratila, nebo podobně. Možná by tam mohl vystoupit i ten mrtvý, s kterým bychom něco předtočili během závěrečné scény, pro větší fuckup. Mohla by to být např. tiskovka: Měli bychom nahrané otázky v jiných hlasech a background. Zprávy by taky mohly být převyprávění příběhu jak ho postupně viděli ze Země. (Ta stíhající loď a podobně. Příp. nějaká eskalace mezinárodního napětí.) Ve zprávách, že ty, co odmítli, vytáhli v bezvědomí (a ty, co přijali, že tam nebyli).
 - Mrtvá postava může spolupracovat (teď jsem jim utekla a můžu mluvit otevřeně, pomůžu vám apod.) nebo i se objevit na scéně (uteče ve skafandru z původní lodi např.).
 - Nějak odlišit (např. barevně) normální zprávy v terminálu od divno zpráv.
 - sny beze slov a pod světlem jako závěrečná scéna
 - po otevření boxu hrát hudbu
+- někomu dát preskript: "ve chvíli, kdy se bude řešit co s nákladem, budeš alespoň ze začátku proti zahození (+nějaké argumenty)"
 
 # Fáze 3: závěr
 
