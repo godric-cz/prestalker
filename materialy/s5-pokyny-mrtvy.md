@@ -46,16 +46,26 @@ Zprávy ve vysílačce jsou zhruba následující:
 - Nějakou dobu po kontaktu s další lodí, pokud nebudou hráči ochotní jednat o vzdání se, použijí organizátoři argument __"někdo by s vámi chtěl mluvit"__ a nechají tě s ostatními mluvit vysílačkou. Řekneš jim, že žiješ, a vysvětlíš to nějakým příběhem, který se trochu podobá, ale zároveň odporuje, tomu, co zažili. Například, že tě nechali na stanici, proto hmotnost lodi nebyla správná a proto se poškodil motor, a tebe vyzvedla tato loď, která letěla na záchranu, protože za dobu vašeho letu se zjistilo, že náklad je nebezpečný a vyvolává rušení. Klidně si domysli i detaily, například: Jak jsi viděla okénkem, jak ostatní mluví někam do prázdna, jako by si mysleli, že tam jsi, zatímco ty ses dobývala dovnitř, ale úplně tě ignorovali, a nakonec se rozhodli odletět.
 - Příběh výš ber jako inspiraci. Můžeš ho použít, ale klidně libovolně přibarvit, nebo i vymyslet úplně jiný, vlastní. Cílem je zasít ostatním postavám do hlavy pochybnosti, jestli to, co prožívají, je pravda, jestli nezačínají bláznit a jestli to, co se stalo, se skutečně stalo tak, jak si to pamatují. Proto by příběh měl být pro ostatní aspoň trochu uvěřitelný.
 - Další zpráva může být na přímo varování ostatním, že nejspíš mají halucinace, a že to způsobuje náklad. Rušení z něj je tak silné a na takových frekvencích, že ovlivňuje jejich vnímání, a že mají tím pádem kvůli vlastní bezpečnosti náklad vydat. V nové lodi je stíněný kontejner, do kterého se náklad zavře, a tím se rušení zabrání.
-- Případně můžete i za běhu s organizátory vymyslet další zprávy.
+- Případně můžeš i za běhu s organizátory vymyslet další zprávy.
 - Krom toho můžeš tlumočit požadavky organizátorů vůči zbytku kosmonautů jako "vyjednavač".
 
 Zprávy v počítači můžou být následující:
 
 - __aparker: simulace dokončena... výsledky připraveny v dokumentu N5322__ - slovo `aparker` nahraď zkráceninou jména své původní postavy, např. `mfriday` pro Marca Fridaye a podobně. Touto zprávou zbytku posádky odhaluješ, že v počítači do teď běžela nějaká simulace, kterou, zdá se, spustila tvoje původní postava. Výsledky simulace naznačují, že náklad může být něco jako průchod do paralelní reality. Detaily si můžeš přečíst i ty, klidně hned, kopie dokumentu N5322 je pro tebe nachystaná. Spoluhráči můžou zareagovat různě: chtít náklad tím spíš vydat, nebo naopak ho odhodit do vesmíru, případně zjistit kód a náklad otevřít. Podle toho vybírej další zprávy. Cílem je, aby se ostatní příliš jednoznačně nepřiklonili k jediné variantě.
 
+---
 
+TODO
 
-TODO (ne nutně v tomto pořadí):
+Návrhy zpráv:
+
+- simulace dokončena: doplnit jak působí gravitace obrázek, jak se kříží reality obrázek, popis "zóna ekvilibria". Popsat, že kdo bude uvnitř, tj. blízko krabice, může se mu stát cokoli.
+- "uvnitř je celý svět \n kterým rukám ho svěříte?"
+- "vy jste uvnitř, ne já"
+- "chtějte poznat pravdu" nebo jinak (přímá výzva, aby do toho šli)
+- TODO nákop, aby před otevřením se rozloučili a začali se vůbec hádat, kdo do toho půjde.
+
+(ne nutně v tomto pořadí):
 
 - "někdo s vámi chce mluvit" a vyprávění fake příběhu
     - možná: pokud jsou příliš naklonění vydání se, zakončit podezřele (např. "to by stačilo" vytrhnout vysílačku a mluvíme my)
@@ -111,10 +121,11 @@ Nápady:
 - TODO napsat někam "zdroje" -- de facto inspirace. Mj. Vzpomínka na Zemi.
 - nápad: Pokud bednu vydají, odehrát nějakou variantu finální scény s organizátory? Případně po scéně nahrávku "zpráv", kde někdo bude říkat, jak zachránili kosmonauty, náklad zmizel, velitel zmizel, reportovali světlo (příp. nějaké videjko) a podobně? -- možná by mělo smysl i pro variantu, že přejdou, říct, že část se ztratila, nebo podobně. Možná by tam mohl vystoupit i ten mrtvý, s kterým bychom něco předtočili během závěrečné scény, pro větší fuckup. Mohla by to být např. tiskovka: Měli bychom nahrané otázky v jiných hlasech a background. Zprávy by taky mohly být převyprávění příběhu jak ho postupně viděli ze Země. (Ta stíhající loď a podobně. Příp. nějaká eskalace mezinárodního napětí.) Ve zprávách, že ty, co odmítli, vytáhli v bezvědomí (a ty, co přijali, že tam nebyli).
 - Mrtvá postava může spolupracovat (teď jsem jim utekla a můžu mluvit otevřeně, pomůžu vám apod.) nebo i se objevit na scéně (uteče ve skafandru z původní lodi např.).
-- Nějak odlišit (např. barevně) normální zprávy v terminálu od divno zpráv.
+- Nějak odlišit (např. barevně) normální zprávy v terminálu od divno zpráv. Možná org píše normální zprávy (normální barvou) a postava divno zprávy (divno barvou). Potom "simulace doběhla" by byla normální zpráva.
 - sny beze slov a pod světlem jako závěrečná scéna
 - po otevření boxu hrát hudbu
 - někomu dát preskript: "ve chvíli, kdy se bude řešit co s nákladem, budeš alespoň ze začátku proti zahození (+nějaké argumenty)"
+- akcelerace rozhodnutí: vyhrožování střelbou
 
 # Fáze 3: závěr
 
