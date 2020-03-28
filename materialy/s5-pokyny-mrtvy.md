@@ -51,7 +51,8 @@ Zprávy ve vysílačce jsou zhruba následující:
 
 Zprávy v počítači můžou být následující:
 
-- __aparker: simulace dokončena... výsledky připraveny v dokumentu N5322__ - slovo `aparker` nahraď zkráceninou jména své původní postavy, např. `mfriday` pro Marca Fridaye a podobně. Touto zprávou zbytku posádky odhaluješ, že v počítači do teď běžela nějaká simulace, kterou, zdá se, spustila tvoje původní postava. Výsledky simulace naznačují, že náklad může být něco jako průchod do paralelní reality. Detaily si můžeš přečíst i ty, klidně hned, kopie dokumentu N5322 je pro tebe nachystaná. Spoluhráči můžou zareagovat různě: chtít náklad tím spíš vydat, nebo naopak ho odhodit do vesmíru, případně zjistit kód a náklad otevřít. Podle toho vybírej další zprávy. Cílem je, aby se ostatní příliš jednoznačně nepřiklonili k jediné variantě.
+- __aparker: simulace dokončena... výsledky připraveny v dokumentu N5322__ - slovo `aparker` nahraď zkráceninou jména své původní postavy, např. `mfriday` pro Marca Fridaye a podobně. Touto zprávou zbytku posádky odhaluješ, že v počítači do teď běžela nějaká simulace, kterou, zdá se, spustila tvoje původní postava. Výsledky simulace naznačují, že náklad může být něco jako průchod do paralelní reality. Detaily si můžeš přečíst i ty, klidně hned, kopie dokumentu N5322 je pro tebe nachystaná. Spoluhráči můžou zareagovat různě: chtít náklad tím spíš vydat, nebo naopak ho odhodit do vesmíru, případně zjistit kód a náklad otevřít. Podle toho vybírej další zprávy. Cílem je, aby se ostatní příliš jednoznačně nepřiklonili k jediné variantě a ideálně všechny možnosti alespoň zvažovali.
+-
 
 ---
 
@@ -59,11 +60,28 @@ TODO
 
 Návrhy zpráv:
 
-- simulace dokončena: doplnit jak působí gravitace obrázek, jak se kříží reality obrázek, popis "zóna ekvilibria". Popsat, že kdo bude uvnitř, tj. blízko krabice, může se mu stát cokoli.
+- simulace dokončena
+    - INFO: je to portál, otevřením se něco stane, ovlivní to jen ty blízko
+    - CTA: chtít to otevřít (ale jak?)
+    - doplnit jak působí gravitace obrázek, jak se kříží reality obrázek, popis "zóna ekvilibria". Popsat, že kdo bude uvnitř, tj. blízko krabice, může se mu stát cokoli.
+- alexandra 1
+    - CTA: hádka s Alexandrou / o ní
+    - nějaká hláška, že alexandra ví, jak to otevřít
+    - může být reakce na to, pokud řeknou "neumíme to otevřít, je to bezpředmětný"
+    - může fungovat (?) i pokud je Alexandra mrtvá - budou to pak řešit přes vysílačku
+- alexandra 2
+    - INFO: kód je datum narození Alexandřina bratra
+    - CTA: můžete otevřít krabici
+    - možná i částečně "řešte, kdo to udělá a proč", viz dál
+    - hráč může poslat víc "nápověd", aby si na to přišli sami, než touto zprávou odhalí odpověď přímo
 - "uvnitř je celý svět \n kterým rukám ho svěříte?"
+    - low prio CTA: nevydávejte to
 - "vy jste uvnitř, ne já"
-- "chtějte poznat pravdu" nebo jinak (přímá výzva, aby do toho šli)
-- TODO nákop, aby před otevřením se rozloučili a začali se vůbec hádat, kdo do toho půjde.
+- "chtějte poznat pravdu"
+    - low prio CTA: otevřete to (nový argument pro otevření)
+    - nebo jiný popis, který jim přidá další motivaci, proč otevřít
+- ??? TODO
+    - CTA: aby se před otevřením rozloučili a začali se vůbec hádat, kdo do toho půjde
 
 (ne nutně v tomto pořadí):
 
