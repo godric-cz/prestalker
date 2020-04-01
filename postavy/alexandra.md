@@ -2,6 +2,8 @@
 
 - TODO kapitánka
 - TODO je slavná (viz pokyny 1. scéna)
+- TODO mrtvý bratr Ian, datum smrti 31.11.
+    - pak možná zapojit i do dalších míst, např. že si ho připomíná nebo že na něj vzpomene v nějaké předchozí scéně, např. bude smutná / vzteklá a pak z ní vypadne, že je výročí jeho úmrtí a proto se omluví.
 
 # 2. scéna
 

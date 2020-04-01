@@ -20,13 +20,13 @@ Pokud by se v té oblasti pohyboval člověk, musel by zažívat něco velmi zvl
 
 Pokud by někdo náklad otevřel, na všechny uvnitř zóny ekvilibria by to nejspíš mělo okamžitý efekt. Jak by to vnímal člověk uvnitř (jestli by dokázal vnímat různé prostory, jestli by se dokázal mezi nimi pohybovat, jestli by vůbec fyzicky a duševně tu situaci zvládnul) stejně tak co by viděli vnější pozorovatelé (jestli se obraz člověka vevnitř nějak změní, pohybuje, nebo zmizí) není jasné.
 
-(obrázek: horizont a elektron, pozitron pár)
-
-TODO fyzická hranice, vypařování. Rozmyslet, jestli tu psát.
-
 
 
 TODO
 - nápad: formátovat jako vědecký článek (dva sloupce, grafy)
 - nápad: dát tu úvahu už dřív nějaké jiné postavě, která ji tady řekne veřejně
     - tento nápad je z inspirací v návrhovém dokumentu
+- fyzická hranice, vypařování
+    - rozmyslet, jestli na konec dopsat. Jde o to, aby nespekulovali, jestli přistupovat postupně, sledovat co se stane, atd. Jestli bude na začátku instrukce, že otevřením krabice hra končí, potom to možná nebude potřeba.
+    - chybí CTA? Je text výš dostatečná motivace, aby chtěli box otevřít?
+    - obrázek: horizont a elektron, pozitron pár

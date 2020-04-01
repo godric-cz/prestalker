@@ -52,9 +52,13 @@ Zprávy ve vysílačce jsou zhruba následující:
 Zprávy v počítači můžou být následující:
 
 - __aparker: simulace dokončena... výsledky připraveny v dokumentu N5322__ - slovo `aparker` nahraď zkráceninou jména své původní postavy, např. `mfriday` pro Marca Fridaye a podobně. Touto zprávou zbytku posádky odhaluješ, že v počítači do teď běžela nějaká simulace, kterou, zdá se, spustila tvoje původní postava. Výsledky simulace naznačují, že náklad může být něco jako průchod do paralelní reality. Detaily si můžeš přečíst i ty, klidně hned, kopie dokumentu N5322 je pro tebe nachystaná. Spoluhráči můžou zareagovat různě: chtít náklad tím spíš vydat, nebo naopak ho odhodit do vesmíru, případně zjistit kód a náklad otevřít. Podle toho vybírej další zprávy. Cílem je, aby se ostatní příliš jednoznačně nepřiklonili k jediné variantě a ideálně všechny možnosti alespoň zvažovali.
--
+- __Alexandra zná kód__ - tato zpráva je naznačení, že Alexandra zná kód k otevření boxu s nákladem. Zatím je to jen naznačení, takže i pokud budou spoluhráči tápat, jaký kód, nebo co to má znamenat, klidně je v tom nech. Alexandra kód skutečně zná: je to 3111, datum utopení jejího bratra (ačkoli ona sama o tom neví). Pokud je Alexandra na lodi, cílem je, aby ji začali zpovídat a řešit, jestli kód skutečně zná, a proč ho případně nechce říct. Pokud Alexandru hraješ ty, možná se tě pokusí zeptat vysílačkou. Pokud by hráči zprávu ignorovali, můžeš ji poslat znovu / víckrát.
+- __Ian zná kód__ - tato zpráva je naznačení, že kód je datum úmrtí Alexandřina bratra. V ideálním případě začnou spoluhráči řešit, kdo je Ian. Pokud by zprávu ignorovali, můžeš ji poslat víckrát, případně potom střídavě "Ian zná kód" "Alexandra zná kód", aby si ty dva spojili dohromady. Pokud by spoluhráči přišli takto na kód sami, bylo by to super. Pokud ne, můžeš zkusit vymyslet ještě další naznačení, nebo nakonec prostě napsat __3111__. Pro smysluplné zakončení hry kód musí mít.
+- __vy jste uvnitř, ne já__ - zpráva pro atmosféru. Hodí se zvlášť dobře, pokud někdo zrovna řekne, že něco je "uvnitř" nákladu.
 
----
+
+
+
 
 TODO
 
@@ -69,6 +73,10 @@ Návrhy zpráv:
     - nějaká hláška, že alexandra ví, jak to otevřít
     - může být reakce na to, pokud řeknou "neumíme to otevřít, je to bezpředmětný"
     - může fungovat (?) i pokud je Alexandra mrtvá - budou to pak řešit přes vysílačku
+- ??? TODO
+    - INFO: otevření je vstup do jiné reality
+    - CTA: otevřete krabici
+    - nemělo by ale být důvěryhodné pro všechny. Buď preskriptem někoho navést, aby zpochybňoval věrohodnost zpráv, nebo nedávat toto info vůbec skrze zprávu, ale jinak (preskript, případně obnovit zprávy ze Země?)
 - alexandra 2
     - INFO: kód je datum narození Alexandřina bratra
     - CTA: můžete otevřít krabici
@@ -78,7 +86,7 @@ Návrhy zpráv:
     - low prio CTA: nevydávejte to
 - "vy jste uvnitř, ne já"
 - "chtějte poznat pravdu"
-    - low prio CTA: otevřete to (nový argument pro otevření)
+    - low prio CTA: otevřete krabici (nový argument pro otevření)
     - nebo jiný popis, který jim přidá další motivaci, proč otevřít
 - ??? TODO
     - CTA: aby se před otevřením rozloučili a začali se vůbec hádat, kdo do toho půjde
