@@ -88,8 +88,12 @@ Návrhy zpráv:
 - "chtějte poznat pravdu"
     - low prio CTA: otevřete krabici (nový argument pro otevření)
     - nebo jiný popis, který jim přidá další motivaci, proč otevřít
+- "vaše cesta není u konce" - případně "cesta pokračuje na druhé straně"
+- "setkáme se na druhé straně"
+- "{něco} na druhé straně" - odpovědi jsou na druhé straně, pravda je na druhé straně, {jméno} je na druhé straně (např. ten mrtvý, nebo někdo z historie postav)
 - ??? TODO
     - CTA: aby se před otevřením rozloučili a začali se vůbec hádat, kdo do toho půjde
+    - možná ne jako zpráva (zprávy motivují k otevření, toto spíš proti, mohlo by to působit divně)
 
 (ne nutně v tomto pořadí):
 
