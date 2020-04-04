@@ -52,110 +52,14 @@ Zprávy ve vysílačce jsou zhruba následující:
 Zprávy v počítači můžou být následující:
 
 - __aparker: simulace dokončena... výsledky připraveny v dokumentu N5322__ - slovo `aparker` nahraď zkráceninou jména své původní postavy, např. `mfriday` pro Marca Fridaye a podobně. Touto zprávou zbytku posádky odhaluješ, že v počítači do teď běžela nějaká simulace, kterou, zdá se, spustila tvoje původní postava. Výsledky simulace naznačují, že náklad může být něco jako průchod do paralelní reality. Detaily si můžeš přečíst i ty, klidně hned, kopie dokumentu N5322 je pro tebe nachystaná. Spoluhráči můžou zareagovat různě: chtít náklad tím spíš vydat, nebo naopak ho odhodit do vesmíru, případně zjistit kód a náklad otevřít. Podle toho vybírej další zprávy. Cílem je, aby se ostatní příliš jednoznačně nepřiklonili k jediné variantě a ideálně všechny možnosti alespoň zvažovali.
-- __Alexandra zná kód__ - tato zpráva je naznačení, že Alexandra zná kód k otevření boxu s nákladem. Zatím je to jen naznačení, takže i pokud budou spoluhráči tápat, jaký kód, nebo co to má znamenat, klidně je v tom nech. Alexandra kód skutečně zná: je to 3111, datum utopení jejího bratra (ačkoli ona sama o tom neví). Pokud je Alexandra na lodi, cílem je, aby ji začali zpovídat a řešit, jestli kód skutečně zná, a proč ho případně nechce říct. Pokud Alexandru hraješ ty, možná se tě pokusí zeptat vysílačkou. Pokud by hráči zprávu ignorovali, můžeš ji poslat znovu / víckrát.
+- __Alexandra zná kód__ - tato zpráva je naznačení, že Alexandra zná kód k otevření boxu s nákladem. Zatím je to jen naznačení, takže i pokud budou spoluhráči tápat, jaký kód, nebo co to má znamenat, klidně je v tom nech. Alexandra kód skutečně zná: je to 3111, datum utopení jejího bratra (ačkoli ona sama o tom neví). Pokud je Alexandra na lodi, cílem je, aby ji začali zpovídat a řešit, jestli kód skutečně zná, a proč ho případně nechce říct. Pokud Alexandru hraješ ty, můžou se tě na to zeptat vysílačkou. Pokud by hráči zprávu ignorovali, můžeš ji poslat znovu / víckrát.
 - __Ian zná kód__ - tato zpráva je naznačení, že kód je datum úmrtí Alexandřina bratra. V ideálním případě začnou spoluhráči řešit, kdo je Ian. Pokud by zprávu ignorovali, můžeš ji poslat víckrát, případně potom střídavě "Ian zná kód" "Alexandra zná kód", aby si ty dva spojili dohromady. Pokud by spoluhráči přišli takto na kód sami, bylo by to super. Pokud ne, můžeš zkusit vymyslet ještě další naznačení, nebo nakonec prostě napsat __3111__. Pro smysluplné zakončení hry kód musí mít.
+- __uvnitř je celý svět__ a po chviličce __komu ho svěřujete?__ - motivace, aby spoluhráči začali přemýšlet o svojí odpovědnosti, komu náklad vydávají a jestli ho nemůže nějak zneužít (pokud toto téma už neotevřeli sami od sebe).
 - __vy jste uvnitř, ne já__ - zpráva pro atmosféru. Hodí se zvlášť dobře, pokud někdo zrovna řekne, že něco je "uvnitř" nákladu.
-
-
-
-
+- __vaše cesta ještě není u konce__ - motivace, aby otevřeli náklad.
+- __
 
 TODO
-
-Návrhy zpráv:
-
-- simulace dokončena
-    - INFO: je to portál, otevřením se něco stane, ovlivní to jen ty blízko
-    - CTA: chtít to otevřít (ale jak?)
-    - doplnit jak působí gravitace obrázek, jak se kříží reality obrázek, popis "zóna ekvilibria". Popsat, že kdo bude uvnitř, tj. blízko krabice, může se mu stát cokoli.
-- alexandra 1
-    - CTA: hádka s Alexandrou / o ní
-    - nějaká hláška, že alexandra ví, jak to otevřít
-    - může být reakce na to, pokud řeknou "neumíme to otevřít, je to bezpředmětný"
-    - může fungovat (?) i pokud je Alexandra mrtvá - budou to pak řešit přes vysílačku
-- ??? TODO
-    - INFO: otevření je vstup do jiné reality
-    - CTA: otevřete krabici
-    - nemělo by ale být důvěryhodné pro všechny. Buď preskriptem někoho navést, aby zpochybňoval věrohodnost zpráv, nebo nedávat toto info vůbec skrze zprávu, ale jinak (preskript, případně obnovit zprávy ze Země?)
-- alexandra 2
-    - INFO: kód je datum narození Alexandřina bratra
-    - CTA: můžete otevřít krabici
-    - možná i částečně "řešte, kdo to udělá a proč", viz dál
-    - hráč může poslat víc "nápověd", aby si na to přišli sami, než touto zprávou odhalí odpověď přímo
-- "uvnitř je celý svět \n kterým rukám ho svěříte?"
-    - low prio CTA: nevydávejte to
-- "vy jste uvnitř, ne já"
-- "chtějte poznat pravdu"
-    - low prio CTA: otevřete krabici (nový argument pro otevření)
-    - nebo jiný popis, který jim přidá další motivaci, proč otevřít
-- "vaše cesta není u konce" - případně "cesta pokračuje na druhé straně"
-- "setkáme se na druhé straně"
-- "{něco} na druhé straně" - odpovědi jsou na druhé straně, pravda je na druhé straně, {jméno} je na druhé straně (např. ten mrtvý, nebo někdo z historie postav)
-- ??? TODO
-    - CTA: aby se před otevřením rozloučili a začali se vůbec hádat, kdo do toho půjde
-    - možná ne jako zpráva (zprávy motivují k otevření, toto spíš proti, mohlo by to působit divně)
-
-(ne nutně v tomto pořadí):
-
-- "někdo s vámi chce mluvit" a vyprávění fake příběhu
-    - možná: pokud jsou příliš naklonění vydání se, zakončit podezřele (např. "to by stačilo" vytrhnout vysílačku a mluvíme my)
-    - opět říct, že příběh je jako inspirace, říct jeho smysl ve hře a preferovat hráče, aby si vytvořil / upravil vlastní.
-
-- doběhnutí simulace (tedy výsledky na terminál)
-    - co by se tady mělo sdělit?
-- "Alexandra už to dávno ví" 1
-    - v podstatě teasing, protože reálně to postavy nemají šanci vyluštit. Tím pádem lépe blíž začátku, aby byl na konci lepší efekt, jakmile se to vysvětlí / odhalí.
-    - TODO bug: Alexandra může být mrtvá postava. Možná nějak nasdílet příběh o bratrovi v předchozí scéně s někým dalším (třeba že na něj bude vzpomínat v některé scéně, nebo něco takového).
-    - Může vygenerovat drama, že se Alexandry budou ptát, ona neví, můžou ji podezírat a řešit to.
-    - Možná, pokud není na scéně (nebo i pokud je) mít její osobní složku a vydat to jako dokument (tam bude "otec, nějaká info, narozen xyz, bratr, nějaké info, narozen xyz, zemřel xyz, riziko že ji ovlivňuje, bla bla". Možná toto bude mít Loren od začátku info? Psychologické profily?)
-- "Alexandra už to dávno ví" 2 -- reálné odhalení čísla.
-- možná: nějaký call to action k otevření nákladu?
-    - pokud dostanou první kód, můžou náklad otevřít bez infa
-    - pokud kód nemají, aspoň zůstanou ve hře, ale zas nemají možnost řešit, co s ním dál ... nutno domyslet
-- možná: avizovat, že se otevřením něco stane, a jestli chtějí zariskovat, mají stát poblíž, a jestli ne, mají jít bokem (pokud bychom chtěli nějak racionalizovat diskuzi nad tím ne/brat alt. postavu)
-- "nevydávejte" nějaká jednoduchá nevysvětlená výzva, ať nevydávají
-- nějaký citát z Alenky nebo z Bible
-    - jako motivace k otevření. Něco stylu "jděte do králičí nory", "vaše cesta" a podobně.
-    - Čtení Bible by se mohlo naskriptovat v 4. scéně a tady citátem vrátit.
-- "jsme blízko" -- ve smyslu "vy a já jsme blízko" nebo "jsem skoro u vás" a podobně.
-- můžou si myslet, že je to über-bomba, ale otevřením se aktivuje. Tím se oni obětují, ale bomba nepadne do nepovolaných rukou.
-    - asi ne, spíš překombinované
-    - může to použít ale jako argument druhá strana ("dejte nám bombu"), čímž zdánlivě motivuje vydání, ale může to být i protiargument ("zas měnili argumentaci, před tím psycho věc, teď bomba, určitě lžou a něco na nás šijou")
-
-Rozklad úrovně informovanosti:
-
-1. cizí loď "vydejte to"
-...
-N. vše:
-    - máme kód
-    - můžeme / chceme to otevřít
-        - co kdyby jim mrtvá postava z cizí lodi nabízela, že kód ví, a že to otevřou společně, jakmile se nalodí a náklad odevzdají?
-    - asi taky: blízkostí při otevření se s námi něco stane
-        - možná nějak říct "alt. reality se propojí, nedá se předvídat, co to znamená nebo jak to budete prožívat, ale možná budete prožívat realitu, vzpomínky a to co se stalo úplně odlišně"
-    - asi taky: je to něco s alt. realitou
-
-Rozklad gradace:
-
-1. je to nebezpečné (světu), nechceme vydat
-2. jsou blízko, už to nejde vyhodit
-3. otevření to neutralizuje, ale je risk
-    - možná nejdřív "risk na levlu obětovat se" a pak "možná ne obětovat se ale přejít jinam / dál"
-4. možnost: otevřít a schovat, tvrdit, že bylo prázdné
-
-Nápady:
-
-- možná: zmínit, že na konci to má cílit k otevření krabice (pokud to teda bude zamýšlený preferovaný konec)
-- možná: uvést, že jedna postava má speciální hru a hodně meta hru (aby nebyli smutní z CP role na konci).
-- nápad: druhá loď jim preventivně zničí motor pro případ, že by chtěli odletět. Může to na hráče působit i překvapivě (pokud možnost odletět nezvažovali).
-- nápad: Mohlo by to být i reálně tak, že postava skutečně hraje, tj. reálně ji cizí loď zachránila z vesmíru, akorát ji nutí něco říkat, a ona chce nějaký náznak, že je to fake, do zprávy vpašovat.
-- TODO napsat někam "zdroje" -- de facto inspirace. Mj. Vzpomínka na Zemi.
-- nápad: Pokud bednu vydají, odehrát nějakou variantu finální scény s organizátory? Případně po scéně nahrávku "zpráv", kde někdo bude říkat, jak zachránili kosmonauty, náklad zmizel, velitel zmizel, reportovali světlo (příp. nějaké videjko) a podobně? -- možná by mělo smysl i pro variantu, že přejdou, říct, že část se ztratila, nebo podobně. Možná by tam mohl vystoupit i ten mrtvý, s kterým bychom něco předtočili během závěrečné scény, pro větší fuckup. Mohla by to být např. tiskovka: Měli bychom nahrané otázky v jiných hlasech a background. Zprávy by taky mohly být převyprávění příběhu jak ho postupně viděli ze Země. (Ta stíhající loď a podobně. Příp. nějaká eskalace mezinárodního napětí.) Ve zprávách, že ty, co odmítli, vytáhli v bezvědomí (a ty, co přijali, že tam nebyli).
-- Mrtvá postava může spolupracovat (teď jsem jim utekla a můžu mluvit otevřeně, pomůžu vám apod.) nebo i se objevit na scéně (uteče ve skafandru z původní lodi např.).
-- Nějak odlišit (např. barevně) normální zprávy v terminálu od divno zpráv. Možná org píše normální zprávy (normální barvou) a postava divno zprávy (divno barvou). Potom "simulace doběhla" by byla normální zpráva.
-- sny beze slov a pod světlem jako závěrečná scéna
-- po otevření boxu hrát hudbu
-- někomu dát preskript: "ve chvíli, kdy se bude řešit co s nákladem, budeš alespoň ze začátku proti zahození (+nějaké argumenty)"
-- akcelerace rozhodnutí: vyhrožování střelbou
 
 # Fáze 3: závěr
 
