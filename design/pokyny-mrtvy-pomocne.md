@@ -27,9 +27,16 @@ Návrhy zpráv:
     - low prio CTA: otevřete krabici
     - něco adresujícího postavu (např. "chtějte poznat pravdu", nějaká postava má životní motivaci hledání pravdy)
     - nebo obecněji prostě nový argument pro otevření, který do té doby nikdo nevytáhl
-- "vaše cesta není u konce" - případně "cesta pokračuje na druhé straně"
+- "vaše cesta není u konce"
+    - případně "cesta pokračuje na druhé straně"
+    - případně "cesta vede jenom jedním směrem"
 - "setkáme se na druhé straně"
-- "{něco} na druhé straně" - odpovědi jsou na druhé straně, pravda je na druhé straně, {jméno} je na druhé straně (např. ten mrtvý, nebo někdo z historie postav)
+- "{něco} na druhé straně"
+    - odpovědi na naše otázky jsou na druhé straně
+    - pravda je na druhé straně
+    - {jméno} je na druhé straně (např. ten mrtvý, nebo někdo z historie postav)
+    - řešení je na druhé straně
+    - to, co hledáme, je na druhé straně
 - {něco} když jste došli až sem?
 - ??? TODO
     - CTA: aby se před otevřením rozloučili a začali se vůbec hádat, kdo do toho půjde
@@ -96,3 +103,12 @@ Nápady:
 - po otevření boxu hrát hudbu
 - někomu dát preskript: "ve chvíli, kdy se bude řešit co s nákladem, budeš alespoň ze začátku proti zahození (+nějaké argumenty)"
 - akcelerace rozhodnutí: vyhrožování střelbou
+
+Problém dělení a závěru (možnosti):
+
+- člověk z vysílačky může říct "vím, co se chystáte udělat, nedělejte to, neumím vám zabránit, pokud to ale uděláte, měli byste něco říct vysílačkou, než to uděláte"
+- preskript postavy "nastane možnost skoku do neznáma, je potřeba se rozhodnout, kteří to udělají a kteří ne"
+    - lze i transparentně do všech postav, aby bylo jasné ústřední téma scény
+- nabídnutá témata proslovu (nebo i jeden předepsaný proslov)
+- nechat nevysvětlené, co se stane otevřením; možnost víc vysvětlit, že divnosti a sny způsobuje náklad kontaktem s paralelníma realitama
+- "osobní dokumenty" jako zdroj info: například složka pro Loren s lékařskými záznamy (jak graduje šílenství a pozor na to) a dostane ji Loren, nebo ji dostane jako fallback Alexandra, pokud zůstane na lodi. Info například, že šílenství graduje, nebo nějaká zatajená zpráva ze Země s varováním že náklad je zešílí nebo jinak co se stane. Nebo pro Johnnyho s bližším infem o díře.
