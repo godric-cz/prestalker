@@ -18,7 +18,11 @@ Oblast kolem středu zakřivení, kde je působení všech sousedících prostor
 
 Pokud by se v té oblasti pohyboval člověk, musel by zažívat něco velmi zvláštního, protože by se de facto ocitl ve všech sousedících prostorech zároveň. Proč se to neděje vám, je velká otázka. Možná to souvisí s tím, že náklad je zavřený v boxu, a nemůžete tak prostory vidět ani jinak vnímat.
 
-Pokud by někdo náklad otevřel, na všechny uvnitř zóny ekvilibria by to nejspíš mělo okamžitý efekt. Jak by to vnímal člověk uvnitř (jestli by dokázal vnímat různé prostory, jestli by se dokázal mezi nimi pohybovat, jestli by vůbec fyzicky a duševně tu situaci zvládnul) stejně tak co by viděli vnější pozorovatelé (jestli se obraz člověka vevnitř nějak změní, pohybuje, nebo zmizí) není jasné.
+Pokud by někdo náklad otevřel, na všechny uvnitř zóny ekvilibria by to nejspíš mělo okamžitý efekt. Jak by to vnímal člověk uvnitř (jestli by dokázal vnímat různé prostory, jestli by se dokázal mezi nimi pohybovat, jak by vnímal čas, jestli by vůbec fyzicky a duševně tu situaci zvládnul) stejně tak co by viděli vnější pozorovatelé (jestli se obraz člověka vevnitř nějak změní, pohybuje, nebo zmizí) není jasné.
+
+(obrázek: horizont a elektron-pozitron pár)
+
+Co však jasné je, že celé toto zakřivení je velmi nestabilní, a i uvnitř izolovaného přepravního boxu se postupně "vypařuje". Jakmile by se ale box otevřel, všichni poblíž by se okamžitě octli v zóně ekvilibria. Následně by se obsah boxu začal rychle vypařovat a (pro vnějšího pozorovatele) by se během pár sekund vypařil zcela, čímž by i zóna ekvilibria zmizela a vše se vrátilo do normálního stavu.
 
 
 

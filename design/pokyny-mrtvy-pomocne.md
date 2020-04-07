@@ -112,3 +112,47 @@ Problém dělení a závěru (možnosti):
 - nabídnutá témata proslovu (nebo i jeden předepsaný proslov)
 - nechat nevysvětlené, co se stane otevřením; možnost víc vysvětlit, že divnosti a sny způsobuje náklad kontaktem s paralelníma realitama
 - "osobní dokumenty" jako zdroj info: například složka pro Loren s lékařskými záznamy (jak graduje šílenství a pozor na to) a dostane ji Loren, nebo ji dostane jako fallback Alexandra, pokud zůstane na lodi. Info například, že šílenství graduje, nebo nějaká zatajená zpráva ze Země s varováním že náklad je zešílí nebo jinak co se stane. Nebo pro Johnnyho s bližším infem o díře.
+
+    Na co je třeba je navést:
+        - řešit, kdo bude u bedny
+        - závěrečný proslov
+        - (opt) motivace objevování
+        - (opt) jestli budou spolu
+        - (opt) jestli nechávají za sebou rodiny
+
+    Co lze udělat:
+        - do všech postav transparentně
+        - do 2 postav
+        - do 1 postavy + 1 záloha
+            - např. kapitánka v postavě a zvlášť papír před scénou pro velitele jako záloha
+            - nebo Marc, pokud kapitánka má hodně obsahu
+        - z vysílačky
+            - viz výš
+        - osobní dokumenty (polo-diegetické)
+            - viz výš
+
+Inspirace a citáty:
+
+(zajímavější označeny +)
+
+-   Tlučte, a bude vám otevřeno.
+-   „Moudrý má v hlavě oči, kdežto hlupák chodí ve tmě.“
+-   něco mojžíš bible moře se rozestoupilo?
+- + Když strach zvítězí, sny zmizí.
+    - Zajímavé, protože adresuje sny v meziscénách.
+    - TODO vyhledat, kdo to řekl? Cool by bylo najít to v nějaké knize pro ten účel ve scéně.
+-   Na hvězdy které naslouchají, a sny které odpovídají.
+-   To že byl život? Nuže - ještě jednou!
+- + Staň se tím, kým jsi.
+-   Velké epochy našeho života leží tam, kde získáme odvahu překřtít své zlo na to nejlepší, co máme.
+-   Obracej se ke slunci, ne k stínu.
+- + Strach lže a ty mu věříš.
+-   zotročení strachu
+-   horizont
+-   „K pochopení všeho je nutno vše odpustit.“
+- + „Čím jste je to, čím jste byli, a čím budete je to, co děláte teď.“
+    - lze přeformulovat: Čím jste, čím jste byli a čím budete je to, co děláte teď.
+-   „Je to tvoje mysl, která vytváří tento svět.“
+-   ... něco reagující na článek ...
+-   temet nosce - poznej sám sebe
+- + „Nechť každý rozhodne, co je podle něj pravdivé, a pravdu samotnou ponechá v rukou Božích.“
