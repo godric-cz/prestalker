@@ -195,3 +195,6 @@ Začátek:
 Během scény:
 
 Konec:
+    - modré světlo při otevření krabice
+    - TODO (nabriefovat mrtvého ... pokud to nemá už dost v pokynech)
+    - na konci zhasnout

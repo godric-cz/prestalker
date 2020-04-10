@@ -58,3 +58,10 @@ Začátek:
 
     Pak zkuste zjistit heslo. (Například výměnou za to, že postavu pustíte. Každopádně ale bez násilí. I kdyby to někoho napadlo, tak to zakážeš.)
     - _V této scéně můžete používat počítač všichni (a číst, pokud ho používá někdo jiný)._
+
+Během scény:
+
+Konec:
+    - Pokud dojde k otevření nákladu, scéna pokračuje abstraktně. Nemluví se. Objeví se průvodce, který vás závěrem povede. Je zásadní, kdo stál poblíž nákladu a kdo ne.
+    - Scéna končí zhasnutím světel.
+    - Pak následuje ještě kratičká "potitulková scéna" od organizátorů a tím hra končí. (TODO pokud bude)

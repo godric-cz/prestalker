@@ -121,15 +121,18 @@ Problém dělení a závěru (možnosti):
         - (opt) jestli nechávají za sebou rodiny
 
     Co lze udělat:
-        - do všech postav transparentně
-        - do 2 postav
-        - do 1 postavy + 1 záloha
+        - [x] do všech postav
+            - že tím končí scéna
+            - (opt) transparentně, že je to téma scény a co bude
+        - [ ] do 2 postav
+        - [ ] do 1 postavy + 1 záloha
             - např. kapitánka v postavě a zvlášť papír před scénou pro velitele jako záloha
             - nebo Marc, pokud kapitánka má hodně obsahu
-        - z vysílačky
+        - [ ] z vysílačky
             - viz výš
-        - osobní dokumenty (polo-diegetické)
+        - [ ] osobní dokumenty (polo-diegetické)
             - viz výš
+        - [x] do výsledků simulace
 
 Inspirace a citáty:
 
