@@ -128,11 +128,14 @@ Problém dělení a závěru (možnosti):
         - [ ] do 1 postavy + 1 záloha
             - např. kapitánka v postavě a zvlášť papír před scénou pro velitele jako záloha
             - nebo Marc, pokud kapitánka má hodně obsahu
+            - i metagame lze dát jen do dvou postav (extra meta pokyny nad rámec sdílených pro všechny, např. "řekněte závěrečný proslov")
         - [ ] z vysílačky
             - viz výš
         - [ ] osobní dokumenty (polo-diegetické)
             - viz výš
         - [x] do výsledků simulace
+        - [ ] ve snech (polo-diegetické)
+            - dát do snů něco jako vizi budoucnosti a v rámci ní ukázat / motivovat například závěrečný proslov
 
 Inspirace a citáty:
 
