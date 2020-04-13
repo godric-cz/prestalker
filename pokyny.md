@@ -193,6 +193,7 @@ Příprava:
 Začátek:
 
 Během scény:
+    - jak odemčou zámek, říct mrtvému, že se tak stalo
 
 Konec:
     - modré světlo při otevření krabice

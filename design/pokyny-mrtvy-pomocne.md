@@ -115,10 +115,17 @@ Problém dělení a závěru (možnosti):
 
     Na co je třeba je navést:
         - řešit, kdo bude u bedny
+            - 2-5 simulace, všechny postavy
+        - řešit společně, kdo bude u bedny + rozloučení
+            - 1-2 Alexandra, Johnny
         - závěrečný proslov
+            - 1 vysílačka
         - (opt) motivace objevování
+            - 0 TODO Marc
         - (opt) jestli budou spolu
+            - 0 TODO možná Loren?
         - (opt) jestli nechávají za sebou rodiny
+            - 0 TODO možná Danny?
 
     Co lze udělat:
         - [x] do všech postav
@@ -133,6 +140,7 @@ Problém dělení a závěru (možnosti):
             - viz výš
         - [ ] osobní dokumenty (polo-diegetické)
             - viz výš
+            - nebo nějaký osobní dopis, předmět a podobně
         - [x] do výsledků simulace
         - [ ] ve snech (polo-diegetické)
             - dát do snů něco jako vizi budoucnosti a v rámci ní ukázat / motivovat například závěrečný proslov

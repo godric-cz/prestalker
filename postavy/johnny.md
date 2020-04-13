@@ -50,4 +50,7 @@ Začátek:
 
     Rozumné řešení se moc nenabízí. V podstatě jediná strategie je teď zkusit zjistit, proč to udělal a jaké mohl dát heslo. Kdyby chtěl jenom sabotovat loď, mohl to udělat milionem jednodušších způsobů. Toto mnohem víc vypadá, že to udělal schválně právě takto a chtěl tím na něco poukázat nebo něco říct. Pak možná dal schválně i nějaké konkrétní heslo, a je otázka, co se stane, až ho zadáte.
 
-    Teď každopádně dává největší symsl dát si dohromady, co o mrtvém víte (případně jestli ho někdo líp znal) a zkusit přijít na jeho motivy a na heslo.
+    Teď každopádně dává největší smysl dát si dohromady, co o mrtvém víte (případně jestli ho někdo líp znal) a zkusit přijít na jeho motivy a na heslo.
+
+Během scény:
+    - Ke konci dostanete možnost (každý jednotlivě) udělat něco velmi nebezpečného (nebo neriskovat a neudělat to). Ty nebo kapitánka zařiďte, že všichni z posádky si o tom promluví a každý se zodpovědně rozhodne. A pak, než tu nebezpečnou věc reálně uděláte, byste se měli rozloučit, něco říct, nebo si aspoň vzájemně popřát hodně štěstí.

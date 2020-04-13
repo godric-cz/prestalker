@@ -60,8 +60,9 @@ Začátek:
     - _V této scéně můžete používat počítač všichni (a číst, pokud ho používá někdo jiný)._
 
 Během scény:
+    - Ke konci dostanete možnost (každý jednotlivě) udělat něco velmi nebezpečného (nebo neriskovat a neudělat to). Zařiď, že všichni z posádky si o tom promluví a každý se zodpovědně rozhodne. A pak, než tu nebezpečnou věc reálně uděláte, byste se měli rozloučit, něco říct, nebo si aspoň vzájemně popřát hodně štěstí.
 
 Konec:
-    - Pokud dojde k otevření nákladu, scéna pokračuje abstraktně. Nemluví se. Objeví se průvodce, který vás závěrem povede. Je zásadní, kdo stál poblíž nákladu a kdo ne.
+    - Pokud dojde k otevření nákladu, scéna pokračuje abstraktně. __Nemluví se.__ Objeví se průvodce, který vás závěrem povede. Je zásadní, kdo stál poblíž nákladu a kdo ne.
     - Scéna končí zhasnutím světel.
     - Pak následuje ještě kratičká "potitulková scéna" od organizátorů a tím hra končí. (TODO pokud bude)
