@@ -121,7 +121,7 @@ Problém dělení a závěru (možnosti):
         - závěrečný proslov
             - 1 vysílačka
         - (opt) motivace objevování
-            - 0 TODO Marc
+            - 1 Marc
         - (opt) jestli budou spolu
             - 0 TODO možná Loren?
         - (opt) jestli nechávají za sebou rodiny

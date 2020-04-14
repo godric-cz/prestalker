@@ -1,5 +1,8 @@
 # Marc Friday
 
+_"Poznat pravdu a posouvat obzory, proto jsme tady. Mohli jsme být jen opice v jeskyni třesoucí se strachy z bouřky. Nejsme, protože naši předkové vyšli ven a objevili oheň. Teď je řada na nás. Objevujeme ne kvůli sobě; je to naše povinnost vůči nim - vůči lidskému druhu."_
+
+- TODO že citát je z učebnice fyziky co si někam zapsal (možná ještě adresovat někdy během hry) (meta - dobře to adresuje vybírání postav potom, oživí se téma postavy)
 - TODO palubní inženýr
 
 # 2. scéna

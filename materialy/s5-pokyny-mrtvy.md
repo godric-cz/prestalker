@@ -48,7 +48,7 @@ Zprávy ve vysílačce jsou zhruba následující:
 - Další zpráva může být na přímo varování ostatním, že nejspíš mají halucinace, a že to způsobuje náklad. Rušení z něj je tak silné a na takových frekvencích, že ovlivňuje jejich vnímání, a že mají tím pádem kvůli vlastní bezpečnosti náklad vydat. V nové lodi je stíněný kontejner, do kterého se náklad zavře, a tím se rušení zabrání.
 - Případně můžeš i za běhu s organizátory vymyslet další zprávy.
 - Krom toho můžeš tlumočit požadavky organizátorů vůči zbytku kosmonautů jako "vyjednavač".
-- Až odemčou zámek na nákladu, vyšle se rádiový signál a dozvíš se o tom (uvidíš, nebo ti to organizátor sdělí). Můžeš říct, že víš, co se chystají udělat a nemůžeš jim v tom zabránit. Záchrannou operaci ale chystaly tisíce lidí a miliony to v televizi sledují a pokud náklad opravdu otevřou, měli by před tím aspoň kvůli všem těmto lidem do rádia něco vzkázat a vysvětlit proč.
+- Až odemčou zámek na nákladu, vyšle se rádiový signál a dozvíš se o tom (uvidíš, nebo ti to organizátor sdělí). Můžeš říct, že víš, co se chystají udělat a nemůžeš jim v tom zabránit. Záchrannou operaci ale chystaly tisíce lidí a miliony to v televizi sledují a pokud náklad opravdu otevřou, měli by před tím aspoň kvůli všem těmto lidem do rádia něco vzkázat a vysvětlit proč. TODO možná dodat, že to není už motivace to vydat, ale to nevadí. Nebo výš dodat, že je mají vést nakonec k otevření té věci.
 
 Zprávy v počítači můžou být následující:
 
@@ -57,9 +57,10 @@ Zprávy v počítači můžou být následující:
 - __Ian zná kód__ - tato zpráva je naznačení, že kód je datum úmrtí Alexandřina bratra. V ideálním případě začnou spoluhráči řešit, kdo je Ian. Pokud by zprávu ignorovali, můžeš ji poslat víckrát, případně potom střídavě "Ian zná kód" "Alexandra zná kód", aby si ty dva spojili dohromady. Pokud by spoluhráči přišli takto na kód sami, bylo by to super. Pokud ne, můžeš zkusit vymyslet ještě další naznačení, nebo nakonec prostě napsat __3011__. Pro smysluplné zakončení hry kód musí mít.
 - __uvnitř je celý svět__ a po chviličce __komu ho svěřujete?__ - motivace, aby spoluhráči začali přemýšlet o svojí odpovědnosti, komu náklad vydávají a jestli ho nemůže nějak zneužít (pokud toto téma už neotevřeli sami od sebe).
 - __vy jste uvnitř, ne já__ - zpráva pro atmosféru. Hodí se zvlášť dobře, pokud někdo zrovna řekne, že něco je "uvnitř" nákladu.
-- __vaše cesta ještě není u konce__ - motivace, aby otevřeli náklad.
-- __
-- TODO něco jako "nyní vás svět poslouchá, promluvte moudře" nakonec? aby řekli do vysílačky něco (viz i návrh z vysílačky výš)
+- __vaše cesta ještě není u konce__ - inspirace, aby otevřeli náklad.
+- __když strach zvítězí, sny zmizí__ - inspirace, aby otevřeli náklad.
+- __poznat pravdu a posouvat obzory__ a po chviličce __teď je řada na nás__ - inspirace, aby otevřeli náklad. Pokud je na palubě Marc, cílí to zvlášť na něj, protože jsou to části jeho oblíbeného citátu.
+- __nyní vás svět poslouchá, promluvte moudře__ - po tom, co z vysílačky řekneš, ať promluví k lidem, kteří chystali jejich záchranu.
 
 TODO
 
