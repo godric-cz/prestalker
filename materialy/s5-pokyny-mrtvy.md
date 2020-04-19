@@ -39,7 +39,7 @@ Na začátku této fáze se v blízkosti objeví další loď a bude po kosmonau
 
 Tvým cílem bude (společně s organizátory) postupným dávkováním informací toto rozhodování gradovat a držet spoluhráče v napětí. Pokud budou spoluhráči příliš naklonění jedné variantě, přidáš informace pro podporu opačné varianty.
 
-V této fázi budeš mít dál k dispozici počítač. Pomocí zpráv v něm budeš ostatní motivovat, aby si náklad nechali. Kromě toho se ale časem promluvíš z vysílačky v roli tvojí původní postavy. V této roli budeš moct spoluhráče motivovat naopak, aby se vzdali.
+V této fázi budeš mít dál k dispozici počítač. Pomocí zpráv v něm budeš ostatní motivovat, aby si náklad nechali. Kromě toho se ale časem promluvíš z vysílačky v roli tvojí původní postavy. V této roli budeš moct spoluhráče motivovat naopak, aby se vzdali. V závěru pak pomocí obojího povedeš ostatní, aby náklad otevřeli.
 
 Zprávy ve vysílačce jsou zhruba následující:
 
@@ -48,7 +48,7 @@ Zprávy ve vysílačce jsou zhruba následující:
 - Další zpráva může být na přímo varování ostatním, že nejspíš mají halucinace, a že to způsobuje náklad. Rušení z něj je tak silné a na takových frekvencích, že ovlivňuje jejich vnímání, a že mají tím pádem kvůli vlastní bezpečnosti náklad vydat. V nové lodi je stíněný kontejner, do kterého se náklad zavře, a tím se rušení zabrání.
 - Případně můžeš i za běhu s organizátory vymyslet další zprávy.
 - Krom toho můžeš tlumočit požadavky organizátorů vůči zbytku kosmonautů jako "vyjednavač".
-- Až odemčou zámek na nákladu, vyšle se rádiový signál a dozvíš se o tom (uvidíš, nebo ti to organizátor sdělí). Můžeš říct, že víš, co se chystají udělat a nemůžeš jim v tom zabránit. Záchrannou operaci ale chystaly tisíce lidí a miliony to v televizi sledují a pokud náklad opravdu otevřou, měli by před tím aspoň kvůli všem těmto lidem do rádia něco vzkázat a vysvětlit proč. TODO možná dodat, že to není už motivace to vydat, ale to nevadí. Nebo výš dodat, že je mají vést nakonec k otevření té věci.
+- Až odemčou zámek na nákladu, vyšle se rádiový signál a dozvíš se o tom (uvidíš, nebo ti to organizátor sdělí). Můžeš říct, že víš, co se chystají udělat a nemůžeš jim v tom zabránit. Záchrannou operaci ale chystaly tisíce lidí a miliony to v televizi sledují a pokud náklad opravdu otevřou, měli by před tím aspoň kvůli všem těmto lidem do rádia něco vzkázat a vysvětlit proč. (Tímto už vlastně ostatní motivuješ nepřímo, aby náklad otevřeli, ale to je v pořádku - otevření nákladu je závěr, ke kterému by se měli dostat.)
 
 Zprávy v počítači můžou být následující:
 
@@ -62,8 +62,12 @@ Zprávy v počítači můžou být následující:
 - __poznat pravdu a posouvat obzory__ a po chviličce __teď je řada na nás__ - inspirace, aby otevřeli náklad. Pokud je na palubě Marc, cílí to zvlášť na něj, protože jsou to části jeho oblíbeného citátu.
 - __nyní vás svět poslouchá, promluvte moudře__ - po tom, co z vysílačky řekneš, ať promluví k lidem, kteří chystali jejich záchranu.
 
-TODO
+Stejně jako ve fázi 1 jsou uvedené zprávy spíš základní kostra a neboj se je upravit podle sebe a vymýšlet další.
 
 # Fáze 3: závěr
 
-TODO
+Jakmile spoluhráči otevřou náklad, nastává abstraktní závěr scény, při kterém se __nemluví__.
+
+Na scéně se objevíš ty, jako symbolický průvodce. Staráš se o následující:
+
+- Na začátku sleduj, kdo je poblíž nákladu a kdo dál. ... TODO
