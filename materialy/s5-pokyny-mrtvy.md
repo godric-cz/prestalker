@@ -68,6 +68,14 @@ Stejně jako ve fázi 1 jsou uvedené zprávy spíš základní kostra a neboj s
 
 Jakmile spoluhráči otevřou náklad, nastává abstraktní závěr scény, při kterém se __nemluví__.
 
-Na scéně se objevíš ty, jako symbolický průvodce. Staráš se o následující:
+Na scénu přijdeš ty, jako symbolický průvodce. Staráš se o následující:
 
-- Na začátku sleduj, kdo je poblíž nákladu a kdo dál. ... TODO
+- Na začátku sleduj, kdo je poblíž nákladu a kdo dál. Tím se vytvoří jakoby dvě skupiny.
+- Mezi skupinami pomocí zapálených svíček vyznač hranici. Pokud se pokusí někdo hranici přejít, jemně ho odstrč. Přiblížit se k hranici a případně se přes ni i dotknout je ale povoleno.
+- Vedle prostřední svíčky dej nachystanou nádobu.
+- Pokud někdo zapomene a začne mluvit, gestem mu naznač, aby byl potichu.
+- Každému hráči blízko nákladu rozdej papíry s původní a s alternativní postavou (ty máš nachystané od organizátorů). TODO otoč hodiny?
+- Až si hráči postavy přečtou, za každým přijdeš, postavy si zas vezmeš a naznačíš mu, aby si jednu vybral (například tak, že jednu postavu dáš do jedné dlaně, druhou do druhé, a jakoby je nabídneš hráči). Postavu, kterou si hráč nevybral, si necháš.
+- Jakmile máš odmítnuté postavy od všech hráčů, vezmeš je, zapálíš o svíčku a necháš v připravené nádobě shořet.
+
+Tím scéna končí. Ztlumí se světla a počká se, než postavy dohoří. Pak následuje ještě kratičká "potitulková" scéna od organizátorů a tím hra končí. (TODO pokud bude)

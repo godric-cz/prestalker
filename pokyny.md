@@ -189,6 +189,8 @@ Příprava:
     - počítač předat mrtvému
     - nachystat výsledky simulace N5322
     - nachystat kopii výsledků simulace pro mrtvého N5322
+    - nachystat původní a alternativní postavy pro mrtvého TODO co když budou chtít hráči mít původní postavy u sebe?
+    - nachystat svíčky, sirky a pálící nádobu pro mrtvého
 
 Začátek:
 
