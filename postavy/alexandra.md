@@ -46,8 +46,8 @@ Konec:
 # 5. scéna
 
 Začátek:
-    - TODO rušení nezmizelo.
     - _V přechozí scéně jedena z postav zemřela. Pokud v následujícím textu narazíš na nějaký pokyn, který se týká této postavy, prostě ho ignoruj (případně ho vykonej bez ní)._
+    - Rušení vysílačky ani teď nezmizelo, pořád nemáte kontakt se Zemí.
     - Došlo k poruše hibernační jednotky a počítač vás automaticky probudil. Po probuzení společně zkontrolujete záznamy v počítači. Podle nich nějak upravoval hibernační jednotku váš mrtvý kolega. Změny jsou ale zaheslované, takže zjistit přesně, co se stalo, a případně to upravit zpět bez hesla nejde.
 
     Nedává to smysl. Jak by to udělal, když na této lodi ani nebyl? A i kdyby to nějak dokázal předem, tak proč? Ostatní zabav nějakým krycím příběhem: Třeba, že je o mrtvé postavě potřeba dát společně dohromady co nejvíc informací, abyste přišli na to, jaké mohla použít heslo.
@@ -61,8 +61,3 @@ Začátek:
 
 Během scény:
     - Ke konci dostanete možnost (každý jednotlivě) udělat něco velmi nebezpečného (nebo neriskovat a neudělat to). Zařiď, že všichni z posádky si o tom promluví a každý se zodpovědně rozhodne. A pak, než tu nebezpečnou věc reálně uděláte, byste se měli rozloučit, něco říct, nebo si aspoň vzájemně popřát hodně štěstí.
-
-Konec:
-    - Pokud dojde k otevření nákladu, scéna pokračuje abstraktně. __Nemluví se.__ Objeví se průvodce, který vás závěrem povede. Je zásadní, kdo stál poblíž nákladu a kdo ne.
-    - Scéna končí zhasnutím světel.
-    - Pak následuje ještě kratičká "potitulková scéna" od organizátorů a tím hra končí. (TODO pokud bude)
