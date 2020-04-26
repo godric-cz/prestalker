@@ -1,6 +1,6 @@
 (titulka: V8704)
 
-"Takový manévr nejde provést. Nemáme na to palivo. Ještě to přepočítám, ale předem říkám, že to není reálné."
+_"Takový manévr nejde provést. Nemáme na to palivo. Ještě to přepočítám, ale předem říkám, že to není reálné."_
 
 Podle dat se stanice se posunula z dráhy (už to samo je divné) a teď nemáte dost paliva, abyste ji dostihli.
 

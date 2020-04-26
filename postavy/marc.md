@@ -5,6 +5,8 @@ _"Poznat pravdu a posouvat obzory, proto jsme tady. Mohli jsme být jen opice v 
 - TODO že citát je z učebnice fyziky co si někam zapsal (možná ještě adresovat někdy během hry) (meta - dobře to adresuje vybírání postav potom, oživí se téma postavy)
 - TODO palubní inženýr
 
+# 1. scéna
+
 # 2. scéna
 
 Začátek:

@@ -2,6 +2,8 @@
 
 - TODO navigátor
 
+# 1. scéna
+
 # 2. scéna
 
 Začátek:

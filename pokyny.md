@@ -1,3 +1,10 @@
+# Před hrou
+
+- TODO tisk postav a matrošů
+    - Použít `pdfunite dist/postavy/*.pdf dist/postavy.pdf`? (velká paráda)
+    - Řešit nějak výrobu rekvizit a podobně?
+- TODO obecné info o hře? (Jako pro člověka, který vezme dokument do ruky a chce vidět, o co jde.)
+
 # Příprava
 
 (TODO)
@@ -20,12 +27,16 @@ Informace pro hráče:
 - TODO Postavy jsou experti (jak zacházet s informacemi z papíru atd.)
 - TODO Stanice je uvnitř asteroidu (aby se nedivili vrtání a podobně).
 
+...
+
 - hra je scénovaná
 - mezi scénami probíhá hibernace: sedíte na židlích a čtete pokyny k dané scéně v postavách
 - jakmile máte přečteno, odložíte postavu (abychom poznali, jsou všichni připravení)
 - pak rozsvítíme světla a začne scéna. Začátek je vždycky popsaný v pokynech (typicky "jste v hibernaci a čekáte, než vás probudí lékařka")
 - konec scény je taky popsaný v pokynech (například "scéna končí přípitkem")
 - tím scéna hned končí, dál se nedohrává. Ztlumí se světla a sednete si do hibernačních křesel, kde si začnete číst pokyny k další scéně.
+
+...
 
 - (TODO terminály, případně další mechaniky)
     - TODO Obecněji: hodilo by se nějak zařídit, aby se vždy dostal aspoň někdo k terminálu, aby bylo možné předávat impro informace (například, pokud jeden kosmonaut z opravy vycouvá a zůstane tam alexandra sama bez vysílačky, tak napsat že telemetrie ukazuje že je v bezvědomí nebo něco, aby pro ni šli ... např.)
@@ -105,6 +116,7 @@ Během scény:
         Terminál teď smaž a vrať Johnnymu, aby zjistil vaši současnou dráhu."
     - Až terminál dostane Johnny, napsat: "Zrychlili jste jenom na asi polovinu rychlosti, kterou jste potřebovali. Míříte přibližně k dráze Jupiteru. K Zemi, ani žádné z vnitřních planet, se bez funkčního motoru přiblížit nedokážete. Od teď jste vesmírní trosečníci."
     - Na kód (zadá Alexandra) odepsat: "Nouzové vysílání zapnuto."
+    - TODO nápad před / během startu něco říct / sípat do vysílačky (jako teasing na nechaného kosmonauta ve stanici).
 
 Konec:
     - Kapitánka přikáže hibernaci. Jak se hibernují, ztlumit světla.
@@ -141,6 +153,7 @@ Přeskok prvního:
     - Jakmile zmáčkně `J` tak `cargo jettisoned`.
     - Jakmile postava "letí", odnést počítač z little caprice na tu druhou loď. TODO jak pak řešit další přeskoky.
     - Jakmile postava "letí", vyměnit dokument preskok za preskok-zjednoduseny.
+    - TODO nápad: během přeskoků pouštět postavě nějakou hudbu do sluchátek (místo točení hodin - možná problem, pokud by chtěli komunikovat)?
 
 Asteroid:
     - TODO doladit podle toho, jak rychle poběží přesýpací hodiny. Nejspíš to bude 5 minut (běžně k sehnání).

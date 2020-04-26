@@ -5,3 +5,5 @@
 - [ ] postavy
 - [ ] osobní linky
 - [ ] sny v meziscénách
+- [ ] zvuky, obrázky v materiálech a rekvizity
+- [ ] terminál

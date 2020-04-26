@@ -6,6 +6,8 @@
 - Na začátku letu jsi tajně upravila software hibernační jednotky, aby nehlásil zdravotní problémy související s tvou nemocí. Jinak by se totiž na problémy přišlo a let by byl nejspíš přerušen.
 - TODO proč se chce dostat na Mars. Např. že ji tam nechají (jsou precedenty že to může být, ona sama se tam snažila vždycky dostat ale nebrali ji, zbytek se vrátí na Zemi i tak. Případně její nemoc tam bude míň postupovat).
 
+# 1. scéna
+
 # 2. scéna
 
 Začátek:

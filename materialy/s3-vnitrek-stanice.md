@@ -1,4 +1,4 @@
-> Jsem v přechodové komoře. Stěny a podlaha jsou kovový, ale jinak tu nic není. ... Je tu asi metrový poklop dovnitř do stanice. Měřák vedle toho ukazuje, že vevnitř není tlak. Takže to zkusím rovnou otevřít.
+_Jsem v přechodové komoře. Stěny a podlaha jsou kovový, ale jinak tu nic není. ... Je tu asi metrový poklop dovnitř do stanice. Měřák vedle toho ukazuje, že vevnitř není tlak. Takže to zkusím rovnou otevřít._
 
 Teď postupně projdeš stanici a budeš rádiem oznamovat, co vidíš. Na každou část si nech aspoň 30 sekund až minutu. Popisy každé části najdeš níž. Převyprávěj je svými slovy a doplň vlastní detaily, které tě napadnou.
 
