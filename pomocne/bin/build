@@ -1,0 +1,76 @@
+#!/usr/bin/env php
+<?php
+
+require_once __DIR__ . '/../vendor/autoload.php';
+require_once __DIR__ . '/../src/_functions.php';
+require_once __DIR__ . '/../src/Merger.php';
+
+function build_document($input, $template, $output) {
+    if (is_array($input)) {
+        $mdFile1 = $input[0];
+        $mdFile2 = $input[1];
+        $inputModified = max(filemtime($mdFile1), filemtime($mdFile2));
+    } else {
+        $mdFile1 = $input;
+        $mdFile2 = null;
+        $inputModified = filemtime($mdFile1);
+    }
+
+    if ($inputModified < @filemtime($output)) {
+        echo "Not modified: $output\n";
+        return;
+    } else {
+        echo "Building: $output\n";
+    }
+
+    $text = file_get_contents($mdFile1);
+    $text = join_multiline_listitems($text);
+    $text = strangeformat_to_markdown($text);
+
+    if ($mdFile2) {
+        $textMerge = file_get_contents($mdFile2);
+        $textMerge = join_multiline_listitems($textMerge);
+        $textMerge = strangeformat_to_markdown($textMerge);
+
+        $text = markdown_merge($text, $textMerge);
+    }
+
+    $text = fix_typography($text);
+    $text = do_macros($text);
+    $html = markdown_to_html($text);
+    ob_start();
+    (function ($content) use ($template) {
+        include $template;
+    })($html);
+    $html = ob_get_clean();
+
+    html_to_pdf($html, $output);
+}
+
+
+
+chdir(__DIR__ . '/..');
+@mkdir('dist');
+@mkdir('dist/postavy');
+@mkdir('dist/materialy');
+chdir('dist');
+
+$dokumenty = realpath(__DIR__ . '/../..');
+$templates = realpath(__DIR__ . '/../template');
+
+build_document("$dokumenty/pokyny.md", "$templates/default.php", 'pokyny.pdf');
+
+foreach (glob("$dokumenty/postavy/*.md") as $postava) {
+    if (basename($postava) == 'spolecne.md') {
+        continue;
+    }
+
+    $pdf = 'postavy/' . basename($postava, '.md') . '.pdf';
+    $spolecne = "$dokumenty/postavy/spolecne.md";
+    build_document([$postava, $spolecne], "$templates/postava.php", $pdf);
+}
+
+foreach (glob("$dokumenty/materialy/*.md") as $material) {
+    $pdf = 'materialy/' . basename($material, '.md') . '.pdf';
+    build_document($material, "$templates/default.php", $pdf);
+}

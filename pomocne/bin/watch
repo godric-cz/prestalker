@@ -1,0 +1,12 @@
+#!/bin/bash
+
+SCRIPTPATH="$( cd "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
+ROOT="$( realpath "$SCRIPTPATH/../..")"
+
+# php -S localhost:8000 & # will terminate automatically
+
+while true; do
+    # xdotool search --name "Mozilla Firefox" key "F5" # no title => nothing in titlebar
+    php "$SCRIPTPATH"/build
+    inotifywait -e close_write "$ROOT"/* "$ROOT"/*/*
+done

@@ -1,0 +1,6 @@
+{
+    "require": {
+        "erusev/parsedown-extra": "^0.8.1",
+        "h4cc/wkhtmltopdf-amd64": "^0.12.4"
+    }
+}
