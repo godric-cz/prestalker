@@ -66,11 +66,10 @@
 
 
 
-
-
 ---
 
 Nápady:
+
 - vykrást postavy z různých sci-fi (i jiných) filmů
     - např. než jehovisti vydírají může být mnohem plastičtější postava OM ten hlavní člověk z interstellaru, s kterým komunikuje ze země dcera například
     - taky může být, že tyto "npc v rádiu" bychom si mohli zahrát jako orgové
@@ -88,3 +87,8 @@ Nápady:
     - druhý papír je "probudila ses a došlo ti"
     - např. "že nějaká CP z alternativní postavy je vlastně postava z lodi"
     - např. "zamýšlíš se, jestli postava ze snu někdy letěla do vesmíru nebo vyzkoumala X"
+- inverze drsnosti
+    - např. Johnny se začne panikařit při problémech, zatímco Marc se ukáže jako kompetentní
+    - viz také depresivní lidé jsou v krizi víc v pohodě (Melancholia)
+- zapojit témata alt. postav do děje
+    - např. Marc má téma chce být kapitán, v alt. postavě má "ano, ale" a téma snahy o kapitánství / vedení dát do jeho historie a nějaké scény
