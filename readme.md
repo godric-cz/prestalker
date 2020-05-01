@@ -1,9 +1,9 @@
 # Struktura
 
 - design - pomocné soubory k designu hry (pro odehrání není potřeba číst)
-- materialy - TODO, různé texty zpráv a podobně...
+- materialy - různé texty zpráv a další dokumenty do hry
 - postavy - texty postav k vytisknutí do hry
-- postavy/spolecne.md - text, který bude rozkopírovaný ve všech postavách (TODO dostane se tam při vygenerování dokumentů)
+- postavy/spolecne.md - text, který bude rozkopírovaný ve všech postavách (dostane se tam při vygenerování pdf)
 - pokyny.md - text pro vypravěče (návod k zorganizování hry)
 - readme.md - tento rozcestník
 
@@ -17,5 +17,6 @@
     - [ ] vztahy
     - [ ] osobní linky (+ zapojit do scén)
 - [ ] sny v meziscénách
+- [ ] potitulková scéna (pokud bude)
 - [ ] zvuky, obrázky v materiálech a rekvizity
 - [ ] terminál

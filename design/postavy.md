@@ -92,3 +92,17 @@ Nápady:
     - viz také depresivní lidé jsou v krizi víc v pohodě (Melancholia)
 - zapojit témata alt. postav do děje
     - např. Marc má téma chce být kapitán, v alt. postavě má "ano, ale" a téma snahy o kapitánství / vedení dát do jeho historie a nějaké scény
+- nápad na sny: nemluví se, postavy jsou pro každého někdo jiný
+    - tj. jsou dané vztahy (např. kdo má koho rád, kdo komu nějak pomáhá apod.), ale každý vidí ostatní jako někoho jiného (např. danny vidí loren jako jako svou ženu a situace je grilovačka, loren vidí dannyho jako svůj highschool crush a situace je zevl na školním výletě, nebo tak něco).
+    - princip je, aby každý viděl něco jiného, ale všechno na sebe plus mínus pasovalo
+    - nemusí být úplné popisy alt. postav, spíš jenom útržky, bez vysvětlení, proč to nekoresponduje s realitou (jako reálné sny)
+    - beze slov, tj. hrát hudbu?
+    - možnost použít orgy jako CP
+    - viz, že vztahy jsou hlavně dvoustranné, takže není problém např. udělat dva co se nemají rádi a zbytek jejich nevraživost nevnímá nebo nemusí řešit a mít zdůvodněnou
+    - nápady na situace:
+        - grillovačka doma
+        - oslava po úspěšné misi (marc je kapitán)
+        - školní výlet
+        - svatba (z druhé strany, tj gratulují lidem, ta gratulace může být vnímána jako gratulace za misi např.)
+        - sledování TV (fotbal - start rakety - někdo je herec - ...)
+        - backstage koncertu, bar před / po misi

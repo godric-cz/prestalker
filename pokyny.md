@@ -26,6 +26,7 @@ Informace pro hráče:
 - TODO oldschool hra, odehrávání situací, papírky, počítačová hra styl říkání "teď jsi vzal tuto zbraň, která umí to a to"...
 - TODO Postavy jsou experti (jak zacházet s informacemi z papíru atd.)
 - TODO Stanice je uvnitř asteroidu (aby se nedivili vrtání a podobně).
+- TODO Jak se mluví do vysílaček (volací znaky apod - netýká se volání do skafandrů).
 
 ...
 
