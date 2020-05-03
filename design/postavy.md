@@ -106,3 +106,4 @@ Nápady:
         - svatba (z druhé strany, tj gratulují lidem, ta gratulace může být vnímána jako gratulace za misi např.)
         - sledování TV (fotbal - start rakety - někdo je herec - ...)
         - backstage koncertu, bar před / po misi
+        - může jiné postavy vidět i jako děti teoreticky (danny neví kdo sám je, ale vidí šťastnou rodinu svého alter ega jak se vrátilo na Zemi)
