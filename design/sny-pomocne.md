@@ -1,27 +1,29 @@
 - alex
     - _téma: sláva, mrtvý bratr_
-    - M: bratr se vrátil z mise, chce se s ním socializovat
     - loren: novinářka, obletuje M, možná s ním i spí
+    - marc: bratr se vrátil z mise, chce se s ním socializovat
 
 - danny
     - _téma: rodina, přežití, vyměněný z alt reality_
     - alex: (nápad) jeho žena, společně chill (pokud má danny téma rodina)
     - (nápad) mohl by i sny vidět zvenčí, tj. že neinteraguje a vidí třeba štastnou rodinu z nichž on je nějaká jiná postava
-
-- M
-    - alex: vlezlá holka, které je potřeba dát najevo, že nemám zájem
-    - loren: ??? (obletuje ho)
-    - (pokud to bude Marc - linka úspěšný kapitán - pak odmítnutí alex např. může být, že o ni měl dřív zájem, ona ho odmítla, teď když je slavný za ním jde, ale on ji ostentativně odmítá a navíc jde naproti loren, aby to alexandře dal o to víc sežrat)
+    - ...
 
 - johnny
-    - _téma: ?_
-    - k tématu hudebník: pokud je marný, postava sama si to neuvědomuje, tj. nejde to do ní napsat. Muselo by se to napsat nějak mířeno na johnnyho v bdělém stavu, něco jako "viděl jsi, jak ti bylo najednou všechno jedno, zvláštní".
+    - _téma: jizva na tváři, rocker_
+    - ...
+    - (nápad) johnny vidí tu věc jako chill kapely, alex danny a johnny spolu chillují, pokud loren a marc jsou buď spolu nebo to nějak vyhrotí. Třeba grilování, johnny něco hraje, ukazuje jim songy nebo něco. Ti dva ho pak vidí jako známého, co třeba hraje na kytaru nebo podobně. (alexin otec?)
+
 - loren
-    - _téma: ?_
-    - M: ??? (obletuje ho, tj. nějaký milenec? možná seznámení s manželem, ale to zatím spíš není nosné pro další hru. Nebo pro téma sestry: Alexandra ho chce přebrat, hate.)
+    - _téma: mrtvý manžel, soutěživost se sestrou, sobectví vs. štěstí_
+    - alex: blbá sestra; neschvaluje, že mám otevřený vztah. Vidím, že zkouší na marca něco. Mě marc nějak extra nepřitahuje, ale schválně ať si to ona vyžere ho sbalím.
+    - marc: kluk, o kterého má sestra zájem. Hraju svou nejvyšší hru, abych ho sbalila já, jí naschvál.
 
 - marc
-    - _téma: ?_
+    - _téma: chce být kapitán_
+    - alex: holka, která ho odmítla na střední a teď, když je slavný, tak za ním leze. Je potřeba dát jí ostentativně najevo, že nemám zájem. (nápad: nemusí to být náhodná holka z střední ale reálně alexandra)
+    - loren: ??? (má zájem, marc to opětuje ještě navíc aby alex žárlila)
+    - TODO jak reflektovat výčitky a/nebo smrt posádky
 
 ---
 
@@ -31,6 +33,7 @@
         - _šikana_
         - _nejde se stát bohem_
         - Zatím u ničeho z toho zřejmé zapojení, promyslet.
+        - k tématu hudebník: pokud je marný, postava sama si to neuvědomuje, tj. nejde to do ní napsat. Muselo by se to napsat nějak mířeno na johnnyho v bdělém stavu, něco jako "viděl jsi, jak ti bylo najednou všechno jedno, zvláštní".
     - loren
         - _sobectví vs. štěstí, sebevražda manžela a výčitky_
         - _soutěžení se sestrou_ Originál. Vrátit? Je nosné? Možná personifikovat sestru v Alexandře? Pak by se muselo reflektovat v alt. postavě.
@@ -47,3 +50,6 @@
 - vývoj tématu během hry?
 - problém: dvoje sny + závěr. Nebude zmatečné, pokud v každých snech bude spoluhráč hrát jinou postavu?
 - sen je na hudbu, konec hudby = konec snu
+- sny můžou být divně, uvést do vysvětlení
+    - obecně zmínit divnost
+    - speciálně "vypadali lidé ve snu tak, jak si je pamatuji? neměli obličeje kosmonautů? ... vzpomínka na sen je zmatená, nevím. Možná si je tam jen promítám teď když jsem se vzbudila a vidím je."
