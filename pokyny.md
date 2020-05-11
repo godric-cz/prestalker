@@ -122,7 +122,10 @@ Během scény:
 Konec:
     - Kapitánka přikáže hibernaci. Jak se hibernují, ztlumit světla.
 
-<!-- TODO sny? -->
+# Sny 1
+
+TODO:
+    - barevné světlo (možná stačí normální, zatím v postavách nespecifikováno)
 
 # 4. scéna
 

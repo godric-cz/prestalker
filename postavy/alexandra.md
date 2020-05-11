@@ -34,6 +34,30 @@ Během scény:
 Konec:
     - Přikážeš hibernaci.
 
+# Sny 1
+
+Během hibernace se ti zdají sny. Je to zvláštní, protože hibernace není spánek. Nikdy dřív jsi sny během ní neměla, ani nevíš o nikom, komu by se to stalo.
+
+Začátek:
+    - _Následuje krátká meziscéna, během které __se nemluví__._
+    - _Vyjadřuj se jen pohybem, gesty, pohledem, atd... Co se děje může být trochu nejasné a abstraktní. Toho se neboj, takové sny jsou._
+    - _Až si vše přečteš a budeš připravená, odlož postavu (jako obvykle). Jakmile začne hrát nahlas hudba a rozsvítí se světlo, přesuň se s ostatními na scénu a scéna začíná._
+
+Během scény:
+    - _Ostatní hráči teď představují jiné postavy. Níž je napsáno, kdo je kdo._
+    - Jste na zahradě domu tvého bratra Iana. Právě se vrátil z výzkumné mise k asteroidům a dělá u sebe polooficiální oslavu.
+    - __Marc:__ Tvůj bratr Ian. Jsi na něj pyšná, chceš mu pogratulovat a bavit se s ním co nejvíc. Od doby, co začal létat, tráví většinu času na misích a zbytek přípravou nebo interview s novináři. Chybí ti. Potkat se je pro vás čímdál těžší.
+    - __Danny:__ Tvůj manžel. Tvoje opora a jediný, na koho se fakt dá spolehnout.
+    - __Johnny:__ Váš sedmnáctiletý syn. Má rebelské období. Před pár měsíci jste zjistili, že bere drogy. Strávil nějakou dobu v léčebně, ale teď už vypadá, že se z toho dostal. Zná se a rozumí si s Ianem. Tak jste si řekli, že by mohlo být fajn ho vzít s sebou.
+    - __Loren:__ Jedna z pár oficiálně pozvaných novinářů. Obletuje Iana.
+
+Závěr:
+    - TODO zdůraznit rozdíly oproti realitě.
+    - TODO rozdíly nějak uvést dřív, aby nezvniklo WTF "můj manžel? moment, kde v postavě to mám, to jsem zapomněla"
+    - TODO konec = konec hudby
+    - TODO nahdhoz co začít dělat na začátku
+    - TODO v další scéně možná reflektovat sny (co si postava o tom myslí, jak moc se o tom chce bavit). Jinak hrozí, že všichni ohledně snů vyloží hned všechny karty a začnou se je příliš snažit "vyřešit"/"rozluštit".
+
 # 4. scéna
 
 Začátek:
