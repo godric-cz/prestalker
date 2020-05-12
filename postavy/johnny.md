@@ -29,6 +29,14 @@ Během scény:
 Konec:
     - Všichni se uložíte do hibernace.
 
+# Sny
+
+Během scény:
+    - Jsi zpátky z odvykačky. Odehráli jste první zkoušku, šlo to překvapivě dobře. Teď sedíte na zahradě, grilujete a socializujete se. Neviděli jste se nakonec hodně dlouho. Možná taky občas brnkneš nějaký svůj nový nápad na písničku.
+    - __Alexandra a Danny:__ V pohodě týpci. Hudebně dobří.
+    - __Marc:__ Spoluhráč, co tě nedobrovolně dotlačil na odvykačku. Jsi nasranej. Jasně, jsi z toho venku a to je super, ale stejně. Během zkoušky jste řešili čistě hraní a vůbec tohle téma neotevřeli. Tak možná teď? Je to divná situace. Jak to asi vidí on? Emoce v tobě vřou.
+    - __Loren:__ asi ... zpěvačka? Sen je divnej, tohle neřeší. Každopádně ji Marc balí. Máte pravidlo, že v rámci kapely si nic nezačínáte. Tím se dá taky na Marca zatlačit (i když to pro tebe teď není top priorita, takže jak budeš chtít).
+
 # 4. scéna
 
 Začátek:

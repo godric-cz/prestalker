@@ -122,10 +122,20 @@ Během scény:
 Konec:
     - Kapitánka přikáže hibernaci. Jak se hibernují, ztlumit světla.
 
-# Sny 1
+# Sny
 
-TODO:
-    - barevné světlo (možná stačí normální, zatím v postavách nespecifikováno)
+Příprava:
+    - Mít připravené modré světlo na scénu.
+
+Začátek:
+    - Až všichni odloží postavy, rozsvítit modré světlo na scénu a pustit hudbu.
+
+Během scény:
+    - Sledovat, kolik toho stihli odehrát (viz pokyny postav), a podle toho odhadnout, kdy scénu ukončit.
+
+Konec:
+    - Ztišit hudbu a zhasnout.
+    - TODO lepší hudba (pokud půjde, vybrat nějak vhodně s gradací nebo možností gradovat a uvést do postav - např. "třikrát se ozvou hodiny, což dělí scénu na části, podle toho gradovat". Zatím je to v postavách genericky)
 
 # 4. scéna
 

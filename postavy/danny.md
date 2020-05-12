@@ -27,6 +27,15 @@ Během scény:
 Konec:
     - Všichni se uložíte do hibernace.
 
+# Sny
+
+Během scény:
+    - Jsi na zahradě při nějaké oslavě se svou rodinou. I když jsi to ty, nebo je to Danny Dwight?
+    - __Alexandra:__ Tvoje žena. Chce dát asi do pořádku nějaké věci se svým bratrem (Marc), ale víc nevíš, nemontuješ se do toho. Během scény se postupně ukáže, že se jí to vůbec nedaří, naopak se pohádají a bratr s ní nechce nic mít, teď už zdá se na dobro. Tím pádem jsi pro ni vlastně poslední hodně blízká osoba, kterou má. Je potřeba ji psychicky podržet.
+    - __Johnny:__ Váš sedmnáctiletý syn. Má rebelské období. Před pár měsíci jste zjistili, že bere drogy. Strávil nějakou dobu v léčebně, ale teď už vypadá, že se z toho dostal. Zná se a rozumí si s bratrem tvé ženy. TODO víc uvést dannyho podíl ve smyslu "neskutečným úsilím jste ho z toho dostali a teď si mnohem víc rozumíte a on je lepší člověk" (lepší nahrávka na odpovědnost / rodinu)
+    - __Marc:__ Bratr tvé ženy. Znáš ho málo.
+    - __Loren:__ Jeho nová přítelkyně. Nejspíš se snaží ho izolovat od zbytku rodiny.
+
 # 4. scéna
 
 Začátek:

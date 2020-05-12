@@ -29,6 +29,7 @@
     - johnny: mrtvý spolukosmonaut (možná marcovou vinou), nejistota, co se stane, když o tom budou mluvit (je tam i když na misi umřel, iracionalita snu)
     - loren: ??? (má zájem, marc to opětuje ještě navíc aby alex žárlila)
     - TODO jak reflektovat výčitky a/nebo smrt posádky
+    - TODO možná dát do historie postavy nějakou věc, kdy udělal rozhodnutní, zachránil posátku, ale byl kvůli tomu degradován / nestal se kapitánem.
 
 ---
 

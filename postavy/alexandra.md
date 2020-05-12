@@ -34,7 +34,7 @@ Během scény:
 Konec:
     - Přikážeš hibernaci.
 
-# Sny 1
+# Sny
 
 Během hibernace se ti zdají sny. Je to zvláštní, protože hibernace není spánek. Nikdy dřív jsi sny během ní neměla, ani nevíš o nikom, komu by se to stalo.
 
@@ -45,18 +45,23 @@ Začátek:
 
 Během scény:
     - _Ostatní hráči teď představují jiné postavy. Níž je napsáno, kdo je kdo._
+    - _Sen se úplně liší od reality. Nějaké postavy v realitě nemusí existovat, nějaké situace během scény mohou být vyloženě divné. Je to sen._
     - Jste na zahradě domu tvého bratra Iana. Právě se vrátil z výzkumné mise k asteroidům a dělá u sebe polooficiální oslavu.
     - __Marc:__ Tvůj bratr Ian. Jsi na něj pyšná, chceš mu pogratulovat a bavit se s ním co nejvíc. Od doby, co začal létat, tráví většinu času na misích a zbytek přípravou nebo interview s novináři. Chybí ti. Potkat se je pro vás čímdál těžší.
     - __Danny:__ Tvůj manžel. Tvoje opora a jediný, na koho se fakt dá spolehnout.
     - __Johnny:__ Váš sedmnáctiletý syn. Má rebelské období. Před pár měsíci jste zjistili, že bere drogy. Strávil nějakou dobu v léčebně, ale teď už vypadá, že se z toho dostal. Zná se a rozumí si s Ianem. Tak jste si řekli, že by mohlo být fajn ho vzít s sebou.
     - __Loren:__ Jedna z pár oficiálně pozvaných novinářů. Obletuje Iana.
 
-Závěr:
-    - TODO zdůraznit rozdíly oproti realitě.
-    - TODO rozdíly nějak uvést dřív, aby nezvniklo WTF "můj manžel? moment, kde v postavě to mám, to jsem zapomněla"
-    - TODO konec = konec hudby
-    - TODO nahdhoz co začít dělat na začátku
-    - TODO v další scéně možná reflektovat sny (co si postava o tom myslí, jak moc se o tom chce bavit). Jinak hrozí, že všichni ohledně snů vyloží hned všechny karty a začnou se je příliš snažit "vyřešit"/"rozluštit".
+Konec:
+    - Zhasne se světlo a ztiší hudba.
+
+TODO:
+    - navést postavu, aby si všimla rozdílu snu (a sebe ve snu) oproti reálu (možná v další scéně)
+    - nahdhoz, co začít dělat na začátku. Dobré nepřímo, např.: Jste na zahradě a grilujete.
+        - nápad: marc: zpovídá tě novinářka, loren: bavíš se s marcem (nejdřív jen tak)
+    - v další scéně možná reflektovat sny (co si postava o tom myslí, jak moc se o tom chce bavit). Jinak hrozí, že všichni ohledně snů vyloží hned všechny karty a začnou se je příliš snažit "vyřešit"/"rozluštit".
+        - nápad: je to psychická nemoc, kvůli licenci to nechci říct (případně nechci říct pravdu / vše, protože loren či někdo další by z toho mohl něco nežádoucího analyzovat? Naopak loren to může řešit víc a tlačit je.)
+        - taky "vypadali lidé ve snu tak, jak si je pamatuji? neměli obličeje kosmonautů? ... vzpomínka na sen je zmatená, nevím. Možná si je tam jen promítám teď když jsem se vzbudila a vidím je."
 
 # 4. scéna
 

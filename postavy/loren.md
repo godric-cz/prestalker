@@ -34,6 +34,14 @@ Během scény:
 Konec:
     - Všichni se uložíte do hibernace.
 
+# Sny
+
+Během scény:
+    - Jste na nějaké párty s tvou sestrou.
+    - __Alexandra:__ Tvoje sestra. Vyloženě tě štve, jak neustále vrtá do tvého osobního života a odsuzuje, že máte s manželem otevřený vztah. Je to snad její věc? Je teď sama, ale evidentně se jí líbí jeden z kluků tady (Marc). Tebe Marc nějak extra nepřitahuje, ale schválně ho zkusíš sbalit jí před nosem, ať si to vyžere, kráva.
+    - __Marc:__ Kluk, o kterého má tvoje sestra zájem. Hraješ svou "nejvyšší hru" abys ho sbalila, jí naschvál.
+    - __Danny, Johnny:__ TODO (volné k možnému doplnění, pokud bude mít Loren nějaké téma, na které by se hodili navázat) -- nápad: je nemocná, tak nějací týpci / doktoři, co ji varovali a teď do ní s tím zas budou rýt?
+
 # 4. scéna
 
 Začátek:

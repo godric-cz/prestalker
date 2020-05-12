@@ -31,6 +31,19 @@ Během scény:
 Konec:
     - Všichni se uložíte do hibernace.
 
+# Sny
+
+Během scény:
+    - Vrátil ses z výzkumné mise k asteroidům. První od té nehody. Na zahradě poblíž vesmírného střediska je polooficiální párty po misi. Jsou tu známí i novináři. Být kapitán na výzkumných misích je jiná liga. Děláš smysluplnou práci a jsi celebrita.
+    - __Alexandra:__ Holka, která tě odmítla na střední. Teď za tebou leze, když jsi slavný. Je potřeba jí ve velkém dát najevo, že nemáš zájem. Ať si vyzkouší vlastní medicínu.
+    - __Loren:__ TODO (balí ho, on je s tím ok / podporuje to. Možná i krásná novinářka, co bral mimo svou ligu?)
+    - __Johnny:__ Tvůj kolega. Jeden z těch, co umřeli na předminulé misi. Máš z něj mírné obavy a spíš se mu vyhýbáš. Jak by reagoval, když bys s ním o tom mluvil? A neřekl by náhodou, že je to tvoje vina? (Na tom, že je mrtvý, ale zároveň je tady, ti do konce snu nepřijde nic divného.)
+    - __Danny:__ TODO (volné k možnému doplnění)
+
+Konec:
+    - V určitý okamžik si položíš otázku, jak je možné, že mrtvý člověk je normálně na párty. Dojde ti, že je to nesmysl, a sen se pak postupně vytratí.
+    - ... (TODO merge dokumentů)
+
 # 4. scéna
 
 Začátek:

@@ -25,6 +25,7 @@ Konec:
 
 Během scény:
     - Tato scéna slouží k rozehrání vztahů "na vážno" (oproti párty) a vytvoření pocitu, že "tohle se opravdu dějě". Jsme ve vesmíru, jenom nás pět, miliony kilometrů od kohokoli dalšího, a pokud se cokoli stane, musíme to vyřešit sami. Hranice mezi rutinním letem a bojem o život může být nesmírně tenká. Scéna vás povede k tomu se rozdělovat a vytváří volnější časové úseky. Ty slouží k možnosti se bavit s ostatními v soukromí (resp. menším počtu) a o civilních věcech. Dá se taky omluvit, vyjasnit nebo navázat na cokoli, co se dělo na párty. Cílem je rozehrát vztahy, v dalších scénách už bude prostoru méně.
+    - TODO možná doplnit do dalších scén, k čemu slouží nebo jak je hrát.
 
 # 5. scéna
 
