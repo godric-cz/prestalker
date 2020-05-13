@@ -5,7 +5,7 @@ require_once __DIR__ . '/../vendor/autoload.php';
 require_once __DIR__ . '/../src/_functions.php';
 require_once __DIR__ . '/../src/Merger.php';
 
-function build_document($input, $template, $output) {
+function build_document($input, $template, $output, $force = null) {
     if (is_array($input)) {
         $mdFile1 = $input[0];
         $mdFile2 = $input[1];
@@ -16,7 +16,9 @@ function build_document($input, $template, $output) {
         $inputModified = filemtime($mdFile1);
     }
 
-    if ($inputModified < @filemtime($output)) {
+    $forceBuild = $force && fnmatch($force, $mdFile1);
+
+    if ($inputModified < @filemtime($output) && !$forceBuild) {
         echo "Not modified: $output\n";
         return;
     } else {
@@ -57,6 +59,7 @@ chdir('dist');
 
 $dokumenty = realpath(__DIR__ . '/../..');
 $templates = realpath(__DIR__ . '/../template');
+$force = ''; // force this file to be build
 
 build_document("$dokumenty/pokyny.md", "$templates/default.php", 'pokyny.pdf');
 
@@ -67,10 +70,10 @@ foreach (glob("$dokumenty/postavy/*.md") as $postava) {
 
     $pdf = 'postavy/' . basename($postava, '.md') . '.pdf';
     $spolecne = "$dokumenty/postavy/spolecne.md";
-    build_document([$postava, $spolecne], "$templates/postava.php", $pdf);
+    build_document([$postava, $spolecne], "$templates/postava.php", $pdf, $force);
 }
 
 foreach (glob("$dokumenty/materialy/*.md") as $material) {
     $pdf = 'materialy/' . basename($material, '.md') . '.pdf';
-    build_document($material, "$templates/default.php", $pdf);
+    build_document($material, "$templates/default.php", $pdf, $force);
 }
