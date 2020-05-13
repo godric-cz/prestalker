@@ -31,6 +31,9 @@ Konec:
 
 # Sny
 
+Začátek:
+    - ...
+
 Během scény:
     - Jsi zpátky z odvykačky. Odehráli jste první zkoušku, šlo to překvapivě dobře. Teď sedíte na zahradě, grilujete a socializujete se. Neviděli jste se nakonec hodně dlouho. Možná taky občas brnkneš nějaký svůj nový nápad na písničku.
     - __Alexandra a Danny:__ V pohodě týpci. Hudebně dobří.

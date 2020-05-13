@@ -27,6 +27,22 @@ Během scény:
     - Tato scéna slouží k rozehrání vztahů "na vážno" (oproti párty) a vytvoření pocitu, že "tohle se opravdu dějě". Jsme ve vesmíru, jenom nás pět, miliony kilometrů od kohokoli dalšího, a pokud se cokoli stane, musíme to vyřešit sami. Hranice mezi rutinním letem a bojem o život může být nesmírně tenká. Scéna vás povede k tomu se rozdělovat a vytváří volnější časové úseky. Ty slouží k možnosti se bavit s ostatními v soukromí (resp. menším počtu) a o civilních věcech. Dá se taky omluvit, vyjasnit nebo navázat na cokoli, co se dělo na párty. Cílem je rozehrát vztahy, v dalších scénách už bude prostoru méně.
     - TODO možná doplnit do dalších scén, k čemu slouží nebo jak je hrát.
 
+# Sny
+
+Během hibernace se ti zdají sny. Je to zvláštní, protože hibernace není spánek. Nikdy dřív jsi sny během ní neměl/a, ani nevíš o nikom, komu by se to stalo.
+
+Začátek:
+    - _Následuje krátká meziscéna, během které&ensp;__se nemluví__._
+    - _Vyjadřuj se jen pohybem, gesty, pohledem, atd... Co se děje může být trochu nejasné a abstraktní. Toho se neboj, takové sny jsou._
+    - _Až si vše přečteš a budeš připraven/á, odlož postavu (jako obvykle). Jakmile začne hrát nahlas hudba a rozsvítí se světlo, přesuň se s ostatními na scénu a scéna začíná._
+
+Během scény:
+    - _Ostatní hráči teď představují jiné postavy. Níž je napsáno, kdo je kdo._
+    - _Sen se úplně liší od reality. Nějaké postavy v realitě nemusí existovat, nějaké situace během scény mohou být vyloženě divné. Je to sen._
+
+Konec:
+    - Zhasne se světlo a ztiší hudba.
+
 # 5. scéna
 
 Konec:

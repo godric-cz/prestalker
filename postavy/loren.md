@@ -36,6 +36,9 @@ Konec:
 
 # Sny
 
+Začátek:
+    - ...
+
 Během scény:
     - Jste na nějaké párty s tvou sestrou.
     - __Alexandra:__ Tvoje sestra. Vyloženě tě štve, jak neustále vrtá do tvého osobního života a odsuzuje, že máte s manželem otevřený vztah. Je to snad její věc? Je teď sama, ale evidentně se jí líbí jeden z kluků tady (Marc). Tebe Marc nějak extra nepřitahuje, ale schválně ho zkusíš sbalit jí před nosem, ať si to vyžere, kráva.

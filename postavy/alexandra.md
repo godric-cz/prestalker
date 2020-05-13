@@ -36,16 +36,10 @@ Konec:
 
 # Sny
 
-Během hibernace se ti zdají sny. Je to zvláštní, protože hibernace není spánek. Nikdy dřív jsi sny během ní neměla, ani nevíš o nikom, komu by se to stalo.
-
 Začátek:
-    - _Následuje krátká meziscéna, během které __se nemluví__._
-    - _Vyjadřuj se jen pohybem, gesty, pohledem, atd... Co se děje může být trochu nejasné a abstraktní. Toho se neboj, takové sny jsou._
-    - _Až si vše přečteš a budeš připravená, odlož postavu (jako obvykle). Jakmile začne hrát nahlas hudba a rozsvítí se světlo, přesuň se s ostatními na scénu a scéna začíná._
+    - ...
 
 Během scény:
-    - _Ostatní hráči teď představují jiné postavy. Níž je napsáno, kdo je kdo._
-    - _Sen se úplně liší od reality. Nějaké postavy v realitě nemusí existovat, nějaké situace během scény mohou být vyloženě divné. Je to sen._
     - Jste na zahradě domu tvého bratra Iana. Právě se vrátil z výzkumné mise k asteroidům a dělá u sebe polooficiální oslavu.
     - __Marc:__ Tvůj bratr Ian. Jsi na něj pyšná, chceš mu pogratulovat a bavit se s ním co nejvíc. Od doby, co začal létat, tráví většinu času na misích a zbytek přípravou nebo interview s novináři. Chybí ti. Potkat se je pro vás čímdál těžší.
     - __Danny:__ Tvůj manžel. Tvoje opora a jediný, na koho se fakt dá spolehnout.
@@ -53,9 +47,10 @@ Během scény:
     - __Loren:__ Jedna z pár oficiálně pozvaných novinářů. Obletuje Iana.
 
 Konec:
-    - Zhasne se světlo a ztiší hudba.
+    - ...
 
 TODO:
+    - nějaké "rozcvičení" mezi čtením a začátkem scény? Aby nebyli z pohybu tak zmatení?
     - navést postavu, aby si všimla rozdílu snu (a sebe ve snu) oproti reálu (možná v další scéně)
     - nahdhoz, co začít dělat na začátku. Dobré nepřímo, např.: Jste na zahradě a grilujete.
         - nápad: marc: zpovídá tě novinářka, loren: bavíš se s marcem (nejdřív jen tak)

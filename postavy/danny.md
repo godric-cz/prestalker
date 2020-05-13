@@ -29,6 +29,9 @@ Konec:
 
 # Sny
 
+Začátek:
+    - ...
+
 Během scény:
     - Jsi na zahradě při nějaké oslavě se svou rodinou. I když jsi to ty, nebo je to Danny Dwight?
     - __Alexandra:__ Tvoje žena. Chce dát asi do pořádku nějaké věci se svým bratrem (Marc), ale víc nevíš, nemontuješ se do toho. Během scény se postupně ukáže, že se jí to vůbec nedaří, naopak se pohádají a bratr s ní nechce nic mít, teď už zdá se na dobro. Tím pádem jsi pro ni vlastně poslední hodně blízká osoba, kterou má. Je potřeba ji psychicky podržet.

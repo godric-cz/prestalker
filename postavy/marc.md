@@ -33,6 +33,9 @@ Konec:
 
 # Sny
 
+Začátek:
+    - ...
+
 Během scény:
     - Vrátil ses z výzkumné mise k asteroidům. První od té nehody. Na zahradě poblíž vesmírného střediska je polooficiální párty po misi. Jsou tu známí i novináři. Být kapitán na výzkumných misích je jiná liga. Děláš smysluplnou práci a jsi celebrita.
     - __Alexandra:__ Holka, která tě odmítla na střední. Teď za tebou leze, když jsi slavný. Je potřeba jí ve velkém dát najevo, že nemáš zájem. Ať si vyzkouší vlastní medicínu.
@@ -42,7 +45,7 @@ Během scény:
 
 Konec:
     - V určitý okamžik si položíš otázku, jak je možné, že mrtvý člověk je normálně na párty. Dojde ti, že je to nesmysl, a sen se pak postupně vytratí.
-    - ... (TODO merge dokumentů)
+    - ...
 
 # 4. scéna
 
