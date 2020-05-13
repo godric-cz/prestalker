@@ -96,7 +96,11 @@ class Node {
         // merge content
         if ($other->content) {
             if ($this->content) {
-                $this->content = $other->content . "\n" . $this->content;
+                if (str_contains($this->content, '- ...')) {
+                    $this->content = strtr($this->content, ['- ...' => $other->content]);
+                } else {
+                    $this->content = $other->content . "\n" . $this->content;
+                }
             } else {
                 $this->content = $other->content;
             }

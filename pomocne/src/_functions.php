@@ -69,3 +69,7 @@ function do_macros($s) {
 
     return preg_replace(array_keys($replacements), array_values($replacements), $s);
 }
+
+function str_contains($haystack, $needle) {
+    return strpos($haystack, $needle) !== false;
+}
