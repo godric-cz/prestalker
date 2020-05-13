@@ -5,7 +5,7 @@ require_once __DIR__ . '/../vendor/autoload.php';
 require_once __DIR__ . '/../src/_functions.php';
 require_once __DIR__ . '/../src/Merger.php';
 
-function build_document($input, $template, $output, $force = null) {
+function build_document($input, $template, $output, $force = null, $male = false) {
     if (is_array($input)) {
         $mdFile1 = $input[0];
         $mdFile2 = $input[1];
@@ -37,8 +37,7 @@ function build_document($input, $template, $output, $force = null) {
         $text = markdown_merge($text, $textMerge);
     }
 
-    $text = fix_typography($text);
-    $text = do_macros($text);
+    $text = postprocess($text, $male);
     $html = markdown_to_html($text);
     ob_start();
     (function ($content) use ($template) {
@@ -60,6 +59,7 @@ chdir('dist');
 $dokumenty = realpath(__DIR__ . '/../..');
 $templates = realpath(__DIR__ . '/../template');
 $force = ''; // force this file to be build
+$males = ['*/marc.md', '*/danny.md', '*/johnny.md'];
 
 build_document("$dokumenty/pokyny.md", "$templates/default.php", 'pokyny.pdf');
 
@@ -70,7 +70,8 @@ foreach (glob("$dokumenty/postavy/*.md") as $postava) {
 
     $pdf = 'postavy/' . basename($postava, '.md') . '.pdf';
     $spolecne = "$dokumenty/postavy/spolecne.md";
-    build_document([$postava, $spolecne], "$templates/postava.php", $pdf, $force);
+    $male = fnmatch_any($males, $postava);
+    build_document([$postava, $spolecne], "$templates/postava.php", $pdf, $force, $male);
 }
 
 foreach (glob("$dokumenty/materialy/*.md") as $material) {

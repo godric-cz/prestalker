@@ -52,24 +52,33 @@ function html_to_pdf($htmlString, $pdfOut) {
     unlink($tmp);
 }
 
-function fix_typography($s) {
+function postprocess($text, $male) {
     $replacements = [
+        // typography
         '/"(\w[^"]+)"/'  => '„$1“',
-        '/(\S) \- (\S)/' => '$1 – $2', // ensp
+        '/(\S) \- (\S)/' => '$1 – $2', // ndash
         '/\.\.\./'       => '…',
-    ];
 
-    return preg_replace(array_keys($replacements), array_values($replacements), $s);
-}
-
-function do_macros($s) {
-    $replacements = [
+        // marcos
         '/\(titulka:\s*([^\)]+)\)/' => '<div class="titulka">$1</div>',
+
+        // gendered verbs
+        '/(\w)\/(a|á)(\W)/' => $male ? '$1$3' : '$1$2$3',
     ];
 
-    return preg_replace(array_keys($replacements), array_values($replacements), $s);
+    return preg_replace(array_keys($replacements), array_values($replacements), $text);
 }
 
 function str_contains($haystack, $needle) {
     return strpos($haystack, $needle) !== false;
+}
+
+function fnmatch_any($patterns, $string) {
+    foreach ($patterns as $pattern) {
+        if (fnmatch($pattern, $string)) {
+            return true;
+        }
+    }
+
+    return false;
 }
