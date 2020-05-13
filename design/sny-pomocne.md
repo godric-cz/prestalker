@@ -1,3 +1,5 @@
+# Sny 1
+
 - alex
     - _téma: sláva, mrtvý bratr_
     - danny: manžel
@@ -30,6 +32,35 @@
     - loren: ??? (má zájem, marc to opětuje ještě navíc aby alex žárlila)
     - TODO jak reflektovat výčitky a/nebo smrt posádky
     - TODO možná dát do historie postavy nějakou věc, kdy udělal rozhodnutní, zachránil posátku, ale byl kvůli tomu degradován / nestal se kapitánem.
+
+# Sny 2
+
+_Pozor, jeden z nich právě umřel._
+
+- alex
+    - _téma: sláva, mrtvý bratr_
+
+- danny
+    - _téma: rodina, přežití, vyměněný z alt reality_
+
+- johnny
+    - _téma: jizva na tváři, rocker_
+
+- loren
+    - _téma: mrtvý manžel, soutěživost se sestrou, sobectví vs. štěstí_
+
+- marc
+    - _téma: chce být kapitán_
+
+- první nápad: dělení
+    - alexandra se dělí s bratrem
+    - danny se iracionálně dělí s rodinou (chce být s nimi, ale něco ho nutí se rozdělit)
+    - johnny?
+    - loren se dělí se sestrou?
+    - marc se dělí s posádkou, co umře (příp. on rozděluje?)
+    - _případně všichni se dělí / osamocují ode všech a každý skončí sám - ačkoli toto zatím není smysluplně navázáno na témata a logiku závěrečné volby_
+- možnost hrát sny ve dvou skupinách?
+    - např. loren + johnny max chill, marc max peklo, zbývající dát tam či tam dle vhodnosti
 
 ---
 

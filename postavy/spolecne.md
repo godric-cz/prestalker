@@ -34,7 +34,7 @@ Během hibernace se ti zdají sny. Je to zvláštní, protože hibernace není s
 Začátek:
     - _Následuje krátká meziscéna, během které&ensp;__se nemluví__._
     - _Vyjadřuj se jen pohybem, gesty, pohledem, atd... Co se děje může být trochu nejasné a abstraktní. Toho se neboj, takové sny jsou._
-    - _Až si vše přečteš a budeš připraven/á, odlož postavu (jako obvykle). Jakmile začne hrát nahlas hudba a rozsvítí se světlo, přesuň se s ostatními na scénu a scéna začíná._
+    - _Až si vše přečteš a budeš připraven/á, odlož postavu (jako obvykle). Jakmile začne hrát nahlas hudba a rozsvítí se světlo, přesuň se s ostatními na scénu a začněte hrát._
 
 Během scény:
     - _Ostatní hráči teď představují jiné postavy. Níž je napsáno, kdo je kdo._
