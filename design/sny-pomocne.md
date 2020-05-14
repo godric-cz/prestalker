@@ -59,6 +59,13 @@ _Pozor, jeden z nich právě umřel._
     - loren se dělí se sestrou?
     - marc se dělí s posádkou, co umře (příp. on rozděluje?)
     - _případně všichni se dělí / osamocují ode všech a každý skončí sám - ačkoli toto zatím není smysluplně navázáno na témata a logiku závěrečné volby_
+- přeskakování
+    - možná obecně přehrát ten klíčový okamžik postav?
+    - alternativně "prohledávání", ale samo o sobě nestačí. Nejde dělat design PvE, musí především mít konflikt / agendu na sebe navzájem.
+    - možná dát víc přeskakování, kde se challengejují na jednotlivé kroky a podle někdo jde dál někdo zůstane?
+    - alexandra: obživí / zachrání / vytáhne bratra? Možná se utopil když šel do jeskyně a ona si vyčítá, že nešla s ním, nebo tak něco. Zatímco Marc vidí challenge jako cestu "ze stanice" a proto je táhne ven, zatímco oni tam něco hledají nebo tak - generátor konfliktu.
+    - marc: je zachráněn, nevrátí se pro ostatní, nevyjde na jevo, že to způsobil? Případně to může být už jako kapitán a jeho posádka tady umře ne jeho vinou, i to je dostatečné vytrestání (pak výběr postavy není tak morálně jednoznačný, možná lepší).
+    - johnny: z pohledu alexandry teenage kamarád co s ním odešla a proto to failnulo a tady to neudělá?
 - možnost hrát sny ve dvou skupinách?
     - např. loren + johnny max chill, marc max peklo, zbývající dát tam či tam dle vhodnosti
 
