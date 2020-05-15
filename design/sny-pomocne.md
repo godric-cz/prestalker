@@ -66,6 +66,12 @@ _Pozor, jeden z nich právě umřel._
     - alexandra: obživí / zachrání / vytáhne bratra? Možná se utopil když šel do jeskyně a ona si vyčítá, že nešla s ním, nebo tak něco. Zatímco Marc vidí challenge jako cestu "ze stanice" a proto je táhne ven, zatímco oni tam něco hledají nebo tak - generátor konfliktu.
     - marc: je zachráněn, nevrátí se pro ostatní, nevyjde na jevo, že to způsobil? Případně to může být už jako kapitán a jeho posádka tady umře ne jeho vinou, i to je dostatečné vytrestání (pak výběr postavy není tak morálně jednoznačný, možná lepší).
     - johnny: z pohledu alexandry teenage kamarád co s ním odešla a proto to failnulo a tady to neudělá?
+- vhodné k zobrazení:
+    - alex: dobro s bratrem (nápady: záchrana, ???)
+    - danny:
+    - johnny: neutrál až pozitivum rockerského života
+    - loren: nelituje smrti manžela, dává to za vinu jemu
+    - marc: smrt posádky (buď přímo zobrazit, nebo něco jak tím trpí)
 - možnost hrát sny ve dvou skupinách?
     - např. loren + johnny max chill, marc max peklo, zbývající dát tam či tam dle vhodnosti
 
