@@ -37,8 +37,16 @@
 
 _Pozor, jeden z nich právě umřel._
 
+Scéna: Překračují tři (?) čáry, o každý krok je nějaká hádka, možná není povinné ho přejít.
+
 - alex
     - _téma: sláva, mrtvý bratr_
+    - Jde zachránit bratra, v origu se na něj vykašlala a on se utopil / nějak umřel. Tady jde za ním a zachrání ho.
+        - Možná zdůraznit nějaký moment, kdy se její rozhodnutí změní? Nebo jí dát hint, ať si určí během scény, co byl ten zlom?
+    - danny:
+    - johnny:
+    - loren:
+    - marc: bratr, ...TODO
 
 - danny
     - _téma: rodina, přežití, vyměněný z alt reality_
@@ -48,9 +56,15 @@ _Pozor, jeden z nich právě umřel._
 
 - loren
     - _téma: mrtvý manžel, soutěživost se sestrou, sobectví vs. štěstí_
+    - Nápad: Vidí v Alexandře samu sebe jak ji Marc / manžel stahuje ke dnu a zlobí se resp. adresuje svůj hněv na něj (nutno ještě víc promyslet).
 
 - marc
     - _téma: chce být kapitán_
+    - originálně: nedostal se / odmítl nějakou misi, o které si myslí, že kvůli tomu není kapitán. Ostatní z té mise se stali legendami. V tomto snu: je na té misi, udělal špatné rozhodnutí, teď jde zachránit zbytek (půl / část posádky je s ním a brání mu. Jeden může být i mrtvý). Na konci, že se začne dusit, a jak to dopadne záleží na ostatních.
+    - alex:
+    - danny:
+    - johnny:
+    - loren:
 
 - první nápad: dělení
     - alexandra se dělí s bratrem
