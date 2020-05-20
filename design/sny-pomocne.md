@@ -43,6 +43,7 @@ Scéna: Překračují tři (?) čáry, o každý krok je nějaká hádka, možn�
     - _téma: sláva, mrtvý bratr_
     - Jde zachránit bratra, v origu se na něj vykašlala a on se utopil / nějak umřel. Tady jde za ním a zachrání ho.
         - Možná zdůraznit nějaký moment, kdy se její rozhodnutí změní? Nebo jí dát hint, ať si určí během scény, co byl ten zlom?
+    - TODO pořešit role Johnnyho a Loren. Měli by aktivně hecovat Marca, nikoli si hrát jen na sebe, aby se propojili všichni a mohli všichni hrát na sebe navzájem.
     - danny:
     - johnny:
     - loren:
@@ -50,17 +51,22 @@ Scéna: Překračují tři (?) čáry, o každý krok je nějaká hádka, možn�
 
 - danny
     - _téma: rodina, přežití, vyměněný z alt reality_
+    - Je syn Dannyho Dwighta a vidí Marca jako svého otce a Alexandru jako matku. Otce mu chtějí Loren a Johnny nějak "ukradnout" a lákají ho pryč (přes čáry). Může ho vidět, jak leze do vesmírné stanice a v Johnnym vidět přímo sám sebe (Joshe Dwigta).
 
 - johnny
     - _téma: jizva na tváři, rocker_
+    - Jsou nějak sjetí a dělají nějakou blbost (ale baví se). Dávají se dohromady s Loren. TODO prokreslit víc.
 
 - loren
     - _téma: mrtvý manžel, soutěživost se sestrou, sobectví vs. štěstí_
     - Nápad: Vidí v Alexandře samu sebe jak ji Marc / manžel stahuje ke dnu a zlobí se resp. adresuje svůj hněv na něj (nutno ještě víc promyslet).
+    - Jsou na nějaké akci, kde v originální postavě ji chtěli přivést kamarádi na jiné myšlenky po smrti manžela, ale celou probrečela. Tady je naopak spíš naštvaná a rychle zapomene. Během scény se hecuje s Johnnym (přeskakování) a postupně se sbližují / flirtují spolu.
+    - Původní idea výlet v horách, možnost navázat na něco jiného. Např. životní událost, kterou udělala v souvislosti se smrtí manžela (lety do vesmíru, výcvik pro ně apod.) a propojit i tematicky s tou událostí
 
 - marc
     - _téma: chce být kapitán_
     - originálně: nedostal se / odmítl nějakou misi, o které si myslí, že kvůli tomu není kapitán. Ostatní z té mise se stali legendami. V tomto snu: je na té misi, udělal špatné rozhodnutí, teď jde zachránit zbytek (půl / část posádky je s ním a brání mu. Jeden může být i mrtvý). Na konci, že se začne dusit, a jak to dopadne záleží na ostatních.
+    - TODO pořešit roli Johnnyho a Loren. Možná nějaké vize mrtvých kolegů nebo něco?
     - alex:
     - danny:
     - johnny:
