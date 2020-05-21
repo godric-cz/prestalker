@@ -69,6 +69,19 @@ Během scény:
 Konec:
     - Zhasnou se světla a ozve se hudba.
 
+# Sny 2
+
+Začátek:
+    - ...
+
+Během scény:
+    - TODO
+    - __Marc:__ Tvůj bratr Ian. TODO (chceš ho - tentokrát - zachránit)
+    - __Danny:__ TODO (tvůj přítel Connor, z nějakého důvodu víš, že jste spolu a nebalíš ho - odlišnost oproti skutečné verzi, kdy ho balila a bratra ignorovala či hecovala / hecovali)
+    - __Loren:__ Vidíš samu sebe, jak bratra střídavě ignoruješ nebo hecuješ, aby šel dál. Takto se to stalo doopravdy. TODO (nejasno co se stane, když na sebe promluvíš. Budeš nějak reagovat? atd...)
+    - __Johnny:__ TODO (alter ego Connora)
+    - TODO nápad: přeskakují jen první 2 linie, třetí přeskakuje Marc sám (pro Loren a Johnnyho je vlastně jedno, kolik přeskakují. Hecovat by ho mohli i na dálku. Navíc linie pro ně nemusí nic znamenat.)
+
 # 5. scéna
 
 Začátek:

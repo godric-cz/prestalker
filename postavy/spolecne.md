@@ -41,7 +41,23 @@ Během scény:
     - _Sen se úplně liší od reality. Nějaké postavy v realitě nemusí existovat, nějaké situace během scény mohou být vyloženě divné. Je to sen._
 
 Konec:
-    - Zhasne se světlo a ztiší hudba.
+    - Zhasne se světlo a ztiší se hudba.
+
+# Sny 2
+
+Během hibernace se ti zdají sny. Tentokrát je to ale jiný sen, než minule.
+
+Začátek:
+    - _Platí stejná pravidla, jako minule: během snu&ensp;__se nemluví__._
+    - _Vyjadřuje se jen pohybem, díky čemuž může být sen trochu abstraktní a nesrozumitelný, což je správně._
+    - _Až si pokyny přečteš, odlož postavu jako obvykle. Jakmile začne hrát nahlas hudba a rozsvítí se světlo, přesuň se s ostatními na scénu a začněte hrát._
+
+Během scény:
+    - _Ostatní teď představují jiné postavy oproti zbytku hry a můžou se lišit i oproti předchozím snům. Níž je napsáno, kdo je kdo._
+    - _Sen se úplně liší od reality. Nějaké postavy v realitě nemusí existovat, nějaké situace během scény mohou být vyloženě divné. Je to sen._
+
+Konec:
+    - Zhasne se světlo a ztiší se hudba.
 
 # 5. scéna
 

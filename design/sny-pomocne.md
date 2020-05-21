@@ -44,6 +44,7 @@ Scéna: Překračují tři (?) čáry, o každý krok je nějaká hádka, možn�
     - Jde zachránit bratra, v origu se na něj vykašlala a on se utopil / nějak umřel. Tady jde za ním a zachrání ho.
         - Možná zdůraznit nějaký moment, kdy se její rozhodnutí změní? Nebo jí dát hint, ať si určí během scény, co byl ten zlom?
     - TODO pořešit role Johnnyho a Loren. Měli by aktivně hecovat Marca, nikoli si hrát jen na sebe, aby se propojili všichni a mohli všichni hrát na sebe navzájem.
+        - nápad: Danny je Alexandřin přítel, nebo někdo koho na dovolené balí. Loren a Johnny jsou obraz Alexandry a přítele, kteří Marcovi nebrání / hecují, aby skočil (tj. +- to, co udělala Alexandra v originální postavě).
     - danny:
     - johnny:
     - loren:
@@ -71,6 +72,8 @@ Scéna: Překračují tři (?) čáry, o každý krok je nějaká hádka, možn�
     - danny:
     - johnny:
     - loren:
+
+---
 
 - první nápad: dělení
     - alexandra se dělí s bratrem
