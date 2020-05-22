@@ -51,6 +51,17 @@ Během scény:
 Konec:
     - Zhasnou se světla a ozve se hudba.
 
+# Sny 2
+
+Začátek:
+    - ...
+
+Během scény:
+    - TODO (jsi syn Dannyho Dwighta. Prostředí možná vesmírná stanice?)
+    - __Marc:__ TODO (tvůj otec, chtějí ti ho "ukrást")
+    - __Alexandra:__ TODO (tvoje matka)
+    - __Loren a Johnny:__ TODO (chtějí otce "ukrást" či odlákat. Volitelně možné navázat konkrétněji, kdo jsou.)
+
 # 5. scéna
 
 Začátek:

@@ -52,6 +52,14 @@ Během scény:
 Konec:
     - Zhasnou se světla a ozve se hudba.
 
+# Sny 2
+
+Začátek:
+    - ...
+
+Během scény:
+    - TODO
+
 # 5. scéna
 
 Začátek:
