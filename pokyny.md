@@ -147,7 +147,7 @@ Začátek:
     <!-- TODO v přeskoku: "rozsviť světla v místnosti" -->
     - TODO je potřeba tři zvukově oddělené prostory, nebo vymyslet nějaký trik (např. dva prostory a sluchátka při přeskoku, ale to by bylo potřeba vyladit. Jestli přeskakující může zbytek vidět apod.)
     - TODO nezapomenout na zápletku "roste hmotnost" a "vysílá to koule? vyhodit? - ale nepůjde najít následně"
-    - TODO aby někdo spustil zážeh, pokud to ostatní vyzevlí.
+    - TODO aby někdo spustil zážeh, pokud to ostatní vyzevlí.!
     - připravit si svíčku a sirky
 
 Přiblížení objektu (TODO hlášky):
@@ -189,6 +189,21 @@ Asteroid:
 Konec:
     - Jakmile promluví kapitánka (nebo zástupce), zhasnout a pustit hudbu.
 
+# Sny 2
+
+Příprava:
+    - Vyznačit na zemi malířskou páskou tři čáry. TODO tři?
+    - Mít připravené modré světlo.
+
+Začátek:
+    - Až všichni odloží postavy, rozsvítit modré světlo na scénu a pustit hudbu.
+
+Během scény:
+    - Scénu ukončit nejlépe, jakmile Marc skočí a Alexandra ho oživí. Pokud se to nestane, tak dle uvážení a toho, kolik toho stihnou odehrát.
+
+Konec:
+    - Ztišit hudbu a zhasnout.
+
 # 5. scéna
 
 TODO:
@@ -222,4 +237,4 @@ Během scény:
 Konec:
     - modré světlo při otevření krabice
     - na konci zhasnout
-    - TODO potitulková scéna (pokud ji budeme dělat) (viz pokyny-mrtvy-pomocne.md vyhledat "finální scény")
+    - TODO potitulková scéna (pokud ji budeme dělat) (viz pokyny-mrtvy-pomocne.md vyhledat "finální scény")!

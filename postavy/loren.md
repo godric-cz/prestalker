@@ -53,6 +53,15 @@ Začátek:
 Konec:
     - Zhasnou se světla a ozve se hudba.
 
+# Sny 2
+
+Začátek:
+    - ...
+
+Během scény:
+    - Jste na té dovolené s kamarády, pár týdnů potom, co Steve umřel. Cítíš se ale úplně jinak. Cítila ses zrazeně, možná až rozzlobeně. Že tě nechal samotnou. Že ti nic neřekl. Že se zachoval jako zbabělec, místo aby se k problémům postavil čelem... Ale teď už chceš, aby ti to hlavně bylo jedno. A docela se ti to i daří.
+    - Jste na výletu v horách, v krásné přírodě, přeskakujete skály, smějete se. ... TODO
+
 # 5. scéna
 
 Začátek:

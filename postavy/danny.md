@@ -57,10 +57,11 @@ Začátek:
     - ...
 
 Během scény:
-    - TODO (jsi syn Dannyho Dwighta. Prostředí možná vesmírná stanice?)
-    - __Marc:__ TODO (tvůj otec, chtějí ti ho "ukrást")
-    - __Alexandra:__ TODO (tvoje matka)
-    - __Loren a Johnny:__ TODO (chtějí otce "ukrást" či odlákat. Volitelně možné navázat konkrétněji, kdo jsou.)
+    - Jsi syn Dannyho Dwighta. Vidíš svého tátu, jak prochází nějakou vesmírnou stanicí. Je sám, ale vidíš dva jakoby duchy kosmonautů, kteří na něj mluví a lákají ho dál. Cítíš, že je to špatně, že ho chtějí někam odvést, nebo mu ublížit. Ale jsi tu i ty a tvoje máma, a chcete ho přesvědčit, aby zůstal s vámi. TODO: Psáno víc očima dítěte. Je otázka, jestli např. slovo "duch" nezruinuje atmosféru hry, promyslet.
+    - _Čáry na zemi představují tlakové dveře v jednotlivých částech stanice. Aby bylo jasné, kdo a kdy dveřmi prochází, je potřeba čáru vždycky symbolicky přeskočit. Jak postupně procházíte dál a dál stanicí, scéna graduje. Není ale povinné dojít až na konec._
+    - __Marc:__ Tvůj táta.
+    - __Alexandra:__ Tvoje máma, je tu s tebou. Možná jste taky duchové, něco jako ti kosmonauti?
+    - __Loren a Johnny:__ Kosmonauti, kteří se smějí a občas lákají tátu i vás dál dovnitř stanice.
 
 # 5. scéna
 
