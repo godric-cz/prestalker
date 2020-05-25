@@ -55,6 +55,21 @@ Začátek:
 Konec:
     - Zhasnou se světla a ozve se hudba.
 
+# Sny 2
+
+Začátek:
+    - ...
+
+Během scény:
+    - Neměl jsi ten rozkaz vydávat. Ne všichni s tím souhlasili a kapitán jsi ty. Je to tvoje zodpovědnost. Susan a Tom jsou teď na druhé straně stanice. Možná se už udusili nebo uhořeli. Ne! Nenecháš je v tom, jdeš pro ně.
+    - Procházíš se zbývajícími dvěma členy posádky stanici plnou dýmu. Za každými dveřmi je situace horší a beznadějnější a kolegové, kteří jsou s tebou, víc a víc naléhají na to, abyste se vrátili. Jinak nejen, že nezachráníte ostatní, ale navíc tam i sami zůstanete.
+    - _Čáry na zemi představují tlakové dveře uvnitř stanice. K projití dveří je potřeba čáru symbolicky přeskočit. Jak jdete dál a dál, scéna postupně graduje. Nepřeskákej tedy všechny čáry hned, ale před každou si nech nějaký čas na přesvědčování ostatních, že musíte jít dál._
+    - _Pokud přeskočíš poslední čáru, __začneš se dusit a upadneš do bezvědomí__. Co bude dál závisí na ostatních postavách._
+    - __Loren a Johnny:__ Susan a Tom. Tihle evidentně nejsou skuteční. Nadýchal ses kouře a začínáš mít halucinace. Tito dva se smějí a jako by vás lákali dovnitř stanice. Netušíš, co se ti tím tvoje podvědomí snaží říct. Zneklidňuje tě to, ale pořád připominá, že skutečná Susan a Tom jsou na druhé straně, a musíš je zachránit.
+    - __Alexandra:__ Tvůj první důstojník. Vidíš, jak je proti tomu, abyste pokračovali, ale zároveň ti extrémně věří a pokud něco rozhodneš, čest jí nedovolí to odmítnout.
+    - __Danny:__ Palubní inženýr. Vidíš, že situaci psychicky i fyzicky zvládá z vás tří nejhůř, ale bude potřeba ho nějak udržet nad vodou. Protože jestli chcete kolegy dostat zpátky, každý pár rukou bude potřeba.
+    - TODO Zajistit, aby na konci Loren a Johnny Marca neoživovali a moc neřešili (nebo jinak ošetřit, aby se nemohlo zdát, že jsou to skuteční Susan a Tom a že je Marc zachránil.)
+
 # 5. scéna
 
 Začátek:

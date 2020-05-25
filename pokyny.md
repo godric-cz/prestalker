@@ -147,7 +147,7 @@ Začátek:
     <!-- TODO v přeskoku: "rozsviť světla v místnosti" -->
     - TODO je potřeba tři zvukově oddělené prostory, nebo vymyslet nějaký trik (např. dva prostory a sluchátka při přeskoku, ale to by bylo potřeba vyladit. Jestli přeskakující může zbytek vidět apod.)
     - TODO nezapomenout na zápletku "roste hmotnost" a "vysílá to koule? vyhodit? - ale nepůjde najít následně"
-    - TODO aby někdo spustil zážeh, pokud to ostatní vyzevlí.!
+    - TODO aby někdo spustil zážeh, pokud to ostatní vyzevlí.
     - připravit si svíčku a sirky
 
 Přiblížení objektu (TODO hlášky):
@@ -237,4 +237,4 @@ Během scény:
 Konec:
     - modré světlo při otevření krabice
     - na konci zhasnout
-    - TODO potitulková scéna (pokud ji budeme dělat) (viz pokyny-mrtvy-pomocne.md vyhledat "finální scény")!
+    - TODO potitulková scéna (pokud ji budeme dělat) (viz pokyny-mrtvy-pomocne.md vyhledat "finální scény")
