@@ -9,6 +9,24 @@
             line-height: 1.3;
             margin: 0 40mm;
         }
+
+        /**
+         * Test Linux Libertine font
+         *
+         * Zdá se o trochu lepší a vzdušnější, jak Georiga, ale obecně téměř
+         * stejný. Můžou to dělat jen proporce řádků, Linux Libertine je potřeba
+         * nastavit větší s menším řádkováním, aby to sedělo, takže možná jen
+         * není trefená úplně stejná velikost.
+         */
+        /*
+        @font-face { font-family: 'Libertine'; src: url('template/LinLibertine_Rah.ttf'); }
+        body {
+            font-family: Libertine, Georgia;
+            font-size: 12pt;
+            line-height: 1.1;
+        }
+        */
+
         h1, h2, h3, h4 {
             font-family: Trebuchet MS;
             font-weight: normal;
