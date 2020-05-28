@@ -5,6 +5,24 @@
 - TODO mrtvý bratr Ian, datum smrti 30.11.
     - pak možná zapojit i do dalších míst, např. že si ho připomíná nebo že na něj vzpomene v nějaké předchozí scéně, např. bude smutná / vzteklá a pak z ní vypadne, že je výročí jeho úmrtí a proto se omluví.
 
+Měla jsi mladšího __bratra Iana__. Byl úplně jiný, než ty. Klidný, trochu zasněný. Měla jsi ho ráda, ale kvůli jeho charakteru sis někdy nemohla pomoct a byla k němu i jízlivá a měla tendenci mu rozkazovat. Jemu to ale zjevně nikdy nevadilo, nestěžoval si, a pokud to někdo řešil, byli to tvoji rodiče, kteří ti to pořád vytýkali a štvali tě tím.
+
+Když mu bylo 12 a tobě 16, byli jste s rodiči na dovolené. Rodiče už odcházeli z pláže, ale ty i Ian jste tam ještě chtěli zůstat, a tak ti rodiče Iana dali na starosti. Zůstal s vámi i Connor, syn od vašich známých, který se ti tehdy líbil.
+
+Šli jste se společně podívat ke skalám, z kterých se dalo skákat do vody. Ian si to chtěl vyzkoušet s tím, že potom doplave zpátky a potkáte se na pláži. Chtěla jsi mu to nejdřív zatrhnout, ale pak sis vzpomněla, jak ti rodiče neustále vyčítají, že mu nemáš rozkazovat, a tak sis řekla: Ať se pro jednou stará sám o sebe. Navíc to byla dobrá příležitost, jak se ho na chvíli zbavit a být sama s Connorem.
+
+Vrátila ses s Connorem pěšky na pláž a chvíli jste koupali, když jste zaslechli křik. Uviděla jsi, jak nějaký muž, nejspíš plavčík, nese hubené, bezvládné tělo z vln a zastavilo se ti srdce. Ian. Je mrtvý - utopil se. A jen kvůli tobě...
+
+Uvědomila sis, jak tvoje arogance a chybějící empatie způsobila něco tak hrozného. Nenáviděla ses. Proklínala se. Měsíce jsi byla jako tělo bez duše a nedokázala ses s tím vyrovnat. Nakonec ti ale došlo, že to tak dál nejde. Že nechceš žít jenom obviňováním se.
+
+Rozhodla ses dělat něco prospěšného, do čeho můžeš dát všechny svoje schopnosti a čas a dát tak svému životu znova aspoň nějaký smysl. Zvolila jsi schválně to nejtěžší, co v té době šlo, a rozhodla ses stát kosmonautkou. Díky tvému absolutnímu odhodlání během studia i při práci ses rychle dostala mezi ty nejlepší a stala se tak nejmladší kapitánkou a jednou z prvních žen v té roli vůbec.
+
+TODO buď vyznačit "nejmladší kapitánkou" a nějak doplnit info o slávě, nebo napsat jinam.
+
+Přesto na Iana pořád hodně myslíš a každý rok na výročí jeho smrti, 30. listopadu, na něj vzpomínáš, ať už jsi doma, na misi, nebo kdekoli. Přemýšlíš o tom, jaký by dnes asi byl a zároveň je to pro tebe mementem odpovědnosti, kterou jako kapitánka máš za svoje rozhodnutí a za životy posádky.
+
+TODO každoroční připomínku lze zapojit do hry. Možná říct, že to může udělat volitelně a kdykoli, kdy jí to přijde vhodné.
+
 # 1. scéna
 
 # 2. scéna
