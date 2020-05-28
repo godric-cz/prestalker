@@ -19,7 +19,10 @@
          * není trefená úplně stejná velikost.
          */
         /*
-        @font-face { font-family: 'Libertine'; src: url('template/LinLibertine_Rah.ttf'); }
+        @font-face {
+            font-family: 'Libertine';
+            src: url('template/LinLibertine_Rah.ttf');
+        }
         body {
             font-family: Libertine, Georgia;
             font-size: 12pt;

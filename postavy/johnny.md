@@ -59,7 +59,7 @@ Začátek:
 
 Během scény:
     - Jsi s kámošema na střeše nahrávacího studia a oslavujete. Dokončil jsi natáčení desky. Jako první desku fakt se smlouvou s vydavatelstvím a se vším. Budeš se tím živit!
-    - Trochu jste se zhulili a začali dělat blbosti, teď přeskakujete na střechy vedlejších baráků, kde mají balkóny a zahrádky nějací zbohatlíci. Reálně jsou mezery mezi domy tak metr, takže to není zvlášť nebezpečné.
+    - Trochu jste se zhulili a začali dělat blbosti, teď přeskakujete na střechy vedlejších domů, kde mají balkóny a zahrádky nějací zbohatlíci. Reálně jsou mezery mezi domy tak metr, takže to není zvlášť nebezpečné.
     - _Čáry na zemi představují okraje střech. Jak postupně přeskakujete dál a dál, scéna graduje._
     - __Loren:__ Zpěvačka a kytaristka. Evidentně je ze všeho vyjevená a nadšená stejně, jako ty. Bavíte se nejvíc spolu, navzájem se provokujete, endorfiny pracují. Máte sice pravidlo si mezi členy kapely nic nezačínat, ale říkáš si, že bys fakt chtěl pro tento speciální den udělat výjimku. A tušíš, že ona asi taky...
     - __Marc:__ Poslední, třetí, člen kapely, bubeník. Během nahrávání byl trochu ve stresu a ještě to z něj úplně nevyprchalo. Proto se snažíte ho s Loren víc zapojit do dělání nesmyslů, aby se konečně uvolnil a užil si to.

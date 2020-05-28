@@ -14,9 +14,11 @@
 - [ ] alternativní postavy
 - [ ] projet TODOs a kritické dořešit
 - [ ] postavy
+    - [ ] linky vyplývající ze snů
     - [ ] vztahy
     - [ ] osobní linky (+ zapojit do scén)
 - [ ] sny v meziscénách
 - [ ] potitulková scéna (pokud bude)
 - [ ] zvuky, obrázky v materiálech a rekvizity
 - [ ] terminál
+- [ ] odstranit TODOs (které nebudou zatím řešeny) z výstupů
