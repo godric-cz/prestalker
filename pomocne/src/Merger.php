@@ -12,7 +12,7 @@ class Merger {
     }
 
     private function parse($md) {
-        $parts = preg_split('/\n*(#+ [^\n]+)\n*/m', $md, -1, PREG_SPLIT_DELIM_CAPTURE);
+        $parts = preg_split('/^(#+ [^\n]+)\n*/m', $md, -1, PREG_SPLIT_DELIM_CAPTURE);
 
         $root = new Node('');
         $current = $root;

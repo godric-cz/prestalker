@@ -64,6 +64,10 @@ function postprocess($text, $male) {
 
         // gendered verbs
         '/(\w)\/(a|á)(\W)/' => $male ? '$1$3' : '$1$2$3',
+
+        // comments
+        '/ *\/\/.*$/m' => '',
+        '/TODO/'       => '<span class="todo">TODO</span>',
     ];
 
     return preg_replace(array_keys($replacements), array_values($replacements), $text);

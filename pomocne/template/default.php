@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <style>
         body {
-            font-family: Georgia;
+            font-family: Arial;
             font-size: 11pt;
             line-height: 1.3;
             margin: 0 40mm;
@@ -48,6 +48,10 @@
             border: none;
             border-top: solid 1px #000;
             margin: 1.9em 3em; /* mimic 3 lines */
+        }
+        .todo {
+            color: orange;
+            background-color: black;
         }
 
         <?=$extraCss ?? ''?>
