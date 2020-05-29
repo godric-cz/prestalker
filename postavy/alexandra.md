@@ -1,9 +1,24 @@
 # Alexandra Parker
 
-- TODO kapitánka
-- TODO je slavná (viz pokyny 1. scéna)
-- TODO mrtvý bratr Ian, datum smrti 30.11.
-    - pak možná zapojit i do dalších míst, např. že si ho připomíná nebo že na něj vzpomene v nějaké předchozí scéně, např. bude smutná / vzteklá a pak z ní vypadne, že je výročí jeho úmrtí a proto se omluví.
+// TODO nějaké obecnější info ke hře? Možná
+
+// charakter, mládí a rodinné zázemí (jen fluff)
+
+Už od malička jsi byla velmi systematická a organizovaná. Během školy jsi byla oblíbená a rychle se naučila, jak zapůsobit na ostatní a dosáhnout toho, čeho chceš. Škola ti šla sama a zamilovala ses do fyziky a astronomie.
+
+Až během dospívání ses ale rozhodla tyto zájmy zhmotnit do toho, že se staneš kosmonautkou. S přijetím na akademii pro tebe teprve začala první skutečná životní výzva. Ale protože jsi tomu věnovala doslova všechen čas a vůli, kterou jsi měla, zvládla jsi to. Dokonce ses postupně vypracovala mezi ty nejlepší a hned po skončení studia začala létat.
+
+// kapitánka (role v rámci posádky)
+
+Dnes je ti 29 let a jsi vůbec nejmladší žena, které se podařilo stát __kapitánkou__. Máš za sebou desítky vědeckých i komerčních misí na oběžnou dráhu a několik do hlubokého vesmíru (k Marsu a asteroidům). TODO možná zodpovědnost za posádku (je již zmíněno na konci, ale může být lepší zopakovat)
+
+// je slavná (navázáno na 1. scénu a TODO kontrast s alternativní postavou)
+// TODO a dá se doplnit kde co dál: nabídky na životopis, [hračky](https://www.space.com/search?searchTerm=barbie), hraný film o životě, poznávají ji lidé, ...
+
+Dá se říct, že jsi __slavná__. Přestože ve vesmírném průmyslu pracují už desetitisíce lidí, pořád má velkou prestiž a ty jsi, díky svým úspěchům, jednou z jeho tváří. Novináři s tebou často dělají rozhovory, vystupovala jsi v několika známých dokumentech o vesmíru.
+
+// mrtvý bratr, scéna skal s Connorem (navázáno na 2. sny)
+// datum úmrtí (navázáno na kód v poslední scéně)
 
 Měla jsi mladšího __bratra Iana__. Byl úplně jiný, než ty. Klidný, trochu zasněný. Měla jsi ho ráda, ale kvůli jeho charakteru sis někdy nemohla pomoct a byla k němu i jízlivá a měla tendenci mu rozkazovat. Jemu to ale zjevně nikdy nevadilo, nestěžoval si, a pokud to někdo řešil, byli to tvoji rodiče, kteří ti to pořád vytýkali a štvali tě tím.
 
@@ -17,11 +32,11 @@ Uvědomila sis, jak tvoje arogance a chybějící empatie způsobila něco tak h
 
 Rozhodla ses dělat něco prospěšného, do čeho můžeš dát všechny svoje schopnosti a čas a dát tak svému životu znova aspoň nějaký smysl. Zvolila jsi schválně to nejtěžší, co v té době šlo, a rozhodla ses stát kosmonautkou. Díky tvému absolutnímu odhodlání během studia i při práci ses rychle dostala mezi ty nejlepší a stala se tak nejmladší kapitánkou a jednou z prvních žen v té roli vůbec.
 
-TODO buď vyznačit "nejmladší kapitánkou" a nějak doplnit info o slávě, nebo napsat jinam.
+Přesto na Iana pořád hodně myslíš a každý rok na výročí jeho smrti, 30. listopadu, na něj zavzpomínáš, ať už jsi doma, na misi, nebo kdekoli. Přemýšlíš o tom, jaký by dnes asi byl a zároveň je to pro tebe mementem odpovědnosti, kterou jako kapitánka máš za svoje rozhodnutí a za životy posádky.
 
-Přesto na Iana pořád hodně myslíš a každý rok na výročí jeho smrti, 30. listopadu, na něj vzpomínáš, ať už jsi doma, na misi, nebo kdekoli. Přemýšlíš o tom, jaký by dnes asi byl a zároveň je to pro tebe mementem odpovědnosti, kterou jako kapitánka máš za svoje rozhodnutí a za životy posádky.
+TODO každoroční připomínku lze zapojit do hry. Možná říct, že to může udělat volitelně a kdykoli, kdy jí to přijde vhodné. Nebo bude smutná / vzteklá a pak z ní vypadne, že je výročí jeho úmrtí a proto se omluví.
 
-TODO každoroční připomínku lze zapojit do hry. Možná říct, že to může udělat volitelně a kdykoli, kdy jí to přijde vhodné.
+// TODO vazby na další postavy. Vyplyne víc po dodělání osobních linek. Kde se seznámili případně nějaká společná historie, nebo aspoň co o nich ví. Možno doplnit nějaké důležité události z předchozích misí (buď na propojení postav, nebo i samostatně). Klidně tady může být i nadpis ## Vztahy nebo ## Posádka nebo něco takového.
 
 # 1. scéna
 
