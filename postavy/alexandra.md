@@ -36,6 +36,8 @@ Přesto na Iana pořád hodně myslíš a každý rok na výročí jeho smrti, 3
 
 TODO každoroční připomínku lze zapojit do hry. Možná říct, že to může udělat volitelně a kdykoli, kdy jí to přijde vhodné. Nebo bude smutná / vzteklá a pak z ní vypadne, že je výročí jeho úmrtí a proto se omluví.
 
+TODO ošetřit, aby nemohli heslo uhádnout a náklad otevřít dřív, než v poslední scéně.
+
 // TODO vazby na další postavy. Vyplyne víc po dodělání osobních linek. Kde se seznámili případně nějaká společná historie, nebo aspoň co o nich ví. Možno doplnit nějaké důležité události z předchozích misí (buď na propojení postav, nebo i samostatně). Klidně tady může být i nadpis ## Vztahy nebo ## Posádka nebo něco takového.
 
 # 1. scéna
