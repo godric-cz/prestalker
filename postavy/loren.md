@@ -5,6 +5,10 @@
 - TODO ví o Johnnyho fake posudku (nebo ho dělala)
 - Na začátku letu jsi tajně upravila software hibernační jednotky, aby nehlásil zdravotní problémy související s tvou nemocí. Jinak by se totiž na problémy přišlo a let by byl nejspíš přerušen.
 - TODO proč se chce dostat na Mars. Např. že ji tam nechají (jsou precedenty že to může být, ona sama se tam snažila vždycky dostat ale nebrali ji, zbytek se vrátí na Zemi i tak. Případně její nemoc tam bude míň postupovat).
+- TODO ze snů:
+    - soutěživost se sestrou (v snech 1 je sestra singl a ona jí někoho přebírá)
+    - vztah s manželem (v snech 1 s ním má otevřený vztah, v reálu možno vyznačit, že mu to ubližuje / katalyzuje psychické problémy)
+    - její manžel Steve se zabil (sny 2), pár týdnů po tom dovolená s kamarády, kterou probrečela (možná i nějaké důsledky, které to mělo na další život)
 
 # 1. scéna
 

@@ -4,6 +4,11 @@ _"Poznat pravdu a posouvat obzory, proto jsme tady. Mohli jsme být jen opice v 
 
 - TODO že citát je z učebnice fyziky co si někam zapsal (možná ještě adresovat někdy během hry) (meta - dobře to adresuje vybírání postav potom, oživí se téma postavy)
 - TODO palubní inženýr
+- TODO ze snů:
+    - chce být kapitán (... možná nějak navázat proč není resp. čemu to přisuzuje?) (sny 1 i 2)
+    - ne nutné: alexandra ho odmítla na střední, možná obecně komplikované vztahy s holkama
+    - nápad: možná v origu byl na té misi, kde někdo umřel, a původního kapitána viní a myslí si, že by to sám udělal líp? Dokonce možná že kapitán co udělal chybu byla alexandra?
+    - možnost: nějaké soutěžení s alexandrou (v snech 2 je jeho loajální podřízená, lze nějak kontrastovat s reálem)
 
 # 1. scéna
 

@@ -24,7 +24,7 @@ Konec:
 # 2. scéna
 
 Během scény:
-    - Tato scéna slouží k rozehrání vztahů "na vážno" (oproti párty) a vytvoření pocitu, že "tohle se opravdu dějě". Jsme ve vesmíru, jenom nás pět, miliony kilometrů od kohokoli dalšího, a pokud se cokoli stane, musíme to vyřešit sami. Hranice mezi rutinním letem a bojem o život může být nesmírně tenká. Scéna vás povede k tomu se rozdělovat a vytváří volnější časové úseky. Ty slouží k možnosti se bavit s ostatními v soukromí (resp. menším počtu) a o civilních věcech. Dá se taky omluvit, vyjasnit nebo navázat na cokoli, co se dělo na párty. Cílem je rozehrát vztahy, v dalších scénách už bude prostoru méně.
+    - Tato scéna slouží k rozehrání vztahů "na vážno" (oproti párty) a vytvoření pocitu, že "tohle se opravdu dějě". Jsme ve vesmíru, jenom nás pět, miliony kilometrů od kohokoli dalšího, a pokud se cokoli stane, musíme to vyřešit sami. Hranice mezi rutinním letem a bojem o život může být nesmírně tenká. Scéna vás povede k tomu se rozdělovat a vytváří volnější časové úseky. Ty slouží k možnosti se bavit s ostatními v soukromí (resp. menším počtu) a o civilních věcech. Dá se taky omluvit, vyjasnit nebo navázat na cokoli, co se dělo na párty. Cílem je rozehrát vztahy, v dalších scénách už bude prostoru méně. TODO tady není kurzíva a měla by být (případně jiné značení, že jde o nediegetický text)
     - TODO možná doplnit do dalších scén, k čemu slouží nebo jak je hrát.
 
 # Sny
@@ -32,7 +32,7 @@ Během scény:
 Během hibernace se ti zdají sny. Je to zvláštní, protože hibernace není spánek. Nikdy dřív jsi sny během ní neměl/a, ani nevíš o nikom, komu by se to stalo.
 
 Začátek:
-    - _Následuje krátká meziscéna, během které&ensp;__se nemluví__._
+    - _Následuje krátká meziscéna, během které __se nemluví__._
     - _Vyjadřuj se jen pohybem, gesty, pohledem, atd... Co se děje může být trochu nejasné a abstraktní. Toho se neboj, takové sny jsou._
     - _Až si vše přečteš a budeš připraven/á, odlož postavu (jako obvykle). Jakmile začne hrát nahlas hudba a rozsvítí se světlo, přesuň se s ostatními na scénu a začněte hrát._
 
@@ -48,7 +48,7 @@ Konec:
 Během hibernace se ti zdají sny. Tentokrát je to ale jiný sen, než minule.
 
 Začátek:
-    - _Platí stejná pravidla, jako minule: během snu&ensp;__se nemluví__._
+    - _Platí stejná pravidla, jako minule: během snu __se nemluví__._
     - _Vyjadřuje se jen pohybem, díky čemuž může být sen trochu abstraktní a nesrozumitelný, což je správně._
     - _Až si pokyny přečteš, odlož postavu jako obvykle. Jakmile začne hrát nahlas hudba a rozsvítí se světlo, přesuň se s ostatními na scénu a začněte hrát._
 

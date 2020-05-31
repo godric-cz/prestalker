@@ -10,7 +10,7 @@ Až během dospívání ses ale rozhodla tyto zájmy zhmotnit do toho, že se st
 
 // kapitánka (role v rámci posádky)
 
-Dnes je ti 29 let a jsi vůbec nejmladší žena, které se podařilo stát __kapitánkou__. Máš za sebou desítky vědeckých i komerčních misí na oběžnou dráhu a několik do hlubokého vesmíru (k Marsu a asteroidům). TODO možná zodpovědnost za posádku (je již zmíněno na konci, ale může být lepší zopakovat)
+Dnes je ti 29 let a nedávno ses stala __kapitánkou__. Jsi vůbec nejmladší žena, které se to podařilo. Máš za sebou desítky vědeckých i komerčních misí na oběžnou dráhu a několik do hlubokého vesmíru (k Marsu a asteroidům). TODO možná zodpovědnost za posádku (je již zmíněno na konci, ale může být lepší zopakovat)
 
 // je slavná (navázáno na 1. scénu a TODO kontrast s alternativní postavou)
 // TODO a dá se doplnit kde co dál: nabídky na životopis, [hračky](https://www.space.com/search?searchTerm=barbie), hraný film o životě, poznávají ji lidé, ...
@@ -112,7 +112,8 @@ Začátek:
 Během scény:
     - Jste na dovolené, na skalách, na kde se utopil tvůj bratr. Teď ale všechno vidíš zvenčí.
     - _Čáry na zemi představují části skal. Přeskakujete je, hádáte se, jestli je přeskočit, poslední čára představuje skálu nad mořem. Jak postupně přeskakujete, scéna graduje._
-    - __Marc:__ Tvůj bratr Ian. Chceš ho přesvědčit, aby se vrátil. A pokud se to nepovede, tak s ním aspoň zůstat do konce a pokusit se ho zachránit, pokud skočí do vody. TODO: možná "zachránit" nahradit "oživovat".
+    - TODO možná kurzívy nahradit šedým textem s odsazovací čárou (ve stylu blockquote) nebo boxem.
+    - __Marc:__ Tvůj bratr Ian. Chceš ho přesvědčit, aby se vrátil. A pokud se to nepovede, tak s ním aspoň zůstat do konce a pokusit se ho zachránit, pokud skočí do vody. TODO možná "zachránit" nahradit slovem "oživovat".
     - __Loren:__ Vidíš samu sebe, jak bratra střídavě ignoruješ nebo hecuješ, aby šel dál. Takto se to stalo doopravdy. Kdo jsi vlastně ty, když sebe samu vidíš takto zvenčí? Co se stane, když na sebe promluvíš? To netušíš.
     - __Johnny:__ Connor, syn vašich známých, o kterého ses tehdy zajímala podstatně víc, než o bratra.
     - __Danny:__ Tato verze Connora je tu s tebou. Nebo je to někdo z posádky? Každopádně ale cítíš, že jste tady s tím člověkem spolu a podporujete se. TODO: Možná působí příliš lacině, jako že "je jedno, kdo to je", a bylo by lepší fixně říct "je to Connor". Viz také, že Danny může teoreticky Marca zachránit z vlastní iniciativy.

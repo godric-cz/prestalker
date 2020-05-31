@@ -1,6 +1,8 @@
 # Johnny Miles
 
 - TODO navigátor
+- TODO info: linku ze snu nepotřebuje
+    - může mít: hrál na kytaru a po nehodě to vzdal
 
 # 1. scéna
 

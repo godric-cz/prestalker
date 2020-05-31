@@ -22,3 +22,4 @@
 - [ ] zvuky, obrázky v materiálech a rekvizity
 - [ ] terminál
 - [ ] odstranit TODOs (které nebudou zatím řešeny) z výstupů
+- [ ] proofreading

@@ -1,6 +1,9 @@
 # Danny Dwight
 
 - TODO operations manager
+- TODO info: linku ze snu nepotřebuje
+    - může mít: žena je fixovaná na bratra a na něj (možná nějaká rodinná tragédie)
+- TODO možnost: nástřel osobní linky jak se po výměně dusí, může být jako probuzení ze snů že se mu ztratí rodina a vidí stanici a dusí se? Možná dokonce dílčí motivace k probuzení hibernace / startu poslední scény?
 
 # 1. scéna
 
