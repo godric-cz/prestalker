@@ -1,14 +1,31 @@
 # Marc Friday
 
+// narážka na citát je v poslední scéně v zprávách v počítači
+
 _"Poznat pravdu a posouvat obzory, proto jsme tady. Mohli jsme být jen opice v jeskyni třesoucí se strachy z bouřky. Nejsme, protože naši předkové vyšli ven a objevili oheň. Teď je řada na nás. Objevujeme ne kvůli sobě; je to naše povinnost vůči nim - vůči lidskému druhu."_
+
+// dětství a charakter (jen fluff)
+
+Už od mala tě zajímala technika, počítače a vesmír. Citát nahoře je z jedné učebnice fyziky, kterou jsi měl asi v sedmé třídě. Líbil se ti natolik, že sis ho zapsal a přijal jako svoje neoficiální životní motto.
+
+Střední školu jsi zvládal snadno a skoro bez učení, ale o to víc času jsi měl na zkoušení elektroniky a stavění vlastních přístrojů a malých raket. V sedmnácti jsi dokázal sestavit vlastní raketu, která dosáhla výšky 100km, a tedy se oficiálně dostala do vesmíru.
+
+Vztahy se spolužáky jsi neměl ani dobré, ani špatné. Nebyl jsi sice ten typický šprt, kterého by neustále někdo šikanoval, ale spíš ses prostě nedokázal s nikým moc sblížit. S pár kluky z technického kroužku ses znal líp, ale pokud jste něco vymýšleli a vyráběli, oni moc nestíhali tvoje tempo. A naopak trávit s nimi čas "nicneděláním" zase přišlo nuda tobě, a vždycky jsi radši pracoval na nějakém dalším projektu.
+
+// odmítnutí na střední (navázáno na sny 1)
+
+A co se týká holek... Dlouho se ti líbila spolužačka Natalie, a když časem začalo pár tvých kamarádů s někým chodit, nechal ses od nich nakonec i ty vyhecovat, abys ji pozval na rande. Bohužel, dopadlo to katastrofálně: Doslova se ti vysmála a samozřejmě to všem spolužačkám řekla. Naprosto tě to sejmulo a sžíralo v podstatě po celou střední. Dnes vidíš, že ses přes to nakonec dokázal dostat, ale pachuť nad tím, jak se zachovala, je tam pořád.
+
+// ... -> nyní výška?
 
 - TODO že citát je z učebnice fyziky co si někam zapsal (možná ještě adresovat někdy během hry) (meta - dobře to adresuje vybírání postav potom, oživí se téma postavy)
 - TODO palubní inženýr
 - TODO ze snů:
     - chce být kapitán (... možná nějak navázat proč není resp. čemu to přisuzuje?) (sny 1 i 2)
-    - ne nutné: alexandra ho odmítla na střední, možná obecně komplikované vztahy s holkama
+    - ne nutné: nějaká holka (ve snu hráčka alexandry) ho odmítla na střední, možná obecně komplikované vztahy s holkama
     - nápad: možná v origu byl na té misi, kde někdo umřel, a původního kapitána viní a myslí si, že by to sám udělal líp? Dokonce možná že kapitán co udělal chybu byla alexandra?
     - možnost: nějaké soutěžení s alexandrou (v snech 2 je jeho loajální podřízená, lze nějak kontrastovat s reálem)
+- TODO nápad: pokud by měl balit Loren, dá se do historie dát, že si na střední rozuměl spíš s učiteli než spolužáky a dát tam nějakou podobnost mezi Loren a učitelkou, s kterou si byli blízcí
 
 # 1. scéna
 
