@@ -39,6 +39,7 @@ TODO každoroční připomínku lze zapojit do hry. Možná říct, že to můž
 TODO ošetřit, aby nemohli heslo uhádnout a náklad otevřít dřív, než v poslední scéně.
 
 // TODO vazby na další postavy. Vyplyne víc po dodělání osobních linek. Kde se seznámili případně nějaká společná historie, nebo aspoň co o nich ví. Možno doplnit nějaké důležité události z předchozích misí (buď na propojení postav, nebo i samostatně). Klidně tady může být i nadpis ## Vztahy nebo ## Posádka nebo něco takového.
+// TODO nápad: Pokud by se to řídilo původními postavami, s Johnnym by mohla mít nějakou historii, na kterou chce navazovat, právě z výcviku.
 
 # 1. scéna
 

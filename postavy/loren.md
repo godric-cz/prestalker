@@ -1,10 +1,32 @@
 # Loren Ellison
 
+// TODO dětství a historie (fluff / koncept) pokud to bude třeba
+
+Je ti 43 let, jsi __lodní lékařka__ a máš na starosti fyzické i psychické zdraví posádky.
+
+// TODO soutěživost se sestrou (TODO možno víc zapojit nad rámec snů)
+
+// smrt manžela
+// TODO nápad: zajímavé zlo by se dalo udělat tím, že Loren má jeho dopis na rozloučenou, ale dosud ho neotevřela
+
+Byla jsi vdaná, tvůj __manžel Steve__ byl trochu plachý, ale extrémně inteligentní a kreativní člověk, maloval, psal a tobě dával do života úplně originální vhled na svět i sebe samu, čímž tě okouzlil.
+
+...
+
+// upravená hibernační jednotka (navázáno na scénu 2, kde Alexandra zmíní software hibernace jako krycí historku a scénu 5, kde se hibernace rozbije)
+
+Na začátku letu jsi __tajně upravila software hibernační jednotky__, aby nehlásil zdravotní problémy související s tvou nemocí. Jinak by se totiž na problémy přišlo a let by byl nejspíš přerušen.
+
+// chce na Mars (navázáno na palivo v scéně 3)
+
+V čase, který ti zbývá, toho chceš ve vesmíru stihnout co nejvíc. I proto jsi vzala tuto misi k asteroidům, a jestli se to ještě kdy podaří, __máš sen se dostat i na Mars__. Na Marsu je trvalá základna, jsou tam ti nejlepší vědci a létá se tam vždy párkrát za dlouhý čas. Proto, kdyby ses tam jednou dostala, bys tam pravděpodobně mohla zůstat pracovat až do úplného konce a uložili by tě pak do marsovské půdy, což by ti přišlo jako správný způsob, jak svou životní cestu zakončit.
+
+Nemáš už co ztratit a tak neváháš kvůli tomuto snu i poměrně riskovat. Například jsi zvažovala se na stanici zkusit oddělit od posádky a nechat se "zachránit" jinou lodí, která na Mars ze stanice poletí. Ale zatím se zdá, že vaše loď letí ke stanici jako jediná za dlouhou dobu, a tak tento plán padl.
+
 - TODO lodní lékařka
 - TODO má na starost psychologii posádky
 - TODO ví o Johnnyho fake posudku (nebo ho dělala)
-- Na začátku letu jsi tajně upravila software hibernační jednotky, aby nehlásil zdravotní problémy související s tvou nemocí. Jinak by se totiž na problémy přišlo a let by byl nejspíš přerušen.
-- TODO proč se chce dostat na Mars. Např. že ji tam nechají (jsou precedenty že to může být, ona sama se tam snažila vždycky dostat ale nebrali ji, zbytek se vrátí na Zemi i tak. Případně její nemoc tam bude míň postupovat).
+- TODO proč se chce dostat na Mars. Např. že ji tam nechají (jsou precedenty že to může být, ona sama se tam snažila vždycky dostat ale nebrali ji, zbytek se vrátí na Zemi i tak. Případně její nemoc tam bude míň postupovat. Případně prostě ví, že umře, ale chce to zažít ještě před tím.).
 - TODO ze snů:
     - soutěživost se sestrou (v snech 1 je sestra singl a ona jí někoho přebírá)
     - vztah s manželem (v snech 1 s ním má otevřený vztah, v reálu možno vyznačit, že mu to ubližuje / katalyzuje psychické problémy)

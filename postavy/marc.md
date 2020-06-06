@@ -8,7 +8,7 @@ _"Poznat pravdu a posouvat obzory, proto jsme tady. Mohli jsme být jen opice v 
 
 Už od mala tě zajímala technika, počítače a vesmír. Citát nahoře je z jedné učebnice fyziky, kterou jsi měl asi v sedmé třídě. Líbil se ti natolik, že sis ho zapsal a přijal jako svoje neoficiální životní motto.
 
-Střední školu jsi zvládal snadno a skoro bez učení, ale o to víc času jsi měl na zkoušení elektroniky a stavění vlastních přístrojů a malých raket. V sedmnácti jsi dokázal sestavit vlastní raketu, která dosáhla výšky 100km, a tedy se oficiálně dostala do vesmíru.
+Střední školu jsi zvládal snadno a skoro bez učení, ale o to víc času jsi měl na zkoušení elektroniky a stavění vlastních přístrojů a malých raket. V sedmnácti jsi dokonce dokázal sestavit vlastní raketu, která se dostala až do vesmíru.
 
 Vztahy se spolužáky jsi neměl ani dobré, ani špatné. Nebyl jsi sice ten typický šprt, kterého by neustále někdo šikanoval, ale spíš ses prostě nedokázal s nikým moc sblížit. S pár kluky z technického kroužku ses znal líp, ale pokud jste něco vymýšleli a vyráběli, oni moc nestíhali tvoje tempo. A naopak trávit s nimi čas "nicneděláním" zase přišlo nuda tobě, a vždycky jsi radši pracoval na nějakém dalším projektu.
 
@@ -24,9 +24,11 @@ Dneska je ti 30 a jsi __palubní inženýr__. Pochopitelně ses __chtěl stát k
 
 ## Ostatní postavy
 
-__Alexandra__ - Kapitánka a nejmladší žena, která se kapitánkou stala. Je trochu celebrita, bývá často v televizi a rozhodně je krásná. Není špatná kapitánka, lidsky je ti hodně sympatická, ale zároveň během mise se ti potvrzuje, že technicky je prostě jenom "dobrá", ne nejlepší. // TODO +- dobrý popis vztahu, ale zatím tam není co hrát.
+// Chce ji, ale zároveň ví, že čistě podle skillu by měl být kapitán on
 
+__Alexandra__ - Kapitánka a nejmladší žena, která se kapitánkou stala. Je trochu celebrita, bývá často v televizi a rozhodně je krásná. Jako kamarádka a jako žena ti přijde skvělá, i když asi trochu mimo tvou ligu. Trochu ti připomíná Natalii ze střední, což vyvolává nějaké hořké vzpomínky, ale stejně zkoušíš s ní trávit čas a __dělat na ni dojem__. V podstatě jedinou výhradu máš k tomu, jaká je kapitánka - je sice dobrá, ale __není nejlepší__, a podle tebe by kapitán měl být jen ten nejlepší. Často od tebe potřebuje vědět i základní věci o hledně lodi, které by měla znát sama, ale tobě to aspoň dává možnost se před ní ukázat. Zároveň to ale taky ukazuje, že pokud by se to řídilo spravedlivě znalostmi a dovednostmi, byl bys kapitánem ty. // TODO nějak reflektovat jeho "rady" u postavy Alexandry?
 
+---
 
 - TODO že citát je z učebnice fyziky co si někam zapsal (možná ještě adresovat někdy během hry) (meta - dobře to adresuje vybírání postav potom, oživí se téma postavy)
 - TODO palubní inženýr
