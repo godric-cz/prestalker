@@ -1,36 +1,47 @@
 # Loren Ellison
 
 // TODO dětství a historie (fluff / koncept) pokud to bude třeba
+// TODO lodní lékařka, má na starosti psychologii posádky (možno víc zmínit, jak má psychiku řešit + do ostatních postav možno dát nějaké informace k psychickým profilům)
 
 Je ti 43 let, jsi __lodní lékařka__ a máš na starosti fyzické i psychické zdraví posádky.
 
-// TODO soutěživost se sestrou (TODO možno víc zapojit nad rámec snů)
+// TODO soutěživost se sestrou (navázáno na sny 1, kde je sestra singl a Loren jí někoho sbalí před nosem) (TODO možno víc zapojit nad rámec snů)
 
 // smrt manžela
+// (navázáno na sny 1 - její alt. postava mu požadavkem na otevřený vztah ubližuje, ačkoli sama to nevidí)
+// (navázáno na sny 2 - dovolená s kamarády, kde je alt. postava v pohodě, sebe chápe jako oběť a flirtuje s nějakým jiným týpkem)
+// TODO možno navázat na další život, např. že nemoc dostala v laboratoři kvůli přehnanému pracovnímu nasazení a riskování, které začala dělat jako způsob jak se se ztrátou vyrovnávat
 // TODO nápad: zajímavé zlo by se dalo udělat tím, že Loren má jeho dopis na rozloučenou, ale dosud ho neotevřela
+// TODO citlivá témata. Vyznačit někam, že je tam téma sebevražda blízké osoby (případně viz semafor v rpg skupině).
 
-Byla jsi vdaná, tvůj __manžel Steve__ byl trochu plachý, ale extrémně inteligentní a kreativní člověk, maloval, psal a tobě dával do života úplně originální vhled na svět i sebe samu, čímž tě okouzlil.
+Byla jsi vdaná, tvůj __manžel Steve__ byl trochu plachý, ale extrémně inteligentní a kreativní člověk. Maloval, psal a tobě dával do života úplně originální vhled na svět i sebe samu, čímž tě okouzlil.
 
-...
+Společně jste se hodně doplňovali. Proto ale delší a delší období odloučení, která jsi trávila na misích a výcviku, pro oba obtížná. Navíc Steve hůř zvládal, že pracuješ v tak extrémně mužském kolektivu. Ne že by žárlil, nikdy o tom nemluvil, ale poznala jsi, že je to pro něj těžké téma.
+
+A navíc pravděpodobně začal trpět depresemi. Což ti ale všechno zaklaplo do sebe až ve chvíli, kdy ti během jednoho výcviku zazvonil telefon a oznámili ti, že Stevea našli ve vašem bytě mrtvého. // TODO možná, že jí to zavolala její sestra?
+
+Zdrtilo tě to. Navíc k zármutku se připojilo obviňování se a pochybnosti sama o sobě, když ti najednou došly všechny ty jednoznačné varovné signály, které jsi měla jako doktor vidět a neviděla.
+
+Přerušila jsi kariéru, chtěla strávit pár měsíců terapií a pak se zkusit vrátit. Jak naivní to je ti došlo, když ses po pár týdnech pokusila začít vracet do života a vyjet s kamarády na dovolenou. Místo jiných myšlenek se ti vše jen vrátilo, probrečela jsi dva dny a odjela domů, a tvůj psychický stav se propadl zpátky do bodu nula.
+
+Nakonec trvalo dva roky, než jsi vůbec dokázala rozumně začít zase pracovat v laboratoři, a další rok, než ses opět začala připravovat k letům do vesmíru. Ale dokázala jsi to. // TODO možno zmínit, že když se vracela, psychologové byli její známí a přimhouřili oko a možno taky na to zatlačit přes nějakou jinou postavu (i když není to moc hardcore?)
+
+// TODO je nevyléčitelně nemocná a kryje to (souvisí s hibernací a cestou na Mars)
 
 // upravená hibernační jednotka (navázáno na scénu 2, kde Alexandra zmíní software hibernace jako krycí historku a scénu 5, kde se hibernace rozbije)
 
 Na začátku letu jsi __tajně upravila software hibernační jednotky__, aby nehlásil zdravotní problémy související s tvou nemocí. Jinak by se totiž na problémy přišlo a let by byl nejspíš přerušen.
 
 // chce na Mars (navázáno na palivo v scéně 3)
+// TODO případně doplnit, že jsou precedenty pro to, že tam zůstane, když tam přistanou (pokud by stávající popis nebyl uvěřitelný)
 
 V čase, který ti zbývá, toho chceš ve vesmíru stihnout co nejvíc. I proto jsi vzala tuto misi k asteroidům, a jestli se to ještě kdy podaří, __máš sen se dostat i na Mars__. Na Marsu je trvalá základna, jsou tam ti nejlepší vědci a létá se tam vždy párkrát za dlouhý čas. Proto, kdyby ses tam jednou dostala, bys tam pravděpodobně mohla zůstat pracovat až do úplného konce a uložili by tě pak do marsovské půdy, což by ti přišlo jako správný způsob, jak svou životní cestu zakončit.
 
 Nemáš už co ztratit a tak neváháš kvůli tomuto snu i poměrně riskovat. Například jsi zvažovala se na stanici zkusit oddělit od posádky a nechat se "zachránit" jinou lodí, která na Mars ze stanice poletí. Ale zatím se zdá, že vaše loď letí ke stanici jako jediná za dlouhou dobu, a tak tento plán padl.
 
-- TODO lodní lékařka
-- TODO má na starost psychologii posádky
-- TODO ví o Johnnyho fake posudku (nebo ho dělala)
-- TODO proč se chce dostat na Mars. Např. že ji tam nechají (jsou precedenty že to může být, ona sama se tam snažila vždycky dostat ale nebrali ji, zbytek se vrátí na Zemi i tak. Případně její nemoc tam bude míň postupovat. Případně prostě ví, že umře, ale chce to zažít ještě před tím.).
-- TODO ze snů:
-    - soutěživost se sestrou (v snech 1 je sestra singl a ona jí někoho přebírá)
-    - vztah s manželem (v snech 1 s ním má otevřený vztah, v reálu možno vyznačit, že mu to ubližuje / katalyzuje psychické problémy)
-    - její manžel Steve se zabil (sny 2), pár týdnů po tom dovolená s kamarády, kterou probrečela (možná i nějaké důsledky, které to mělo na další život)
+## Ostatní postavy
+
+// TODO ví o Johnnyho fake posudku (nebo ho dělala)
 
 # 1. scéna
 
