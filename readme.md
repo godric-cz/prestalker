@@ -14,7 +14,7 @@
 - [ ] alternativní postavy
 - [ ] projet TODOs a kritické dořešit
 - [ ] postavy
-    - [ ] linky vyplývající ze snů
+    - [x] linky vyplývající ze snů
     - [ ] vztahy
     - [ ] osobní linky (+ zapojit do scén)
 - [ ] sny v meziscénách
