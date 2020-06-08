@@ -2,10 +2,19 @@
 
 // TODO dětství a historie (fluff / koncept) pokud to bude třeba
 // TODO lodní lékařka, má na starosti psychologii posádky (možno víc zmínit, jak má psychiku řešit + do ostatních postav možno dát nějaké informace k psychickým profilům)
+// TODO historie studia, jak se dostala do vesmíru atd. (nebude hráčka zmatená, když o tom v postavě nebude nic napsáno?)
 
 Je ti 43 let, jsi __lodní lékařka__ a máš na starosti fyzické i psychické zdraví posádky.
 
-// TODO soutěživost se sestrou (navázáno na sny 1, kde je sestra singl a Loren jí někoho sbalí před nosem) (TODO možno víc zapojit nad rámec snů)
+// soutěživost se sestrou (navázáno na sny 1, kde je sestra singl a Loren jí někoho sbalí před nosem)
+// TODO možno víc zapojit nad rámec snů - zatím je storka s bytem jen fluff a je možné ji škrtnout.
+// TODO možná je tento další šrám na duši už přehrocený a bylo by vhodnější dát tam spíš jen obecné info o soutěživosti, bez nějakého vyloženě negativního / útrpného vztahu
+
+Máš __mladší sestru Ally__. Během tvého dospívání byli rodiče často v práci a musela ses víceméně samostatně starat o sebe i o ni, přes to jsi ji ale měla ráda.
+
+Když ale Ally vyrostla, situace se diametrálně změnila. Během její střední a vysoké ji najednou rodiče ve všem podporovali. Viděla jsi, jak má hromadu času na studium, vztahy, zábavu a nemusí se starat o nic. Něco, co jsi ty kvůli ní nikdy neměla.
+
+Víš, že to není její chyba. Přes to sledovat, jak si užívá života, obletují ji kluci a daří se jí ve škole, v tobě vyvolávalo hořké vzpomínky a vaše vztahy postupně ochladly. Poslední hřebík do rakve tomu pak zasadili vaši rodiče, kteří Ally přenechali krásný velký byt ve městě, protože "ty přece už vlastní byt máš" (co na tom, že je malinký a máš na něj hypotéku). Rozčilila ses, pohádali jste se a od té doby se s rodinou vídáte minimálně.
 
 // smrt manžela
 // (navázáno na sny 1 - její alt. postava mu požadavkem na otevřený vztah ubližuje, ačkoli sama to nevidí)
@@ -16,7 +25,7 @@ Je ti 43 let, jsi __lodní lékařka__ a máš na starosti fyzické i psychické
 
 Byla jsi vdaná, tvůj __manžel Steve__ byl trochu plachý, ale extrémně inteligentní a kreativní člověk. Maloval, psal a tobě dával do života úplně originální vhled na svět i sebe samu, čímž tě okouzlil.
 
-Společně jste se hodně doplňovali. Proto ale delší a delší období odloučení, která jsi trávila na misích a výcviku, pro oba obtížná. Navíc Steve hůř zvládal, že pracuješ v tak extrémně mužském kolektivu. Ne že by žárlil, nikdy o tom nemluvil, ale poznala jsi, že je to pro něj těžké téma.
+Společně jste se hodně doplňovali. Proto ale delší a delší období odloučení, která jsi trávila na misích a výcviku, byla pro oba obtížná. Navíc Steve hůř zvládal, že pracuješ v tak extrémně mužském kolektivu. Ne že by žárlil, nikdy o tom nemluvil, ale poznala jsi, že je to pro něj těžké téma.
 
 A navíc pravděpodobně začal trpět depresemi. Což ti ale všechno zaklaplo do sebe až ve chvíli, kdy ti během jednoho výcviku zazvonil telefon a oznámili ti, že Stevea našli ve vašem bytě mrtvého. // TODO možná, že jí to zavolala její sestra?
 
@@ -26,7 +35,13 @@ Přerušila jsi kariéru, chtěla strávit pár měsíců terapií a pak se zkus
 
 Nakonec trvalo dva roky, než jsi vůbec dokázala rozumně začít zase pracovat v laboratoři, a další rok, než ses opět začala připravovat k letům do vesmíru. Ale dokázala jsi to. // TODO možno zmínit, že když se vracela, psychologové byli její známí a přimhouřili oko a možno taky na to zatlačit přes nějakou jinou postavu (i když není to moc hardcore?)
 
-// TODO je nevyléčitelně nemocná a kryje to (souvisí s hibernací a cestou na Mars)
+// je nevyléčitelně nemocná a kryje to (souvisí s hibernací a cestou na Mars)
+
+V době po návratu do laboratoře ses snažila co nejvíc pracovat, abys všechno dohnala a přišla na jiné myšlenky. Často jsi tam zůstávala do noci a chtěla za každou cenu dosáhnout nějakého průlomu.
+
+To se ti ale vymstilo, když jsi na sebe převrhla nezajištěnou zkumavku s nějakou nebezpečnou látkou. Ututlala jsi to a dál se tím nezabývala, ale po pár měsících ti začalo občas být špatně. Odebrala sis krev, tajně sama udělala nějaké testy a zjistila, že ta látka ti nějak poškodila geny a vyvolala nějakou neznámou, pravděpodobně __neléčitelnou genetickou nemoc__, která se bude postupně zhoršovat.
+
+Nemoc se ti daří tajit, ale nevíš, kolik času ti zbývá. Může to být několik let, vážnější příznaky začnou možná o něco dřív. // TODO nápad: může mít zájem dozvědět se, jak to s ní přesně je.
 
 // upravená hibernační jednotka (navázáno na scénu 2, kde Alexandra zmíní software hibernace jako krycí historku a scénu 5, kde se hibernace rozbije)
 

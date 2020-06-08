@@ -1,9 +1,27 @@
 # Danny Dwight
 
-- TODO operations manager
-- TODO info: linku ze snu nepotřebuje
-    - může mít: žena je fixovaná na bratra a na něj (možná nějaká rodinná tragédie)
-- TODO možnost: nástřel osobní linky jak se po výměně dusí, může být jako probuzení ze snů že se mu ztratí rodina a vidí stanici a dusí se? Možná dokonce dílčí motivace k probuzení hibernace / startu poslední scény?
+// operations manager + vysvětlení (role v rámci posádky)
+
+Je ti 38 let a na této misi pracuješ jako __operations manager__. To znamená, že máš na starosti hlavní úkol, který loď dělá (tedy u těžební lodi těžbu, u opravárenské lodi zachycení a opravu satelitů a v případě této lodi převzetí nákladu a jeho technické zajištění během letu, například pokud by vyžadoval zajištění stálé teploty a podobně).
+
+K létání ses dostal ... měl jsi X misí ... TODO
+
+// má manželku, je na něj fixovaná, chce kvůli rodině skončit s létáním
+// navázáno na 1. sny, kde se přehraje (připomene) hádka s bratrem a fixace na Dannyho (ale hráč už je v té době Josh dwight)
+// navázáno na 2. sny, kde zas vidí, jak bude Danny scházet svému synovi
+// TODO možno doplnit synovu odvykačku
+
+Máš __manželku Sandru__. Potkali jste se už na gymnáziu a od té doby se váš vztah vyvíjel dobrým směrem. Máš s ní tři děti, nejstaršího syna a dvě mladší dcery. // TODO dávat jména? Pro - může to chtít na smalltalk, proti - zbytečně to odvádí pozornost od důležitějších věcí, které by si měl zapamatovat
+
+Rodina je pro tebe i pro Sandru ta nejcennější věc. A pro ni v poslední době ještě o to víc. Během dospívání od nich totiž odešla máma, otec výchovu nezvládal a tak byli se svým bratrem odkázaní hodně sami na sebe. Byli si kvůli tomu hodně blízcí. Byl to poslední člen rodiny, s kterým zůstala v kontaktu, vídali jste se s ním hodně často, ale před nějakou dobou se s ním zle pohádala a přestala se vídat i s ním. O to víc se přimknula k tobě a k dětem a stali jste se tak vlastně poslední blízkou rodinou, co má.
+
+Zvažuješ kvůli ní a dětěm práci ve vesmíru ukončit a jít dělat něco bezpečného. Vlastně přemýšlíš, že by tato mise mohla být závěrečná. Vzal jsi ji hlavně kvůli penězům, získáš tím úspory a po ní bys mohl s létáním skončit.
+
+// TODO vysvětlit role kosmonautů už na začátku při výběru postav
+
+// TODO možnost: nástřel osobní linky jak se po výměně dusí, může být jako probuzení ze snů že se mu ztratí rodina a vidí stanici a dusí se? Možná dokonce dílčí motivace k probuzení hibernace / startu poslední scény?
+
+## Ostatní postavy
 
 # 1. scéna
 

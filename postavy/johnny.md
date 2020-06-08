@@ -1,8 +1,45 @@
 # Johnny Miles
 
-- TODO navigátor
-- TODO info: linku ze snu nepotřebuje
-    - může mít: hrál na kytaru a po nehodě to vzdal
+Jsi z zajištěné rodiny, v mládí sis užíval života a vesměs nic tě netrápilo. Šla ti škola, byl jsi oblíbený, ženami zvlášť. Po střední jsi šel na vojenskou akademii ve West Pointu, což byla ve vaší rodině tradice.
+
+Neměl jsi moc jasno, jaký obor zvolit, ale protože vesmírný průmysl se zrovna slibně rozjížděl a armáda intenzivně budovala kosmické síly, zkusil jsi astrofyziku. Studium jsi extrémně nehrotil, ale bylo to dost zajímavé samo o sobě a šlo ti to.
+
+// hrál na kytaru, navázáno na sny 1 i 2
+// TODO ve snu či alt. postavě možno zpřesnit, jak se stal muzikantem, když je tady už vyřešeno detailně, jak jeho život vypadal v původní postavě
+
+A samozřejmě sis nepřestal užívat studentského života. Už jen to samo, žes byl kadet na West Pointu, byla prestiž a frajeřina. Začal jsi v té době taky hrát na elektrickou kytaru, což tě hodně chytlo. Celkově sis to období prostě užíval.
+
+// TODO nehoda a jizva, ovšem není nijak zapojená do děje (zatím) (nebo není? co ty sny a alt. postava?)
+
+Na začátku posledního ročníku za tebou přijel otec a chtěl, aby ses nějak zapojil a pomohl jeho firmě, která v té době poměrně prodělávala. Vaše vztahy nebyly nikdy moc vřelé a pracovat v jeho firmě jsi v žádném případě nechtěl, takže jste se pohádali. Z restaurace jsi odjížděl ve velmi špatném rozpoložení.
+
+Nasedl jsi do auta, zabouchl dveře a zuřivě odjel. Cestou zpátky jsi jel s plynem na podlaze. Křižovatkou jsi proletěl na červenou, ale v cestě se ti objevilo další auto. Strhnul jsi řízení stranou, uviděl, jak se s tebou auto obrací, ucítil ostrou bolest v obličeji a víc si nepamatuješ.
+
+// TODO jizva -> rtěnkou naznačit nebo něco?
+
+Podle toho, co ses dozvěděl později, selhaly v autě airbagy. Hlavou jsi vrazil do volantu a udělal si ošklivou ránu, po které ti zůstala __jizva přes celý obličej__.
+
+// TODO třes prstů -> evidentně bylo v jiné postavě, že to viděla na předchozí misi. Vrátit? Navázat? (nepřepálit obsah, viz níž. zvýraznit v textu jen, pokud to bude žádoucí ve hře řešit)
+// TODO agresivita -> nechat? vymazat? opět, je to užitečné ve hře? nehrozí spíš, že to bude vypadat, jako přehrávání, než jako realistické hraní toho, že s postavou není něco v pořádku?
+
+Během pár týdnů po probuzení ses téměř nemohl hýbat. Postupně ses zotavil, ale pokud jsi ve stresu, při jemné manipulaci a psaní se ti __rozklepou prsty__. Navíc, pokud je stres velký vrací se ti vzpomínky na hádku a nehodu a máš tendenci vybuchnout vzteky.
+
+// přestal s kytarou (velmi neznatelně naznačeno, možná zvýraznit), navázáno na sny 1 a 2
+
+Po nehodě ses na West Point vrátil. Věci nebyly jako dřív, kvůli jizvě a dalších následcích sis přestal věřit. Kariéra v kosmických silách v armádě byla kvůli zranění vyloučená. Zatnul ses ale, všechno ostatní dal stranou a školu dodělal.
+
+// TODO uplacení posudku. Zatím nezapojeno jinde.
+
+Po škole jsi řešil, co dál. Do otcovy firmy jsi nechtěl v žádném případě. A i kdyby, nechtěl jsi prostě sedět za stolem a papírovat. Risknul jsi to, zamlčel nehodu a zkusil uplatit doktorku, aby ti vydala pozitivní posudek pro civilní létání ... a ono to vyšlo. // TODO možno doplnit: Do dnes nevíš, proč to udělala, peněz na riskování kariéry to rozhodně nebylo. Možná se tě jí prostě zželelo.
+
+// navigátor
+
+Stal ses __navigátorem__ na civilních kosmických lodích, dnes je ti 32 a máš za sebou už víc jak deset misí.
+
+## Ostatní postavy
+
+// TODO linky typu "vyspali se spolu" dávat spíš sem (?), než do popisu nahoře
+// TODO původně měl takovou linku s Alexandrou, ale přidat, jen pokud to bude fungovat jako _plot device_, tedy se zapojí ještě někde (pozor na to, aby se hra obsahově nepřepálila a sled událostí umožňoval smysluplně ty vztahy odehrávat)
 
 # 1. scéna
 

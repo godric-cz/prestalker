@@ -41,6 +41,10 @@ TODO ošetřit, aby nemohli heslo uhádnout a náklad otevřít dřív, než v p
 // TODO vazby na další postavy. Vyplyne víc po dodělání osobních linek. Kde se seznámili případně nějaká společná historie, nebo aspoň co o nich ví. Možno doplnit nějaké důležité události z předchozích misí (buď na propojení postav, nebo i samostatně). Klidně tady může být i nadpis ## Vztahy nebo ## Posádka nebo něco takového.
 // TODO nápad: Pokud by se to řídilo původními postavami, s Johnnym by mohla mít nějakou historii, na kterou chce navazovat, právě z výcviku.
 
+## Ostatní postavy
+
+// TODO minimálně u všech napsat role všech ostatních
+
 # 1. scéna
 
 # 2. scéna
