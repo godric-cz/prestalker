@@ -22,7 +22,7 @@ Podle toho, co ses dozvěděl později, selhaly v autě airbagy. Hlavou jsi vraz
 // TODO třes prstů -> evidentně bylo v jiné postavě, že to viděla na předchozí misi. Vrátit? Navázat? (nepřepálit obsah, viz níž. zvýraznit v textu jen, pokud to bude žádoucí ve hře řešit)
 // TODO agresivita -> nechat? vymazat? opět, je to užitečné ve hře? nehrozí spíš, že to bude vypadat, jako přehrávání, než jako realistické hraní toho, že s postavou není něco v pořádku?
 
-Během pár týdnů po probuzení ses téměř nemohl hýbat. Postupně ses zotavil, ale pokud jsi ve stresu, při jemné manipulaci a psaní se ti __rozklepou prsty__. Navíc, pokud je stres velký vrací se ti vzpomínky na hádku a nehodu a máš tendenci vybuchnout vzteky.
+Během pár týdnů po probuzení ses téměř nemohl hýbat. Postupně ses zotavil, ale do dnes, pokud jsi ve stresu, se ti při jemné manipulaci a psaní __rozklepou prsty__. Navíc, pokud je stres velký, vrací se ti vzpomínky na hádku a nehodu a máš tendenci vybuchnout vzteky.
 
 // přestal s kytarou (velmi neznatelně naznačeno, možná zvýraznit), navázáno na sny 1 a 2
 

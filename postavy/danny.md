@@ -4,7 +4,13 @@
 
 Je ti 38 let a na této misi pracuješ jako __operations manager__. To znamená, že máš na starosti hlavní úkol, který loď dělá (tedy u těžební lodi těžbu, u opravárenské lodi zachycení a opravu satelitů a v případě této lodi převzetí nákladu a jeho technické zajištění během letu, například pokud by vyžadoval zajištění stálé teploty a podobně).
 
-K létání ses dostal ... měl jsi X misí ... TODO
+// TODO doplnit charakter, dětství a dospívání, pokud to bude pro hru užitečné
+
+// jak se dostal k létání (pouze fluff) TODO ale možno zapojit následovně: dostal se přes známého - někdo jiný to může vědět / znát ho; není profesionální kosmonaut / vědec, lze to kritizovat
+
+Dřív jsi dělal technika na oceánských lodích nebo se staral o složité přístroje v továrnách. Zhruba před osmi lety tě kontaktoval známý, že pracuje ve vesmírné firmě a že zoufale shánějí odborníka na určité těžební zařízení, přes které jsi zrovna byl expert. Normálně se dostanou do vesmírného průmyslu jen profesionální kosmonauti nebo vědci, takže bylo extrémně nepravděpodobné, že z toho něco bude, ale skočil jsi po té příležitosti a kombinací snahy, doporučení od známého i několika šťastných náhod tě vzali, dokázal jsi úspěšně dokončit výcvik a dostat se na první misi.
+
+První let byl úžasný zážitek, navíc práce byla skvěle placená, a tak ses rozhodl u toho zůstat. Od té doby už jsi absolvoval sedm misí.
 
 // má manželku, je na něj fixovaná, chce kvůli rodině skončit s létáním
 // navázáno na 1. sny, kde se přehraje (připomene) hádka s bratrem a fixace na Dannyho (ale hráč už je v té době Josh dwight)
