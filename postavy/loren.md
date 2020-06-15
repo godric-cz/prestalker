@@ -2,7 +2,7 @@
 
 // TODO dětství a historie (fluff / koncept) pokud to bude třeba
 // TODO lodní lékařka, má na starosti psychologii posádky (možno víc zmínit, jak má psychiku řešit + do ostatních postav možno dát nějaké informace k psychickým profilům)
-// TODO historie studia, jak se dostala do vesmíru atd. (nebude hráčka zmatená, když o tom v postavě nebude nic napsáno?)
+// TODO historie studia, jak se dostala do vesmíru atd. (nebude hráčka zmatená, když o tom v postavě nebude nic napsáno? Viz níž, kde je "vrátila ses do laboratoře", ale tady se o tom nic nepíše)
 
 Je ti 43 let, jsi __lodní lékařka__ a máš na starosti fyzické i psychické zdraví posádky.
 
