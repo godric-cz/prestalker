@@ -11,7 +11,7 @@
 
 - [x] hlavní příběh
 - [x] materiály a pokyny pro hlavní příběh
-- [ ] alternativní postavy
+- [x] alternativní postavy
 - [ ] projet TODOs a kritické dořešit
 - [ ] postavy
     - [x] linky vyplývající ze snů

@@ -18,9 +18,22 @@ Jsi Alexandra Parker, nikdy ses nepodívala do vesmíru, ale zachránila jsi sv�
 
 // TODO probrat, jestli být takto explicitní (larpový standard) nebo implicitní (říct pouze jaká je, ale že není slavná a nebyla ve vesmíru jí musí dojít samotné srovnáním s původní postavou)
 
-# Danny Dwight
+# Danny Dwight / Josh Dwight
 
-// TODO meta info o záměně s Joshem
+// Tady je víc tricky, jaká postava bude jaký papír. Úvaha je následující: Tento papír bude Josh, protože když ho zahodí a uvidí hořet, tak jakoby je Josh ztracen. Zatímco na Dannyho postavě je na začátku jeho životní příběh, a tedy nedává smysl, aby hořel, ale zároveň to znamenalo, že se zachrání.
+// Nadpis obsahuje Dannyho i Joshe proto, aby je rozdělující hráč věděl, komu papír dát. Hráč Joshe dostane i postavu Dannyho, aby to bylo kompatibilní a rozdělující hráč nemusel mít v pokynech složité výjimky.
+
+Jsi Josh Dwight. Vstoupil jsi na tuto loď, aby ses zachránil. Ale vidíš Dannyho Dwighta. Není on také částečně ty? Kdo koho zachraňuje ve skutečnosti?
+
+Vstoupil jsi k nákladu a vidíš všechny ty životy najednou, jako by to byla obrovská khinovna, v které si můžeš číst jakoukoli knihu na jakékoli straně.
+
+Cítíš, že teď je poslední možnost se rozhodnout.
+
+Můžeš se otočit, vrátit se a pokračovat v příběhu svého pokusu naplnit nejzákladnější, nejdůležitější a nejsilnější touhu každého člověka: přežít. _V tom případě si nech tento papír v ruce a postavu Dannyho vrať._
+
+A nebo můžeš projít skrz, zpátky do příběhu, kde zůstáváš na stanici, bez naděje na záchranu vycházíš do volného vesmíru a při posledním pohledu na hvězdy opatrně uvolňuješ přilbu svého skafandru. A necháváš Dannyho Dwighta,  aby se v jiném příběhu vrátil k rodině. Ale i ten příběh, přestože ho neprožiješ, bude možná tak trochu tvůj. _V tom případě tento papír s osudem Joshe Dwighta vrať a postavu Dannyho si nech, ale následně ji polož na zem za pomyslnou hranici tvořenou svíčkami._
+
+// TODO nápad na závěrečnou punchline (pokud dávat): Čas je jen další směr a každý životní příběh jen další možnost, ze kterých si můžeš svobodně vybrat.
 
 # Johnny Miles
 

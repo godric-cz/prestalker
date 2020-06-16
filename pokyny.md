@@ -135,7 +135,7 @@ Během scény:
 
 Konec:
     - Ztišit hudbu a zhasnout.
-    - TODO lepší hudba (pokud půjde, vybrat nějak vhodně s gradací nebo možností gradovat a uvést do postav - např. "třikrát se ozvou hodiny, což dělí scénu na části, podle toho gradovat". Zatím je to v postavách genericky)
+    - TODO lepší hudba (pokud půjde, vybrat nějak vhodně s gradací nebo možností gradovat a uvést do postav - např. "třikrát se ozvou hodiny, což dělí scénu na části, podle toho gradovat". Zatím je to v postavách genericky). Další nápad na hudbu: Vangelis - Rosseta (případně i další alba).
 
 # 4. scéna
 
@@ -226,7 +226,7 @@ Příprava:
     - nachystat kopii výsledků simulace pro mrtvého N5322
     - nachystat původní a alternativní postavy pro mrtvého
         - TODO co když budou chtít hráči mít původní postavy u sebe?
-        - TODO napsat alternativní postavy
+        - TODO dávat mezi alt. postavy i alt. postavu samotného mrtvého?
     - nachystat svíčky, sirky a pálící nádobu pro mrtvého
 
 Začátek:
