@@ -53,6 +53,9 @@
             color: orange;
             background-color: black;
         }
+        .konecstrany {
+            page-break-after: always;
+        }
 
         <?=$extraCss ?? ''?>
     </style>

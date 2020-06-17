@@ -18,6 +18,8 @@ Jsi Alexandra Parker, nikdy ses nepodívala do vesmíru, ale zachránila jsi sv�
 
 // TODO probrat, jestli být takto explicitní (larpový standard) nebo implicitní (říct pouze jaká je, ale že není slavná a nebyla ve vesmíru jí musí dojít samotné srovnáním s původní postavou)
 
+(konec strany)
+
 # Danny Dwight / Josh Dwight
 
 // Tady je víc tricky, jaká postava bude jaký papír. Úvaha je následující: Tento papír bude Josh, protože když ho zahodí a uvidí hořet, tak jakoby je Josh ztracen. Zatímco na Dannyho postavě je na začátku jeho životní příběh, a tedy nedává smysl, aby hořel, ale zároveň to znamenalo, že se zachrání.
@@ -35,6 +37,8 @@ A nebo můžeš projít skrz, zpátky do příběhu, kde zůstáváš na stanici
 
 // TODO nápad na závěrečnou punchline (pokud dávat): Čas je jen další směr a každý životní příběh jen další možnost, ze kterých si můžeš svobodně vybrat.
 
+(konec strany)
+
 # Johnny Miles
 
 Jsi z zajištěné rodiny, v mládí sis užíval života a vesměs nic tě netrápilo. Šla ti škola, byl jsi oblíbený, ženami zvlášť. Po střední jsi šel na vojenskou akademii ve West Pointu, což byla ve vaší rodině tradice.
@@ -51,6 +55,8 @@ Finančně na tom nejsi nic moc, tak slavní nejste. Žiješ různě po podnájm
 
 Jsi Johnny Miles, je ti 32, proplouváš životem v té největší pohodě a užíváš si to.
 
+(konec strany)
+
 # Loren Ellison
 
 Už jako malá jsi byla hodně cílevědomá a šla si za svým. Ne vždycky to bylo snadné, například během dospívání ti rodiče nechali na krku mladší sestru, o kterou ses musela starat. Obětovala jsi jí možná nejlepší část života a ona ti nikdy ani nepoděkovala, což tě dost rozčilovalo. Ale časem ses na tady ty pocity prostě vykašlala, odstěhovala se a začala žít vlastní život.
@@ -66,6 +72,8 @@ Dnes je ti 43 let, pořád létáš do vesmíru jako lodní lékařka a mohla by
 Hodně lidí kolem tebe v minulosti různě trpělo, ale nikdy sis ani na vteřinu nepřipustila, že bys na tom mohla mít nějaký podíl. Některé jsi vinila, že ublížili oni tobě. A s těmi, kteří tě kritizovali, jsi přerušila kontakty. Nic z toho sis ale nikdy neuvědomila a do konce života budeš v sladké nevědomosti. // TODO tento odstavec explicitně říká, ať postavu odsoudí, a u této postavy je největší kontrast mezi implicitním a explicitním (viz výš) a nejvíc je potřeba rozhodnout, jestli tu má odstavec být
 
 Jsi Loren Ellison a jsi šťastná.
+
+(konec strany)
 
 # Marc Friday
 

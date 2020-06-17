@@ -61,6 +61,7 @@ function postprocess($text, $male) {
 
         // marcos
         '/\(titulka:\s*([^\)]+)\)/' => '<div class="titulka">$1</div>',
+        '/\(konec strany\)/'        => '<div class="konecstrany"></div>',
 
         // gendered verbs
         '/(\w)\/(a|á)(\W)/' => $male ? '$1$3' : '$1$2$3',
