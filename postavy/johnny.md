@@ -30,7 +30,7 @@ Po nehodě ses na West Point vrátil. Věci nebyly jako dřív, kvůli jizvě a 
 
 // TODO uplacení posudku. Zatím nezapojeno jinde.
 
-Po škole jsi řešil, co dál. Do otcovy firmy jsi nechtěl v žádném případě. A i kdyby, nechtěl jsi prostě sedět za stolem a papírovat. Risknul jsi to, zamlčel nehodu a zkusil uplatit doktorku, aby ti vydala pozitivní posudek pro civilní létání ... a ono to vyšlo. // TODO možno doplnit: Do dnes nevíš, proč to udělala, peněz na riskování kariéry to rozhodně nebylo. Možná se tě jí prostě zželelo.
+Po škole jsi řešil, co dál. Do otcovy firmy jsi nechtěl v žádném případě. A i kdyby, nechtěl jsi prostě sedět za stolem a papírovat. Risknul jsi to, zamlčel nehodu a zkusil uplatit doktorku, aby ti vydala pozitivní posudek pro civilní létání ... a ono to vyšlo. // TODO možno doplnit: Do dnes nevíš, proč to udělala, dost peněz na riskování kariéry to rozhodně nebylo. Možná se tě jí prostě zželelo.
 
 // navigátor
 

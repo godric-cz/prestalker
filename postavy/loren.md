@@ -56,7 +56,23 @@ Nemáš už co ztratit a tak neváháš kvůli tomuto snu i poměrně riskovat. 
 
 ## Ostatní postavy
 
-// TODO ví o Johnnyho fake posudku (nebo ho dělala)
+__Alexandra__ -
+
+__Danny__ -
+
+__Johnny__ - Před lety se ti stalo, žes odcházela pozdě z práce a zaslechla, jak se jedna kolegyně hádá s člověkem, kterému dělala prohlídku pro vesmírný výcvik. Říkala mu, že kvůli jeho špatnému ovládání rukou a psychickému stavu mu povolení dát nemůže. On ji ale úpěnlivě přesvědčoval. Pak řekl, že se můžou domluvit i jinak, a zavřel dveře.
+
+Zkusila jsi jít blíž. Nic dalšího už jsi neslyšela, ale když se dveře otevřely, minula ses s tím člověkem. Měl nepřehlédnutelnou jizvu přes obličej. Tu sis zapamatovala a jsi si skoro jistá, že to byl Johnny Miles. Zapamatoval si on tebe?
+
+V oficiálních záznamech žádné zdravotní problémy nemá. Když by se na jeho skutečné problémy přišlo, určitě by měl s létáním utrum.
+
+- Dá se tím na něj zatlačit, pokud budeš něco potřebovat.
+- Určitě je dobré mu zabránit, aby dělal nějaké práce na lodi, aby tím neohrožoval ostatní (jestli to udělat domluvou, přímo prozradit jeho stav, nebo to udělat jinak, je na tobě).
+- Taky bys ráda zjistila, jak vážný jeho stav ve skutečnosti je, aby ses podle toho mohla rozhodovat, co dál. Možná nějak hodně diskrétně s ním promluvit? Nebo nezná se Johnny dobře s někým dalším z posádky, který by to tím pádem taky mohl vědět?
+
+Jeho pozice na lodi je navigátor. // TODO možná nějaký popis vztahu ("jako člověk na tebe působí ..." a podobně)
+
+__Marc__ -
 
 # 1. scéna
 
