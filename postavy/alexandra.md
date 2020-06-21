@@ -34,16 +34,30 @@ Rozhodla ses dělat něco prospěšného, do čeho můžeš dát všechny svoje 
 
 Přesto na Iana pořád hodně myslíš a každý rok na výročí jeho smrti, 30. listopadu, na něj zavzpomínáš, ať už jsi doma, na misi, nebo kdekoli. Přemýšlíš o tom, jaký by dnes asi byl a zároveň je to pro tebe mementem odpovědnosti, kterou jako kapitánka máš za svoje rozhodnutí a za životy posádky.
 
-TODO každoroční připomínku lze zapojit do hry. Možná říct, že to může udělat volitelně a kdykoli, kdy jí to přijde vhodné. Nebo bude smutná / vzteklá a pak z ní vypadne, že je výročí jeho úmrtí a proto se omluví.
+// TODO nápad: každoroční připomínku lze zapojit do hry. Možná říct, že to může udělat volitelně a kdykoli, kdy jí to přijde vhodné. Nebo bude smutná / vzteklá a pak z ní vypadne, že je výročí jeho úmrtí a proto se omluví.
 
-TODO ošetřit, aby nemohli heslo uhádnout a náklad otevřít dřív, než v poslední scéně.
+// TODO! ošetřit, aby nemohli heslo uhádnout a náklad otevřít dřív, než v poslední scéně.
 
-// TODO vazby na další postavy. Vyplyne víc po dodělání osobních linek. Kde se seznámili případně nějaká společná historie, nebo aspoň co o nich ví. Možno doplnit nějaké důležité události z předchozích misí (buď na propojení postav, nebo i samostatně). Klidně tady může být i nadpis ## Vztahy nebo ## Posádka nebo něco takového.
-// TODO nápad: Pokud by se to řídilo původními postavami, s Johnnym by mohla mít nějakou historii, na kterou chce navazovat, právě z výcviku.
+// TODO možno u všech doplnit nějaké důležité události z předchozích misí (buď na propojení postav, nebo i samostatně).
+
+// TODO minimálně u všech napsat role všech ostatních. Vysvětlit role i na začátku při výběru postav pro dvojité připomenutí.
+
+// TODO možná přidávat vztahy a linky jen pokud to bude fungovat jako _plot device_, tedy se zapojí ještě někde (pozor na to, aby se hra obsahově nepřepálila a sled událostí umožňoval smysluplně ty vztahy odehrávat)
 
 ## Ostatní postavy
 
-// TODO minimálně u všech napsat role všech ostatních
+__Danny__ -
+
+// TODO nápad: měla s ním něco, asi vůči němu něco cítí / cítila, ale nikdy si to nevyjasnili (nápad z původní postavy, ale není zapojeno dál do děje)
+
+__Johnny__ -
+
+__Loren__ -
+
+// TODO nápad: znala ho, měla za loosera. Teď chce prozkoumat, jestli se změnil, přijde jí pořád trochu lame, ale zábavně milý (potenciál romantické linky, nápad z původní postavy, ale není zapojeno dál do děje)
+// TODO on na ni romantickou linku už napsanou má.
+
+__Marc__ -
 
 # 1. scéna
 

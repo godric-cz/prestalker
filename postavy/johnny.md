@@ -36,10 +36,19 @@ Po škole jsi řešil, co dál. Do otcovy firmy jsi nechtěl v žádném přípa
 
 Stal ses __navigátorem__ na civilních kosmických lodích, dnes je ti 32 a máš za sebou už víc jak deset misí.
 
+// TODO nápad: časem začne odhadovat, co koule je / co dělá a může to s někým řešit
+
 ## Ostatní postavy
 
-// TODO linky typu "vyspali se spolu" dávat spíš sem (?), než do popisu nahoře
-// TODO původně měl takovou linku s Alexandrou, ale přidat, jen pokud to bude fungovat jako _plot device_, tedy se zapojí ještě někde (pozor na to, aby se hra obsahově nepřepálila a sled událostí umožňoval smysluplně ty vztahy odehrávat)
+// TODO nápad: v původní postavě nevyjasněná romantická historie (viz Alexandra)
+
+__Alexandra__ -
+
+__Danny__ -
+
+__Loren__ -
+
+__Marc__ -
 
 # 1. scéna
 

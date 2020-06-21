@@ -54,11 +54,15 @@ V čase, který ti zbývá, toho chceš ve vesmíru stihnout co nejvíc. I proto
 
 Nemáš už co ztratit a tak neváháš kvůli tomuto snu i poměrně riskovat. Například jsi zvažovala se na stanici zkusit oddělit od posádky a nechat se "zachránit" jinou lodí, která na Mars ze stanice poletí. Ale zatím se zdá, že vaše loď letí ke stanici jako jediná za dlouhou dobu, a tak tento plán padl.
 
+// TODO manifestace a vývoj její nemoci během hry. Může to i někdo vědět / někdo si skriptem všimnout (ale v origu to není).
+
 ## Ostatní postavy
 
 __Alexandra__ -
 
 __Danny__ -
+
+// ví o jeho falešném posudku
 
 __Johnny__ - Před lety se ti stalo, žes odcházela pozdě z práce a zaslechla, jak se jedna kolegyně hádá s člověkem, kterému dělala prohlídku pro vesmírný výcvik. Říkala mu, že kvůli jeho špatnému ovládání rukou a psychickému stavu mu povolení dát nemůže. On ji ale úpěnlivě přesvědčoval. Pak řekl, že se můžou domluvit i jinak, a zavřel dveře.
 
@@ -71,6 +75,8 @@ V oficiálních záznamech žádné zdravotní problémy nemá. Když by se na j
 - Taky bys ráda zjistila, jak vážný jeho stav ve skutečnosti je, aby ses podle toho mohla rozhodovat, co dál. Možná nějak hodně diskrétně s ním promluvit? Nebo nezná se Johnny dobře s někým dalším z posádky, který by to tím pádem taky mohl vědět?
 
 Jeho pozice na lodi je navigátor. // TODO možná nějaký popis vztahu ("jako člověk na tebe působí ..." a podobně)
+
+// TODO nápad: připomíná jí charakterově manžela, rozumí si s ním (nápad z původní postavy, ale není zapojeno jinak do děje)
 
 __Marc__ -
 

@@ -24,9 +24,19 @@ Dneska je ti 30 a jsi __palubní inženýr__. Pochopitelně ses __chtěl stát k
 
 ## Ostatní postavy
 
-// Chce ji, ale zároveň ví, že čistě podle skillu by měl být kapitán on
+// chce ji, ale zároveň ví, že čistě podle skillu by měl být kapitán on
 
-__Alexandra__ - Kapitánka a nejmladší žena, která se kapitánkou stala. Je trochu celebrita, bývá často v televizi a rozhodně je krásná. Jako kamarádka a jako žena ti přijde skvělá, i když asi trochu mimo tvou ligu. Trochu ti připomíná Natalii ze střední, což vyvolává nějaké hořké vzpomínky, ale stejně zkoušíš s ní trávit čas a __dělat na ni dojem__. V podstatě jedinou výhradu máš k tomu, jaká je kapitánka - je sice dobrá, ale __není nejlepší__, a podle tebe by kapitán měl být jen ten nejlepší. Často od tebe potřebuje vědět i základní věci o hledně lodi, které by měla znát sama, ale tobě to aspoň dává možnost se před ní ukázat. Zároveň to ale taky ukazuje, že pokud by se to řídilo spravedlivě znalostmi a dovednostmi, byl bys kapitánem ty. // TODO nějak reflektovat jeho "rady" u postavy Alexandry?
+__Alexandra__ - Kapitánka a nejmladší žena, která se kapitánkou stala. Je trochu celebrita, bývá často v televizi a rozhodně je krásná. Jako kamarádka a jako žena ti přijde skvělá, i když asi trochu mimo tvou ligu. Trochu ti připomíná Natalii ze střední, což vyvolává nějaké hořké vzpomínky, ale stejně zkoušíš s ní trávit čas a __dělat na ni dojem__.
+
+V podstatě jedinou výhradu máš k tomu, jaká je kapitánka - je sice dobrá, ale __není nejlepší__, a podle tebe by kapitán měl být jen ten nejlepší. Často od tebe potřebuje vědět i základní věci o hledně lodi, které by měla znát sama, ale tobě to aspoň dává možnost se před ní ukázat. Zároveň to ale taky ukazuje, že pokud by se to řídilo spravedlivě znalostmi a dovednostmi, byl bys kapitánem ty. // TODO nějak reflektovat jeho "rady" u postavy Alexandry?
+
+__Danny__ -
+
+__Johnny__ -
+
+// TODO nápad: má o ni romantický zájem (a jí zpětně připomíná manžela) (ale zatím není nápad / prostor pro zapojení dál v ději)
+
+__Loren__ -
 
 ---
 

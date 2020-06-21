@@ -11,7 +11,7 @@ propoje panelů:
 
 pod každým panelem je kartička s dramatickým pokynem:
 
-1 - 3: víceméně jedno co / nebo nic (TODO)
+1 - 3: víceméně jedno co / nebo nic (TODO!)
 4: oboustranná kartička
 
 (přední strana)

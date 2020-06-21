@@ -23,11 +23,19 @@ Rodina je pro tebe i pro Sandru ta nejcennější věc. A pro ni v poslední dob
 
 Zvažuješ kvůli ní a dětěm práci ve vesmíru ukončit a jít dělat něco bezpečného. Vlastně přemýšlíš, že by tato mise mohla být závěrečná. Vzal jsi ji hlavně kvůli penězům, získáš tím úspory a po ní bys mohl s létáním skončit.
 
-// TODO vysvětlit role kosmonautů už na začátku při výběru postav
+// TODO! nástřel osobní linky jak se po výměně dusí, může být jako probuzení ze snů že se mu ztratí rodina a vidí stanici a dusí se? Možná dokonce dílčí motivace k probuzení hibernace / startu poslední scény? Bez těchto obtíží potom dává menší smysl jeho rozhodování se obětovat v závěrečné scéně. Další nápad je, že postupně jeho vyměněnost odhaluje Loren v posledních scénách.
 
-// TODO možnost: nástřel osobní linky jak se po výměně dusí, může být jako probuzení ze snů že se mu ztratí rodina a vidí stanici a dusí se? Možná dokonce dílčí motivace k probuzení hibernace / startu poslední scény?
+// TODO Danny nemá žádné vztahy, tj. nejvíc asi potřebuje je doplnit. Ale zase má silnou backstory s vyměněním. Mohl by např. v společné historii vědět o problémech Johnnyho, případně nějak si charakterově sednout s Marcem.
 
 ## Ostatní postavy
+
+__Alexandra__ -
+
+__Johnny__ -
+
+__Loren__ -
+
+__Marc__ -
 
 # 1. scéna
 
