@@ -70,7 +70,7 @@ Začátek:
 Během scény:
     - Jsi na zahradě při nějaké oslavě se svou rodinou. I když jsi to ty, nebo je to Danny Dwight?
     - __Alexandra:__ Tvoje žena. Chce dát asi do pořádku nějaké věci se svým bratrem (Marc), ale víc nevíš, nemontuješ se do toho. Během scény se postupně ukáže, že se jí to vůbec nedaří, naopak se pohádají a bratr s ní nechce nic mít, teď už zdá se na dobro. Tím pádem jsi pro ni vlastně poslední hodně blízká osoba, kterou má. Je potřeba ji psychicky podržet.
-    - __Johnny:__ Váš sedmnáctiletý syn. Má rebelské období. Před pár měsíci jste zjistili, že bere drogy. Strávil nějakou dobu v léčebně, ale teď už vypadá, že se z toho dostal. Zná se a rozumí si s bratrem tvé ženy. TODO víc uvést dannyho podíl ve smyslu "neskutečným úsilím jste ho z toho dostali a teď si mnohem víc rozumíte a on je lepší člověk" (lepší nahrávka na odpovědnost / rodinu)
+    - __Johnny:__ Váš sedmnáctiletý syn. Má rebelské období. Před pár měsíci jste zjistili, že bere drogy. Strávil nějakou dobu v léčebně, stálo to tebe i ženu nekonečné úsilí a podporu, ale nakonec jste ho z toho dokázali dostat. Bez vás by to nedokázal. Zná se a rozumí si s bratrem tvé ženy.
     - __Marc:__ Bratr tvé ženy. Znáš ho málo.
     - __Loren:__ Jeho nová přítelkyně. Nejspíš se snaží ho izolovat od zbytku rodiny.
 
@@ -92,8 +92,10 @@ Začátek:
     - ...
 
 Během scény:
-    - Jsi syn Dannyho Dwighta. Vidíš svého tátu, jak prochází nějakou vesmírnou stanicí. Je sám, ale vidíš dva jakoby duchy kosmonautů, kteří na něj mluví a lákají ho dál. Cítíš, že je to špatně, že ho chtějí někam odvést, nebo mu ublížit. Ale jsi tu i ty a tvoje máma, a chcete ho přesvědčit, aby zůstal s vámi. TODO: Psáno víc očima dítěte. Je otázka, jestli např. slovo "duch" nezruinuje atmosféru hry, promyslet.
+    - Jsi syn Dannyho Dwighta. Vidíš svého tátu, jak prochází nějakou vesmírnou stanicí. Je sám, ale vidíš dva jakoby duchy kosmonautů, kteří na něj mluví a lákají ho dál. Cítíš, že je to špatně, že ho chtějí někam odvést, nebo mu ublížit. Ale jsi tu i ty a tvoje máma, a chcete ho přesvědčit, aby zůstal s vámi. // TODO psáno víc očima dítěte. Je otázka, jestli např. slovo "duch" nezruinuje atmosféru hry, promyslet.
     - _Čáry na zemi představují tlakové dveře v jednotlivých částech stanice. Aby bylo jasné, kdo a kdy dveřmi prochází, je potřeba čáru vždycky symbolicky přeskočit. Jak postupně procházíte dál a dál stanicí, scéna graduje. Není ale povinné dojít až na konec._
+    - Ve snu cítíš strašnou bezmoc a slabost. Jsi tam, dokážeš se hýbat, ale běhat, zvedat věci nebo __pohybovat ostatními postavami je nemožné__. // tato část je tu proto, aby nezachraňoval Marca, to má dělat Alexandra
+    - _Na všechno, co děláš, používej jen strašně slabou sílu a naopak pro všechny ostatní je pohybovat s tebou, odtlačit tě a podobně, strašně jednoduché._
     - __Marc:__ Tvůj táta.
     - __Alexandra:__ Tvoje máma, je tu s tebou. Možná jste taky duchové, něco jako ti kosmonauti?
     - __Loren a Johnny:__ Kosmonauti, kteří se smějí a občas lákají tátu i vás dál dovnitř stanice.

@@ -111,6 +111,8 @@ TODO:
     - v další scéně možná reflektovat sny (co si postava o tom myslí, jak moc se o tom chce bavit). Jinak hrozí, že všichni ohledně snů vyloží hned všechny karty a začnou se je příliš snažit "vyřešit"/"rozluštit".
         - nápad: je to psychická nemoc, kvůli licenci to nechci říct (případně nechci říct pravdu / vše, protože loren či někdo další by z toho mohl něco nežádoucího analyzovat? Naopak loren to může řešit víc a tlačit je.)
         - taky "vypadali lidé ve snu tak, jak si je pamatuji? neměli obličeje kosmonautů? ... vzpomínka na sen je zmatená, nevím. Možná si je tam jen promítám teď když jsem se vzbudila a vidím je."
+    - možná metaherně říct, ať to nevnímají tak, že byli všichni ve stejném snu (tj. ať nezačnou v scéně srovnávat co viděli a řešit to)
+    - možná kurzívy nahradit šedým textem s odsazovací čárou (ve stylu blockquote) nebo boxem.
 
 # 4. scéna
 
@@ -131,15 +133,12 @@ Začátek:
 Během scény:
     - Jste na dovolené, na skalách, na kde se utopil tvůj bratr. Teď ale všechno vidíš zvenčí.
     - _Čáry na zemi představují části skal. Přeskakujete je, hádáte se, jestli je přeskočit, poslední čára představuje skálu nad mořem. Jak postupně přeskakujete, scéna graduje._
-    - TODO možná kurzívy nahradit šedým textem s odsazovací čárou (ve stylu blockquote) nebo boxem.
-    - __Marc:__ Tvůj bratr Ian. Chceš ho přesvědčit, aby se vrátil. A pokud se to nepovede, tak s ním aspoň zůstat do konce a pokusit se ho zachránit, pokud skočí do vody. TODO možná "zachránit" nahradit slovem "oživovat".
+    - __Marc:__ Tvůj bratr Ian. Chceš ho přesvědčit, aby se vrátil. A pokud se to nepovede, tak s ním aspoň zůstat do konce a pokusit se ho zachránit, pokud skočí do vody. // TODO- po betatestu, možná "zachránit" nahradit slovem "oživovat".
     - __Loren:__ Vidíš samu sebe, jak bratra střídavě ignoruješ nebo hecuješ, aby šel dál. Takto se to stalo doopravdy. Kdo jsi vlastně ty, když sebe samu vidíš takto zvenčí? Co se stane, když na sebe promluvíš? To netušíš.
     - __Johnny:__ Connor, syn vašich známých, o kterého ses tehdy zajímala podstatně víc, než o bratra.
-    - __Danny:__ Tato verze Connora je tu s tebou. Nebo je to někdo z posádky? Každopádně ale cítíš, že jste tady s tím člověkem spolu a podporujete se. TODO: Možná působí příliš lacině, jako že "je jedno, kdo to je", a bylo by lepší fixně říct "je to Connor". Viz také, že Danny může teoreticky Marca zachránit z vlastní iniciativy.
+    - __Danny:__ Tato verze Connora je tu s tebou. Nebo je to někdo z posádky? Každopádně ale cítíš, že jste tady s tím člověkem spolu a podporujete se. // TODO- možná působí příliš lacině, jako že "je jedno, kdo to je", a bylo by lepší fixně říct "je to Connor". Viz také, že Danny může teoreticky Marca zachránit z vlastní iniciativy.
 
-TODO:
-    - napsat vyplývající příběh do všech postav.
-    - nápad: přeskakují jen první 2 linie, třetí přeskakuje Marc sám (pro Loren a Johnnyho je vlastně jedno, kolik přeskakují. Hecovat by ho mohli i na dálku. Navíc linie pro ně nemusí nic znamenat.)
+// TODO- nápad: přeskakují jen první 2 linie, třetí přeskakuje Marc sám (pro Loren a Johnnyho je vlastně jedno, kolik přeskakují. Hecovat by ho mohli i na dálku. Navíc linie pro ně nemusí nic znamenat.)
 
 # 5. scéna
 

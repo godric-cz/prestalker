@@ -84,10 +84,10 @@ Začátek:
 
 Během scény:
     - Vrátil ses z výzkumné mise k asteroidům. První od té nehody. Na zahradě poblíž vesmírného střediska je polooficiální párty po misi. Jsou tu známí i novináři. Být kapitán na výzkumných misích je jiná liga. Děláš smysluplnou práci a jsi celebrita.
-    - __Alexandra:__ Holka, která tě odmítla na střední. Teď za tebou leze, když jsi slavný. Je potřeba jí ve velkém dát najevo, že nemáš zájem. Ať si vyzkouší vlastní medicínu.
-    - __Loren:__ TODO (balí ho, on je s tím ok / podporuje to. Možná i krásná novinářka, co bral mimo svou ligu?)
+    - __Alexandra:__ Natalie, bývalá spolužačka, která tě odmítla na střední. Teď za tebou leze, když jsi slavný. Je potřeba jí ve velkém dát najevo, že nemáš zájem. Ať si vyzkouší vlastní medicínu.
+    - __Loren:__ Novinářka, chce s tebou udělat rozhovor, i když ... neflitrtuje tak trochu? Je to krásná holka, kterou jsi bral úplně mimo svou ligu. Ale jestli má zájem, tak proč tomu nejít naproti. Navíc bys to mohl "dát sežrat" Natalii.
     - __Johnny:__ Tvůj kolega. Jeden z těch, co umřeli na předminulé misi. Máš z něj mírné obavy a spíš se mu vyhýbáš. Jak by reagoval, když bys s ním o tom mluvil? A neřekl by náhodou, že je to tvoje vina? (Na tom, že je mrtvý, ale zároveň je tady, ti do konce snu nepřijde nic divného.)
-    - __Danny:__ TODO (volné k možnému doplnění)
+    // TODO - __Danny:__ (volné k možnému doplnění podle dalších linek)
 
 Konec:
     - V určitý okamžik si položíš otázku, jak je možné, že mrtvý člověk je normálně na párty. Dojde ti, že je to nesmysl, a sen se pak postupně vytratí.
@@ -111,10 +111,11 @@ Během scény:
     - Procházíš se zbývajícími dvěma členy posádky stanici plnou dýmu. Za každými dveřmi je situace horší a beznadějnější a kolegové, kteří jsou s tebou, víc a víc naléhají na to, abyste se vrátili. Jinak nejen, že nezachráníte ostatní, ale navíc tam i sami zůstanete.
     - _Čáry na zemi představují tlakové dveře uvnitř stanice. K projití dveří je potřeba čáru symbolicky přeskočit. Jak jdete dál a dál, scéna postupně graduje. Nepřeskákej tedy všechny čáry hned, ale před každou si nech nějaký čas na přesvědčování ostatních, že musíte jít dál._
     - _Pokud přeskočíš poslední čáru, __začneš se dusit a upadneš do bezvědomí__. Co bude dál závisí na ostatních postavách._
-    - __Loren a Johnny:__ Susan a Tom. Tihle evidentně nejsou skuteční. Nadýchal ses kouře a začínáš mít halucinace. Tito dva se smějí a jako by vás lákali dovnitř stanice. Netušíš, co se ti tím tvoje podvědomí snaží říct. Zneklidňuje tě to, ale pořád připominá, že skutečná Susan a Tom jsou na druhé straně, a musíš je zachránit.
+    - __Loren a Johnny:__ Susan a Tom. Tihle evidentně nejsou skuteční. Nadýchal ses kouře a začínáš mít halucinace. Tito dva se smějí a jako by vás lákali dovnitř stanice. Netušíš, co se ti tím tvoje podvědomí snaží říct. Zneklidňuje tě to, ale pořád připomíná, že skutečná Susan a Tom jsou na druhé straně, a musíš je zachránit.
     - __Alexandra:__ Tvůj první důstojník. Vidíš, jak je proti tomu, abyste pokračovali, ale zároveň ti extrémně věří a pokud něco rozhodneš, čest jí nedovolí to odmítnout.
     - __Danny:__ Palubní inženýr. Vidíš, že situaci psychicky i fyzicky zvládá z vás tří nejhůř, ale bude potřeba ho nějak udržet nad vodou. Protože jestli chcete kolegy dostat zpátky, každý pár rukou bude potřeba.
-    - TODO Zajistit, aby na konci Loren a Johnny Marca neoživovali a moc neřešili (nebo jinak ošetřit, aby se nemohlo zdát, že jsou to skuteční Susan a Tom a že je Marc zachránil.)
+
+// TODO Zajistit, aby na konci Loren a Johnny Marca neoživovali a moc neřešili (nebo jinak ošetřit, aby se nemohlo zdát, že jsou to skuteční Susan a Tom a že je Marc zachránil.)
 
 # 5. scéna
 
