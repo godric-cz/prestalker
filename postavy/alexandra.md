@@ -103,7 +103,9 @@ Během scény:
 Konec:
     - ...
 
-TODO:
+// TODO- možná nahradit kurzívy (metaherní pokyny) nějakým boxem stylu blockquote (zatím zkoušeno, ale bez varianty, co by vypadala líp).
+
+// TODO
     - nějaké "rozcvičení" mezi čtením a začátkem scény? Aby nebyli z pohybu tak zmatení?
     - navést postavu, aby si všimla rozdílu snu (a sebe ve snu) oproti reálu (možná v další scéně)
         - týká se všech
@@ -114,7 +116,6 @@ TODO:
         - nápad: je to psychická nemoc, kvůli licenci to nechci říct (případně nechci říct pravdu / vše, protože loren či někdo další by z toho mohl něco nežádoucího analyzovat? Naopak loren to může řešit víc a tlačit je.)
         - taky "vypadali lidé ve snu tak, jak si je pamatuji? neměli obličeje kosmonautů? ... vzpomínka na sen je zmatená, nevím. Možná si je tam jen promítám teď když jsem se vzbudila a vidím je."
     - možná metaherně říct, ať to nevnímají tak, že byli všichni ve stejném snu (tj. ať nezačnou v scéně srovnávat co viděli a řešit to)
-    - možná kurzívy nahradit šedým textem s odsazovací čárou (ve stylu blockquote) nebo boxem.
 
 # 4. scéna
 
