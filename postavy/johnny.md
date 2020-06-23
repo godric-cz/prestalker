@@ -109,8 +109,10 @@ Během scény:
     - Jsi s kámošema na střeše nahrávacího studia a oslavujete. Dokončil jsi natáčení desky. Jako první desku fakt se smlouvou s vydavatelstvím a se vším. Budeš se tím živit!
     - Trochu jste se zhulili a začali dělat blbosti, teď přeskakujete na střechy vedlejších domů, kde mají balkóny a zahrádky nějací zbohatlíci. Reálně jsou mezery mezi domy tak metr, takže to není zvlášť nebezpečné.
     - _Čáry na zemi představují okraje střech. Jak postupně přeskakujete dál a dál, scéna graduje._
+    - Možná jste to s tím hulením trochu přehnali. Jak scéna postupuje, máš čímdál víc pocit, jako byste byli ve stavu beztíže a mohli si všichni svobodně poletovat prostorem, jak se vám zachce.
+    - _Pokud někdo spadne, nebo se někomu cokoli stane, nezachraňuj ho ani mu nepomáhej. Budeš tu situaci emočně vnímat tak, jako že ten člověk je úplně v pohodě, rozhodl se letět jinam a vůbec nic se neděje._ // toto je tady proto, aby Marca zachraňovala Alexandra a aby se nemohlo stát, že ho zachrání Johnny a on by předpokládal, že to byl skutečný kolega a misi přežil // TODO- po betatestu mrknout, jestli z pojmu "pokud spadne" nebude zmaten a nebude Marcovo dušení vykládat jinak a snažit se zasahovat
     - __Loren:__ Zpěvačka a kytaristka. Evidentně je ze všeho vyjevená a nadšená stejně, jako ty. Bavíte se nejvíc spolu, navzájem se provokujete, endorfiny pracují. Máte sice pravidlo si mezi členy kapely nic nezačínat, ale říkáš si, že bys fakt chtěl pro tento speciální den udělat výjimku. A tušíš, že ona asi taky...
-    - __Marc:__ Poslední, třetí, člen kapely, bubeník. Během nahrávání byl trochu ve stresu a ještě to z něj úplně nevyprchalo. Proto se snažíte ho s Loren víc zapojit do dělání blbostí, aby se konečně uvolnil a užil si to. // TODO! vyřešit, aby ho s Loren nezachraňovali
+    - __Marc:__ Poslední, třetí, člen kapely, bubeník. Během nahrávání byl trochu ve stresu a ještě to z něj úplně nevyprchalo. Proto se snažíte ho s Loren víc zapojit do dělání blbostí, aby se konečně uvolnil a užil si to.
     - __Alexandra a Danny:__ Marcovi kamarádi z práce. Zvlášť ze začátku byli v pohodě, ale jointa už si nedali a evidentě je to takový ten typ "hezky se pobavit a do jedenácti doma". Ale třeba se vám je ještě podaří "rozpařit", kdo ví.
 
 # 5. scéna

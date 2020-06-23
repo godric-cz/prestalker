@@ -106,6 +106,8 @@ Konec:
 TODO:
     - nějaké "rozcvičení" mezi čtením a začátkem scény? Aby nebyli z pohybu tak zmatení?
     - navést postavu, aby si všimla rozdílu snu (a sebe ve snu) oproti reálu (možná v další scéně)
+        - týká se všech
+        - specificky pro Loren: adresovat jak je netečná / škodolibá, pokud se někomu něco stalo (designový účel je přehnaně / nepřehlédnutelně hráčku upozornit, jak je alt. postava "bezcitná", aby jí to líp zaklaplo při čtení finální alt. postavy na konci)
     - nahdhoz, co začít dělat na začátku. Dobré nepřímo, např.: Jste na zahradě a grilujete.
         - nápad: marc: zpovídá tě novinářka, loren: bavíš se s marcem (nejdřív jen tak)
     - v další scéně možná reflektovat sny (co si postava o tom myslí, jak moc se o tom chce bavit). Jinak hrozí, že všichni ohledně snů vyloží hned všechny karty a začnou se je příliš snažit "vyřešit"/"rozluštit".

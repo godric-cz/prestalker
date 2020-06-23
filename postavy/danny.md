@@ -92,7 +92,7 @@ Začátek:
     - ...
 
 Během scény:
-    - Jsi syn Dannyho Dwighta. Vidíš svého tátu, jak prochází nějakou vesmírnou stanicí. Je sám, ale vidíš dva jakoby duchy kosmonautů, kteří na něj mluví a lákají ho dál. Cítíš, že je to špatně, že ho chtějí někam odvést, nebo mu ublížit. Ale jsi tu i ty a tvoje máma, a chcete ho přesvědčit, aby zůstal s vámi. // TODO psáno víc očima dítěte. Je otázka, jestli např. slovo "duch" nezruinuje atmosféru hry, promyslet.
+    - Jsi syn Dannyho Dwighta. Vidíš svého tátu, jak prochází nějakou vesmírnou stanicí. Je sám, ale vidíš dva jakoby duchy kosmonautů, kteří na něj mluví a lákají ho dál. Cítíš, že je to špatně, že ho chtějí někam odvést, nebo mu ublížit. Ale jsi tu i ty a tvoje máma, a chcete ho přesvědčit, aby zůstal s vámi. // TODO- psáno víc očima dítěte. Je otázka, jestli např. slovo "duch" nezruinuje atmosféru hry, promyslet.
     - _Čáry na zemi představují tlakové dveře v jednotlivých částech stanice. Aby bylo jasné, kdo a kdy dveřmi prochází, je potřeba čáru vždycky symbolicky přeskočit. Jak postupně procházíte dál a dál stanicí, scéna graduje. Není ale povinné dojít až na konec._
     - Ve snu cítíš strašnou bezmoc a slabost. Jsi tam, dokážeš se hýbat, ale běhat, zvedat věci nebo __pohybovat ostatními postavami je nemožné__. // tato část je tu proto, aby nezachraňoval Marca, to má dělat Alexandra
     - _Na všechno, co děláš, používej jen strašně slabou sílu a naopak pro všechny ostatní je pohybovat s tebou, odtlačit tě a podobně, strašně jednoduché._

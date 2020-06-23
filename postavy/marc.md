@@ -87,7 +87,7 @@ Během scény:
     - __Alexandra:__ Natalie, bývalá spolužačka, která tě odmítla na střední. Teď za tebou leze, když jsi slavný. Je potřeba jí ve velkém dát najevo, že nemáš zájem. Ať si vyzkouší vlastní medicínu.
     - __Loren:__ Novinářka, chce s tebou udělat rozhovor, i když ... neflitrtuje tak trochu? Je to krásná holka, kterou jsi bral úplně mimo svou ligu. Ale jestli má zájem, tak proč tomu nejít naproti. Navíc bys to mohl "dát sežrat" Natalii.
     - __Johnny:__ Tvůj kolega. Jeden z těch, co umřeli na předminulé misi. Máš z něj mírné obavy a spíš se mu vyhýbáš. Jak by reagoval, když bys s ním o tom mluvil? A neřekl by náhodou, že je to tvoje vina? (Na tom, že je mrtvý, ale zároveň je tady, ti do konce snu nepřijde nic divného.)
-    // TODO - __Danny:__ (volné k možnému doplnění podle dalších linek)
+    // TODO- __Danny:__ (volné k možnému doplnění podle dalších linek)
 
 Konec:
     - V určitý okamžik si položíš otázku, jak je možné, že mrtvý člověk je normálně na párty. Dojde ti, že je to nesmysl, a sen se pak postupně vytratí.
@@ -114,8 +114,6 @@ Během scény:
     - __Loren a Johnny:__ Susan a Tom. Tihle evidentně nejsou skuteční. Nadýchal ses kouře a začínáš mít halucinace. Tito dva se smějí a jako by vás lákali dovnitř stanice. Netušíš, co se ti tím tvoje podvědomí snaží říct. Zneklidňuje tě to, ale pořád připomíná, že skutečná Susan a Tom jsou na druhé straně, a musíš je zachránit.
     - __Alexandra:__ Tvůj první důstojník. Vidíš, jak je proti tomu, abyste pokračovali, ale zároveň ti extrémně věří a pokud něco rozhodneš, čest jí nedovolí to odmítnout.
     - __Danny:__ Palubní inženýr. Vidíš, že situaci psychicky i fyzicky zvládá z vás tří nejhůř, ale bude potřeba ho nějak udržet nad vodou. Protože jestli chcete kolegy dostat zpátky, každý pár rukou bude potřeba.
-
-// TODO Zajistit, aby na konci Loren a Johnny Marca neoživovali a moc neřešili (nebo jinak ošetřit, aby se nemohlo zdát, že jsou to skuteční Susan a Tom a že je Marc zachránil.)
 
 # 5. scéna
 

@@ -117,7 +117,7 @@ Během scény:
     - Jste na nějaké párty s tvou sestrou.
     - __Alexandra:__ Tvoje sestra. Vyloženě tě štve, jak neustále vrtá do tvého osobního života a odsuzuje, že máte s manželem otevřený vztah. Je to snad její věc? Je teď sama, ale evidentně se jí líbí jeden z kluků tady (Marc). Tebe Marc nějak extra nepřitahuje, ale schválně ho zkusíš sbalit jí před nosem, ať si to vyžere, kráva.
     - __Marc:__ Kluk, o kterého má tvoje sestra zájem. Hraješ svou "nejvyšší hru" abys ho sbalila, jí naschvál.
-    // TODO __Danny, Johnny:__ (volné k možnému doplnění, pokud bude mít Loren nějaké téma, na které by se hodili navázat) -- nápad: je nemocná, tak nějací týpci / doktoři, co ji varovali a teď do ní s tím zas budou rýt?
+    // TODO- __Danny, Johnny:__ (volné k možnému doplnění, pokud bude mít Loren nějaké téma, na které by se hodili navázat) -- nápad: je nemocná, tak nějací týpci / doktoři, co ji varovali a teď do ní s tím zas budou rýt?
 
 # 4. scéna
 
@@ -137,11 +137,11 @@ Během scény:
     - Jste na výletu v horách, v krásné přírodě, přeskakujete skály, smějete se. Cítíš se tak naživu, jako už dlouho ne. S jedním z kluků, Glenem, se zvlášť bavíš. Všude jste první, vzájemně se popichujete a hecujete, kdo kam zvládne vylézt. Možná trochu flirtujete. Nakonec, nikoho nemá, a rozhodně je ti sympatický.
     - Přes cestu jsou občas skály a ostatní se trochu zdráhají přes ně jít. S Glenem se snažíte je ukecat, aby pokračovali. Vracet se vám nechce.
     - _Čáry na zemi symbolizují skály a složité úseky cesty, je potřeba je přeskočit. Jak je postupně přeskakujete, scéna graduje._
-    - Pokud se někomu něco stane, budeš mít velmi zvláštní pocity, v podstatě  ti to bude jedno. Dokonce až jako by si za to mohl sám a tys měla škodolibou radost. // TODO pokud budou reflexe snů, tak toto tam lze s výhodou rozvést.
+    - Pokud se někomu něco stane, budeš mít velmi zvláštní pocity, v podstatě  ti to bude jedno. Dokonce až jako by si za to mohl sám a tys měla škodolibou radost.
     - _Pokud se něco stane, nikoho nezachraňuj ani nepomáhej._
-    - __Johnny:__ Glen, kluk se kterým se hodně bavíte, děláte hlouposti, smějete a provokujete se. Rozhodně je tam napětí, díky kterému zapomínáš na všechno ostatní a žiješ tady a teď. Baví tě to, jdeš tomu naproti a zkusíš, kam se to během scény vyvine. // TODO Možná doplnit, že to mají vygradovat před třetí čárou. Možná ne a stačí volnoběh "jak to bude, tak to bude".
+    - __Johnny:__ Glen, kluk se kterým se hodně bavíte, děláte hlouposti, smějete a provokujete se. Rozhodně je tam napětí, díky kterému zapomínáš na všechno ostatní a žiješ tady a teď. Baví tě to, jdeš tomu naproti a zkusíš, kam se to během scény vyvine. // TODO- dle betatestu možná doplnit, že to mají vygradovat před třetí čárou. Viz že nejsou Alexandra a teda zachraňování Marca je fakticky neomezuje, ale i tak to může scénu nabourat a odradit je / ukončit jim hru dřív, než stihnou, co chtěli.
     - __Marc:__ Tvůj kamarád, který dovolenou domluvil. Glenův spolužák. Nejvíc sportovně založený z vás a ten, za kterým všichni nakonec jdou. Takže když chcete ostatní přesvědčit, aby se šlo dál, vždycky je nejrychlejší a nejjednodušší přesvědčit rovnou jeho.
-    - __Alexandra a Danny:__ Hlavně Marcovi kamarádi, s kterými se ale občas vídáš i ty. // TODO možná neříkat "Marcovi", aby to nevypadalo, že ta postava je Marc (není). Jinak volné a možno použít pro další linky.
+    - __Alexandra a Danny:__ Kamarádi od kluků. Párkrát už ses s nimi viděla, ale tolik je neznáš. // TODO- volné k doplnění linek
 
 # 5. scéna
 

@@ -36,11 +36,13 @@ Informace pro hráče:
 - pak rozsvítíme světla a začne scéna. Začátek je vždycky popsaný v pokynech (typicky "jste v hibernaci a čekáte, než vás probudí lékařka")
 - konec scény je taky popsaný v pokynech (například "scéna končí přípitkem")
 - tím scéna hned končí, dál se nedohrává. Ztlumí se světla a sednete si do hibernačních křesel, kde si začnete číst pokyny k další scéně.
+- TODO zohlednit sny
 
 ...
 
 - (TODO terminály, případně další mechaniky)
     - TODO Obecněji: hodilo by se nějak zařídit, aby se vždy dostal aspoň někdo k terminálu, aby bylo možné předávat impro informace (například, pokud jeden kosmonaut z opravy vycouvá a zůstane tam alexandra sama bez vysílačky, tak napsat že telemetrie ukazuje že je v bezvědomí nebo něco, aby pro ni šli ... např.)
+- TODO intimita - polibek = dotknutí se tváří? Možná říct, že je to maximum a ani k němu nemusí dojít (ale zase aby je to neodradilo příliš). Může to být potřeba kvůli snům.
 
 (TODO výběr postav)
 
