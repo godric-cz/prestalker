@@ -100,22 +100,15 @@ Během scény:
     - __Johnny:__ Mladší bratr tvého manžela. Je mu sedmnáct, má rebelské období. Před pár měsíci jste zjistili, že bere drogy. Strávil nějakou dobu v léčebně, ale teď už vypadá, že se z toho dostal. Zná se a rozumí si s Ianem. Tak jste si řekli, že by mohlo být fajn ho vzít s sebou.
     - __Loren:__ Jedna z pár oficiálně pozvaných novinářů. Obletuje Iana.
 
-Konec:
-    - ...
-
 // TODO- možná nahradit kurzívy (metaherní pokyny) nějakým boxem stylu blockquote (zatím zkoušeno, ale bez varianty, co by vypadala líp).
 
-// TODO
-    - nějaké "rozcvičení" mezi čtením a začátkem scény? Aby nebyli z pohybu tak zmatení?
-    - navést postavu, aby si všimla rozdílu snu (a sebe ve snu) oproti reálu (možná v další scéně)
-        - týká se všech
-        - specificky pro Loren: adresovat jak je netečná / škodolibá, pokud se někomu něco stalo (designový účel je přehnaně / nepřehlédnutelně hráčku upozornit, jak je alt. postava "bezcitná", aby jí to líp zaklaplo při čtení finální alt. postavy na konci)
-    - nahdhoz, co začít dělat na začátku. Dobré nepřímo, např.: Jste na zahradě a grilujete.
-        - nápad: marc: zpovídá tě novinářka, loren: bavíš se s marcem (nejdřív jen tak)
-    - v další scéně možná reflektovat sny (co si postava o tom myslí, jak moc se o tom chce bavit). Jinak hrozí, že všichni ohledně snů vyloží hned všechny karty a začnou se je příliš snažit "vyřešit"/"rozluštit".
-        - nápad: je to psychická nemoc, kvůli licenci to nechci říct (případně nechci říct pravdu / vše, protože loren či někdo další by z toho mohl něco nežádoucího analyzovat? Naopak loren to může řešit víc a tlačit je.)
-        - taky "vypadali lidé ve snu tak, jak si je pamatuji? neměli obličeje kosmonautů? ... vzpomínka na sen je zmatená, nevím. Možná si je tam jen promítám teď když jsem se vzbudila a vidím je."
-    - možná metaherně říct, ať to nevnímají tak, že byli všichni ve stejném snu (tj. ať nezačnou v scéně srovnávat co viděli a řešit to)
+// TODO- navést postavu, aby si všimla rozdílu snu (a sebe ve snu) oproti reálu (možná v další scéně). Týká se všech, ale specificky pro Loren: adresovat jak je netečná / škodolibá, pokud se někomu něco stalo (designový účel je přehnaně / nepřehlédnutelně hráčku upozornit, jak je alt. postava "bezcitná", aby jí to líp zaklaplo při čtení finální alt. postavy na konci)
+
+// TODO- po betatestu možná: Nahdhoz, co začít dělat na začátku. Dobré nepřímo, např.: Jste na zahradě a grilujete. // Nápad: marc: zpovídá tě novinářka, loren: bavíš se s marcem (nejdřív jen tak) // Viz, že v Čí sny sníš to není a nějak se to dá a naopak v Moonu ty intra jsou, ale nemusí to nastartovat a naopak můžou hráče vykolejit, že neví, jak na ně navazovat (oproti situaci, kdy by si rozehrávku vymyslel sám).
+
+// TODO- v další scéně možná reflektovat sny (co si postava o tom myslí, jak moc se o tom chce bavit). Jinak hrozí, že všichni ohledně snů vyloží hned všechny karty a začnou se je příliš snažit "vyřešit"/"rozluštit". // Nápad: je to psychická nemoc, kvůli licenci to nechci říct (případně nechci říct pravdu / vše, protože loren či někdo další by z toho mohl něco nežádoucího analyzovat? Naopak loren to může řešit víc a tlačit je.) // Taky "vypadali lidé ve snu tak, jak si je pamatuji? neměli obličeje kosmonautů? ... vzpomínka na sen je zmatená, nevím. Možná si je tam jen promítám teď když jsem se vzbudila a vidím je."
+
+// TODO- po betatestu možná: Dát metaherní instrukci, že se nemají snažit sny vyřešit / analyzovat (např. srovnávat, jestli byli všichni v stejném snu a podobně, hledat ve snu skrytou šifru pro řešení situace na lodi atd.). Prozatím sázíme na odpovědnost hráčů: sen tu je a mohou se rozhodnout ho ne/řešit různými způsoby podle toho, co se jim líbí. // Do těchto metaherních instrukcí můžou padnout i věci z předchozího bodu.
 
 # 4. scéna
 

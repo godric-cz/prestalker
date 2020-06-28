@@ -17,7 +17,7 @@
     - [x] linky vyplývající ze snů
     - [ ] vztahy
     - [ ] osobní linky (+ zapojit do scén)
-- [ ] sny v meziscénách
+- [x] sny v meziscénách
 - [ ] potitulková scéna (pokud bude)
 - [ ] produkce
     - [ ] zvuky, obrázky v materiálech

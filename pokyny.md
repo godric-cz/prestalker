@@ -43,6 +43,10 @@ Informace pro hráče:
 - (TODO terminály, případně další mechaniky)
     - TODO Obecněji: hodilo by se nějak zařídit, aby se vždy dostal aspoň někdo k terminálu, aby bylo možné předávat impro informace (například, pokud jeden kosmonaut z opravy vycouvá a zůstane tam alexandra sama bez vysílačky, tak napsat že telemetrie ukazuje že je v bezvědomí nebo něco, aby pro ni šli ... např.)
 - TODO intimita - polibek = dotknutí se tváří? Možná říct, že je to maximum a ani k němu nemusí dojít (ale zase aby je to neodradilo příliš). Může to být potřeba kvůli snům.
+- TODO možná workshop na vyjadřování pohybem
+    - před výběrem postav, nebo po?
+    - nedávat přímo před sny, vytrhávalo by to hráče ze hry
+    - speciálně pro vyjádření "rozhovoru", aby se nebáli na sebe sahat / šťouchat / tvářit / tancovat jako symbolické znázornění emocí a konverzace
 
 (TODO výběr postav)
 
