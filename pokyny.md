@@ -4,6 +4,12 @@
     - Použít `pdfunite dist/postavy/*.pdf dist/postavy.pdf`? (velká paráda)
     - Řešit nějak výrobu rekvizit a podobně?
 - TODO obecné info o hře? (Jako pro člověka, který vezme dokument do ruky a chce vidět, o co jde.)
+- TODO citlivá témata. Asi nutné komunikovat nějak v popisu hry a znova zmínit přímo na hře. Potenciální témata:
+    - sebevražda blízké osoby
+    - smrt / nehoda blízké osoby
+    - nehoda s trvalými následky
+    - nevyléčitelná nemoc
+    - (případně zkusit semafor z rpg skupiny)
 
 # Příprava
 
@@ -155,6 +161,7 @@ Začátek:
     - TODO nezapomenout na zápletku "roste hmotnost" a "vysílá to koule? vyhodit? - ale nepůjde najít následně"
     - TODO! aby někdo spustil zážeh, pokud to ostatní vyzevlí.
     - připravit si svíčku a sirky
+    - TODO vyřešit, že si musí nechat náklad (alt. konec s nákladem mimo loď není)
 
 Přiblížení objektu (TODO hlášky):
     - Pustit, až se vyčerpá počáteční téma scény: "(houkání) unknown object approaching, approach in 5 minutes"

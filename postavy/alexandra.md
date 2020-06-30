@@ -34,7 +34,7 @@ Rozhodla ses dělat něco prospěšného, do čeho můžeš dát všechny svoje 
 
 Přesto na Iana pořád hodně myslíš a každý rok na výročí jeho smrti, 30. listopadu, na něj zavzpomínáš, ať už jsi doma, na misi, nebo kdekoli. Přemýšlíš o tom, jaký by dnes asi byl a zároveň je to pro tebe mementem odpovědnosti, kterou jako kapitánka máš za svoje rozhodnutí a za životy posádky.
 
-// TODO nápad: každoroční připomínku lze zapojit do hry. Možná říct, že to může udělat volitelně a kdykoli, kdy jí to přijde vhodné. Nebo bude smutná / vzteklá a pak z ní vypadne, že je výročí jeho úmrtí a proto se omluví.
+// TODO- nápad: každoroční připomínku lze zapojit do hry. Možná říct, že to může udělat volitelně a kdykoli, kdy jí to přijde vhodné. Nebo bude smutná / vzteklá a pak z ní vypadne, že je výročí jeho úmrtí a proto se omluví.
 
 // TODO! ošetřit, aby nemohli heslo uhádnout a náklad otevřít dřív, než v poslední scéně.
 

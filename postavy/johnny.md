@@ -4,8 +4,7 @@ Jsi z zajištěné rodiny, v mládí sis užíval života a vesměs nic tě netr
 
 Neměl jsi moc jasno, jaký obor zvolit, ale protože vesmírný průmysl se zrovna slibně rozjížděl a armáda intenzivně budovala kosmické síly, zkusil jsi astrofyziku. Studium jsi extrémně nehrotil, ale bylo to dost zajímavé samo o sobě a šlo ti to.
 
-// hrál na kytaru, navázáno na sny 1 i 2
-// TODO ve snu či alt. postavě možno zpřesnit, jak se stal muzikantem, když je tady už vyřešeno detailně, jak jeho život vypadal v původní postavě
+// hrál na kytaru (navázáno na sny 1 i 2 a alt. postavu)
 
 A samozřejmě sis nepřestal užívat studentského života. Už jen to samo, žes byl kadet na West Pointu, byla prestiž a frajeřina. Začal jsi v té době taky hrát na elektrickou kytaru, což tě hodně chytlo. Celkově sis to období prostě užíval.
 
@@ -24,13 +23,13 @@ Podle toho, co ses dozvěděl později, selhaly v autě airbagy. Hlavou jsi vraz
 
 Během pár týdnů po probuzení ses téměř nemohl hýbat. Postupně ses zotavil, ale do dnes, pokud jsi ve stresu, se ti při jemné manipulaci a psaní __rozklepou prsty__. Navíc, pokud je stres velký, vrací se ti vzpomínky na hádku a nehodu a máš tendenci vybuchnout vzteky.
 
-// přestal s kytarou (velmi neznatelně naznačeno, možná zvýraznit), navázáno na sny 1 a 2
+// přestal s kytarou (navázáno na sny 1 i 2 a alt. postavu)
 
-Po nehodě ses na West Point vrátil. Věci nebyly jako dřív, kvůli jizvě a dalších následcích sis přestal věřit. Kariéra v kosmických silách v armádě byla kvůli zranění vyloučená. Zatnul ses ale, všechno ostatní dal stranou a školu dodělal.
+Po nehodě ses na West Point vrátil. Věci nebyly jako dřív, kvůli jizvě a dalších následcích sis přestal věřit. Kariéra v kosmických silách v armádě byla kvůli zranění vyloučená. Zatnul ses ale, všechno ostatní včetně pařeb a kytary dal stranou a školu dodělal.
 
-// TODO uplacení posudku. Zatím nezapojeno jinde.
+// uplacení posudku (navázáno na Loren, která to ví)
 
-Po škole jsi řešil, co dál. Do otcovy firmy jsi nechtěl v žádném případě. A i kdyby, nechtěl jsi prostě sedět za stolem a papírovat. Risknul jsi to, zamlčel nehodu a zkusil uplatit doktorku, aby ti vydala pozitivní posudek pro civilní létání ... a ono to vyšlo. // TODO možno doplnit: Do dnes nevíš, proč to udělala, dost peněz na riskování kariéry to rozhodně nebylo. Možná se tě jí prostě zželelo.
+Po škole jsi řešil, co dál. Do otcovy firmy jsi nechtěl v žádném případě. A i kdyby, nechtěl jsi prostě sedět za stolem a papírovat. Risknul jsi to, zamlčel nehodu a zkusil uplatit doktorku, aby ti vydala pozitivní posudek pro civilní létání ... a ono to vyšlo. // TODO- možno doplnit: Do dnes nevíš, proč to udělala, dost peněz na riskování kariéry to rozhodně nebylo. Možná se tě jí prostě zželelo.
 
 // navigátor
 
@@ -42,7 +41,11 @@ Stal ses __navigátorem__ na civilních kosmických lodích, dnes je ti 32 a má
 
 // TODO nápad: v původní postavě nevyjasněná romantická historie (viz Alexandra)
 
-__Alexandra__ -
+__Alexandra__ - Potkal jsi ji už během studia, dokonce jste spolu krátce chodili (ještě před tvou nehodou). Během výšky jsi měl hromadu holek, vždycky pro tebe bylo strašně snadné dostat je do postele. Alexandra byla první, která byla sama svým pánem a ke které jsi cítil ... něco víc. Do dnes nevíš, jak to vlastně nazvat.
+
+Je to ale jedno. Byla o ročník nad tebou, byli jste spolu na konci jejího posledního ročníku a nakonec za tebou jednoho dne přišla a bez vysvětlení oznámila, že je konec. Nedlouho po tom semestr skončil, odjela ze školy a od té doby jsi ji neviděl. Cítil ses pochopitelně zrazeně, ale žádná holka ti nestojí za to, aby ti zlomila srdce.
+
+Od skončení školy jsi ji zahlédnul v televizi, víš, že dělá kapitánku, ale vůbec jsi nečekal, že se s ní ještě potkáš. Teď letíte spolu na misi a nevíš, jak reagovat.
 
 __Danny__ -
 

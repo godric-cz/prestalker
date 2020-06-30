@@ -19,21 +19,19 @@ Víš, že to není její chyba. Přes to sledovat, jak si užívá života, obl
 // smrt manžela
 // (navázáno na sny 1 - její alt. postava mu požadavkem na otevřený vztah ubližuje, ačkoli sama to nevidí)
 // (navázáno na sny 2 - dovolená s kamarády, kde je alt. postava v pohodě, sebe chápe jako oběť a flirtuje s nějakým jiným týpkem)
-// TODO možno navázat na další život, např. že nemoc dostala v laboratoři kvůli přehnanému pracovnímu nasazení a riskování, které začala dělat jako způsob jak se se ztrátou vyrovnávat
-// TODO nápad: zajímavé zlo by se dalo udělat tím, že Loren má jeho dopis na rozloučenou, ale dosud ho neotevřela
-// TODO citlivá témata. Vyznačit někam, že je tam téma sebevražda blízké osoby (případně viz semafor v rpg skupině).
+// TODO- nápad: zajímavé zlo by se dalo udělat tím, že Loren má jeho dopis na rozloučenou, ale dosud ho neotevřela
 
 Byla jsi vdaná, tvůj __manžel Steve__ byl trochu plachý, ale extrémně inteligentní a kreativní člověk. Maloval, psal a tobě dával do života úplně originální vhled na svět i sebe samu, čímž tě okouzlil.
 
 Společně jste se hodně doplňovali. Proto ale delší a delší období odloučení, která jsi trávila na misích a výcviku, byla pro oba obtížná. Navíc Steve hůř zvládal, že pracuješ v tak extrémně mužském kolektivu. Ne že by žárlil, nikdy o tom nemluvil, ale poznala jsi, že je to pro něj těžké téma.
 
-A navíc pravděpodobně začal trpět depresemi. Což ti ale všechno zaklaplo do sebe až ve chvíli, kdy ti během jednoho výcviku zazvonil telefon a oznámili ti, že Stevea našli ve vašem bytě mrtvého. // TODO možná, že jí to zavolala její sestra?
+A navíc pravděpodobně začal trpět depresemi. Což ti ale všechno zaklaplo do sebe až ve chvíli, kdy ti během jednoho výcviku zazvonil telefon a oznámili ti, že Stevea našli ve vašem bytě mrtvého. // TODO- možná, že jí to zavolala její sestra?
 
 Zdrtilo tě to. Navíc k zármutku se připojilo obviňování se a pochybnosti sama o sobě, když ti najednou došly všechny ty jednoznačné varovné signály, které jsi měla jako doktor vidět a neviděla.
 
 Přerušila jsi kariéru, chtěla strávit pár měsíců terapií a pak se zkusit vrátit. Jak naivní to je ti došlo, když ses po pár týdnech pokusila začít vracet do života a vyjet s kamarády na dovolenou. Místo jiných myšlenek se ti vše jen vrátilo, probrečela jsi dva dny a odjela domů, a tvůj psychický stav se propadl zpátky do bodu nula.
 
-Nakonec trvalo dva roky, než jsi vůbec dokázala rozumně začít zase pracovat v laboratoři, a další rok, než ses opět začala připravovat k letům do vesmíru. Ale dokázala jsi to. // TODO možno zmínit, že když se vracela, psychologové byli její známí a přimhouřili oko a možno taky na to zatlačit přes nějakou jinou postavu (i když není to moc hardcore?)
+Nakonec trvalo dva roky, než jsi vůbec dokázala rozumně začít zase pracovat v laboratoři, a další rok, než ses opět začala připravovat k letům do vesmíru. Ale dokázala jsi to. // TODO- možno zmínit, že když se vracela, psychologové byli její známí a přimhouřili oko a možno taky na to zatlačit přes nějakou jinou postavu (i když není to moc hardcore?)
 
 // je nevyléčitelně nemocná a kryje to (souvisí s hibernací a cestou na Mars)
 
@@ -48,7 +46,7 @@ Nemoc se ti daří tajit, ale nevíš, kolik času ti zbývá. Může to být n�
 Na začátku letu jsi __tajně upravila software hibernační jednotky__, aby nehlásil zdravotní problémy související s tvou nemocí. Jinak by se totiž na problémy přišlo a let by byl nejspíš přerušen.
 
 // chce na Mars (navázáno na palivo v scéně 3)
-// TODO případně doplnit, že jsou precedenty pro to, že tam zůstane, když tam přistanou (pokud by stávající popis nebyl uvěřitelný)
+// TODO- případně doplnit, že jsou precedenty pro to, že tam zůstane, když tam přistanou (pokud by stávající popis nebyl uvěřitelný)
 
 V čase, který ti zbývá, toho chceš ve vesmíru stihnout co nejvíc. I proto jsi vzala tuto misi k asteroidům, a jestli se to ještě kdy podaří, __máš sen se dostat i na Mars__. Na Marsu je trvalá základna, jsou tam ti nejlepší vědci a létá se tam vždy párkrát za dlouhý čas. Proto, kdyby ses tam jednou dostala, bys tam pravděpodobně mohla zůstat pracovat až do úplného konce a uložili by tě pak do marsovské půdy, což by ti přišlo jako správný způsob, jak svou životní cestu zakončit.
 
