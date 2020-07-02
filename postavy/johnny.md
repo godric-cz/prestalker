@@ -39,9 +39,9 @@ Stal ses __navigátorem__ na civilních kosmických lodích, dnes je ti 32 a má
 
 ## Ostatní postavy
 
-// TODO nápad: v původní postavě nevyjasněná romantická historie (viz Alexandra)
+// nevyjasněná romantická historie
 
-__Alexandra__ - Potkal jsi ji už během studia, dokonce jste spolu krátce chodili (ještě před tvou nehodou). Během výšky jsi měl hromadu holek, vždycky pro tebe bylo strašně snadné dostat je do postele. Alexandra byla první, která byla sama svým pánem a ke které jsi cítil ... něco víc. Do dnes nevíš, jak to vlastně nazvat.
+__Alexandra__ - Potkal jsi ji už během studia, dokonce jste spolu krátce chodili (ještě před tvou nehodou). Během výšky jsi měl hromadu holek, ale vždycky pro tebe bylo strašně snadné dostat je do postele. Alexandra byla první, která byla sama svým pánem a ke které jsi cítil ... něco víc. Do dnes nevíš, jak to vlastně nazvat.
 
 Je to ale jedno. Byla o ročník nad tebou, byli jste spolu na konci jejího posledního ročníku a nakonec za tebou jednoho dne přišla a bez vysvětlení oznámila, že je konec. Nedlouho po tom semestr skončil, odjela ze školy a od té doby jsi ji neviděl. Cítil ses pochopitelně zrazeně, ale žádná holka ti nestojí za to, aby ti zlomila srdce.
 

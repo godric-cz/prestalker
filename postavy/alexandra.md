@@ -50,7 +50,11 @@ __Danny__ -
 
 // TODO nápad: měla s ním něco, asi vůči němu něco cítí / cítila, ale nikdy si to nevyjasnili (nápad z původní postavy, ale není zapojeno dál do děje)
 
-__Johnny__ -
+__Johnny__ - Potkala jsi ho v posledním ročníku na vysoké. Byl o ročník pod tebou. Tehdy to byl hezoun a frajer a hodně holek o něj mělo zájem, ale i ty jsi byla (a pořád jsi) krásná žena a dokázala jsi mu učarovat. On tebe zaujal tím, jak dokázal zkombinovat bezstarostnost s schopnostmi a zodpovědností, kterou bys u něj na první pohled vůbec nečekala.
+
+Chvíli jste spolu něco měli, ale bylo to už v závěru semestru a s koncem tvého studia skončil i váš "vztah", jestli se tomu dá vůbec tak říkat. Dál jste se neviděli.
+
+Dnes vypadá úplně jinak, už to není ten hezoun ze školy. Má jizvu přes půl obličeje, ale i nebýt toho, celkově úplně jinak působí. Nečekala jsi, že se ještě potkáte. Teď letíte spolu na misi a moc nevíš, jak reagovat.
 
 __Loren__ -
 
