@@ -48,20 +48,27 @@ Přesto na Iana pořád hodně myslíš a každý rok na výročí jeho smrti, 3
 
 __Danny__ -
 
-// TODO nápad: měla s ním něco, asi vůči němu něco cítí / cítila, ale nikdy si to nevyjasnili (nápad z původní postavy, ale není zapojeno dál do děje)
+// nevyjsněná romatická historie
+// (není navázáno na pozdější děj)
 
 __Johnny__ - Potkala jsi ho v posledním ročníku na vysoké. Byl o ročník pod tebou. Tehdy to byl hezoun a frajer a hodně holek o něj mělo zájem, ale i ty jsi byla (a pořád jsi) krásná žena a dokázala jsi mu učarovat. On tebe zaujal tím, jak dokázal zkombinovat bezstarostnost s schopnostmi a zodpovědností, kterou bys u něj na první pohled vůbec nečekala.
 
-Chvíli jste spolu něco měli, ale bylo to už v závěru semestru a s koncem tvého studia skončil i váš "vztah", jestli se tomu dá vůbec tak říkat. Dál jste se neviděli.
+Chvíli jste spolu něco měli, ale bylo to už v závěru semestru a s koncem tvého studia skončil i váš "vztah", jestli se tomu dá vůbec tak říkat (jak to vlastně je jste si nikdy úplně nevyjasnili). Dál jste se neviděli.
 
 Dnes vypadá úplně jinak, už to není ten hezoun ze školy. Má jizvu přes půl obličeje, ale i nebýt toho, celkově úplně jinak působí. Nečekala jsi, že se ještě potkáte. Teď letíte spolu na misi a moc nevíš, jak reagovat.
 
+Na lodi je jako navigátor. Hlídá dráhu a polohu lodi, plánuje manévry, pokud chcete nějak změnit směr, řídí přiblížení ke stanici a podobně.
+
 __Loren__ -
 
-// TODO nápad: znala ho, měla za loosera. Teď chce prozkoumat, jestli se změnil, přijde jí pořád trochu lame, ale zábavně milý (potenciál romantické linky, nápad z původní postavy, ale není zapojeno dál do děje)
-// TODO on na ni romantickou linku už napsanou má.
+// dřív roztomilý ňouma, jaký je dnes? (asymetrická romantická linka)
+// (není navázáno na pozdější děj)
 
-__Marc__ -
+__Marc__ - Na začátku tvojí kariéry na jednom výcviku už jsi ho potkala. Působil trochu jako ňouma, i když spíš takovým roztomilým způsobem. A technicky je naopak neskutečně na výši, o tom není sporu. Pokud jde o něco technického, je to ten první, na koho se obrátit. // TODO- reflektuje, že se Marca ptá o rady. Možná zdůraznit, pokud se to ukáže zajímavé.
+
+Chvíli jste spolu trénovali krizové situace na simulátoru a trochu se bavili, ale od té doby jsi ho roky neviděla. Je to pořád ten stejný ňouma, nebo se změnil?
+
+Je palubní inženýr, takže se technický stará o loď a o to aby fungovala.
 
 # 1. scéna
 

@@ -40,6 +40,7 @@ Stal ses __navigátorem__ na civilních kosmických lodích, dnes je ti 32 a má
 ## Ostatní postavy
 
 // nevyjasněná romantická historie
+// (není navázáno na pozdější děj)
 
 __Alexandra__ - Potkal jsi ji už během studia, dokonce jste spolu krátce chodili (ještě před tvou nehodou). Během výšky jsi měl hromadu holek, ale vždycky pro tebe bylo strašně snadné dostat je do postele. Alexandra byla první, která byla sama svým pánem a ke které jsi cítil ... něco víc. Do dnes nevíš, jak to vlastně nazvat.
 
