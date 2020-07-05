@@ -68,7 +68,7 @@ __Marc__ - Na začátku tvojí kariéry na jednom výcviku už jsi ho potkala. P
 
 Chvíli jste spolu trénovali krizové situace na simulátoru a trochu se bavili, ale od té doby jsi ho roky neviděla. Je to pořád ten stejný ňouma, nebo se změnil?
 
-Je palubní inženýr, takže se technický stará o loď a o to aby fungovala.
+Je palubní inženýr, takže se technicky stará o loď a o to aby fungovala.
 
 # 1. scéna
 

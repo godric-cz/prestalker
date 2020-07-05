@@ -74,9 +74,16 @@ V oficiálních záznamech žádné zdravotní problémy nemá. Když by se na j
 
 Jeho pozice na lodi je navigátor. // TODO možná nějaký popis vztahu ("jako člověk na tebe působí ..." a podobně)
 
-// TODO nápad: připomíná jí charakterově manžela, rozumí si s ním (nápad z původní postavy, ale není zapojeno jinak do děje)
+// vzájemné latentní napětí, které se eskaluje
+// (není navázáno na pozdější děj)
+// TODO- připomíná jí manžela. Zatím jen zvolen podobný popis bez prvoplánového "připomíná ti manžela". Doplnit později, pokud bude nutné být víc explicitní.
+// TODO- nápad: snubák? A pak by to nějak řešili.
 
-__Marc__ -
+__Marc__ - Příjemný kluk. Uvažuje hodně originálně (někdy až na hranici toho, že je trochu odtržený od ostatních), ale pro tebe je toto naopak zajímavé. Jak uvažuje a co říká ti přijde často inspirativní a pomáhá ti dávat nový pohled na věci. Ráda se s ním bavíš.
+
+Je palubní inženýr, takže se technicky stará o loď a o to aby fungovala.
+
+_Loren si to zatím neuvědomuje, ale toto "splynutí duší" může přerůst v nějaký romantický zájem. Rozdíl věku a životních zkušeností mezi nimi je velký a Marc je pro ni v jistých ohledech skoro ještě dítě. Nějaká přitažlivost tam ale rozhodně je. Loren se snaží nad tím příliš nepřemýšlet, aby nemusela řešit, co vlastně s tím "vztahem" chce dál a taky aby neotvírala nějaká bolavá místa z minulosti případně její současný stav. Ale pokud se překročí nějaké hranice (a pocity vedou Loren, aby to zkusila), tak tyto věci už řešit bude muset._
 
 # 1. scéna
 

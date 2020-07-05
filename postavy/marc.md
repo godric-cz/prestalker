@@ -34,9 +34,13 @@ __Danny__ -
 
 __Johnny__ -
 
-// TODO nápad: má o ni romantický zájem (a jí zpětně připomíná manžela) (ale zatím není nápad / prostor pro zapojení dál v ději)
+// vzájemné latentní napětí, které se eskaluje
+// (není navázáno na pozdější děj)
+// TODO dát na začátku možnost mít 1v1 rozhovory, jak rozehrát věci?
 
-__Loren__ -
+__Loren__ - Lodní lékařka. Je trochu starší, než vy, ale z celé posádky působí nejrozumněji. Není čistý kosmonaut, ale i vědec, což jde poznat. Vždycky jde k věci a aktivně poslouchá a přemýšlí, když jí někdo něco říká. Díky tomu si s ní hodně rozumíš a rád se s ní bavíš.
+
+_Marc si to zatím neuvědomuje, ale toto "splynutí duší" může přerůst v nějaký romantický zájem. Rozdíl věku a životních zkušeností mezi nimi je velký a nemálo lidí by to pravděpodobně odsuzovalo. Proto mu ta myšlenka vědomě zatím nepřišla na mysl, nebo se jí vyhýbá. Fakticky je ale Loren stále hezká žena a podvědomí ho vede opatrně zkoušet ten vztah zintenzivnit, a pokud se něco začne dít, tak až zpětně si sám začne klást otázky jako "co jsem myslel tím pozváním na panáka? Bylo to čistě jako profesní kamarádské gesto?" a podobně._
 
 ---
 
