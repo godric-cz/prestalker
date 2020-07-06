@@ -13,7 +13,7 @@ Až během dospívání ses ale rozhodla tyto zájmy zhmotnit do toho, že se st
 Dnes je ti 29 let a nedávno ses stala __kapitánkou__. Jsi vůbec nejmladší žena, které se to podařilo. Máš za sebou desítky vědeckých i komerčních misí na oběžnou dráhu a několik do hlubokého vesmíru (k Marsu a asteroidům). TODO možná zodpovědnost za posádku (je již zmíněno na konci, ale může být lepší zopakovat)
 
 // je slavná (navázáno na 1. scénu a TODO kontrast s alternativní postavou)
-// TODO a dá se doplnit kde co dál: nabídky na životopis, [hračky](https://www.space.com/search?searchTerm=barbie), hraný film o životě, poznávají ji lidé, ...
+// TODO- a dá se doplnit kde co dál: nabídky na životopis, [hračky](https://www.space.com/search?searchTerm=barbie), hraný film o životě, poznávají ji lidé, ...
 
 Dá se říct, že jsi __slavná__. Přestože ve vesmírném průmyslu pracují už desetitisíce lidí, pořád má velkou prestiž a ty jsi, díky svým úspěchům, jednou z jeho tváří. Novináři s tebou často dělají rozhovory, vystupovala jsi v několika známých dokumentech o vesmíru.
 
@@ -36,11 +36,9 @@ Přesto na Iana pořád hodně myslíš a každý rok na výročí jeho smrti, 3
 
 // TODO- nápad: každoroční připomínku lze zapojit do hry. Možná říct, že to může udělat volitelně a kdykoli, kdy jí to přijde vhodné. Nebo bude smutná / vzteklá a pak z ní vypadne, že je výročí jeho úmrtí a proto se omluví.
 
-// TODO! ošetřit, aby nemohli heslo uhádnout a náklad otevřít dřív, než v poslední scéně.
+// TODO- možno u všech doplnit nějaké důležité události z předchozích misí (buď na propojení postav, nebo i samostatně).
 
-// TODO možno u všech doplnit nějaké důležité události z předchozích misí (buď na propojení postav, nebo i samostatně).
-
-// TODO možná přidávat vztahy a linky jen pokud to bude fungovat jako _plot device_, tedy se zapojí ještě někde (pozor na to, aby se hra obsahově nepřepálila a sled událostí umožňoval smysluplně ty vztahy odehrávat)
+// TODO- po betatestu: revidovat co je a přidávat vztahy a linky jen pokud to bude fungovat jako _plot device_, tedy se zapojí ještě někde (pozor na to, aby se hra obsahově nepřepálila a sled událostí umožňoval smysluplně ty vztahy odehrávat)
 
 ## Ostatní postavy
 

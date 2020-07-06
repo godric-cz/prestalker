@@ -49,6 +49,8 @@ Informace pro hráče:
 - (TODO terminály, případně další mechaniky)
     - TODO Obecněji: hodilo by se nějak zařídit, aby se vždy dostal aspoň někdo k terminálu, aby bylo možné předávat impro informace (například, pokud jeden kosmonaut z opravy vycouvá a zůstane tam alexandra sama bez vysílačky, tak napsat že telemetrie ukazuje že je v bezvědomí nebo něco, aby pro ni šli ... např.)
 - TODO intimita - polibek = dotknutí se tváří? Možná říct, že je to maximum a ani k němu nemusí dojít (ale zase aby je to neodradilo příliš). Může to být potřeba kvůli snům.
+- Náklad má zámek - nesnažit se kód náhodně uhádnout, symbolizuje to číselník, který by se po příliš pokusech zablokoval. Až začne být otevření nákladu smysluplné, hra na to hráče navede.
+- Říct hráčům: Hra má dva konce, ale hotový je zatím jenom jeden. Pokud byste směřovali k tomu, co není hotový, upozorníme vás v meziscéně a o určité situaci řekneme, že se odehrála trochu jinak (aby se dala hra dohrát). Jinak funguje všechno normálně.
 - TODO možná workshop na vyjadřování pohybem
     - před výběrem postav, nebo po?
     - nedávat přímo před sny, vytrhávalo by to hráče ze hry
@@ -61,6 +63,7 @@ Informace pro hráče:
 - TODO možná prostor pro 1v1 domluvení vztahů (kdo potřebuje)
     - hlavní adepti jsou Marc a Loren
     - možná i tvorba nějaké historky / společného obsahu, který si hráči vymyslí a domluví
+- TODO Johnnyho jizva, naznačit rtěnkou (nebo podobně).
 
 # 1. scéna
 
@@ -231,6 +234,7 @@ TODO:
 
 Příprava:
     - mrtvá postava - nečte postavu, ale vzít bokem a dát instrukce E9197
+    - pokud se zbavili nákladu, říct, že je to druhý konec a náklad teď zůstává
     - nachystat zdrhovačky pro spoutání
     - nachystat štípačky pro mrtvého k rozstřihnutí pout
     - do konzole napsat (znak {} nahradit jménem mrtvého, např. "aparker"):

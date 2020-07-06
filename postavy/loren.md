@@ -1,14 +1,18 @@
 # Loren Ellison
 
-// TODO dětství a historie (fluff / koncept) pokud to bude třeba
-// TODO lodní lékařka, má na starosti psychologii posádky (možno víc zmínit, jak má psychiku řešit + do ostatních postav možno dát nějaké informace k psychickým profilům)
-// TODO historie studia, jak se dostala do vesmíru atd. (nebude hráčka zmatená, když o tom v postavě nebude nic napsáno? Viz níž, kde je "vrátila ses do laboratoře", ale tady se o tom nic nepíše)
+// TODO- dětství a historie (fluff / koncept) pokud to bude třeba
+
+// lodní lékařka
+// TODO- možno víc zmínit, jak má psychiku řešit + do ostatních postav možno dát nějaké informace k psychickým profilům
 
 Je ti 43 let, jsi __lodní lékařka__ a máš na starosti fyzické i psychické zdraví posádky.
 
+// dělala vědu (navázáno na Marca i další text níž)
+
+Vystudovala jsi původně lékařství, ale začala jsi pak rovnou dělat vědeckou kariéru zasahující i do genetiky a biochemie. Skrz to ses časem dostala i k možnosti vesmírných letů, kterou ses rozhodla zkusit a nadchnula tě.
+
 // soutěživost se sestrou (navázáno na sny 1, kde je sestra singl a Loren jí někoho sbalí před nosem)
-// TODO možno víc zapojit nad rámec snů - zatím je storka s bytem jen fluff a je možné ji škrtnout.
-// TODO možná je tento další šrám na duši už přehrocený a bylo by vhodnější dát tam spíš jen obecné info o soutěživosti, bez nějakého vyloženě negativního / útrpného vztahu
+// TODO- možno víc zapojit nad rámec snů - zatím je storka s bytem jen fluff a je možné ji škrtnout. Možná je tento další šrám na duši naopak už přehrocený a bylo by vhodnější dát tam spíš jen obecné info o soutěživosti, bez nějakého vyloženě negativního / útrpného vztahu.
 
 Máš __mladší sestru Ally__. Během tvého dospívání byli rodiče často v práci a musela ses víceméně samostatně starat o sebe i o ni, přes to jsi ji ale měla ráda.
 
@@ -39,7 +43,7 @@ V době po návratu do laboratoře ses snažila co nejvíc pracovat, abys všech
 
 To se ti ale vymstilo, když jsi na sebe převrhla nezajištěnou zkumavku s nějakou nebezpečnou látkou. Ututlala jsi to a dál se tím nezabývala, ale po pár měsících ti začalo občas být špatně. Odebrala sis krev, tajně sama udělala nějaké testy a zjistila, že ta látka ti nějak poškodila geny a vyvolala nějakou neznámou, pravděpodobně __neléčitelnou genetickou nemoc__, která se bude postupně zhoršovat.
 
-Nemoc se ti daří tajit, ale nevíš, kolik času ti zbývá. Může to být několik let, vážnější příznaky začnou možná o něco dřív. // TODO nápad: může mít zájem dozvědět se, jak to s ní přesně je.
+Nemoc se ti daří tajit, ale nevíš, kolik času ti zbývá. Může to být několik let, vážnější příznaky začnou možná o něco dřív. // TODO- nápad: může mít zájem dozvědět se, jak to s ní přesně je.
 
 // upravená hibernační jednotka (navázáno na scénu 2, kde Alexandra zmíní software hibernace jako krycí historku a scénu 5, kde se hibernace rozbije)
 

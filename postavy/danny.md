@@ -4,9 +4,10 @@
 
 Je ti 38 let a na této misi pracuješ jako __operations manager__. To znamená, že máš na starosti hlavní úkol, který loď dělá (tedy u těžební lodi těžbu, u opravárenské lodi zachycení a opravu satelitů a v případě této lodi převzetí nákladu a jeho technické zajištění během letu, například pokud by vyžadoval zajištění stálé teploty a podobně).
 
-// TODO doplnit charakter, dětství a dospívání, pokud to bude pro hru užitečné
+// TODO- možno doplnit charakter, dětství a dospívání, pokud to bude pro hru užitečné
 
-// jak se dostal k létání (pouze fluff) TODO ale možno zapojit následovně: dostal se přes známého - někdo jiný to může vědět / znát ho; není profesionální kosmonaut / vědec, lze to kritizovat
+// jak se dostal k létání (pouze fluff)
+// TODO- možno zapojit následovně: dostal se přes známého - někdo jiný to může vědět / znát ho; není profesionální kosmonaut / vědec, lze to kritizovat
 
 Dřív jsi dělal technika na oceánských lodích nebo se staral o složité přístroje v továrnách. Zhruba před osmi lety tě kontaktoval známý, že pracuje ve vesmírné firmě a že zoufale shánějí odborníka na určité těžební zařízení, přes které jsi zrovna byl expert. Normálně se dostanou do vesmírného průmyslu jen profesionální kosmonauti nebo vědci, takže bylo extrémně nepravděpodobné, že z toho něco bude, ale skočil jsi po té příležitosti a kombinací snahy, doporučení od známého i několika šťastných náhod tě vzali, dokázal jsi úspěšně dokončit výcvik a dostat se na první misi.
 
@@ -15,9 +16,9 @@ První let byl úžasný zážitek, navíc práce byla skvěle placená, a tak s
 // má manželku, je na něj fixovaná, chce kvůli rodině skončit s létáním
 // navázáno na 1. sny, kde se přehraje (připomene) hádka s bratrem a fixace na Dannyho (ale hráč už je v té době Josh dwight)
 // navázáno na 2. sny, kde zas vidí, jak bude Danny scházet svému synovi
-// TODO možno doplnit synovu odvykačku
+// TODO- možno doplnit synovu odvykačku
 
-Máš __manželku Sandru__. Potkali jste se už na gymnáziu a od té doby se váš vztah vyvíjel dobrým směrem. Máš s ní tři děti, nejstaršího syna a dvě mladší dcery. // TODO dávat jména? Pro - může to chtít na smalltalk, proti - zbytečně to odvádí pozornost od důležitějších věcí, které by si měl zapamatovat
+Máš __manželku Sandru__. Potkali jste se už na gymnáziu a od té doby se váš vztah vyvíjel dobrým směrem. Máš s ní tři děti, nejstaršího syna a dvě mladší dcery. // TODO- podle betatestu: dávat jména? Pro - může to chtít na smalltalk, proti - zbytečně to odvádí pozornost od důležitějších věcí, které by si měl zapamatovat
 
 Rodina je pro tebe i pro Sandru ta nejcennější věc. A pro ni v poslední době ještě o to víc. Během dospívání od nich totiž odešla máma, otec výchovu nezvládal a tak byli se svým bratrem odkázaní hodně sami na sebe. Byli si kvůli tomu hodně blízcí. Byl to poslední člen rodiny, s kterým zůstala v kontaktu, vídali jste se s ním hodně často, ale před nějakou dobou se s ním zle pohádala a přestala se vídat i s ním. O to víc se přimknula k tobě a k dětem a stali jste se tak vlastně poslední blízkou rodinou, co má.
 
