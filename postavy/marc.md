@@ -1,6 +1,7 @@
 # Marc Friday
 
 // citát (navázáno na poslední scénu na zprávu v počítači)
+// TODO- nápad: citáty do dalších postav a používat při výběru postav?
 
 _"Poznat pravdu a posouvat obzory, proto jsme tady. Mohli jsme být jen opice v jeskyni třesoucí se strachy z bouřky. Nejsme, protože naši předkové vyšli ven a objevili oheň. Teď je řada na nás. Objevujeme ne kvůli sobě; je to naše povinnost vůči nim - vůči lidskému druhu."_
 
@@ -16,11 +17,13 @@ Vztahy se spolužáky jsi neměl ani dobré, ani špatné. Nebyl jsi sice ten ty
 
 A co se týká holek... Dlouho se ti líbila spolužačka Natalie, a když časem začalo pár tvých kamarádů s někým chodit, nechal ses od nich nakonec i ty vyhecovat, abys ji pozval na rande. Bohužel, dopadlo to katastrofálně: Doslova se ti vysmála a několikrát to pak ještě vytáhla před spolužačkami, jako způsob, jak si z tebe utahovat. S takovým způsobem odmítnutí ses vyrovnával hodně těžko. Dnes vidíš, že ses přes to nakonec dokázal dostat, ale pachuť nad tím, jak se zachovala, je tam pořád.
 
-// chce být kapitánem (navázáno na sny, TODO možno navázat na děj)
+// chce být kapitánem (navázáno na sny)
+// TODO- možno navázat na děj
+// TODO- nápad: možná byl na misi, kde někdo umřel, a kapitána viní a myslí si, že by to sám udělal líp? Dokonce možná že kapitán co udělal chybu byla alexandra? (jako kontrast k snům a alt. postavě)
 
 Po střední ses dostal na vesmírnou akademii, kde do sebe tak nějak všechno zapadlo. Všechny projekty jsi nakonec mohl dělat v rámci školy, měl jsi i díky tomu skvělé výsledky a konečně sis víc sedl i se spolužáky a spolužačkami. Hned po skončení školy jsi začal létat.
 
-Dneska je ti 30 a jsi __palubní inženýr__. Pochopitelně ses __chtěl stát kapitánem__ a mít vlastní loď (a stále chceš), ale to se zatím nepodařilo. Občas jako důvod slyšíš věci jako "víš, nejde jen o známky a to jak jsi sám dobrý", což tě trochu vytáčí. De facto to znamená "nedáme ti to, protože nejsi náš kamarád tak moc, jako někdo jiný" a otvírá dveře průměrným lidem typu Alexandra. I přes to ale tuto práci miluješ, ať jsi na jakékoli pozici. A jako palubní inženýr jsi v podstatě stejně už teď ten nejdůležitější článek lodi ty, a nepřestáváš na sobě makat, aby ses kapitánem jednou stal.
+Dneska je ti 30 a jsi __palubní inženýr__ a tedy se staráš o loď a všechny technické věci na ní. Pochopitelně ses __chtěl stát kapitánem__ a mít vlastní loď (a stále chceš), ale to se zatím nepodařilo. Občas jako důvod slyšíš věci jako "víš, nejde jen o známky a to jak jsi sám dobrý", což tě trochu vytáčí. De facto to znamená "nedáme ti to, protože nejsi náš kamarád tak moc, jako někdo jiný" a otvírá dveře průměrným lidem typu Alexandra. I přes to ale tuto práci miluješ, ať jsi na jakékoli pozici. A jako palubní inženýr jsi v podstatě stejně už teď ten nejdůležitější článek lodi ty, a nepřestáváš na sobě makat, aby ses kapitánem jednou stal.
 
 ## Ostatní postavy
 
@@ -30,30 +33,19 @@ __Alexandra__ - Kapitánka a nejmladší žena, která se kapitánkou stala. Už
 
 V podstatě jedinou výhradu máš k tomu, jaká je kapitánka - je sice dobrá, ale __není nejlepší__, a podle tebe by kapitán měl být jen ten nejlepší. Často od tebe potřebuje vědět i základní věci o hledně lodi, které by měla znát sama, ale tobě to aspoň dává možnost se před ní ukázat. Zároveň to ale taky ukazuje, že pokud by se to řídilo spravedlivě znalostmi a dovednostmi, byl bys kapitánem ty.
 
-__Danny__ -
+__Danny__ - Operations manager, tj. člověk, který se bude starat o náklad. Neznáš ho.
 
-__Johnny__ -
+__Johnny__ - Navigátor. Hlídá dráhu a polohu lodi, plánuje manévry, pokud chcete nějak změnit směr, řídí přiblížení ke stanici a podobně. Má velkou jizvu přes půl obličeje. Až tě udivuje, že ho s takovým zraněním nechali létat. Ale neznáš ho a víc o tom nevíš.
+
+Na první pohled působil jako frajírek, na druhý ale působí spíš prostě nesrozumitelně. Rozhodně ti není moc příjemný, kdoví co si sám řeší.
 
 // vzájemné latentní napětí, které se eskaluje
 // (není navázáno na pozdější děj)
-// TODO dát na začátku možnost mít 1v1 rozhovory, jak rozehrát věci?
+// TODO- nápad: možno doplnit, že si byl blízký s nějakou učitelkou na střední a Loren ji připomíná.
 
 __Loren__ - Lodní lékařka. Je trochu starší, než vy, ale z celé posádky působí nejrozumněji. Není čistý kosmonaut, ale i vědec, což jde poznat. Vždycky jde k věci a aktivně poslouchá a přemýšlí, když jí někdo něco říká. Díky tomu si s ní hodně rozumíš a rád se s ní bavíš.
 
-_Marc si to zatím neuvědomuje, ale toto "splynutí duší" může přerůst v nějaký romantický zájem. Rozdíl věku a životních zkušeností mezi nimi je velký a nemálo lidí by to pravděpodobně odsuzovalo. Proto mu ta myšlenka vědomě zatím nepřišla na mysl, nebo se jí vyhýbá. Fakticky je ale Loren stále hezká žena a podvědomí ho vede opatrně zkoušet ten vztah zintenzivnit, a pokud se něco začne dít, tak až zpětně si sám začne klást otázky jako "co jsem myslel tím pozváním na panáka? Bylo to čistě jako profesní kamarádské gesto?" a podobně._
-
----
-
-- TODO že citát je z učebnice fyziky co si někam zapsal (možná ještě adresovat někdy během hry) (meta - dobře to adresuje vybírání postav potom, oživí se téma postavy)
-- TODO palubní inženýr
-- TODO ze snů:
-    - chce být kapitán (... možná nějak navázat proč není resp. čemu to přisuzuje?) (sny 1 i 2)
-    - ne nutné: nějaká holka (ve snu hráčka alexandry) ho odmítla na střední, možná obecně komplikované vztahy s holkama
-    - nápad: možná v origu byl na té misi, kde někdo umřel, a původního kapitána viní a myslí si, že by to sám udělal líp? Dokonce možná že kapitán co udělal chybu byla alexandra?
-    - možnost: nějaké soutěžení s alexandrou (v snech 2 je jeho loajální podřízená, lze nějak kontrastovat s reálem)
-- TODO nápad: pokud by měl balit Loren, dá se do historie dát, že si na střední rozuměl spíš s učiteli než spolužáky a dát tam nějakou podobnost mezi Loren a učitelkou, s kterou si byli blízcí
-- TODO možné téma, jestli létají jen lidi s vesmírnou akademií, nebo jsou ty specializace různé a třeba lidi s jinou praxí jsou nahlíženi hůř apod.
-- TODO možná do postav dát nějaký přímý prompt na vymyšlení vlastního obsahu, který můžou otevřít v první scéně. Možná, že by se i domluvili společně?
+_Marc si to zatím neuvědomuje, ale toto "spříznění duší" může přerůst v nějaký romantický zájem. Rozdíl věku a životních zkušeností mezi nimi je velký a nemálo lidí by to pravděpodobně odsuzovalo. Proto mu ta myšlenka vědomě zatím nepřišla na mysl, nebo se jí vyhýbá. Fakticky je ale Loren stále hezká žena a podvědomí ho vede opatrně zkoušet ten vztah zintenzivnit, a pokud se něco začne dít, tak až zpětně si sám začne klást otázky jako "co jsem myslel tím pozváním na panáka? Bylo to čistě jako profesní kamarádské gesto?" a podobně._
 
 # 1. scéna
 

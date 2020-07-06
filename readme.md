@@ -15,7 +15,7 @@
 - [ ] projet TODOs a kritické dořešit
 - [ ] postavy
     - [x] linky vyplývající ze snů
-    - [ ] vztahy
+    - [x] vztahy
     - [ ] osobní linky (+ zapojit do scén)
 - [x] sny v meziscénách
 - [ ] potitulková scéna (pokud bude)

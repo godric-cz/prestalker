@@ -40,13 +40,13 @@ Přesto na Iana pořád hodně myslíš a každý rok na výročí jeho smrti, 3
 
 // TODO možno u všech doplnit nějaké důležité události z předchozích misí (buď na propojení postav, nebo i samostatně).
 
-// TODO minimálně u všech napsat role všech ostatních. Vysvětlit role i na začátku při výběru postav pro dvojité připomenutí.
-
 // TODO možná přidávat vztahy a linky jen pokud to bude fungovat jako _plot device_, tedy se zapojí ještě někde (pozor na to, aby se hra obsahově nepřepálila a sled událostí umožňoval smysluplně ty vztahy odehrávat)
 
 ## Ostatní postavy
 
-__Danny__ -
+// TODO- zatím záměrně v postavách není obecné kdo jak působí (pokud se postavy neznají). Předpoklad je, že je lepší, aby to hráči dělali čistě podle dojmu (případně režisérského pohledu) ve hře. Pokud to nebude fungovat, lze je doplnit.
+
+__Danny__ - Operations manager, tj. člověk, který se bude starat o náklad. Neznáš ho.
 
 // nevyjsněná romatická historie
 // (není navázáno na pozdější děj)
@@ -59,7 +59,7 @@ Dnes vypadá úplně jinak, už to není ten hezoun ze školy. Má jizvu přes p
 
 Na lodi je jako navigátor. Hlídá dráhu a polohu lodi, plánuje manévry, pokud chcete nějak změnit směr, řídí přiblížení ke stanici a podobně.
 
-__Loren__ -
+__Loren__ - Je lodní lékařka, stará se o zdraví a hibernaci, ale i o psychický stav posádky. Je o něco starší než ostatní a dělala i nějakou vědu. Neznáš ji.
 
 // dřív roztomilý ňouma, jaký je dnes? (asymetrická romantická linka)
 // (není navázáno na pozdější děj)
@@ -68,7 +68,7 @@ __Marc__ - Na začátku tvojí kariéry na jednom výcviku už jsi ho potkala. P
 
 Chvíli jste spolu trénovali krizové situace na simulátoru a trochu se bavili, ale od té doby jsi ho roky neviděla. Je to pořád ten stejný ňouma, nebo se změnil?
 
-Je palubní inženýr, takže se technicky stará o loď a o to aby fungovala.
+Je palubní inženýr, takže se technicky stará o loď a o to, aby fungovala.
 
 # 1. scéna
 

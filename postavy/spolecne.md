@@ -8,6 +8,8 @@ Zároveň všichni potřebujete upustit páru a aspoň chvíli přebít stres, k
 
 Atmosféra je uvolněná a v podstatě není potřeba se omezovat. Všichni chápou, že je to speciální večer, a pokud někdo něco přežene, maximálně se tomu společně zasmějete, ale nic víc.
 
+// TODO- možná nějaký prompt, ať si vymyslí obsah / historku o postavách, které tam otevřou. Ovšem není to automatické, tj. není potřeba sem psát?
+
 Začátek:
     - Po přečtení postav se všichni přesunete k baru. Scénu popíše a zahájí vypravěč.
 

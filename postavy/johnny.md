@@ -48,11 +48,11 @@ Je to ale jedno. Byla o ročník nad tebou, byli jste spolu na konci jejího pos
 
 Od skončení školy jsi ji zahlédnul v televizi, víš, že dělá kapitánku, ale vůbec jsi nečekal, že se s ní ještě potkáš. Teď letíte spolu na misi a nevíš, jak reagovat.
 
-__Danny__ -
+__Danny__ - Operations manager, tj. člověk, který se bude starat o náklad. Neznáš ho.
 
-__Loren__ -
+__Loren__ - Je lodní lékařka, stará se o zdraví a hibernaci, ale i o psychický stav posádky. Je o něco starší než ostatní a působí kompetentně. Neznáš ji.
 
-__Marc__ -
+__Marc__ - Palubní inženýr, takže se technicky stará o loď a o to, aby fungovala. Neznáš ho, ale evidentně ho nějak zná Alexandra. Na detaily ses zatím ani jednoho neptal.
 
 # 1. scéna
 

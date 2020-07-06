@@ -25,17 +25,17 @@ Zvažuješ kvůli ní a dětěm práci ve vesmíru ukončit a jít dělat něco 
 
 // TODO! nástřel osobní linky jak se po výměně dusí, může být jako probuzení ze snů že se mu ztratí rodina a vidí stanici a dusí se? Možná dokonce dílčí motivace k probuzení hibernace / startu poslední scény? Bez těchto obtíží potom dává menší smysl jeho rozhodování se obětovat v závěrečné scéně. Další nápad je, že postupně jeho vyměněnost odhaluje Loren v posledních scénách.
 
-// TODO Danny nemá žádné vztahy, tj. nejvíc asi potřebuje je doplnit. Ale zase má silnou backstory s vyměněním. Mohl by např. v společné historii vědět o problémech Johnnyho, případně nějak si charakterově sednout s Marcem.
-
 ## Ostatní postavy
 
-__Alexandra__ -
+// TODO- Danny nemá žádné vztahy, tj. nejvíc asi potřebuje je doplnit. Ale zase má silnou backstory s vyměněním. Mohl by např. v společné historii vědět o problémech Johnnyho, případně nějak si charakterově sednout s Marcem.
 
-__Johnny__ -
+__Alexandra__ - Kapitánka.
 
-__Loren__ -
+__Johnny__ - Navigátor. Hlídá dráhu a polohu lodi, plánuje manévry, pokud chcete nějak změnit směr, řídí přiblížení ke stanici a podobně.
 
-__Marc__ -
+__Loren__ - Lodní lékařka, stará se o zdraví a hibernaci, ale i o psychický stav posádky.
+
+__Marc__ - Palubní inženýr, takže se technicky stará o loď a o to, aby fungovala.
 
 # 1. scéna
 

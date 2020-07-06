@@ -56,9 +56,11 @@ Nemáš už co ztratit a tak neváháš kvůli tomuto snu i poměrně riskovat. 
 
 ## Ostatní postavy
 
-__Alexandra__ -
+// Alexandra není úplně kompetentní - možné společné téma s Marcem
 
-__Danny__ -
+__Alexandra__ - Kapitánka. I když je na velení lodi hodně mladá a nepůsobí úplně kompetentně.
+
+__Danny__ - Operations manager, tj. člověk, který se bude starat o náklad. Neznáš ho.
 
 // ví o jeho falešném posudku
 
@@ -72,7 +74,7 @@ V oficiálních záznamech žádné zdravotní problémy nemá. Když by se na j
 - Určitě je dobré mu zabránit, aby dělal nějaké práce na lodi, aby tím neohrožoval ostatní (jestli to udělat domluvou, přímo prozradit jeho stav, nebo to udělat jinak, je na tobě).
 - Taky bys ráda zjistila, jak vážný jeho stav ve skutečnosti je, aby ses podle toho mohla rozhodovat, co dál. Možná nějak hodně diskrétně s ním promluvit? Nebo nezná se Johnny dobře s někým dalším z posádky, který by to tím pádem taky mohl vědět?
 
-Jeho pozice na lodi je navigátor. // TODO možná nějaký popis vztahu ("jako člověk na tebe působí ..." a podobně)
+Jeho pozice na lodi je navigátor.
 
 // vzájemné latentní napětí, které se eskaluje
 // (není navázáno na pozdější děj)
@@ -83,7 +85,7 @@ __Marc__ - Příjemný kluk. Uvažuje hodně originálně (někdy až na hranici
 
 Je palubní inženýr, takže se technicky stará o loď a o to aby fungovala.
 
-_Loren si to zatím neuvědomuje, ale toto "splynutí duší" může přerůst v nějaký romantický zájem. Rozdíl věku a životních zkušeností mezi nimi je velký a Marc je pro ni v jistých ohledech skoro ještě dítě. Nějaká přitažlivost tam ale rozhodně je. Loren se snaží nad tím příliš nepřemýšlet, aby nemusela řešit, co vlastně s tím "vztahem" chce dál a taky aby neotvírala nějaká bolavá místa z minulosti případně její současný stav. Ale pokud se překročí nějaké hranice (a pocity vedou Loren, aby to zkusila), tak tyto věci už řešit bude muset._
+_Loren si to zatím neuvědomuje, ale toto "spříznění duší" může přerůst v nějaký romantický zájem. Rozdíl věku a životních zkušeností mezi nimi je velký a Marc je pro ni v jistých ohledech skoro ještě dítě. Nějaká přitažlivost tam ale rozhodně je. Loren se snaží nad tím příliš nepřemýšlet, aby nemusela řešit, co vlastně s tím "vztahem" chce dál a taky aby neotvírala nějaká bolavá místa z minulosti případně její současný stav. Ale pokud se překročí nějaké hranice (a pocity vedou Loren, aby to zkusila), tak tyto věci už řešit bude muset._
 
 # 1. scéna
 

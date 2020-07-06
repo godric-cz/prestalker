@@ -58,6 +58,10 @@ Informace pro hráče:
 
 (TODO čtení postav)
 
+- TODO možná prostor pro 1v1 domluvení vztahů (kdo potřebuje)
+    - hlavní adepti jsou Marc a Loren
+    - možná i tvorba nějaké historky / společného obsahu, který si hráči vymyslí a domluví
+
 # 1. scéna
 
 Příprava:
