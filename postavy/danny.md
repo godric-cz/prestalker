@@ -24,8 +24,6 @@ Rodina je pro tebe i pro Sandru ta nejcennější věc. A pro ni v poslední dob
 
 Zvažuješ kvůli ní a dětěm práci ve vesmíru ukončit a jít dělat něco bezpečného. Vlastně přemýšlíš, že by tato mise mohla být závěrečná. Vzal jsi ji hlavně kvůli penězům, získáš tím úspory a po ní bys mohl s létáním skončit.
 
-// TODO! nástřel osobní linky jak se po výměně dusí, může být jako probuzení ze snů že se mu ztratí rodina a vidí stanici a dusí se? Možná dokonce dílčí motivace k probuzení hibernace / startu poslední scény? Bez těchto obtíží potom dává menší smysl jeho rozhodování se obětovat v závěrečné scéně. Další nápad je, že postupně jeho vyměněnost odhaluje Loren v posledních scénách.
-
 ## Ostatní postavy
 
 // TODO- Danny nemá žádné vztahy, tj. nejvíc asi potřebuje je doplnit. Ale zase má silnou backstory s vyměněním. Mohl by např. v společné historii vědět o problémech Johnnyho, případně nějak si charakterově sednout s Marcem.
@@ -82,7 +80,8 @@ Začátek:
 
 Během scény:
     - Jakmile zastavíte poblíž objektu (ozve se "object distance minimal"), přečti si dokument Z7074.
-    - Chceš přežít. Jakmile vám bude hrozit nebezpečí a bude potřeba zapnout hlavní motor (bude zřejmé ze situace), pokud se k tomu nikdo jiný nebude mít, uděláš to v poslední možné chvíli ty (zmáčkneš F na terminálu a tím se motor zapne).
+    - Během celé scény se ti trochu motá hlava a cítíš se divně. Chvíli po přečtení dokumentu začneš lapat po dechu a dusit se, nemůžeš mluvit. Před očima uvidíš vnitřek stanice, v které jste byli. Jakmile se ti ale Loren začne věnovat, dušení samo od sebe zas přejde a zůstane jen motání hlavy, jako před tím. // dušení slouží k tomu, aby vůbec zvažoval "se obětovat" při výběru alternativních postav, nebo jako Josh nemá kvůli dušení přežití jisté (viz vystupňování v 5. scéně a viz pokyny Loren tamtéž)
+    - Chceš přežít. Jakmile vám bude hrozit nebezpečí a bude potřeba zapnout hlavní motor (bude zřejmé ze situace), pokud se k tomu nikdo jiný nebude mít, uděláš to v poslední možné chvíli ty (zmáčkneš F na terminálu a tím se motor zapne). // TODO co když danny zůstane ve vesmíru? Kdo zapne motor asi pak není ošetřeno.
 
 Konec:
     - Zhasnou se světla a ozve se hudba.
@@ -113,3 +112,6 @@ Začátek:
     Navíc náklad téměř určitě způsobuje rušení vysílačky, které pořád trvá. Další důvod pro jeho odhození.
 
     Je otázka, jak moc odahlit, jak toto všechno víš (tj. říct celý tvůj skutečný příběh), ale tak či tak budeš se budeš snažit přesvědčit ostatní k odhození nákladu.
+
+Během scény:
+    - Po celou dobu se cítíš špatně, hodně se ti motá hlava, nejde ti přemýšlet, špatně se ti dýchá. Několikrát se začneš dusit a promítají se ti při tom místa uvnitř stanice, jako v předchozí scéně. Vždycky to zas samo odezní, ale už je to hodně nepříjemné.

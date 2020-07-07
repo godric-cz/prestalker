@@ -134,6 +134,7 @@ Během scény:
 
 Začátek:
     - Probouzíš se z hibernace. Probudíš kapitánku a pak ostatní, stejně jako minule.
+    - Dannymu se rapidně změnily všechny zdravotní hodnoty, oproti předchozím dvěma hibernacím. Netušíš, co mu je, ale všechny hodnoty jsou naštěstí v normě. Jediná horší je snížená saturace kyslíkem, ale to by zatím měl zvládnout (maximálně se mu bude trochu motat hlava a cítit se opile, stačí na něj dohlédnout). // Nadhoz na podezření, že se něco stalo v stanici (zdůrazněno v 5. scéně). TODO- možno dát pak i explicitně, že má jinou DNA, nebo Loren navést, aby zkusila nejdřív řešit věci diskrétně, protože Danny něco tají a veřejně to neřekne.
 
 Konec:
     - Zhasnou se světla a ozve se hudba.
@@ -165,4 +166,5 @@ Začátek:
     Je potřeba zjistit, kdo to byl, a dostat z něj heslo. Každopádně ale domluvou, ne násilím (tomu bys zabránila). Možná bude lepší na začátek neříkat, že podezíráš někoho z ostatních, a vytáhnout to až po chvíli, abys co nejlíp viděla, jak kdo reaguje (a mohla tak odhadnout, kdo to byl).
 
     Pokud zjistíš, kdo to byl, měli byste ho asi raději spoutat, ať neprovede něco dalšího ostatním ani sobě. Použijte připravené stahovací pásky.
+    - Dannyho stav se zhoršil, saturace klesla do nebezpečných hodnot. Pokud opravíte hibernaci a dáš mu na cestu zpět maximum kyslíku, možná to přežije. Jestli se ale jeho stav bude zhoršovat stejným tempem, bohužel ani to by nestačilo a můžete doufat jenom v zázrak. Co nízkou saturaci způsobuje stále netušíš. Ostatní hodnoty jsou stejné, jako při předchozí hibernaci, a rapidně rozdílné oproti prvním dvěma hibernacím. Cokoli mu je se tedy nejspíš muselo stát při tom výstupu do stanice.
     - _V této scéně můžete používat počítač všichni (a číst, pokud ho používá někdo jiný)._
