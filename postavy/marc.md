@@ -68,7 +68,7 @@ Začátek:
 Během scény:
     - Po nabrání nákladu zajišťuješ odlet zpátky na Zemi. Postup je v dokumentu F4415.
     - Johnny bude potřebovat znát hmotnost zbývajícího paliva kvůli výpočtu startovacího manévru. Je to 4392kg.
-    <!-- TODO nápad: chce např. na Mars, chtěl to ohackovat špatným zadáním paliva, ale kvůli úpravě motorů ví, že už to nejde a bylo by to nebezpečné. Nebo naopak někdo ho může (neprávem) podezírat, že to chtěl nafakeovat. Případně o tom s někým před tím mluvil. ... -->
+    // TODO- nápad: chce např. na Mars, chtěl to ohackovat špatným zadáním paliva, ale kvůli úpravě motorů ví, že už to nejde a bylo by to nebezpečné. Nebo naopak někdo ho může (neprávem) podezírat, že to chtěl nafakeovat. Případně o tom s někým před tím mluvil. Doplnit podle množství obsahu ve hře.
 
 Konec:
     - Všichni se uložíte do hibernace.
@@ -123,4 +123,3 @@ Začátek:
     Vyvolat rušení, které by způsobilo tak konkrétní změnu jako zaheslování hibernace by sice bylo extrémně složité, ale ne nemožné. Tím pádem by se celý problém mohl vyřešit odhozením nákladu a vzdálením se od něj. Problém je, že odhozený náklad je definitivně pryč. Tak malou věc ve vesmíru už nikdo nikdy nenajde.
 
     B) Udělal to mrtvý kolega, ale předem. V počítači se dá naplánovat a předpřipravit program, který se spustí časem. Dost možná měl kolega během hibernace taky "sny" a viděl něco, co ho přimělo to udělat. Možná měl někdo z ostatních stejný sen, nebo možná se mrtvý někomu svěřil. Pokud to společně proberete a každý řekne, co ví, snad by se dalo pak zjistit, jaké mohl zadat heslo a počítač by se opět zprovoznil.
-    - TODO sny v hibernaci (viz předchozí odstavec), (Nápad: "mě navádělo v těch snech něco udělat, neudělal jsem to, ale on třeba ne ... cože, vám se to nedělo?")

@@ -1,7 +1,5 @@
 # Alexandra Parker
 
-// TODO nějaké obecnější info ke hře? Možná
-
 // charakter, mládí a rodinné zázemí (jen fluff)
 
 Už od malička jsi byla velmi systematická a organizovaná. Během školy jsi byla oblíbená a rychle se naučila, jak zapůsobit na ostatní a dosáhnout toho, čeho chceš. Škola ti šla sama a zamilovala ses do fyziky a astronomie.
@@ -9,10 +7,12 @@ Už od malička jsi byla velmi systematická a organizovaná. Během školy jsi 
 Až během dospívání ses ale rozhodla tyto zájmy zhmotnit do toho, že se staneš kosmonautkou. S přijetím na akademii pro tebe teprve začala první skutečná životní výzva. Ale protože jsi tomu věnovala doslova všechen čas a vůli, kterou jsi měla, zvládla jsi to. Dokonce ses postupně vypracovala mezi ty nejlepší a hned po skončení studia začala létat.
 
 // kapitánka (role v rámci posádky)
+// TODO- možno doplnit zodpovědnost za posádku (je již zmíněno na konci, ale může být lepší zopakovat)
 
-Dnes je ti 29 let a nedávno ses stala __kapitánkou__. Jsi vůbec nejmladší žena, které se to podařilo. Máš za sebou desítky vědeckých i komerčních misí na oběžnou dráhu a několik do hlubokého vesmíru (k Marsu a asteroidům). TODO možná zodpovědnost za posádku (je již zmíněno na konci, ale může být lepší zopakovat)
+Dnes je ti 29 let a nedávno ses stala __kapitánkou__. Jsi vůbec nejmladší žena, které se to podařilo. Máš za sebou desítky vědeckých i komerčních misí na oběžnou dráhu a několik do hlubokého vesmíru (k Marsu a asteroidům).
 
-// je slavná (navázáno na 1. scénu a TODO kontrast s alternativní postavou)
+// je slavná (navázáno na 1. scénu a kontrast s alternativní postavou)
+// TODO- do alt. postavy možno ještě explicitně navíc zmínit
 // TODO- a dá se doplnit kde co dál: nabídky na životopis, [hračky](https://www.space.com/search?searchTerm=barbie), hraný film o životě, poznávají ji lidé, ...
 
 Dá se říct, že jsi __slavná__. Přestože ve vesmírném průmyslu pracují už desetitisíce lidí, pořád má velkou prestiž a ty jsi, díky svým úspěchům, jednou z jeho tváří. Novináři s tebou často dělají rozhovory, vystupovala jsi v několika známých dokumentech o vesmíru.
@@ -91,7 +91,7 @@ Začátek:
 
 Během scény:
     - Jakmile budete 5 minut od stanice (ozve se hláška) je potřeba se spojit se stanicí vysílačkou (normální vysílačka na kanálu 1) a oznámit jim, že přiletíte.
-    - Po nabrání nákladu zadáš Johnnymu, aby vypočítal dráhu pro návrat. Jak to dokončí, Marc může spustit motory a odstartovat vás konečně zpátky k Zemi. <!-- TODO nápad před startem aby řekla děkovný proslov, pro lepší drama -->
+    - Po nabrání nákladu zadáš Johnnymu, aby vypočítal dráhu pro návrat. Jak to dokončí, Marc může spustit motory a odstartovat vás konečně zpátky k Zemi. // TODO- nápad: před startem aby řekla děkovný proslov, pro lepší drama
     - Jakmile odstartujete a Marc s Johnnym zkontrolují stav lodi a dráhu, otevři dokument C8863.
 
 Konec:

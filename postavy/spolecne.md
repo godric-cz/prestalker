@@ -15,10 +15,10 @@ Začátek:
 
 Během scény:
     - Scéna slouží k představení postav a vytvoření nějakého společného civilního zážitku. Zážitek je to neformální, trochu vtipný a třeba i trochu trapný. Jde o to nasát atmosféru, že i ostatní jsou celou dobu vašeho letu především lidé z masa a kostí s vlastním životem, sny i bolístkami a nedokonalostmi. A ačkoli se v mnohém lišíte, nakonec jsou to stejně v podstatě lidé, jako ty.
-    - Rozehrát vztahy: Na základě pozitivních vztahů se dají udělat trapné nebo vtipné situace, ty negativní spíš naznačit. Pokud se objeví konflikt, hrát ho spíš vtipně, než dramaticky. Například dvě postavy se pohádají, začnou se (nešikovně) prát, třetí postava je rychle uklidní, všichni se pak budou předhánět v tom, kdo se komu víc omluví, dají si panáky a jdou se věnovat společně nějaké další párty činnosti. Každou takovou situací si připravujete materiál pro různé vyjasňování, omluvy, opětovné vytahování, probírání za střízliva a obecně rozehrávání vztahu v dalších scénách.
-    - Dělat nesmysly: různé sázky, drinking games, nesmyslné aktivity jako lezení po věcech, snaha někomu něco říct, do které se v polovině zamotáte a snažíte se to zamluvit, hodnocení kolegů či kolegyň v libovolných ohledech, samozřejmě tancování (a přesvědčování ostatních k tancování) a libovolné další hlouposti, které opilí lidé tak obvykle dělají.
-    - Historky z rozluček: další oblíbená zábava jsou historky z výcviku a z rozlučkových párty předchozích misí. Můžete se inspirovat vlastními historkami z rozluček se svobodou, školních akcí, firemních večírků a podobně.
-    - Rozdělovat se: Dynamika mezi dvěma lidmi funguje jinak, než mezi třemi nebo pěti. Střídání fází, kdy jste všichni pohromadě, a kdy dva nebo tři odejdou tančit nebo si povídat o životě dá víc prostoru k otevření témat a udělá scénu zajímavější.
+    - __Rozehrát vztahy__ - Na základě pozitivních vztahů se dají udělat trapné nebo vtipné situace, ty negativní spíš naznačit. Pokud se objeví konflikt, hrát ho spíš vtipně, než dramaticky. Například dvě postavy se pohádají, začnou se (nešikovně) prát, třetí postava je rychle uklidní, všichni se pak budou předhánět v tom, kdo se komu víc omluví, dají si panáky a jdou se věnovat společně nějaké další párty činnosti. Každou takovou situací si připravujete materiál pro různé vyjasňování, omluvy, opětovné vytahování, probírání za střízliva a obecně rozehrávání vztahu v dalších scénách.
+    - __Dělat nesmysly__ - různé sázky, drinking games, nesmyslné aktivity jako lezení po věcech, snaha někomu něco říct, do které se v polovině zamotáte a snažíte se to zamluvit, hodnocení kolegů či kolegyň v libovolných ohledech, samozřejmě tancování (a přesvědčování ostatních k tancování) a libovolné další hlouposti, které opilí lidé tak obvykle dělají.
+    - __Historky z rozluček__ - další oblíbená zábava jsou historky z výcviku a z rozlučkových párty předchozích misí. Můžete se inspirovat vlastními historkami z rozluček se svobodou, školních akcí, firemních večírků a podobně.
+    - __Rozdělovat se__ - Dynamika mezi dvěma lidmi funguje jinak, než mezi třemi nebo pěti. Střídání fází, kdy jste všichni pohromadě, a kdy dva nebo tři odejdou tančit nebo si povídat o životě dá víc prostoru k otevření témat a udělá scénu zajímavější.
 
 Konec:
     - Scéna končí přípitkem.
@@ -26,8 +26,11 @@ Konec:
 # 2. scéna
 
 Během scény:
-    - Tato scéna slouží k rozehrání vztahů "na vážno" (oproti párty) a vytvoření pocitu, že "tohle se opravdu dějě". Jsme ve vesmíru, jenom nás pět, miliony kilometrů od kohokoli dalšího, a pokud se cokoli stane, musíme to vyřešit sami. Hranice mezi rutinním letem a bojem o život může být nesmírně tenká. Scéna vás povede k tomu se rozdělovat a vytváří volnější časové úseky. Ty slouží k možnosti se bavit s ostatními v soukromí (resp. menším počtu) a o civilních věcech. Dá se taky omluvit, vyjasnit nebo navázat na cokoli, co se dělo na párty. Cílem je rozehrát vztahy, v dalších scénách už bude prostoru méně. TODO tady není kurzíva a měla by být (případně jiné značení, že jde o nediegetický text)
-    - TODO možná doplnit do dalších scén, k čemu slouží nebo jak je hrát.
+    - _Tato scéna slouží k rozehrání vztahů "na vážno" (oproti párty) a vytvoření pocitu, že "tohle se opravdu dějě". Jsme ve vesmíru, jenom nás pět, miliony kilometrů od kohokoli dalšího, a pokud se cokoli stane, musíme to vyřešit sami. Hranice mezi rutinním letem a bojem o život může být nesmírně tenká. Scéna vás povede k tomu se rozdělovat a vytváří volnější časové úseky. Ty slouží k možnosti se bavit s ostatními v soukromí (resp. menším počtu) a o civilních věcech. Dá se taky omluvit, vyjasnit nebo navázat na cokoli, co se dělo na párty. Cílem je rozehrát vztahy, v dalších scénách už bude prostoru méně._
+
+// TODO- možná doplnit kurzívu i do dalších nediegetických pokynů (ale pozor, aby nebylo překurzívováno, zvlášť v první scéně). Možná místo kurzívy vymyslet lepší značení obecně.
+
+// TODO možná doplnit i do dalších scén, k čemu slouží nebo jak je hrát.
 
 # Sny
 
