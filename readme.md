@@ -13,10 +13,10 @@
 - [x] materiály a pokyny pro hlavní příběh
 - [x] alternativní postavy
 - [ ] projet TODOs a kritické dořešit
-- [ ] postavy
+- [x] postavy
     - [x] linky vyplývající ze snů
     - [x] vztahy
-    - [ ] osobní linky (+ zapojit do scén)
+    - [x] osobní linky (+ zapojit do scén)
 - [x] sny v meziscénách
 - [ ] potitulková scéna (pokud bude)
 - [ ] produkce

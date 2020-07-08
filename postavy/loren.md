@@ -56,7 +56,7 @@ V čase, který ti zbývá, toho chceš ve vesmíru stihnout co nejvíc. I proto
 
 Nemáš už co ztratit a tak neváháš kvůli tomuto snu i poměrně riskovat. Například jsi zvažovala se na stanici zkusit oddělit od posádky a nechat se "zachránit" jinou lodí, která na Mars ze stanice poletí. Ale zatím se zdá, že vaše loď letí ke stanici jako jediná za dlouhou dobu, a tak tento plán padl.
 
-// TODO manifestace a vývoj její nemoci během hry. Může to i někdo vědět / někdo si skriptem všimnout (ale v origu to není).
+// TODO- po betatestu: možno doplnit, že se její nemoc během hry nějak projevuje a/nebo že o ní někdo ví (podle obsahové zaplněnosti hry). Zatím ale stačí jako motivace na Mars a jako komplikace pro sbližování s Marcem.
 
 ## Ostatní postavy
 
