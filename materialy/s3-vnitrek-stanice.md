@@ -7,7 +7,7 @@ __1. část:__ Po chvíli otáčení uzávěru se poklop otevře. Neuchází vzd
 __2. část:__ Za druhým poklopem je hranatá polstrovaná místnost. Cvičební přístroje. Dole zaseknutý poklop s průhledem, za ním asi strojovna. Po straně přístroje na přípravu jídla. Přímo vpředu neuzavřený průlez dál.
 
 __3. část:__ Podlouhlá místnost, vlevo čtyři posouvací dveře, za nimi spací kajuty (resp. spíš skříně). Až na pár kusů žádné oblečení ani osobní věci. Přímo vpředu uzavřený průlez dál.
-<!-- TODO možno doplnit divno obraz, divno knihu, osobní fotku, whatevs -->
+// TODO- možno doplnit divno obraz, divno knihu, osobní fotku, whatevs
 
 __4. část:__ Velká místnost s hromadou vědeckých přístrojů. Chemické nářadí, vzorky kamenů. Počítače žádné, ale od přístrojů vede hromada drátů, nějaké notebooky byly evidentně dřív připojené. Občas papírová poznámka, nic zajímavého, zkoušky složení kamenů, jinak nic. Přímo vpředu poklop, za ním asi tři metry úzká prázdná chodba a na jejím konci masivní poklop podobný tomu na vstupu stanice.
 
@@ -33,9 +33,9 @@ Josh zamknul strojovnu a schoval se v poslední místnosti. Když Danny vstoupil
 
 Teď jsi Josh Dwight. A chceš přežít.
 
-<!-- TODO nápad: vysílačku rozbije, aby se mohl vymluvit, později ji někdo opraví a dojde na to, že ji rozbil úmyslně? -->
+// TODO- nápad: vysílačku rozbije, aby se mohl vymluvit, později ji někdo opraví a dojde na to, že ji rozbil úmyslně?
 
-<!-- TODO nápad: psát v první osobě, ať s tím je hráč víc v pohodě -->
+// TODO- nápad: psát v první osobě, ať s tím je hráč víc v pohodě
 
 ---
 

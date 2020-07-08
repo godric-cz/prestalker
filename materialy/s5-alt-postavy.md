@@ -16,7 +16,7 @@ Bohužel v poslední době už se kvůli jeho práci moc nevídáte a asi mu to 
 
 Jsi Alexandra Parker, nikdy ses nepodívala do vesmíru, ale zachránila jsi svého bratra.
 
-// TODO probrat, jestli být takto explicitní (larpový standard) nebo implicitní (říct pouze jaká je, ale že není slavná a nebyla ve vesmíru jí musí dojít samotné srovnáním s původní postavou)
+// TODO- probrat, jestli být takto explicitní (larpový standard) nebo implicitní (říct pouze jaká je, ale že není slavná a nebyla ve vesmíru jí musí dojít samotné srovnáním s původní postavou)
 
 (konec strany)
 
@@ -35,7 +35,7 @@ Můžeš se otočit, vrátit se a pokračovat v příběhu svého pokusu naplnit
 
 A nebo můžeš projít skrz, zpátky do příběhu, kde zůstáváš na stanici, bez naděje na záchranu vycházíš do volného vesmíru a při posledním pohledu na hvězdy opatrně uvolňuješ přilbu svého skafandru. A necháváš Dannyho Dwighta,  aby se v jiném příběhu vrátil k rodině. Ale i ten příběh, přestože ho neprožiješ, bude možná tak trochu tvůj. _V tom případě tento papír s osudem Joshe Dwighta vrať a postavu Dannyho si nech, ale následně ji polož na zem za pomyslnou hranici tvořenou svíčkami._
 
-// TODO nápad na závěrečnou punchline (pokud dávat): Čas je jen další směr a každý životní příběh jen další možnost, ze kterých si můžeš svobodně vybrat.
+// TODO- nápad na závěrečnou punchline (pokud dávat): Čas je jen další směr a každý životní příběh jen další možnost, ze kterých si můžeš svobodně vybrat.
 
 (konec strany)
 
@@ -69,7 +69,7 @@ Zhruba rok bylo to manželství fajn, ale pak se ukázalo, že už tolik nefungu
 
 Dnes je ti 43 let, pořád létáš do vesmíru jako lodní lékařka a mohla bys být i kapitánkou, kdybys chtěla. Život i práce tě baví a užíváš si je.
 
-Hodně lidí kolem tebe v minulosti různě trpělo, ale nikdy sis ani na vteřinu nepřipustila, že bys na tom mohla mít nějaký podíl. Některé jsi vinila, že ublížili oni tobě. A s těmi, kteří tě kritizovali, jsi přerušila kontakty. Nic z toho sis ale nikdy neuvědomila a do konce života budeš v sladké nevědomosti. // TODO tento odstavec explicitně říká, ať postavu odsoudí, a u této postavy je největší kontrast mezi implicitním a explicitním (viz výš) a nejvíc je potřeba rozhodnout, jestli tu má odstavec být
+Hodně lidí kolem tebe v minulosti různě trpělo, ale nikdy sis ani na vteřinu nepřipustila, že bys na tom mohla mít nějaký podíl. Některé jsi vinila, že ublížili oni tobě. A s těmi, kteří tě kritizovali, jsi přerušila kontakty. Nic z toho sis ale nikdy neuvědomila a do konce života budeš v sladké nevědomosti. // TODO- tento odstavec explicitně říká, ať postavu odsoudí, a u této postavy je největší kontrast mezi implicitním a explicitním (viz výš) a nejvíc je potřeba rozhodnout, jestli tu má odstavec být
 
 Jsi Loren Ellison a jsi šťastná.
 
