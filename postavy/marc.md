@@ -94,6 +94,9 @@ Konec:
 Začátek:
     - Loren tě probouzí z hibernace.
 
+Během scény:
+    - Pokud bude hrozit zničení lodi a nikdo jiný se nebude mít k tomu něco udělat, musíš v poslední chvíli ty __zapnout hlavní motor (stisknout F na terminálu)__ a loď zachránit. Víš přesně, co loď zvládne a co už ne, a nenecháš ostatní kvůli jejich nerozhodnosti umřít. // TODO- takto už mají explicitní pokyn dva lidé a snižuje se pocit samostatného rozhodování. Ideálně vymyslet jiný mechanismus, jak "pojistit", že motor někdo zapne.
+
 Konec:
     - Zhasnou se světla a ozve se hudba.
 

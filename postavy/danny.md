@@ -81,7 +81,7 @@ Začátek:
 Během scény:
     - Jakmile zastavíte poblíž objektu (ozve se "object distance minimal"), přečti si dokument Z7074.
     - Během celé scény se ti trochu motá hlava a cítíš se divně. Chvíli po přečtení dokumentu začneš lapat po dechu a dusit se, nemůžeš mluvit. Před očima uvidíš vnitřek stanice, v které jste byli. Jakmile se ti ale Loren začne věnovat, dušení samo od sebe zas přejde a zůstane jen motání hlavy, jako před tím. // dušení slouží k tomu, aby vůbec zvažoval "se obětovat" při výběru alternativních postav, nebo jako Josh nemá kvůli dušení přežití jisté (viz vystupňování v 5. scéně a viz pokyny Loren tamtéž)
-    - Chceš přežít. Jakmile vám bude hrozit nebezpečí a bude potřeba zapnout hlavní motor (bude zřejmé ze situace), pokud se k tomu nikdo jiný nebude mít, uděláš to v poslední možné chvíli ty (zmáčkneš F na terminálu a tím se motor zapne). // TODO co když danny zůstane ve vesmíru? Kdo zapne motor asi pak není ošetřeno.
+    - Chceš přežít. Jakmile vám bude hrozit nebezpečí a bude potřeba __zapnout hlavní motor__ (bude zřejmé ze situace), pokud se k tomu nikdo jiný nebude mít, uděláš to v poslední možné chvíli ty (__zmáčkneš F na terminálu__ a tím se motor zapne).
 
 Konec:
     - Zhasnou se světla a ozve se hudba.
