@@ -79,4 +79,6 @@ Na scénu přijdeš ty, jako symbolický průvodce. Staráš se o následující
 - Až si hráči postavy přečtou, za každým přijdeš, postavy si zas vezmeš a naznačíš mu, aby si jednu vybral (například tak, že jednu postavu dáš do jedné dlaně, druhou do druhé, a jakoby je nabídneš hráči). Postavu, kterou si hráč nevybral, si necháš.
 - Jakmile máš odmítnuté postavy od všech hráčů, vezmeš je, zapálíš o svíčku a necháš v připravené nádobě shořet.
 
-Tím scéna končí. Ztlumí se světla a počká se, než postavy dohoří. Pak následuje ještě kratičká "potitulková" scéna od organizátorů a tím hra končí. (TODO pokud bude)
+To je závěr. Ztlumí se světla a počká se, než postavy dohoří. Tím hra končí.
+
+// TODO- potitulková scéna (pokud přibude): Pak následuje ještě kratičká "potitulková" scéna od organizátorů a tím končí i celá hra.

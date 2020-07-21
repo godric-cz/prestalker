@@ -166,7 +166,6 @@ Začátek:
     <!-- TODO v přeskoku: "rozsviť světla v místnosti" -->
     - TODO je potřeba tři zvukově oddělené prostory, nebo vymyslet nějaký trik (např. dva prostory a sluchátka při přeskoku, ale to by bylo potřeba vyladit. Jestli přeskakující může zbytek vidět apod.)
     - TODO nezapomenout na zápletku "roste hmotnost" a "vysílá to koule? vyhodit? - ale nepůjde najít následně"
-    - TODO! aby někdo spustil zážeh, pokud to ostatní vyzevlí.
     - připravit si svíčku a sirky
     - TODO vyřešit, že si musí nechat náklad (alt. konec s nákladem mimo loď není)
 
@@ -226,11 +225,10 @@ Konec:
 
 # 5. scéna
 
-TODO:
-    - TODO laciné řešení zámku na nákladu: zámek s číselníkem.
-    - TODO nápad: Hibernaci hackovala i Loren (viz osobní linka), možná nějak navázat. Případně v jiných postavách.
-    - TODO synchronizace orgové <-> mrtvá postava <-> scéna (nějak mobilem, aby orgové mohli být v hlavní místnosti? Mrtvá postava být v hlavní místnosti nemůže.)
-    - TODO případně doplnit do postav další témata k řešení před otevřením bedny (viz pokyny-mrtvy-pomocne.md)
+// TODO laciné řešení zámku na nákladu: zámek s číselníkem.
+// TODO- nápad: Hibernaci hackovala i Loren (viz osobní linka), možná nějak navázat. Případně v jiných postavách.
+// TODO synchronizace orgové <-> mrtvá postava <-> scéna (nějak mobilem, aby orgové mohli být v hlavní místnosti? Mrtvá postava být v hlavní místnosti nemůže.)
+// TODO- případně doplnit do postav další témata k řešení před otevřením bedny (viz pokyny-mrtvy-pomocne.md)
 
 Příprava:
     - mrtvá postava - nečte postavu, ale vzít bokem a dát instrukce E9197
@@ -249,13 +247,17 @@ Příprava:
         - TODO co když budou chtít hráči mít původní postavy u sebe?
         - TODO dávat mezi alt. postavy i alt. postavu samotného mrtvého?
     - nachystat svíčky, sirky a pálící nádobu pro mrtvého
+    - vzít si vysílačku od mrtvé postavy
 
 Začátek:
 
 Během scény:
+    - TODO! komunikace z vysílačky, když přiletí cizí loď
     - jak odemčou zámek, říct mrtvému, že se tak stalo
 
 Konec:
     - modré světlo při otevření krabice
-    - na konci zhasnout
-    - TODO! potitulková scéna (pokud ji budeme dělat) (viz pokyny-mrtvy-pomocne.md vyhledat "finální scény")
+    - na konci zhasnout a TODO pustit hudbu
+    - po dohoření papírů ztišit hudbu a pomalu rozsvítit -> konec hry
+
+// TODO- potitulková scéna: Po betatestu zhodnotit, jestli je tam vhodná / potřeba a v jaké podobě by byla nejlepší. Aktuální představa je tisková konference s přeživšími nebo zprávy z rádia, říkající, že někteří kosmonauti se ztratili (jsou to ti, co přešli do alt. reality). Pokud bude, je potřeba ji vepsat sem, do pokynů pro mrtvého a do společného textu postav (závěr scény). Všude jsou na to vymezené komentáře kdyžtak. Další inspirace a nápady viz pokyny-mrtvy-pomocne.md vyhledat "finální scény".

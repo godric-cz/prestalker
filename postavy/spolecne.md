@@ -30,7 +30,7 @@ Během scény:
 
 // TODO- možná doplnit kurzívu i do dalších nediegetických pokynů (ale pozor, aby nebylo překurzívováno, zvlášť v první scéně). Možná místo kurzívy vymyslet lepší značení obecně.
 
-// TODO možná doplnit i do dalších scén, k čemu slouží nebo jak je hrát.
+// TODO- možná doplnit i do dalších scén, k čemu slouží nebo jak je hrát.
 
 # Sny
 
@@ -68,5 +68,6 @@ Konec:
 
 Konec:
     - Pokud dojde k otevření nákladu, scéna pokračuje abstraktně. __Nemluví se.__ Objeví se průvodce, který vás závěrem povede. Je zásadní, kdo stál poblíž nákladu a kdo ne.
-    - Scéna končí zhasnutím světel.
-    - Pak následuje ještě kratičká "potitulková scéna" od organizátorů a tím hra končí. (TODO pokud bude)
+    - Scéna končí zhasnutím světel. Začne hrát hudba. Posaď se, pokud chceš, uvolni se a v klidu počkej, než hudba dohraje. Tím hra končí.
+
+// TODO- potitulková scéna (pokud přibude): Pak následuje ještě kratičká "potitulková scéna" od organizátorů a tím hra končí.

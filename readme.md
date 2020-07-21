@@ -18,7 +18,6 @@
     - [x] vztahy
     - [x] osobní linky (+ zapojit do scén)
 - [x] sny v meziscénách
-- [ ] potitulková scéna (pokud bude)
 - [ ] produkce
     - [ ] zvuky, obrázky v materiálech
     - [ ] rekvizity
