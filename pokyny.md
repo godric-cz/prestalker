@@ -41,15 +41,14 @@ Informace pro hráče:
 - jakmile máte přečteno, odložíte postavu (abychom poznali, jsou všichni připravení)
 - pak rozsvítíme světla a začne scéna. Začátek je vždycky popsaný v pokynech (typicky "jste v hibernaci a čekáte, než vás probudí lékařka")
 - konec scény je taky popsaný v pokynech (například "scéna končí přípitkem")
-- tím scéna hned končí, dál se nedohrává. Ztlumí se světla a sednete si do hibernačních křesel, kde si začnete číst pokyny k další scéně.
-- TODO zohlednit sny
+- tím scéna hned končí, dál se nedohrává. Ztlumí se světla a sednete si do hibernačních křesel, kde si začnete číst pokyny k další scéně. // Sny jsou dostatečně zohledněny v společných pokynech k postavám, není potřeba je extra uvádět.
 
 ...
 
 - (TODO terminály, případně další mechaniky)
     - TODO Obecněji: hodilo by se nějak zařídit, aby se vždy dostal aspoň někdo k terminálu, aby bylo možné předávat impro informace (například, pokud jeden kosmonaut z opravy vycouvá a zůstane tam alexandra sama bez vysílačky, tak napsat že telemetrie ukazuje že je v bezvědomí nebo něco, aby pro ni šli ... např.)
 - TODO intimita - polibek = dotknutí se tváří? Možná říct, že je to maximum a ani k němu nemusí dojít (ale zase aby je to neodradilo příliš). Může to být potřeba kvůli snům.
-- Náklad má zámek - nesnažit se kód náhodně uhádnout, symbolizuje to číselník, který by se po příliš pokusech zablokoval. Až začne být otevření nákladu smysluplné, hra na to hráče navede.
+- Náklad má zámek - nesnažit se kód náhodně uhádnout, zámek symbolizuje číselník, který by se po příliš pokusech zablokoval. Až začne být otevření nákladu smysluplné, hra na to hráče navede.
 - Říct hráčům: Hra má dva konce, ale hotový je zatím jenom jeden. Pokud byste směřovali k tomu, co není hotový, upozorníme vás v meziscéně a o určité situaci řekneme, že se odehrála trochu jinak (aby se dala hra dohrát). Jinak funguje všechno normálně.
 - TODO možná workshop na vyjadřování pohybem
     - před výběrem postav, nebo po?
@@ -86,6 +85,8 @@ Konec:
 
 # 2. scéna
 
+// TODO- nápad: kartičky kosmonautů s údaji vč. krevní skupiny, člověk s průstřelem musí dostat správnou transfuzi?
+
 Příprava:
     - Vedle Johnnyho počítače položit prázdný flash disk.
     - Pro Marca nachystat dokument V8704.
@@ -93,7 +94,6 @@ Příprava:
     - Nachystat panely do vedlejší místnosti (viz s2-panely.md).
     - Nachystat kříž z izolačky kde je výstup z lodi.
     - Na Johnnyho terminál napsat: "Nacházíte se zhruba v polovině cesty. Stanice, ke které letíte, se posunula. Podle počítače je teď už příliš daleko. Na manévr, abyste ji ještě dostihli, máte málo paliva. Je potřeba to probrat se zbytkem posádky. Pokud byste na nic nepřišli, jediná možnost by byla obrátit loď zpátky k Zemi a misi ukončit. Nejvíc co říct k technickým možnostem bude mít asi Marc, jako palubní inženýr. Ale probrat by to měla celá posádka (nakonec, jde o misi jako celek). Pokud chceš nová navigační data a detaily potřebného manévru předat Marcovi, dej mu USB flash disk, který leží vedle počítače (slouží jen jako rekvizita, nemusíš na něj nic nahrávat)."
-    <!-- - TODO nápad: kartičky kosmonautů s údaji vč. krevní skupiny, člověk s průstřelem musí dostat správnou transfuzi? -->
 
 Začátek:
     - Postupně rozsvítit světla.
@@ -229,8 +229,10 @@ Konec:
 // TODO- nápad: Hibernaci hackovala i Loren (viz osobní linka), možná nějak navázat. Případně v jiných postavách.
 // TODO synchronizace orgové <-> mrtvá postava <-> scéna (nějak mobilem, aby orgové mohli být v hlavní místnosti? Mrtvá postava být v hlavní místnosti nemůže.)
 // TODO- případně doplnit do postav další témata k řešení před otevřením bedny (viz pokyny-mrtvy-pomocne.md)
+// TODO- pokud se implementuje alt. konec s vyhozeným nákladem, upozornění o ponechání nákladu pochopitelně možno vymazat
 
 Příprava:
+    - pokud náklad nebrali, říct, že je to alt. konec a náklad zůstává
     - mrtvá postava - nečte postavu, ale vzít bokem a dát instrukce E9197
     - pokud se zbavili nákladu, říct, že je to druhý konec a náklad teď zůstává
     - nachystat zdrhovačky pro spoutání
