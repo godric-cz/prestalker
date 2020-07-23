@@ -62,7 +62,7 @@ Informace pro hráče:
 - TODO možná prostor pro 1v1 domluvení vztahů (kdo potřebuje)
     - hlavní adepti jsou Marc a Loren
     - možná i tvorba nějaké historky / společného obsahu, který si hráči vymyslí a domluví
-- TODO Johnnyho jizva, naznačit rtěnkou (nebo podobně).
+- TODO Johnnyho jizva, naznačit rtěnkou. // TODO MTZ rtěnka na Johnnyho jizvu
 
 # 1. scéna
 
@@ -91,7 +91,7 @@ Příprava:
     - Vedle Johnnyho počítače položit prázdný flash disk.
     - Pro Marca nachystat dokument V8704.
     - Nachystat vysílačky, skafandry, rukavice, šroubovák, baterku, EVA návody N1753 a E2604.
-    - Nachystat panely do vedlejší místnosti (viz s2-panely.md).
+    - Nachystat panely do vedlejší místnosti (viz s2-panely.md). TODO vyrobit je.
     - Nachystat kříž z izolačky kde je výstup z lodi.
     - Na Johnnyho terminál napsat: "Nacházíte se zhruba v polovině cesty. Stanice, ke které letíte, se posunula. Podle počítače je teď už příliš daleko. Na manévr, abyste ji ještě dostihli, máte málo paliva. Je potřeba to probrat se zbytkem posádky. Pokud byste na nic nepřišli, jediná možnost by byla obrátit loď zpátky k Zemi a misi ukončit. Nejvíc co říct k technickým možnostem bude mít asi Marc, jako palubní inženýr. Ale probrat by to měla celá posádka (nakonec, jde o misi jako celek). Pokud chceš nová navigační data a detaily potřebného manévru předat Marcovi, dej mu USB flash disk, který leží vedle počítače (slouží jen jako rekvizita, nemusíš na něj nic nahrávat)."
 
@@ -187,9 +187,10 @@ Přeskok prvního:
     - Jakmile postava "letí", odnést počítač z little caprice na tu druhou loď. TODO jak pak řešit další přeskoky.
     - Jakmile postava "letí", vyměnit dokument preskok za preskok-zjednoduseny.
     - TODO nápad: během přeskoků pouštět postavě nějakou hudbu do sluchátek (místo točení hodin - možná problem, pokud by chtěli komunikovat)?
+    - Jakmile oznámí, že skafandr posílá zpět, dojít pro něj a přenést do původní místnosti.
 
 Asteroid:
-    - TODO doladit podle toho, jak rychle poběží přesýpací hodiny. Nejspíš to bude 5 minut (běžně k sehnání).
+    - TODO doladit podle toho, jak rychle poběží přesýpací hodiny. Nejspíš to bude 5 minut (běžně k sehnání). Viz, že v pokynech (preskok, preskok-zjednoduseny) zatím je, že je má otočit 2x.
     - Jakmile bude přeskakovat __před__poslední člověk, spustit "(houkání) unknown object approaching, approach in 5 minutes"
     - Na terminál: "Na okraji radaru je vidět nějaký velký, rychle se blížící objekt. Není jasné, co to je."
     - Později pustit: "unknown object approaching, approach in 3 minutes"

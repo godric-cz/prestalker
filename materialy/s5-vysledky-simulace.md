@@ -24,13 +24,7 @@ Pokud by někdo náklad otevřel, na všechny uvnitř zóny ekvilibria by to nej
 
 Co však jasné je, že celé toto zakřivení je velmi nestabilní, a i uvnitř izolovaného přepravního boxu se postupně "vypařuje". Jakmile by se ale box otevřel, všichni poblíž by se okamžitě octli v zóně ekvilibria. Následně by se obsah boxu začal rychle vypařovat a (pro vnějšího pozorovatele) by se během pár sekund vypařil zcela, čímž by i zóna ekvilibria zmizela a vše se vrátilo do normálního stavu.
 
+// TODO vytvořit nebo stáhnout obrázky
 
-
-TODO
-- nápad: formátovat jako vědecký článek (dva sloupce, grafy)
-- nápad: dát tu úvahu už dřív nějaké jiné postavě, která ji tady řekne veřejně
-    - tento nápad je z inspirací v návrhovém dokumentu
-- fyzická hranice, vypařování
-    - rozmyslet, jestli na konec dopsat. Jde o to, aby nespekulovali, jestli přistupovat postupně, sledovat co se stane, atd. Jestli bude na začátku instrukce, že otevřením krabice hra končí, potom to možná nebude potřeba.
-    - chybí CTA? Je text výš dostatečná motivace, aby chtěli box otevřít?
-    - obrázek: horizont a elektron, pozitron pár
+// TODO- nápad: Formátovat jako vědecký článek (dva sloupce, grafy).
+// TODO- nápad: Dát tu úvahu už dřív nějaké jiné postavě, která ji tady řekne veřejně. Tento nápad je z inspirací v návrhovém dokumentu.

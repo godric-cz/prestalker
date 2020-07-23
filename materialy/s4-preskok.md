@@ -30,9 +30,7 @@ Na lodi, zdá se, nikdo není. Podaří se ti obnovit atmosféru, můžeš tedy 
 
 Bohužel tu nejsou skafandry, ale to vyřešíte stejným trikem, jako jste se dostali sem. Dáš skafandr do nákladového prostoru, "vystřelíš" ho zpět na původní loď, tam ho vyzvednou a další z vás je schopen přejít k tobě.
 
-_Pro zjednodušení prostě vrať skafandr do původní místnosti._
-
-<!-- TODO možná přes orga, pokud by to nešlo aniž by se potkali -->
+_Pro zjednodušení prostě oznam vysílačkou, že jim skafandr posíláš. Organizátor si pro něj dojde a donese ho zpátky._
 
 Teď je potřeba domluvit, v jakém pořadí se přesune zbytek a jestli budete přesouvat i náklad.
 

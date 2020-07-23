@@ -2,6 +2,16 @@
 
 Na panelech jsou velká čísla 1 - 4, dvě malé řady ABCD EFGH aby se daly propojovat a pod tím čtyři vruty označené 1 - 4 (malým písmem) a úplně dole kartička s dramatickým pokynem.
 
+    +-------+
+    |   ~   | <- velké číslo panelu
+    |       |
+    |  ~~~  | <- dvě řady ABCD EFGH nad sebou, aby se daly propojovat
+    |       |
+    |  ~~~  | <- čísla 1 - 4 a vruty
+    +-------+
+        ^
+       |||    <- pověšená / přilepená kartička s dramatickým pokynem
+
 propoje panelů:
 
 1: AE BE
@@ -11,8 +21,16 @@ propoje panelů:
 
 pod každým panelem je kartička s dramatickým pokynem:
 
-1 - 3: víceméně jedno co / nebo nic (TODO!)
-4: oboustranná kartička
+// všechno krom 4 slouží jen jako fluff
+// TODO- možno doplnit nějaké zajímavější twisty, pokud by bylo třeba
+
+1: Všechno se zdá v pořádku.
+
+2: Pojistka číslo 3 je viditelně očouzená.
+
+3: Všechno se zdá v pořádku.
+
+4: (oboustranná kartička)
 
 (přední strana)
 
