@@ -16,4 +16,4 @@ Během výstupu:
     - _Pohybuje se vždycky střídavě jeden, potom druhý. Ne oba naráz._
     - _Člověk s šroubovákem smí pracovat jenom levou rukou._
     - _Věci z rukou neodkládejte._
-- Budete vymontovávat pojistky (šrouby) z několika panelů. Které konkrétní pojistky vymontovat zjistíte domluvou přes vysílačku. Každý panel obsahuje navíc kartičku s nějakou dodatečnou informací / dramatickým pokynem o tom, co se děje.
+- Budete vymontovávat pojistky (šrouby) z několika panelů. Které konkrétní pojistky vymontovat zjistíte domluvou přes vysílačku. Každý panel obsahuje navíc kartičku s nějakou dodatečnou informací / __dramatickým pokynem__ o tom, co se děje. Tu si __vždy__ přečtěte a řiďte se jí.

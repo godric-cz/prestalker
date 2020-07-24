@@ -2,7 +2,7 @@
 
 V této scéně nehraješ postavu, ale máš speciální roli. Budeš mít k dispozici počítač (a později i vysílačku) a pomocí náznaků budeš stupňovat atmosféru a povedeš ostatní postavy k závěru hry.
 
-Můžeš si to představit jako libovolnou z následujících variant: jsi duch, počítačový virus, verze mrtvého kosmonauta z alternativního vesmíru, nebo třeba jenom projev davového šílenství, který se zdá ostatním postavám. Jak to je "doopravdy" je čistě na tobě.
+Můžeš si to představit jako libovolnou z následujících variant: Jsi duch, počítačový virus, verze mrtvého kosmonauta z alternativního vesmíru, nebo třeba jenom projev davového šílenství, který se zdá ostatním postavám. Jak to je "doopravdy" je čistě na tobě.
 
 Tvoje hra má tři fáze:
 

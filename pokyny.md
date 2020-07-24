@@ -1,47 +1,48 @@
 # Před hrou
 
-- TODO tisk postav a matrošů
-    - Použít `pdfunite dist/postavy/*.pdf dist/postavy.pdf`? (velká paráda)
-    - Řešit nějak výrobu rekvizit a podobně?
-- TODO obecné info o hře? (Jako pro člověka, který vezme dokument do ruky a chce vidět, o co jde.)
-- TODO citlivá témata. Asi nutné komunikovat nějak v popisu hry a znova zmínit přímo na hře. Potenciální témata:
-    - sebevražda blízké osoby
-    - smrt / nehoda blízké osoby
-    - nehoda s trvalými následky
-    - nevyléčitelná nemoc
-    - (případně zkusit semafor z rpg skupiny)
+// TODO- obecné info o hře? (Jako pro člověka, který vezme dokument do ruky a chce vidět, o co jde.)
 
-# Příprava
+- Vyisknout postavy a materiály.
+- Sehnat a vyrobit rekvizity. // TODO viz (nějaký dokument), vyřešit s MTZ
+- Říct hráčům, že ve hře se mohou objevit citlivá témata, jestli jsou s tím ok. Témata:
+    - Sebevražda blízké osoby.
+    - Nehoda s trvalými následky.
+    - Umírání na nemoc.
 
-(TODO)
-
-Pro vypravěče:
+# Příprava prostoru
 
 - Umístit židle pro hibernaci tak, aby se tam dalo svítit na čtení postav.
-- TODO nápad: otočit židle od scény pro případ, že bychom mezi scénami chtěli nějak (aniž by to hráči viděli) scénu přeuspořádávat.
 - Otestovat funkčnost vysílaček, terminálů.
+- Zkontrolovat rekvizity. // TODO podle dokumentu s MTZ, až bude
 
-Informace pro hráče:
+# Příprava s hráči
 
+- Zopakovat hráčům, že ve hře se mohou objevit citlivá témata, a jestli jsou s tím ok, viz výš.
 - (TODO info o světě a hře)
-- TODO jak se manévruje ve vesmíru (že se nedá s lodí létat libovolně, obracet se a podobně, ale že s palivem co mají se dá udělat celkově max. jedna změna směru a i potom se letí mega dlouho (žádné "otočíme se a vrátíme, poletíme jinam" a podobně))
-- TODO Jak fungují termály.
-- TODO Johnny ovládá počítač / terminál.
-- TODO Jak fungují papíry (pokud bude zachovaná logika "neberte papír, dokud nedostanete instrukci", případně jak určovat, kdo na papír může sahat).
-- Hra je hodně o hraní si na vesmírnou loď. +TODO některé věci typu "zmáčkni X" jsou jen na efekt, udělat je musí bez možnosti výběru, ale když by se staly automaticky vypadalo by to blbě.
-- TODO oldschool hra, odehrávání situací, papírky, počítačová hra styl říkání "teď jsi vzal tuto zbraň, která umí to a to"...
-- TODO Postavy jsou experti (jak zacházet s informacemi z papíru atd.)
-- TODO Stanice je uvnitř asteroidu (aby se nedivili vrtání a podobně).
-- TODO Jak se mluví do vysílaček (volací znaky apod - netýká se volání do skafandrů).
+- Jak se manévruje ve vesmíru:
+    - Není to jako v autě, kde celou cestu držím plyn a jedu (a pak zastavím).
+    - Jak dlouho tipujete, že se letí na oběžnou dráhu? (8min)
+    - S lodí se nedá létat libovolně, obracet se a podobně, ale s palivem co mají se dá udělat celkově max. jedna změna směru a i potom se letí mega dlouho (nejde "otočíme se a vrátíme, poletíme jinam" a podobně).
+// TODO MTZ jak fungují termály + ukázka. Doplnit, až budou naprogramované.
+// TODO- dopsat pokyny k zprovoznění terminálů
+- Pokud není řečeno jinak, terminál ovládá jenom Johnny. Může tam dostávat i neherní informace, které jsou jenom pro něj.
+- Na papírech je vždycky nějaké číslo (ukázat). Když si má někdo (případně všichni) daný papír vzít a přečíst, hra vždycky dané číslo sdělí. Do té doby papíry nečtěte. Papír čtou jenom ti, pro koho je určen. Papíry bez čísla naopak čtěte hned, jak na ně narazíte.
+- Jak se hra hraje:
+    - Hra je hodně o hraní si na vesmírnou loď, nejenom o klasickém drama hraní. Při ovládání motorů se skutečně mačkají nějaká tlačítka na počítači, skafandry symbolizují obleky, do kterých je potřeba fyzicky se nasoukat, při scénách ve volném vesmíru se pohybuje pomalu a nemotorně a podobně.
+    - Hodně skriptovaná: Často dostanete konkrétní pokyn, jak se má postava cítit nebo reagovat na určitou situaci. Pokyny jsou někdy i v materiálech, které se k vám dostávají během scény.
+    - RPG prvky: Ne všechno se dá odehrát reálně. Občas dostanete situaci jako papírový popis místo jejího reálného odehrávání. Většina materiálů obsahuje krom herního textu i nějaké neherní instrukce, jak se dál chovat (např. návod ke skafandru obsahuje herní popis pro postavy, ale i kurzívou nějaké nové mechaniky pro vás jako hráče, jak pohyb ve skafandrech hrát).
+- Postavy jsou experti ve svých oborech. Pokud se něco dozvíte z terminálu nebo papíru, můžete to brát tak, že tu věc prostě víte, perfektně tomu rozumíte, spočítali jste si ji sami a podobně.
+- Letíte ke stanici, která je uvnitř asteroidu. // Aby se nedivili vrtání a podobně.
+- TODO Jak se mluví do vysílaček (volací znaky apod - netýká se volání do skafandrů). - až se určí volací znak lodi
 
 ...
 
-- hra je scénovaná
-- mezi scénami probíhá hibernace: sedíte na židlích a čtete pokyny k dané scéně v postavách
-- jakmile máte přečteno, odložíte postavu (abychom poznali, jsou všichni připravení)
-- pak rozsvítíme světla a začne scéna. Začátek je vždycky popsaný v pokynech (typicky "jste v hibernaci a čekáte, než vás probudí lékařka")
-- konec scény je taky popsaný v pokynech (například "scéna končí přípitkem")
-- tím scéna hned končí, dál se nedohrává. Ztlumí se světla a sednete si do hibernačních křesel, kde si začnete číst pokyny k další scéně. // Sny jsou dostatečně zohledněny v společných pokynech k postavám, není potřeba je extra uvádět.
+- Hra je scénovaná.
+- Mezi scénami probíhá hibernace: Sedíte na židlích a čtete pokyny k dané scéně v postavách.
+- Jakmile máte přečteno, odložíte postavu (abychom poznali, jsou všichni připravení).
+- Pak rozsvítíme světla a začne scéna. Začátek je vždycky popsaný v pokynech (typicky "jste v hibernaci a čekáte, než vás probudí lékařka").
+- Konec scény je taky popsaný v pokynech (například "scéna končí přípitkem").
+- Tím scéna hned končí, dál se nedohrává. Ztlumí se světla a sednete si do hibernačních křesel, kde si začnete číst pokyny k další scéně. // Sny jsou dostatečně zohledněny v společných pokynech k postavám, není potřeba je extra uvádět.
 
 ...
 
@@ -116,6 +117,7 @@ Konec:
 Příprava:
     - Za dveře (dovnitř stanice) nachystat s3-vnitrek-stanice.
     - Nachystat dokument F4415 (odlet), C8863 (krize).
+    // TODO dát náklad do stanice + pokyn, ať náklad vezme pro Dannyho.
 
 Začátek:
 
@@ -154,7 +156,8 @@ Během scény:
 
 Konec:
     - Ztišit hudbu a zhasnout.
-    - TODO lepší hudba (pokud půjde, vybrat nějak vhodně s gradací nebo možností gradovat a uvést do postav - např. "třikrát se ozvou hodiny, což dělí scénu na části, podle toho gradovat". Zatím je to v postavách genericky). Další nápad na hudbu: Vangelis - Rosseta (případně i další alba).
+
+// TODO lepší hudba: Pokud půjde, vybrat nějak vhodně s gradací nebo možností gradovat a uvést do postav - např. "třikrát se ozvou hodiny, což dělí scénu na části, podle toho gradovat". Zatím je to v postavách genericky. Další nápad na hudbu: Vangelis - Rosseta (případně i další alba).
 
 # 4. scéna
 
