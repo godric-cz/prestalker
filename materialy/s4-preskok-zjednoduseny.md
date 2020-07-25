@@ -8,7 +8,7 @@ Opatrně se ohlédneš, a vidíš, jak se od původní lodi pomalu vzdaluješ. V
 
 Následujících několik minut je těch nejdelších v tvém životě.
 
-_Nech dvakrát přesypat hodiny a pak pokračuj ve čtení._
+_Nech přesypat hodiny a pak pokračuj ve čtení._
 
 ---
 

@@ -165,13 +165,13 @@ Konec:
 
 // TODO- nápad: Možnost doplnit zápletku "roste hmotnost" a "vysílá to koule. vyhodit? - ale nepůjde najít následně". Viz ale, že už je částečně adresováno v 5. scéně.
 
+// TODO! možná hudba během přeskoku: Je potřeba tři zvukově oddělené prostory, hudba by mohla pomoc to obejít (ale i tak by přeskakující asi neměl vidět zbytek hráčů na druhé straně). Hodiny by asi měly zůstat, aby měl přeskakující vágní představu, jak je daleko. Nebude hudba problém, pokud by používali vysílačku? Pokud bude hudba, nachystat nějak přehrávač a napsat na to pokyny.
+
 Začátek:
     - nachystat Z7074 (přiblížení), přeskok (za dveře)
     - nachystat M6511
     - nachystat si preskok-zjednoduseny.md na výměnu za preskok.md
-    - TODO! přesýpací hodiny za dveře
-    <!-- TODO! nápad: po dobu letu sluchátka s hudbou? -->
-    - TODO! je potřeba tři zvukově oddělené prostory, nebo vymyslet nějaký trik (např. dva prostory a sluchátka při přeskoku, ale to by bylo potřeba vyladit. Jestli přeskakující může zbytek vidět apod.)
+    - přesýpací hodiny za dveře // TODO MTZ přesýpací hodiny 5min
     - připravit si svíčku a sirky
 
 Přiblížení objektu (TODO hlášky):
@@ -191,12 +191,10 @@ Přeskok prvního:
     - Jakmile postava "letí":
         - Odnést počítač z little caprice na tu druhou loď.
         - Vyměnit dokument preskok za preskok-zjednoduseny.
-    - TODO! nápad: během přeskoků pouštět postavě nějakou hudbu do sluchátek (místo točení hodin - možná problem, pokud by chtěli komunikovat)?
     - Jakmile oznámí, že skafandr posílá zpět, dojít pro něj a přenést do původní místnosti.
 
 Asteroid:
-    - TODO! doladit podle toho, jak rychle poběží přesýpací hodiny. Nejspíš to bude 5 minut (běžně k sehnání). Viz, že v pokynech (preskok, preskok-zjednoduseny) zatím je, že je má otočit 2x.
-    - Jakmile bude přeskakovat __před__poslední člověk, spustit "(houkání) unknown object approaching, approach in 5 minutes"
+    - Jakmile bude přeskakovat __před__poslední člověk (těsně něž doletí, nebo při tom), spustit "(houkání) unknown object approaching, approach in 5 minutes"
     - Na terminál: "Na okraji radaru je vidět nějaký velký, rychle se blížící objekt. Není jasné, co to je."
     - Později pustit: "unknown object approaching, approach in 3 minutes"
     - Na terminál: "Je to pás meteoritů. Pokud vás zasáhne, riskujete zničení lodi. Letí rychle, takže jediný způsob jak mu uniknout, je zapnout hlavní motor, zrychlit na plnou rychlost a odletět.
