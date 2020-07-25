@@ -23,15 +23,17 @@ Josh taky letěl ke stanici, ale už dřív. Taky našel stanici prázdnou, ale 
 
 Jakmile kapitánka začala napouštět vzduch, vzniknul ve strojovně požár a rozdělil je. Ona se zvládla vrátit na loď, Josh zůstal vzadu. Odpojili loď a otevřeli stanici do volného vesmíru, aby požár uhasili, ale kyslík pouštěný do strojovny živil plameny dál. Nádrže paliva ve stanici se začaly zahřívat a hrozilo, že celá stanice exploduje a zničí i loď. Na pomalé oddálení se od stanice nezbýval čas. Zbytek posádky rozhodl odletět k Zemi...
 
-K výbuchu nedošlo, Josh ale zůstal uvězněný na stanici. Na rozdíl od Dannyho ale tušil, co je ta věc, pro kterou letí.
+K výbuchu nedošlo, Josh ale zůstal uvězněný na stanici. Na rozdíl od Dannyho ale trochu tušil, co je ta věc, pro kterou letí. A že by mu mohla možná pomoct.
 
 V Joshově verzi příběhu nebyl box zamčený. Když ho otevřel, uvnitř uviděl dokonale lesklou kouli. To je poslední věc, kterou si pamatuje. Probral se až později, pořád ve svém skafandru, ale zjistil, že některé věci jsou jinak. Strojovna na stanici byla v pořádku, box byl zakódovaný a loď byla teprve na cestě.
 
-Chce se dostat zpátky, ale na lodi nebude dost zásob ani kyslíku pro šest kosmonautů, aby ho mohli vzít. Ale bude tam nejspíš nějaká alternativní verze jeho samotného.
+Chce se dostat na Zemi, ale na lodi nebude dost zásob ani kyslíku pro šest kosmonautů, aby ho mohli vzít. Ale bude tam nejspíš nějaká alternativní verze jeho samotného.
 
 Josh zamknul strojovnu a schoval se v poslední místnosti. Když Danny vstoupil do místnosti a přestal mluvit do vysílačky, Josh rozbil hledí jeho přilby, vytrhnul kabel vysílačky a nechal dusícího se Dannyho svému osudu. Suchý zip s visačkou "Danny Dwight" si dal na svůj skafandr, vzal přepravní box a vydal se zpátky na loď.
 
 Teď jsi Josh Dwight. A chceš přežít.
+
+_Vem box s nákladem a vrať se zpátky na loď._
 
 // TODO- nápad: vysílačku rozbije, aby se mohl vymluvit, později ji někdo opraví a dojde na to, že ji rozbil úmyslně?
 

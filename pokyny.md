@@ -3,7 +3,7 @@
 // TODO- obecné info o hře? (Jako pro člověka, který vezme dokument do ruky a chce vidět, o co jde.)
 
 - Vyisknout postavy a materiály.
-- Sehnat a vyrobit rekvizity. // TODO viz (nějaký dokument), vyřešit s MTZ
+- Sehnat a vyrobit rekvizity. // TODO! viz (nějaký dokument), vyřešit s MTZ
 - Říct hráčům, že ve hře se mohou objevit citlivá témata, jestli jsou s tím ok. Témata:
     - Sebevražda blízké osoby.
     - Nehoda s trvalými následky.
@@ -13,12 +13,13 @@
 
 - Umístit židle pro hibernaci tak, aby se tam dalo svítit na čtení postav.
 - Otestovat funkčnost vysílaček, terminálů.
+- Otestovat funkčnost zvuku a hudby. // TODO MTZ repro a tak, plus zkontrolovat playlisty / software?
 - Zkontrolovat rekvizity. // TODO podle dokumentu s MTZ, až bude
 
 # Příprava s hráči
 
 - Zopakovat hráčům, že ve hře se mohou objevit citlivá témata, a jestli jsou s tím ok, viz výš.
-- (TODO info o světě a hře)
+- (TODO! info o světě a hře)
 - Jak se manévruje ve vesmíru:
     - Není to jako v autě, kde celou cestu držím plyn a jedu (a pak zastavím).
     - Jak dlouho tipujete, že se letí na oběžnou dráhu? (8min)
@@ -33,7 +34,7 @@
     - RPG prvky: Ne všechno se dá odehrát reálně. Občas dostanete situaci jako papírový popis místo jejího reálného odehrávání. Většina materiálů obsahuje krom herního textu i nějaké neherní instrukce, jak se dál chovat (např. návod ke skafandru obsahuje herní popis pro postavy, ale i kurzívou nějaké nové mechaniky pro vás jako hráče, jak pohyb ve skafandrech hrát).
 - Postavy jsou experti ve svých oborech. Pokud se něco dozvíte z terminálu nebo papíru, můžete to brát tak, že tu věc prostě víte, perfektně tomu rozumíte, spočítali jste si ji sami a podobně.
 - Letíte ke stanici, která je uvnitř asteroidu. // Aby se nedivili vrtání a podobně.
-- TODO Jak se mluví do vysílaček (volací znaky apod - netýká se volání do skafandrů). - až se určí volací znak lodi
+- TODO! Jak se mluví do vysílaček (volací znaky apod - netýká se volání do skafandrů). - až se určí volací znak lodi
 
 ...
 
@@ -48,22 +49,23 @@
 
 - (TODO terminály, případně další mechaniky)
     - TODO Obecněji: hodilo by se nějak zařídit, aby se vždy dostal aspoň někdo k terminálu, aby bylo možné předávat impro informace (například, pokud jeden kosmonaut z opravy vycouvá a zůstane tam alexandra sama bez vysílačky, tak napsat že telemetrie ukazuje že je v bezvědomí nebo něco, aby pro ni šli ... např.)
-- TODO intimita - polibek = dotknutí se tváří? Možná říct, že je to maximum a ani k němu nemusí dojít (ale zase aby je to neodradilo příliš). Může to být potřeba kvůli snům.
-- Náklad má zámek - nesnažit se kód náhodně uhádnout, zámek symbolizuje číselník, který by se po příliš pokusech zablokoval. Až začne být otevření nákladu smysluplné, hra na to hráče navede.
-- Říct hráčům: Hra má dva konce, ale hotový je zatím jenom jeden. Pokud byste směřovali k tomu, co není hotový, upozorníme vás v meziscéně a o určité situaci řekneme, že se odehrála trochu jinak (aby se dala hra dohrát). Jinak funguje všechno normálně.
-- TODO možná workshop na vyjadřování pohybem
+- Intimita: Polibek = dotknutí se tváří. Víc nebude potřeba.
+- Násilí: Max. požduchování, víc konflikty neeskalovat.
+- Náklad má zámek. Nesnažit se kód náhodně uhádnout, zámek symbolizuje číselník, který by se po příliš pokusech zablokoval. Až začne být otevření nákladu smysluplné, hra na to hráče navede.
+- Hra má dva konce, ale hotový je zatím jenom jeden. Pokud byste směřovali k tomu, co není hotový, upozorníme vás v meziscéně a o určité situaci řekneme, že se odehrála trochu jinak (aby se dala hra dohrát). Jinak funguje všechno normálně.
+- TODO! možná workshop na vyjadřování pohybem
     - před výběrem postav, nebo po?
     - nedávat přímo před sny, vytrhávalo by to hráče ze hry
     - speciálně pro vyjádření "rozhovoru", aby se nebáli na sebe sahat / šťouchat / tvářit / tancovat jako symbolické znázornění emocí a konverzace
 
-(TODO výběr postav)
+(výběr postav)
 
-(TODO čtení postav)
+(čtení postav)
 
-- TODO možná prostor pro 1v1 domluvení vztahů (kdo potřebuje)
+- TODO! možná prostor pro 1v1 domluvení vztahů (kdo potřebuje)
     - hlavní adepti jsou Marc a Loren
     - možná i tvorba nějaké historky / společného obsahu, který si hráči vymyslí a domluví
-- TODO Johnnyho jizva, naznačit rtěnkou. // TODO MTZ rtěnka na Johnnyho jizvu
+- Johnnyho jizva, naznačit rtěnkou. // TODO MTZ rtěnka na Johnnyho jizvu
 
 # 1. scéna
 
@@ -73,16 +75,16 @@ Příprava:
 Začátek:
     - Uvést, že jdeme rovnou do pozdější fáze večera, všichni už jsou veselí a docela opilí.
     - "A jedna s oblíbených věcí, kterou tak opilí lidé na párty dělají je ..." (připravit 2 sklenice a začít nalévat nealko pivo) "... závod v pití piva. Kteří dva z vás jsou nejlepší v této disciplíně?" (vybrat dva) "Ok, Marc a Alex. Ostatní se nebojte povzbuzovat svého favorita. Pozor! 5, 4, ..." (pustit hudbu, ideálně odpočítat na začátek hudby)
-    - TODO - dát někomu instrukci, ať jde tancovat s vítězem? Případně instrukce dalším lidem, aby věděli co rozehrát na začátek?
+    - TODO! - dát někomu instrukci, ať jde tancovat s vítězem? Případně instrukce dalším lidem, aby věděli co rozehrát na začátek?
 
 Během scény:
     - Dát hudbu na míň, když začnou tancovat tak zhlasit.
     - Vyfotit si selfie s Alexandrou ("Vy jste Alexandra Parker? Moje dcera vás zbožňuje, dívá se na všechny ty dokumenty s váma (...)").
-    - TODO - možnost ploužák na vyžádání?
+    - TODO! - možnost ploužák na vyžádání?
 
 Konec:
     - Pronést přípitek na šťastnou cestu.
-    - TODO - případně poslední písničku a pustit ploužák?
+    - TODO! - případně poslední písničku a pustit ploužák?
 
 # 2. scéna
 
@@ -92,7 +94,7 @@ Příprava:
     - Vedle Johnnyho počítače položit prázdný flash disk.
     - Pro Marca nachystat dokument V8704.
     - Nachystat vysílačky, skafandry, rukavice, šroubovák, baterku, EVA návody N1753 a E2604.
-    - Nachystat panely do vedlejší místnosti (viz s2-panely.md). TODO vyrobit je.
+    - Nachystat panely do vedlejší místnosti (viz s2-panely.md). // TODO MTZ vyrobit je.
     - Nachystat kříž z izolačky kde je výstup z lodi.
     - Na Johnnyho terminál napsat: "Nacházíte se zhruba v polovině cesty. Stanice, ke které letíte, se posunula. Podle počítače je teď už příliš daleko. Na manévr, abyste ji ještě dostihli, máte málo paliva. Je potřeba to probrat se zbytkem posádky. Pokud byste na nic nepřišli, jediná možnost by byla obrátit loď zpátky k Zemi a misi ukončit. Nejvíc co říct k technickým možnostem bude mít asi Marc, jako palubní inženýr. Ale probrat by to měla celá posádka (nakonec, jde o misi jako celek). Pokud chceš nová navigační data a detaily potřebného manévru předat Marcovi, dej mu USB flash disk, který leží vedle počítače (slouží jen jako rekvizita, nemusíš na něj nic nahrávat)."
 
@@ -117,13 +119,13 @@ Konec:
 Příprava:
     - Za dveře (dovnitř stanice) nachystat s3-vnitrek-stanice.
     - Nachystat dokument F4415 (odlet), C8863 (krize).
-    // TODO dát náklad do stanice + pokyn, ať náklad vezme pro Dannyho.
+    - Za dveře (dál) nachystat přepravní box s nákladem.
 
 Začátek:
 
 Během scény:
     - TODO pustit hlášku "5 minut do přiblížení".
-    - TODO zvuk připojení + hláška připojení + warning tlakování selhalo nebo tak něco. Pak napsat na terminál Johnnymu: "Ve stanici není vzduch, je možné vstoupit jenom ve skafandru. Druhý skafandr je zničený mikrometeoritem, takže vstoupit může jenom jeden (Danny, operations manager, protože má na starosti náklad)." (TODO vzduch vypustilo alterego aby mohlo udusit dannyho)
+    - TODO zvuk připojení + hláška připojení + warning tlakování selhalo nebo tak něco. Pak napsat na terminál Johnnymu: "Ve stanici není vzduch, je možné vstoupit jenom ve skafandru. Druhý skafandr je zničený mikrometeoritem, takže vstoupit může jenom jeden (Danny, operations manager, protože má na starosti náklad)." // vzduch vypustilo alterego, aby mohlo udusit dannyho
     - Po nabrání nákladu odepsat Johnnymu na `draha pro navrat` následující: "K určení správné dráhy je potřeba znát přesnou hmotnost lodi a všeho na palubě. Zjisti, kolik zbývá zásob a kyslíku (od Loren), paliva (od Marca) a hmotnost nákladu (od Dannyho). Zadej čísla sem, a obratem dostaneš výsledek, na jak dlouho zapnout hlavní motor, aby loď letěla správným směrem. Výsledek pak řekni Marcovi a předej mu terminál, on provede samotný start."
     - Jakmile čísla zadá, smazat obsah terminálu a vložit jen číslo "204 sekund".
     - Odepisovat na terminál při startu motoru (viz dokument odlet).
@@ -138,7 +140,7 @@ Během scény:
         Terminál teď smaž a vrať Johnnymu, aby zjistil vaši současnou dráhu."
     - Až terminál dostane Johnny, napsat: "Zrychlili jste jenom na asi polovinu rychlosti, kterou jste potřebovali. Míříte přibližně k dráze Jupiteru. K Zemi, ani žádné z vnitřních planet, se bez funkčního motoru přiblížit nedokážete. Od teď jste vesmírní trosečníci."
     - Na kód (zadá Alexandra) odepsat: "Nouzové vysílání zapnuto."
-    - TODO nápad před / během startu něco říct / sípat do vysílačky (jako teasing na nechaného kosmonauta ve stanici).
+    // TODO- nápad: Před / během startu něco říct / sípat do vysílačky (jako teasing na nechaného kosmonauta ve stanici).
 
 Konec:
     - Kapitánka přikáže hibernaci. Jak se hibernují, ztlumit světla.
@@ -161,39 +163,39 @@ Konec:
 
 # 4. scéna
 
+// TODO- nápad: Možnost doplnit zápletku "roste hmotnost" a "vysílá to koule. vyhodit? - ale nepůjde najít následně". Viz ale, že už je částečně adresováno v 5. scéně.
+
 Začátek:
     - nachystat Z7074 (přiblížení), přeskok (za dveře)
     - nachystat M6511
-    - TODO přesýpací hodiny za dveře
-    <!-- TODO nápad: po dobu letu sluchátka s hudbou? -->
-    <!-- TODO v přeskoku: "rozsviť světla v místnosti" -->
-    - TODO je potřeba tři zvukově oddělené prostory, nebo vymyslet nějaký trik (např. dva prostory a sluchátka při přeskoku, ale to by bylo potřeba vyladit. Jestli přeskakující může zbytek vidět apod.)
-    - TODO nezapomenout na zápletku "roste hmotnost" a "vysílá to koule? vyhodit? - ale nepůjde najít následně"
+    - nachystat si preskok-zjednoduseny.md na výměnu za preskok.md
+    - TODO! přesýpací hodiny za dveře
+    <!-- TODO! nápad: po dobu letu sluchátka s hudbou? -->
+    - TODO! je potřeba tři zvukově oddělené prostory, nebo vymyslet nějaký trik (např. dva prostory a sluchátka při přeskoku, ale to by bylo potřeba vyladit. Jestli přeskakující může zbytek vidět apod.)
     - připravit si svíčku a sirky
-    - TODO vyřešit, že si musí nechat náklad (alt. konec s nákladem mimo loď není)
 
 Přiblížení objektu (TODO hlášky):
     - Pustit, až se vyčerpá počáteční téma scény: "(houkání) unknown object approaching, approach in 5 minutes"
     - Na terminál Johnnymu: "Objekt letí téměř stejnou rychlostí, jako vy. Jakmile bude u vás, jste schopní u něj 'zaparkovat' (=srovnat s ním rychlost) i jen za pomocí manévrovacích trysek, které vám fungují."
     - Po pár minutách: "object in radio distance"
     - Na terminál Johnnymu: "Objekt je už dost blízko pro použití vysílačky a detailního přibližovacího radaru. Podle radaru to vypadá, jako loď! Ale nevysílá žádný signál, ani základní identifikaci."
-    <!-- TODO možná by šlo sjednotit info o vysílačkách, že na nouzové frekvenci je vždy kanál 1, kde komunikují s loděma, stanicema apod... aby to tady sami vyzkoušeli? -->
+    <!-- TODO! možná by šlo sjednotit info o vysílačkách, že na nouzové frekvenci je vždy kanál 1, kde komunikují s loděma, stanicema apod... aby to tady sami vyzkoušeli? -->
     - Po pár minátch: "object in visual distance"
     - Na terminál Johnnymu: "Objekt je nyní tak blízko, že ho vidíte v dalekohledu (který jinak používáte k přibližování k stanicím a podobně). Skutečně je to loď, velmi se podobá té vaší, ale má otevřený nákladový prostor. Pokyn: Až se přiblížíte nejvíc (ozve se hlášení), zmáčkni Y, čímž poblíž lodi zastavíte."
     - Po pár minutách: "object distance minimal"
     - TODO zvuky manévrovacích trysek.
 
 Přeskok prvního:
-    - TODO stát za dveřma, až tam půjde ten člověk, nebo něco?
     - Danny vezme terminál, píše `cargo jettison arm`, odpověď `stand by` a potom TODO zvuk a nápis `cargo jettison ready` případně `press J`.
     - Jakmile zmáčkně `J` tak `cargo jettisoned`.
-    - Jakmile postava "letí", odnést počítač z little caprice na tu druhou loď. TODO jak pak řešit další přeskoky.
-    - Jakmile postava "letí", vyměnit dokument preskok za preskok-zjednoduseny.
-    - TODO nápad: během přeskoků pouštět postavě nějakou hudbu do sluchátek (místo točení hodin - možná problem, pokud by chtěli komunikovat)?
+    - Jakmile postava "letí":
+        - Odnést počítač z little caprice na tu druhou loď.
+        - Vyměnit dokument preskok za preskok-zjednoduseny.
+    - TODO! nápad: během přeskoků pouštět postavě nějakou hudbu do sluchátek (místo točení hodin - možná problem, pokud by chtěli komunikovat)?
     - Jakmile oznámí, že skafandr posílá zpět, dojít pro něj a přenést do původní místnosti.
 
 Asteroid:
-    - TODO doladit podle toho, jak rychle poběží přesýpací hodiny. Nejspíš to bude 5 minut (běžně k sehnání). Viz, že v pokynech (preskok, preskok-zjednoduseny) zatím je, že je má otočit 2x.
+    - TODO! doladit podle toho, jak rychle poběží přesýpací hodiny. Nejspíš to bude 5 minut (běžně k sehnání). Viz, že v pokynech (preskok, preskok-zjednoduseny) zatím je, že je má otočit 2x.
     - Jakmile bude přeskakovat __před__poslední člověk, spustit "(houkání) unknown object approaching, approach in 5 minutes"
     - Na terminál: "Na okraji radaru je vidět nějaký velký, rychle se blížící objekt. Není jasné, co to je."
     - Později pustit: "unknown object approaching, approach in 3 minutes"
@@ -215,7 +217,7 @@ Konec:
 # Sny 2
 
 Příprava:
-    - Vyznačit na zemi malířskou páskou tři čáry. TODO tři?
+    - Vyznačit na zemi malířskou páskou tři čáry. // TODO- tři?
     - Mít připravené modré světlo.
 
 Začátek:
@@ -231,7 +233,7 @@ Konec:
 
 // TODO laciné řešení zámku na nákladu: zámek s číselníkem.
 // TODO- nápad: Hibernaci hackovala i Loren (viz osobní linka), možná nějak navázat. Případně v jiných postavách.
-// TODO synchronizace orgové <-> mrtvá postava <-> scéna (nějak mobilem, aby orgové mohli být v hlavní místnosti? Mrtvá postava být v hlavní místnosti nemůže.)
+// TODO! synchronizace orgové <-> mrtvá postava <-> scéna (nějak mobilem, aby orgové mohli být v hlavní místnosti? Mrtvá postava být v hlavní místnosti nemůže.)
 // TODO- případně doplnit do postav další témata k řešení před otevřením bedny (viz pokyny-mrtvy-pomocne.md)
 // TODO- pokud se implementuje alt. konec s vyhozeným nákladem, upozornění o ponechání nákladu pochopitelně možno vymazat
 
@@ -249,9 +251,8 @@ Příprava:
     - počítač předat mrtvému
     - nachystat výsledky simulace N5322
     - nachystat kopii výsledků simulace pro mrtvého N5322
-    - nachystat původní a alternativní postavy pro mrtvého
-        - TODO co když budou chtít hráči mít původní postavy u sebe?
-        - TODO dávat mezi alt. postavy i alt. postavu samotného mrtvého?
+    - nachystat si alternativní postavy
+        - sledovat, kam dávají hráči původní postavy
     - nachystat svíčky, sirky a pálící nádobu pro mrtvého
     - vzít si vysílačku od mrtvé postavy
 
@@ -260,6 +261,11 @@ Začátek:
 Během scény:
     - TODO! komunikace z vysílačky, když přiletí cizí loď
     - jak odemčou zámek, říct mrtvému, že se tak stalo
+    - zabavit hráčům původní postavy
+    - jak otevřou krabici, nachystat původní a alt. postavy
+        - brát jen ty, co stáli u nákladu
+        - nedávat tam mrtvého
+        - mrtvý si pro postavy přijde sám, má to v instrukcích
 
 Konec:
     - modré světlo při otevření krabice
