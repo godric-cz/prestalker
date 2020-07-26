@@ -167,4 +167,4 @@ Začátek:
 
     Pokud zjistíš, kdo to byl, měli byste ho asi raději spoutat, ať neprovede něco dalšího ostatním ani sobě. Použijte připravené stahovací pásky.
     - Dannyho stav se zhoršil, saturace klesla do nebezpečných hodnot. Pokud opravíte hibernaci a dáš mu na cestu zpět maximum kyslíku, možná to přežije. Jestli se ale jeho stav bude zhoršovat stejným tempem, bohužel ani to by nestačilo a můžete doufat jenom v zázrak. Co nízkou saturaci způsobuje stále netušíš. Ostatní hodnoty jsou stejné, jako při předchozí hibernaci, a rapidně rozdílné oproti prvním dvěma hibernacím. Cokoli mu je se tedy nejspíš muselo stát při tom výstupu do stanice.
-    - _V této scéně můžete používat počítač všichni (a číst, pokud ho používá někdo jiný)._
+    - ...

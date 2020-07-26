@@ -112,6 +112,7 @@ Začátek:
     Navíc náklad téměř určitě způsobuje rušení vysílačky, které pořád trvá. Další důvod pro jeho odhození.
 
     Je otázka, jak moc odahlit, jak toto všechno víš (tj. říct celý tvůj skutečný příběh), ale tak či tak budeš se budeš snažit přesvědčit ostatní k odhození nákladu.
+    - ...
 
 Během scény:
     - Po celou dobu se cítíš špatně, hodně se ti motá hlava, nejde ti přemýšlet, špatně se ti dýchá. Několikrát se začneš dusit a promítají se ti při tom místa uvnitř stanice, jako v předchozí scéně. Vždycky to zas samo odezní, ale už je to hodně nepříjemné.

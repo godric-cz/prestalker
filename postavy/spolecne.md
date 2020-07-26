@@ -66,6 +66,9 @@ Konec:
 
 # 5. scéna
 
+Začátek:
+    - _V této scéně můžete používat terminál všichni (a číst, pokud ho používá někdo jiný)._
+
 Konec:
     - Pokud dojde k otevření nákladu, scéna pokračuje abstraktně. __Nemluví se.__ Objeví se průvodce, který vás závěrem povede. Je zásadní, kdo stál poblíž nákladu a kdo ne.
     - Scéna končí zhasnutím světel. Začne hrát hudba. Posaď se, pokud chceš, uvolni se a v klidu počkej, než hudba dohraje. Tím hra končí.

@@ -23,7 +23,7 @@ Přesné pokyny k výstupu do vesmíru a úpravě motorů jsou v dvou dokumentec
 
 Jakmile je motor upraven, je možné provést manévr. Je potřeba správně otočit loď a pak ručně spustit hlavní motor přesně na 43 sekund. Na přesné změření času použijte například něčí telefon.
 
-Konkrétně to provedeš tak, že si pučíš termínál od Johnnyho a uděláš následující:
+Konkrétně to provedeš tak, že si pujčíš termínál od Johnnyho a uděláš následující:
 
 - napiš `otocit` - to loď otočí do správného směru. Jakmile to bude hotovo, uvidíš potvrzení.
 - napiš `pripravit zazeh` - tím se zapne žhavení motoru. Jakmile bude připraven, opět uvidíš potvrzení.

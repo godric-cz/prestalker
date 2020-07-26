@@ -24,9 +24,6 @@
     - Není to jako v autě, kde celou cestu držím plyn a jedu (a pak zastavím).
     - Jak dlouho tipujete, že se letí na oběžnou dráhu? (8min)
     - S lodí se nedá létat libovolně, obracet se a podobně, ale s palivem co mají se dá udělat celkově max. jedna změna směru a i potom se letí mega dlouho (nejde "otočíme se a vrátíme, poletíme jinam" a podobně).
-// TODO MTZ jak fungují termály + ukázka. Doplnit, až budou naprogramované.
-// TODO- dopsat pokyny k zprovoznění terminálů
-- Pokud není řečeno jinak, terminál ovládá jenom Johnny. Může tam dostávat i neherní informace, které jsou jenom pro něj.
 - Na papírech je vždycky nějaké číslo (ukázat). Když si má někdo (případně všichni) daný papír vzít a přečíst, hra vždycky dané číslo sdělí. Do té doby papíry nečtěte. Papír čtou jenom ti, pro koho je určen. Papíry bez čísla naopak čtěte hned, jak na ně narazíte.
 - Jak se hra hraje:
     - Hra je hodně o hraní si na vesmírnou loď, nejenom o klasickém drama hraní. Při ovládání motorů se skutečně mačkají nějaká tlačítka na počítači, skafandry symbolizují obleky, do kterých je potřeba fyzicky se nasoukat, při scénách ve volném vesmíru se pohybuje pomalu a nemotorně a podobně.
@@ -46,9 +43,18 @@
 - Tím scéna hned končí, dál se nedohrává. Ztlumí se světla a sednete si do hibernačních křesel, kde si začnete číst pokyny k další scéně. // Sny jsou dostatečně zohledněny v společných pokynech k postavám, není potřeba je extra uvádět.
 
 ...
+- Terminály:
+    - Terminálem se ovládá loď (trysky, počítač apod.)
+    - Jaké příkazy lze zadávat dostanete většinou popsáno v materiálech.
+    - Po zadání příkazu se něco stane nebo objeví nějaká odpověď.
+    - Někdy se tam můžou objevovat informace i samy od sebe, Johnny terminál průběžně sleduje.
+    - Krom toho tam můžete zadávat i vlastní příkazy / otázky, na které potřebujete od organizátorů odpověď (např. "kolik máme paliva"?). Představuje to symbolicky, jako by na počítači někdo pracoval a něco tam zjišťoval, propočítával si a podobně. Pokud si vyžádáte nějakou odpověď z terminálu, chovejte se tak, jako byste si to zjistili sami a na počítači akorát ověřili. (Postavy jsou kompetentní, jak už zaznělo).
+    - Pokud není řečeno jinak, terminál ovládá a čte jenom Johnny. Může tam dostávat i neherní informace, které jsou jenom pro něj.
+    - Pokud se někde píše "zmáčkněte F", rozumí se napsat a odeslat enterem (ukázka).
 
-- (TODO terminály, případně další mechaniky)
-    - TODO Obecněji: hodilo by se nějak zařídit, aby se vždy dostal aspoň někdo k terminálu, aby bylo možné předávat impro informace (například, pokud jeden kosmonaut z opravy vycouvá a zůstane tam alexandra sama bez vysílačky, tak napsat že telemetrie ukazuje že je v bezvědomí nebo něco, aby pro ni šli ... např.)
+// TODO- dopsat pokyny k zprovoznění terminálů
+// TODO- hodilo by se nějak zařídit, aby se vždy dostal aspoň někdo k terminálu, aby bylo možné předávat impro informace (například, pokud jeden kosmonaut z opravy vycouvá a zůstane tam alexandra sama bez vysílačky, tak napsat že telemetrie ukazuje že je v bezvědomí nebo něco, aby pro ni šli ... např.)
+
 - Intimita: Polibek = dotknutí se tváří. Víc nebude potřeba.
 - Násilí: Max. požduchování, víc konflikty neeskalovat.
 - Náklad má zámek. Nesnažit se kód náhodně uhádnout, zámek symbolizuje číselník, který by se po příliš pokusech zablokoval. Až začne být otevření nákladu smysluplné, hra na to hráče navede.
@@ -91,12 +97,12 @@ Konec:
 // TODO- nápad: kartičky kosmonautů s údaji vč. krevní skupiny, člověk s průstřelem musí dostat správnou transfuzi?
 
 Příprava:
-    - Vedle Johnnyho počítače položit prázdný flash disk.
+    - Vedle terminálu položit prázdný flash disk.
     - Pro Marca nachystat dokument V8704.
     - Nachystat vysílačky, skafandry, rukavice, šroubovák, baterku, EVA návody N1753 a E2604.
     - Nachystat panely do vedlejší místnosti (viz s2-panely.md). // TODO MTZ vyrobit je.
     - Nachystat kříž z izolačky kde je výstup z lodi.
-    - Na Johnnyho terminál napsat: "Nacházíte se zhruba v polovině cesty. Stanice, ke které letíte, se posunula. Podle počítače je teď už příliš daleko. Na manévr, abyste ji ještě dostihli, máte málo paliva. Je potřeba to probrat se zbytkem posádky. Pokud byste na nic nepřišli, jediná možnost by byla obrátit loď zpátky k Zemi a misi ukončit. Nejvíc co říct k technickým možnostem bude mít asi Marc, jako palubní inženýr. Ale probrat by to měla celá posádka (nakonec, jde o misi jako celek). Pokud chceš nová navigační data a detaily potřebného manévru předat Marcovi, dej mu USB flash disk, který leží vedle počítače (slouží jen jako rekvizita, nemusíš na něj nic nahrávat)."
+    - Na terminál napsat: "Nacházíte se zhruba v polovině cesty. Stanice, ke které letíte, se posunula. Podle počítače je teď už příliš daleko. Na manévr, abyste ji ještě dostihli, máte málo paliva. Je potřeba to probrat se zbytkem posádky. Pokud byste na nic nepřišli, jediná možnost by byla obrátit loď zpátky k Zemi a misi ukončit. Nejvíc co říct k technickým možnostem bude mít asi Marc, jako palubní inženýr. Ale probrat by to měla celá posádka (nakonec, jde o misi jako celek). Pokud chceš nová navigační data a detaily potřebného manévru předat Marcovi, dej mu USB flash disk, který leží vedle počítače (slouží jen jako rekvizita, nemusíš na něj nic nahrávat)."
 
 Začátek:
     - Postupně rozsvítit světla.
@@ -137,8 +143,9 @@ Během scény:
 
         Motor měl ale i bez pojistek vydržet. Těsně, ale vydržet. Jediné vysvětlení je, že někdo špatně zadal hmotnost lodi, počítač pak nastavil nepřiměřený výkon a motor nevydržel kvůli tomu.
 
-        Terminál teď smaž a vrať Johnnymu, aby zjistil vaši současnou dráhu."
+        Terminál teď smaž napsáním `clear` a pak vrať Johnnymu, aby zjistil vaši současnou dráhu."
     - Až terminál dostane Johnny, napsat: "Zrychlili jste jenom na asi polovinu rychlosti, kterou jste potřebovali. Míříte přibližně k dráze Jupiteru. K Zemi, ani žádné z vnitřních planet, se bez funkčního motoru přiblížit nedokážete. Od teď jste vesmírní trosečníci."
+    - Jakmile Alexandra začne číst dokument, smazat terminál.
     - Na kód (zadá Alexandra) odepsat: "Nouzové vysílání zapnuto."
     // TODO- nápad: Před / během startu něco říct / sípat do vysílačky (jako teasing na nechaného kosmonauta ve stanici).
 
@@ -167,6 +174,8 @@ Konec:
 
 // TODO! možná hudba během přeskoku: Je potřeba tři zvukově oddělené prostory, hudba by mohla pomoc to obejít (ale i tak by přeskakující asi neměl vidět zbytek hráčů na druhé straně). Hodiny by asi měly zůstat, aby měl přeskakující vágní představu, jak je daleko. Nebude hudba problém, pokud by používali vysílačku? Pokud bude hudba, nachystat nějak přehrávač a napsat na to pokyny.
 
+// TODO nápad: Dramatická hudba na 5 minut při přibližování objektu?
+
 Začátek:
     - nachystat Z7074 (přiblížení), přeskok (za dveře)
     - nachystat M6511
@@ -176,19 +185,21 @@ Začátek:
 
 Přiblížení objektu (TODO hlášky):
     - Pustit, až se vyčerpá počáteční téma scény: "(houkání) unknown object approaching, approach in 5 minutes"
-    - Na terminál Johnnymu: "Objekt letí téměř stejnou rychlostí, jako vy. Jakmile bude u vás, jste schopní u něj 'zaparkovat' (=srovnat s ním rychlost) i jen za pomocí manévrovacích trysek, které vám fungují."
+    - Na terminál: "Objekt letí téměř stejnou rychlostí, jako vy. Jakmile bude u vás, jste schopní u něj 'zaparkovat' (=srovnat s ním rychlost) i jen za pomocí manévrovacích trysek, které vám fungují."
     - Po pár minutách: "object in radio distance"
-    - Na terminál Johnnymu: "Objekt je už dost blízko pro použití vysílačky a detailního přibližovacího radaru. Podle radaru to vypadá, jako loď! Ale nevysílá žádný signál, ani základní identifikaci."
+    - Na terminál: "Objekt je už dost blízko pro použití vysílačky a detailního přibližovacího radaru. Podle radaru to vypadá, jako loď! Ale nevysílá žádný signál, ani základní identifikaci."
     <!-- TODO! možná by šlo sjednotit info o vysílačkách, že na nouzové frekvenci je vždy kanál 1, kde komunikují s loděma, stanicema apod... aby to tady sami vyzkoušeli? -->
     - Po pár minátch: "object in visual distance"
-    - Na terminál Johnnymu: "Objekt je nyní tak blízko, že ho vidíte v dalekohledu (který jinak používáte k přibližování k stanicím a podobně). Skutečně je to loď, velmi se podobá té vaší, ale má otevřený nákladový prostor. Pokyn: Až se přiblížíte nejvíc (ozve se hlášení), zmáčkni Y, čímž poblíž lodi zastavíte."
+    - Na terminál: "Objekt je nyní tak blízko, že ho vidíte v dalekohledu (který jinak používáte k přibližování k stanicím a podobně). Skutečně je to loď, velmi se podobá té vaší, ale má otevřený nákladový prostor. Pokyn: Až se přiblížíte nejvíc (ozve se hlášení), zmáčkni Y, čímž poblíž lodi zastavíte."
     - Po pár minutách: "object distance minimal"
     - TODO zvuky manévrovacích trysek.
+    - Jakmile zastavili, smazat terminál.
 
 Přeskok prvního:
     - Danny vezme terminál, píše `cargo jettison arm`, odpověď `stand by` a potom TODO zvuk a nápis `cargo jettison ready` případně `press J`.
     - Jakmile zmáčkně `J` tak `cargo jettisoned`.
     - Jakmile postava "letí":
+        - Smazat terminál.
         - Odnést počítač z little caprice na tu druhou loď.
         - Vyměnit dokument preskok za preskok-zjednoduseny.
     - Jakmile oznámí, že skafandr posílá zpět, dojít pro něj a přenést do původní místnosti.

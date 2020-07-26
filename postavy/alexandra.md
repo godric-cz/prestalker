@@ -159,7 +159,7 @@ Začátek:
     Jakmile dojdeš k názoru, kdo to mohl být, je potřeba ho spoutat (použij připravené stahovací pásky). Jinak hrozí, že provede něco dalšího. Pokud se nenechá po dobrém, vem si na pomoc někoho dalšího z posádky.
 
     Pak zkuste zjistit heslo. (Například výměnou za to, že postavu pustíte. Každopádně ale bez násilí. I kdyby to někoho napadlo, tak to zakážeš.)
-    - _V této scéně můžete používat počítač všichni (a číst, pokud ho používá někdo jiný)._
+    - ...
 
 Během scény:
     - Ke konci dostanete možnost (každý jednotlivě) udělat něco velmi nebezpečného (nebo neriskovat a neudělat to). Zařiď, že všichni z posádky si o tom promluví a každý se zodpovědně rozhodne. A pak, než tu nebezpečnou věc reálně uděláte, byste se měli rozloučit, něco říct, nebo si aspoň vzájemně popřát hodně štěstí.

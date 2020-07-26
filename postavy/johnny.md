@@ -59,7 +59,7 @@ __Marc__ - Palubní inženýr, takže se technicky stará o loď a o to, aby fun
 
 Začátek:
     - Loren tě probouzí z hibernace. Jde o neplánované probuzení, takže ho musel spustit někdo ze Země. Proč, to netušíš.
-    - Po probuzení zkontroluj terminál počítače kvůli navigaci.
+    - Po probuzení zkontroluj terminál kvůli navigaci.
 
 Během scény:
     - Časem dojde k výstupu do volného vesmíru ve skafandrech. Půjde nejspíš Alexandra a ještě jeden člověk. Chceš to být ty. Je to prestižní záležitost, chceš sobě i ostatním ukázat, že na to máš. Navíc je to příležitost být s Alexandrou chvíli o samotě. Pokud se cokoli stalo na párty (nebo naopak chtěl jsi něco udělat, ale neudělal) využij tu příležitost abys s ní o tom promluvil.
@@ -130,6 +130,7 @@ Začátek:
     Rozumné řešení se moc nenabízí. V podstatě jediná strategie je teď zkusit zjistit, proč to udělal a jaké mohl dát heslo. Kdyby chtěl jenom sabotovat loď, mohl to udělat milionem jednodušších způsobů. Toto mnohem víc vypadá, že to udělal schválně právě takto a chtěl tím na něco poukázat nebo něco říct. Pak možná dal schválně i nějaké konkrétní heslo, a je otázka, co se stane, až ho zadáte.
 
     Teď každopádně dává největší smysl dát si dohromady, co o mrtvém víte (případně jestli ho někdo líp znal) a zkusit přijít na jeho motivy a na heslo.
+    - ...
 
 Během scény:
     - Ke konci dostanete možnost (každý jednotlivě) udělat něco velmi nebezpečného (nebo neriskovat a neudělat to). Ty nebo kapitánka zařiďte, že všichni z posádky si o tom promluví a každý se zodpovědně rozhodne. A pak, než tu nebezpečnou věc reálně uděláte, byste se měli rozloučit, něco říct, nebo si aspoň vzájemně popřát hodně štěstí.
