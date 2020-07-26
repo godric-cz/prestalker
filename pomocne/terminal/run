@@ -1,0 +1,16 @@
+#!/bin/bash
+
+ip=`hostname -I | xargs` # xargs to trim
+
+echo "http://$ip:8080"
+
+echo "Starting webserver on background"
+php -S "$ip:8080" -t html &
+
+echo "Starting websocket server"
+php chat.php
+
+# Webserver kills it self after ctrl-c when another process on foreground is running
+# sleep 1
+# echo "Killing webserver"
+# killall php

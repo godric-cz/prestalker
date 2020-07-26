@@ -20,7 +20,7 @@
 - [x] sny v meziscénách
 - [ ] produkce
     - [ ] zvuky, obrázky v materiálech
-    - [ ] terminál
+    - [x] terminál
     - [ ] rekvizity
 - [x] odstranit TODOs (které nebudou zatím řešeny) z výstupů
 - [ ] proofreading

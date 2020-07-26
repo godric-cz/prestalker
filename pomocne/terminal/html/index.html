@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        @font-face {
+            font-family: 'basefont';
+            src: url('ISOCTEUR.ttf');
+        }
+
+        body {
+            background-color: #000;
+            font-family: 'basefont';
+            color: #8f8;
+            font-size: 30px;
+            line-height: 1.2; /* windows line jumping fix */
+            margin: 0;
+            letter-spacing: -4px;
+
+            height: 100vh;
+            cursor: none;
+
+            overflow: hidden; /* don't break on long lines */
+        }
+
+        input {
+            width: 95vw;
+            border: none;
+            padding: 0;
+            margin: 0;
+            line-height: inherit;
+            background-color: transparent;
+            color: inherit;
+            font: inherit;
+            letter-spacing: inherit;
+            cursor: none;
+        }
+
+        .wrapper {
+            position: absolute;
+            left: 0;
+            bottom: 0;
+        }
+
+        body.cursor, .cursor input {
+            cursor: initial;
+        }
+    </style>
+    <script>
+        var ws = new WebSocket('ws://' + window.location.hostname + ':8090');
+
+        ws.onopen = function(e) {
+            console.log("Connection established!");
+        };
+
+        ws.onmessage = function(e) {
+            const message = e.data
+
+            if (message == 'clear') {
+                display.innerHTML = ''
+            } else {
+                displayMessage('', message)
+            }
+        };
+
+        function send() {
+            const message = input.value
+
+            if (message == 'clear') {
+                display.innerHTML = ''
+                ws.send(message)
+                input.value = ''
+            } else if (message == 'cursor') {
+                document.body.classList.add('cursor')
+                input.value = ''
+            } else {
+                displayMessage('&gt; ', input.value)
+                ws.send(input.value)
+                input.value = ''
+            }
+        }
+
+        window.onload = () => {
+            // keep focus
+            input.focus()
+            input.onblur = () => setTimeout(() => input.focus(), 20)
+
+            // prevent tab
+            document.body.onkeydown = e => {
+                if (e.key == 'Tab') {
+                    return false
+                }
+            }
+
+            // pořešit pokud by někdo ten notes uspal - F5 asi
+        }
+
+        function displayMessage(prompt, message) {
+            display.innerHTML += prompt + message.replace(/\s{2,}/g, '<br><br>') + '<br>'
+        }
+    </script>
+</head>
+<body>
+    <div class="wrapper">
+        <div id="display">
+            Hello world!<br>
+        </div>
+
+        <form onsubmit="send(); return false">
+            &gt; <input id="input" type="text">
+        </form>
+    </div>
+</body>
+</html>
