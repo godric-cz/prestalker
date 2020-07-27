@@ -19,7 +19,14 @@
 # Příprava s hráči
 
 - Zopakovat hráčům, že ve hře se mohou objevit citlivá témata, a jestli jsou s tím ok, viz výš.
-- (TODO! info o světě a hře)
+- Info o světě:
+    - Alternativní současnost: Počítače se rozvinuly míň (80. léta), cesty do vesmíru víc.
+    - Ve vesmíru operují státy (výzkum) a pár soukromých firem (těžba vzácných prvků, zásobování).
+    - Kosmonaut je neobvyklé, pořád prestižní, ale víceméně normální povolání. Něco jako dnes zaměstnanec na ropné plošině. Je potřeba velké technické dovednosti a zároveň trávit měsíce v odloučení. I proto to dělá málo lidí, ale zase je to skvěle placené. Po pár rocích má člověk vyděláno na zbytek života (ale většina lidí v létání pokračuje).
+    - Vás si najala firma Orbital Resources, abyste převzali těžební vzorky z jedné z jejích stanic umístěné uvnitř asteroidu a dovezli je zpět na Zemi.
+    - Najali si vás na poslední chvíli a příprava kvůli tomu byla neobvykle zkrácená, ale kompenzuje to výrazně vysoká odměna.
+    - Většina posádek se vytváří na každou misi zvlášť, což je i váš případ. Takže se znáte málo, nebo vůbec.
+    // TODO- nápad: vojenské lodě, ve vesmíru se ještě nebojovalo atd.
 - Jak se manévruje ve vesmíru:
     - Není to jako v autě, kde celou cestu držím plyn a jedu (a pak zastavím).
     - Jak dlouho tipujete, že se letí na oběžnou dráhu? (8min)
