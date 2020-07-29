@@ -15,6 +15,7 @@
 - Otestovat funkčnost vysílaček, terminálů.
 - Otestovat funkčnost zvuku a hudby. // TODO MTZ repro a tak, plus zkontrolovat playlisty / software?
 - Zkontrolovat rekvizity. // TODO podle dokumentu s MTZ, až bude
+- Nachystat věci pro 1. scénu.
 
 # Příprava s hráči
 
@@ -37,10 +38,12 @@
     - Hodně skriptovaná: Často dostanete konkrétní pokyn, jak se má postava cítit nebo reagovat na určitou situaci. Pokyny jsou někdy i v materiálech, které se k vám dostávají během scény.
     - RPG prvky: Ne všechno se dá odehrát reálně. Občas dostanete situaci jako papírový popis místo jejího reálného odehrávání. Většina materiálů obsahuje krom herního textu i nějaké neherní instrukce, jak se dál chovat (např. návod ke skafandru obsahuje herní popis pro postavy, ale i kurzívou nějaké nové mechaniky pro vás jako hráče, jak pohyb ve skafandrech hrát).
 - Postavy jsou experti ve svých oborech. Pokud se něco dozvíte z terminálu nebo papíru, můžete to brát tak, že tu věc prostě víte, perfektně tomu rozumíte, spočítali jste si ji sami a podobně.
-- Letíte ke stanici, která je uvnitř asteroidu. // Aby se nedivili vrtání a podobně.
-- TODO! Jak se mluví do vysílaček (volací znaky apod - netýká se volání do skafandrů). - až se určí volací znak lodi
-
-...
+- Letíte ke stanici "Far Horizon", která je uvnitř asteroidu. // Aby se nedivili vrtání a podobně.
+- Vysílačky:
+    - Na mluvení s lidmi ve skafandru.
+    - Na mluvení s loďmi a stanicemi.
+    - Při mluvení s loďmi a stanicemi na začátku hlásit, komu voláte, a pak se identifikovat: "Far horizon, tady Orbital-244, žádáme o povolení k přiblížení". Případně svoji identifikaci na konci "Far horizon, přiblížení za 5 minut, Orbital-244".
+    - "Orbital-244" je označení vaší mise.
 
 - Hra je scénovaná.
 - Mezi scénami probíhá hibernace: Sedíte na židlích a čtete pokyny k dané scéně v postavách.
@@ -49,7 +52,6 @@
 - Konec scény je taky popsaný v pokynech (například "scéna končí přípitkem").
 - Tím scéna hned končí, dál se nedohrává. Ztlumí se světla a sednete si do hibernačních křesel, kde si začnete číst pokyny k další scéně. // Sny jsou dostatečně zohledněny v společných pokynech k postavám, není potřeba je extra uvádět.
 
-...
 - Terminály:
     - Terminálem se ovládá loď (trysky, počítač apod.)
     - Jaké příkazy lze zadávat dostanete většinou popsáno v materiálech.
@@ -66,19 +68,30 @@
 - Násilí: Max. požduchování, víc konflikty neeskalovat.
 - Náklad má zámek. Nesnažit se kód náhodně uhádnout, zámek symbolizuje číselník, který by se po příliš pokusech zablokoval. Až začne být otevření nákladu smysluplné, hra na to hráče navede.
 - Hra má dva konce, ale hotový je zatím jenom jeden. Pokud byste směřovali k tomu, co není hotový, upozorníme vás v meziscéně a o určité situaci řekneme, že se odehrála trochu jinak (aby se dala hra dohrát). Jinak funguje všechno normálně.
-- TODO! možná workshop na vyjadřování pohybem
-    - před výběrem postav, nebo po?
-    - nedávat přímo před sny, vytrhávalo by to hráče ze hry
-    - speciálně pro vyjádření "rozhovoru", aby se nebáli na sebe sahat / šťouchat / tvářit / tancovat jako symbolické znázornění emocí a konverzace
+
+(dotazy)
+
+- Workshop na vyjadřování pohybem:
+    - Během hry jsou krátké pasáže, kdy se nemluví. Vyzkoušíme si to.
+    - Rozdělit hráče na dvě skupiny (2 a 3) podle toho jak sedí.
+    - Dvojice hraje rozhovor, při kterém jsou na začátku veselí a roumí si, ale postupně se to zkazí, až na konci jsou smutní / naštvaní, možná se hádají a každý odejde na opačnou stranu.
+    - Trojice se taky baví o nějakém tématu a na začátku jsou v pohodě, ale postupně se dva čímdál víc shodnou a třetí je čímdál víc osamocený a proti nim, až hádka vygraduje a třetí odejde.
+    - Pak to prostřídáme.
+    - Vyjadřujte se jakkoli beze slov: Nebojte se dotknout, šťouchnout do sebe, dělat gesta, tvářit se, pohybovat se případně i lehce tancovat.
+    - Je to abstraktní, takže můžete emoce a rozhovory zobrazovat symbolicky a experimentovat (např. že si nerozumíte tím, že se vzdalujete, že si rozumíte tím, že se díváte stejným směrem nebo zrcadlíte svoje pohyby a podobně, cokoli vás napadne).
+    - Otázky? Jak začne hrát hudba, přesuňte se na scénu a začněte. // TODO hudba
+    - (Pak protočit dvojice a trojice, dvojice asi ti z trojice, co si před tím rozuměli.)
+    // Neumístěno přímo před sny, aby nevytrhávalo by to hráče ze hry. Umístěno před výběr postav, aby to hráčům nevyhánělo z hlavy příběhy postav a aby při tom workshopu nevázali co s kým zažívají na postavy.
 
 (výběr postav)
 
+- Johnnyho jizva, naznačit rtěnkou. // TODO MTZ rtěnka na Johnnyho jizvu
+
 (čtení postav)
 
-- TODO! možná prostor pro 1v1 domluvení vztahů (kdo potřebuje)
-    - hlavní adepti jsou Marc a Loren
-    - možná i tvorba nějaké historky / společného obsahu, který si hráči vymyslí a domluví
-- Johnnyho jizva, naznačit rtěnkou. // TODO MTZ rtěnka na Johnnyho jizvu
+// TODO- nápad: Prostor pro 1v1 domluvení vztahů (kdo potřebuje). Hlavní adepti jsou Marc a Loren. Možná i tvorba nějaké historky / společného obsahu, který si hráči vymyslí a domluví.
+
+(dotazy k postavám, pauza na záchod)
 
 # 1. scéna
 
@@ -275,7 +288,15 @@ Příprava:
 Začátek:
 
 Během scény:
-    - TODO! komunikace z vysílačky, když přiletí cizí loď
+    - komunikace z vysílačky, když přiletí cizí loď
+        - nejdřív jenom "propípnout" vysílačku
+        - domluvit s mrtvým zprávu "ťuk ťuk" a začít
+        - "Orbital-244, tady USS Constellation, slyšíte nás?"
+        - loď říká, že letí na jejich záchranu, že se s nimi nemohli spojit
+        - začít se zajímat podezřele rychle o náklad, jestli byl otevřen apod.
+        - pak ať se přiblíží a zadokují a vydají náklad, že je to majetek armády spojených států
+        - pak "někdo by s vámi chtěl mluvit" (viz s5-pokyny-mrtvy.md)
+        - možnost vyhrožovat střelbou // TODO- v tom případě by se navázlo na "ještě žádná střelba ve vesmíru nikdy nebyla" v intro materiálech
     - jak odemčou zámek, říct mrtvému, že se tak stalo
     - zabavit hráčům původní postavy
     - jak otevřou krabici, nachystat původní a alt. postavy
