@@ -11,14 +11,17 @@ Atmosféra je uvolněná a v podstatě není potřeba se omezovat. Všichni chá
 // TODO- možná nějaký prompt, ať si vymyslí obsah / historku o postavách, které tam otevřou. Ovšem není to automatické, tj. není potřeba sem psát?
 
 Začátek:
-    - Po přečtení postav se všichni přesunete k baru. Scénu popíše a zahájí vypravěč.
+    - Vymysli si jednu věc (aktivitu například), kterou bys chtěl/a scénu začít (inspirace viz dál). Pokud narazíš na to, že někdo jiný bude chtít dělat jinou věc a vzájemně způsobíte chaos, dá se z toho vytěžit nějaká vtipná situace, předhánění se a podobně. Svůj nápad pak můžeš realizovat později.
+    - Po přečtení postav se s ostatními přesuň k baru. Scénu popíše a zahájí organizátor v roli barmana.
+    - Scéna začíná v pozdější fázi večera, kdy už jsou všichni dost veselí a docela opilí.
 
 Během scény:
     - Scéna slouží k představení postav a vytvoření nějakého společného civilního zážitku. Zážitek je to neformální, trochu vtipný a třeba i trochu trapný. Jde o to nasát atmosféru, že i ostatní jsou celou dobu vašeho letu především lidé z masa a kostí s vlastním životem, sny i bolístkami a nedokonalostmi. A ačkoli se v mnohém lišíte, nakonec jsou to stejně v podstatě lidé, jako ty.
     - __Rozehrát vztahy__ - Na základě pozitivních vztahů se dají udělat trapné nebo vtipné situace, ty negativní spíš naznačit. Pokud se objeví konflikt, hrát ho spíš vtipně, než dramaticky. Například dvě postavy se pohádají, začnou se (nešikovně) prát, třetí postava je rychle uklidní, všichni se pak budou předhánět v tom, kdo se komu víc omluví, dají si panáky a jdou se věnovat společně nějaké další párty činnosti. Každou takovou situací si připravujete materiál pro různé vyjasňování, omluvy, opětovné vytahování, probírání za střízliva a obecně rozehrávání vztahu v dalších scénách.
-    - __Dělat nesmysly__ - různé sázky, drinking games, nesmyslné aktivity jako lezení po věcech, snaha někomu něco říct, do které se v polovině zamotáte a snažíte se to zamluvit, hodnocení kolegů či kolegyň v libovolných ohledech, samozřejmě tancování (a přesvědčování ostatních k tancování) a libovolné další hlouposti, které opilí lidé tak obvykle dělají.
-    - __Historky z rozluček__ - další oblíbená zábava jsou historky z výcviku a z rozlučkových párty předchozích misí. Můžete se inspirovat vlastními historkami z rozluček se svobodou, školních akcí, firemních večírků a podobně.
+    - __Dělat nesmysly__ - Různé sázky, drinking games, nesmyslné aktivity jako lezení po věcech, snaha někomu něco říct, do které se v polovině zamotáte a snažíte se to zamluvit, hodnocení kolegů či kolegyň v libovolných ohledech, samozřejmě tancování (a přesvědčování ostatních k tancování) a libovolné další hlouposti, které opilí lidé tak obvykle dělají.
+    - __Historky z rozluček__ - Další oblíbená zábava jsou historky z výcviku a z rozlučkových párty předchozích misí. Můžete se inspirovat vlastními historkami z rozluček se svobodou, školních akcí, firemních večírků a podobně.
     - __Rozdělovat se__ - Dynamika mezi dvěma lidmi funguje jinak, než mezi třemi nebo pěti. Střídání fází, kdy jste všichni pohromadě, a kdy dva nebo tři odejdou tančit nebo si povídat o životě dá víc prostoru k otevření témat a udělá scénu zajímavější.
+    - Pokud budeš chtít pustit pomalou písničku a zatancovat si s někým ploužák (ať už na vážno, nebo k vyvolání vtipné situace), popros barmana.
 
 Konec:
     - Scéna končí přípitkem.

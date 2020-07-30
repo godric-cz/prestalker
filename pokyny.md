@@ -100,17 +100,22 @@ Příprava:
 
 Začátek:
     - Uvést, že jdeme rovnou do pozdější fáze večera, všichni už jsou veselí a docela opilí.
-    - "A jedna s oblíbených věcí, kterou tak opilí lidé na párty dělají je ..." (připravit 2 sklenice a začít nalévat nealko pivo) "... závod v pití piva. Kteří dva z vás jsou nejlepší v této disciplíně?" (vybrat dva) "Ok, Marc a Alex. Ostatní se nebojte povzbuzovat svého favorita. Pozor! 5, 4, ..." (pustit hudbu, ideálně odpočítat na začátek hudby)
-    - TODO! - dát někomu instrukci, ať jde tancovat s vítězem? Případně instrukce dalším lidem, aby věděli co rozehrát na začátek?
+    - Startovací drinking game:
+        - "A jedna s oblíbených věcí, kterou tak opilí lidé na párty dělají je"
+        - připravit 2 sklenice a začít nalévat nealko pivo
+        - "... závod v exování piva. Kteří dva z vás jsou nejlepší v této disciplíně?" (vybrat dva)
+        - "Ok, Marc a Alex. Ostatní se nebojte povzbuzovat svého favorita. Pozor! 5, 4, ..."
+        - pustit hudbu, ideálně odpočítat na začátek hudby
+    // TODO- nápad: Dát někomu instrukci, ať jde tancovat s vítězem? Případně instrukce dalším lidem, aby věděli co rozehrát na začátek? Ale to by vyžadovalo skriptovat, kdo jde pít a kdo jde tancovat.
 
 Během scény:
     - Dát hudbu na míň, když začnou tancovat tak zhlasit.
     - Vyfotit si selfie s Alexandrou ("Vy jste Alexandra Parker? Moje dcera vás zbožňuje, dívá se na všechny ty dokumenty s váma (...)").
-    - TODO! - možnost ploužák na vyžádání?
+    - Pustit ploužák na vyžádání. // TODO zkrácený ploužák (asi Armageddon)
 
 Konec:
-    - Pronést přípitek na šťastnou cestu.
-    - TODO! - případně poslední písničku a pustit ploužák?
+    - Možnost: Vyhlásit poslední písničku.
+    - Pak panáky na účet podniku a pronést přípitek na šťastnou cestu.
 
 # 2. scéna
 
@@ -192,8 +197,6 @@ Konec:
 
 // TODO- nápad: Možnost doplnit zápletku "roste hmotnost" a "vysílá to koule. vyhodit? - ale nepůjde najít následně". Viz ale, že už je částečně adresováno v 5. scéně.
 
-// TODO! možná hudba během přeskoku: Je potřeba tři zvukově oddělené prostory, hudba by mohla pomoc to obejít (ale i tak by přeskakující asi neměl vidět zbytek hráčů na druhé straně). Hodiny by asi měly zůstat, aby měl přeskakující vágní představu, jak je daleko. Nebude hudba problém, pokud by používali vysílačku? Pokud bude hudba, nachystat nějak přehrávač a napsat na to pokyny.
-
 // TODO nápad: Dramatická hudba na 5 minut při přibližování objektu?
 
 Začátek:
@@ -202,13 +205,16 @@ Začátek:
     - nachystat si preskok-zjednoduseny.md na výměnu za preskok.md
     - přesýpací hodiny za dveře // TODO MTZ přesýpací hodiny 5min
     - připravit si svíčku a sirky
+    - musí být tři zvukově oddělené prostory (loď, přeskok, druhá loď)
+    // oddělení je nutné, aby přeskakující hráč neslyšel ani neviděl ani jednu stranu
+    // přesýpací hodiny jsou nutné, aby hráč věděl, jak daleko cca je
+    // TODO možná hudba během přeskoku - pak nutno přidat do pokynů (preskok a preskok-zjednoduseny). Zvážit, jestli by to nezpůsobilo problém např. pro vysílačku. Tady je hudba důležitá, protože to může být jinak pravděpodobně nejdelší "opruz prostoj", pokud se do toho hráč nevžije. Alternativně by se dalo zvažovat i video.
 
 Přiblížení objektu (TODO hlášky):
     - Pustit, až se vyčerpá počáteční téma scény: "(houkání) unknown object approaching, approach in 5 minutes"
     - Na terminál: "Objekt letí téměř stejnou rychlostí, jako vy. Jakmile bude u vás, jste schopní u něj 'zaparkovat' (=srovnat s ním rychlost) i jen za pomocí manévrovacích trysek, které vám fungují."
     - Po pár minutách: "object in radio distance"
     - Na terminál: "Objekt je už dost blízko pro použití vysílačky a detailního přibližovacího radaru. Podle radaru to vypadá, jako loď! Ale nevysílá žádný signál, ani základní identifikaci."
-    <!-- TODO! možná by šlo sjednotit info o vysílačkách, že na nouzové frekvenci je vždy kanál 1, kde komunikují s loděma, stanicema apod... aby to tady sami vyzkoušeli? -->
     - Po pár minátch: "object in visual distance"
     - Na terminál: "Objekt je nyní tak blízko, že ho vidíte v dalekohledu (který jinak používáte k přibližování k stanicím a podobně). Skutečně je to loď, velmi se podobá té vaší, ale má otevřený nákladový prostor. Pokyn: Až se přiblížíte nejvíc (ozve se hlášení), zmáčkni Y, čímž poblíž lodi zastavíte."
     - Po pár minutách: "object distance minimal"
@@ -262,7 +268,6 @@ Konec:
 
 // TODO laciné řešení zámku na nákladu: zámek s číselníkem.
 // TODO- nápad: Hibernaci hackovala i Loren (viz osobní linka), možná nějak navázat. Případně v jiných postavách.
-// TODO! synchronizace orgové <-> mrtvá postava <-> scéna (nějak mobilem, aby orgové mohli být v hlavní místnosti? Mrtvá postava být v hlavní místnosti nemůže.)
 // TODO- případně doplnit do postav další témata k řešení před otevřením bedny (viz pokyny-mrtvy-pomocne.md)
 // TODO- pokud se implementuje alt. konec s vyhozeným nákladem, upozornění o ponechání nákladu pochopitelně možno vymazat
 
@@ -284,6 +289,8 @@ Příprava:
         - sledovat, kam dávají hráči původní postavy
     - nachystat svíčky, sirky a pálící nádobu pro mrtvého
     - vzít si vysílačku od mrtvé postavy
+    - počítač a vysílačku do vedlejší místnosti
+    - mrtvý tajně nahlíží do hlavní místnosti, říct mu
 
 Začátek:
 
