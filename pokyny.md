@@ -3,7 +3,7 @@
 // TODO- obecné info o hře? (Jako pro člověka, který vezme dokument do ruky a chce vidět, o co jde.)
 
 - Vyisknout postavy a materiály.
-- Sehnat a vyrobit rekvizity. // TODO! viz (nějaký dokument), vyřešit s MTZ
+- Sehnat, nebo vyrobit rekvizity. // TODO! viz (nějaký dokument), vyřešit s MTZ
 - Říct hráčům, že ve hře se mohou objevit citlivá témata, jestli jsou s tím ok. Témata:
     - Sebevražda blízké osoby.
     - Nehoda s trvalými následky.
@@ -11,10 +11,11 @@
 
 # Příprava prostoru
 
-- Umístit židle pro hibernaci tak, aby se tam dalo svítit na čtení postav.
-- Otestovat funkčnost vysílaček, terminálů.
-- Otestovat funkčnost zvuku a hudby. // TODO MTZ repro a tak, plus zkontrolovat playlisty / software?
-- Zkontrolovat rekvizity. // TODO podle dokumentu s MTZ, až bude
+// MTZ Prostor: Ideálně tři zatemněné, zvukově oddělené místnosti. Minimálně dvě zvukově oddělené místnosti plus nějaká chodba mezi.
+- Umístit židle pro hibernaci tak, aby se tam dalo svítit na čtení postav. // MTZ 7 židlí (orgové + hráči), dva stoly (orgové pod počítač + hráči na bar a následně pod počítač)
+- Otestovat funkčnost vysílaček, terminálů. // MTZ Dva notebooky propojené přes wi-fi (tj. buď hotspot nebo nebo plus router) s nahraným a rozchozeným terminálem (TODO- instrukce k zprovoznění terminálu). Internet potřeba není.
+- Otestovat funkčnost zvuku a hudby. // MTZ Repro v hlavní místnosti hrající z počítače.
+- Zkontrolovat rekvizity. // TODO! podle dokumentu s MTZ, až bude
 - Nachystat věci pro 1. scénu.
 
 # Příprava s hráči
@@ -48,7 +49,7 @@
 - Hra je scénovaná.
 - Mezi scénami probíhá hibernace: Sedíte na židlích a čtete pokyny k dané scéně v postavách.
 - Jakmile máte přečteno, odložíte postavu (abychom poznali, jsou všichni připravení).
-- Pak rozsvítíme světla a začne scéna. Začátek je vždycky popsaný v pokynech (typicky "jste v hibernaci a čekáte, než vás probudí lékařka").
+- Pak rozsvítíme světla a začne scéna. Začátek je vždycky popsaný v pokynech (typicky "jste v hibernaci a čekáte, než vás probudí lékařka"). // MTZ Zhasínatelná světla zvlášť na scénu a na místo, kde se hibernuje / čtou postavy.
 - Konec scény je taky popsaný v pokynech (například "scéna končí přípitkem").
 - Tím scéna hned končí, dál se nedohrává. Ztlumí se světla a sednete si do hibernačních křesel, kde si začnete číst pokyny k další scéně. // Sny jsou dostatečně zohledněny v společných pokynech k postavám, není potřeba je extra uvádět.
 
@@ -61,7 +62,6 @@
     - Pokud není řečeno jinak, terminál ovládá a čte jenom Johnny. Může tam dostávat i neherní informace, které jsou jenom pro něj.
     - Pokud se někde píše "zmáčkněte F", rozumí se napsat a odeslat enterem (ukázka).
 
-// TODO- dopsat pokyny k zprovoznění terminálů
 // TODO- hodilo by se nějak zařídit, aby se vždy dostal aspoň někdo k terminálu, aby bylo možné předávat impro informace (například, pokud jeden kosmonaut z opravy vycouvá a zůstane tam alexandra sama bez vysílačky, tak napsat že telemetrie ukazuje že je v bezvědomí nebo něco, aby pro ni šli ... např.)
 
 - Intimita: Polibek = dotknutí se tváří. Víc nebude potřeba.
@@ -85,7 +85,7 @@
 
 (výběr postav)
 
-- Johnnyho jizva, naznačit rtěnkou. // TODO MTZ rtěnka na Johnnyho jizvu
+- Johnnyho jizva, naznačit rtěnkou. // MTZ rtěnka na Johnnyho jizvu
 
 (čtení postav)
 
@@ -96,7 +96,9 @@
 # 1. scéna
 
 Příprava:
-    - bar + lahev + panáky, gauč?, stůl?, hudba, barevné světlo?, party props? (brýle, nějaká předměty odkazující na vesmír, tematický drink)
+    - připravit stůl jako bar a dát tam všechny pití a sklenice
+    // MTZ 5x panák, 1x lahev symbolizující alkohol, aspoň 2x sklenice na exování piva, 2x nealko pivo, stůl na bar
+    // MTZ Volitelné: gauč, barevná světla, párty brýle, případně další párty vybavení.
 
 Začátek:
     - Uvést, že jdeme rovnou do pozdější fáze večera, všichni už jsou veselí a docela opilí.
@@ -110,7 +112,7 @@ Začátek:
 
 Během scény:
     - Dát hudbu na míň, když začnou tancovat tak zhlasit.
-    - Vyfotit si selfie s Alexandrou ("Vy jste Alexandra Parker? Moje dcera vás zbožňuje, dívá se na všechny ty dokumenty s váma (...)").
+    - Vyfotit si selfie s Alexandrou ("Vy jste Alexandra Parker? Moje dcera vás zbožňuje, dívá se na všechny ty dokumenty s váma (...)"). // MTZ 1x smartphone na dělání selfie
     - Pustit ploužák na vyžádání. // TODO zkrácený ploužák (asi Armageddon)
 
 Konec:
@@ -122,11 +124,12 @@ Konec:
 // TODO- nápad: kartičky kosmonautů s údaji vč. krevní skupiny, člověk s průstřelem musí dostat správnou transfuzi?
 
 Příprava:
-    - Vedle terminálu položit prázdný flash disk.
+    - Nachystat terminál na stůl místo baru.
+    - Vedle terminálu položit prázdný flash disk. // MTZ prázdný flash disk
     - Pro Marca nachystat dokument V8704.
-    - Nachystat vysílačky, skafandry, rukavice, šroubovák, baterku, EVA návody N1753 a E2604.
-    - Nachystat panely do vedlejší místnosti (viz s2-panely.md). // TODO MTZ vyrobit je.
-    - Nachystat kříž z izolačky kde je výstup z lodi.
+    - Nachystat vysílačky, skafandry, rukavice, šroubovák, baterku, EVA návody N1753 a E2604. // MTZ 2x vysílačka, 2x overal (skafandr), 2x pár rukavic (ke skafandru), 1x šroubovák, 1x baterka
+    - Nachystat panely do vedlejší místnosti. // MTZ panely vyrobené podle návodu s2-panely.md
+    - Nachystat kříž z izolačky kde je výstup z lodi. // MTZ malířská páska
     - Na terminál napsat: "Nacházíte se zhruba v polovině cesty. Stanice, ke které letíte, se posunula. Podle počítače je teď už příliš daleko. Na manévr, abyste ji ještě dostihli, máte málo paliva. Je potřeba to probrat se zbytkem posádky. Pokud byste na nic nepřišli, jediná možnost by byla obrátit loď zpátky k Zemi a misi ukončit. Nejvíc co říct k technickým možnostem bude mít asi Marc, jako palubní inženýr. Ale probrat by to měla celá posádka (nakonec, jde o misi jako celek). Pokud chceš nová navigační data a detaily potřebného manévru předat Marcovi, dej mu USB flash disk, který leží vedle počítače (slouží jen jako rekvizita, nemusíš na něj nic nahrávat)."
 
 Začátek:
@@ -150,7 +153,7 @@ Konec:
 Příprava:
     - Za dveře (dovnitř stanice) nachystat s3-vnitrek-stanice.
     - Nachystat dokument F4415 (odlet), C8863 (krize).
-    - Za dveře (dál) nachystat přepravní box s nákladem.
+    - Za dveře (dál) nachystat přepravní box s nákladem. // MTZ Krabice s nákladem: Libovolná větší krabice, ideálně kovová nebo polystyrenová, uvnitř volitelně lesklá kovová nebo skleněná koule. Na krabici je čtyřmístný zámek nastavený na 3011. Je jedno, jestli je vestavěný v krabici, nebo na ni umístěný z venčí jako visací zámek.
 
 Začátek:
 
@@ -180,7 +183,7 @@ Konec:
 # Sny
 
 Příprava:
-    - Mít připravené modré světlo na scénu.
+    - Mít připravené modré světlo na scénu. // MTZ Modré světlo na scénu (pro sny).
 
 Začátek:
     - Až všichni odloží postavy, rozsvítit modré světlo na scénu a pustit hudbu.
@@ -203,12 +206,13 @@ Začátek:
     - nachystat Z7074 (přiblížení), přeskok (za dveře)
     - nachystat M6511
     - nachystat si preskok-zjednoduseny.md na výměnu za preskok.md
-    - přesýpací hodiny za dveře // TODO MTZ přesýpací hodiny 5min
-    - připravit si svíčku a sirky
-    - musí být tři zvukově oddělené prostory (loď, přeskok, druhá loď)
+    - přesýpací hodiny za dveře // MTZ přesýpací hodiny na 5min
+    - připravit si svíčku a sirky // MTZ sirky a 1x čajová svíčka
+    - musí být tři zvukově oddělené prostory (loď, přeskok, druhá loď) // MTZ zvukově oddělené prostory, viz výš
     // oddělení je nutné, aby přeskakující hráč neslyšel ani neviděl ani jednu stranu
     // přesýpací hodiny jsou nutné, aby hráč věděl, jak daleko cca je
     // TODO možná hudba během přeskoku - pak nutno přidat do pokynů (preskok a preskok-zjednoduseny). Zvážit, jestli by to nezpůsobilo problém např. pro vysílačku. Tady je hudba důležitá, protože to může být jinak pravděpodobně nejdelší "opruz prostoj", pokud se do toho hráč nevžije. Alternativně by se dalo zvažovat i video.
+    - nachystat do druhé lodi papírky a tužku na vzkazy mrtvému // MTZ papírky a tužka
 
 Přiblížení objektu (TODO hlášky):
     - Pustit, až se vyčerpá počáteční téma scény: "(houkání) unknown object approaching, approach in 5 minutes"
@@ -252,8 +256,9 @@ Konec:
 # Sny 2
 
 Příprava:
-    - Vyznačit na zemi malířskou páskou tři čáry. // TODO- tři?
+    - Vyznačit na zemi malířskou páskou tři čáry. // MTZ malířská páska
     - Mít připravené modré světlo.
+    // TODO- tři čáry, víc, míň?
 
 Začátek:
     - Až všichni odloží postavy, rozsvítit modré světlo na scénu a pustit hudbu.
@@ -266,7 +271,6 @@ Konec:
 
 # 5. scéna
 
-// TODO laciné řešení zámku na nákladu: zámek s číselníkem.
 // TODO- nápad: Hibernaci hackovala i Loren (viz osobní linka), možná nějak navázat. Případně v jiných postavách.
 // TODO- případně doplnit do postav další témata k řešení před otevřením bedny (viz pokyny-mrtvy-pomocne.md)
 // TODO- pokud se implementuje alt. konec s vyhozeným nákladem, upozornění o ponechání nákladu pochopitelně možno vymazat
@@ -275,8 +279,8 @@ Příprava:
     - pokud náklad nebrali, říct, že je to alt. konec a náklad zůstává
     - mrtvá postava - nečte postavu, ale vzít bokem a dát instrukce E9197
     - pokud se zbavili nákladu, říct, že je to druhý konec a náklad teď zůstává
-    - nachystat zdrhovačky pro spoutání
-    - nachystat štípačky pro mrtvého k rozstřihnutí pout
+    - nachystat zdrhovačky pro spoutání // MTZ zdrhovačky
+    - nachystat štípačky pro mrtvého k rozstřihnutí pout // MTZ štípačky
     - do konzole napsat (znak {} nahradit jménem mrtvého, např. "aparker"):
         Poslední úpravy:
         {}: > hibernační jednotka
@@ -284,10 +288,10 @@ Příprava:
         {}: [zaheslováno]
     - počítač předat mrtvému
     - nachystat výsledky simulace N5322
-    - nachystat kopii výsledků simulace pro mrtvého N5322
+    - nachystat kopii výsledků simulace pro mrtvého N5322 // MTZ vytisknout navíc jednu kopii dokumentu s5-vysledky-simulace.md
     - nachystat si alternativní postavy
         - sledovat, kam dávají hráči původní postavy
-    - nachystat svíčky, sirky a pálící nádobu pro mrtvého
+    - nachystat svíčky, sirky a pálící nádobu pro mrtvého // MTZ sirky, 5x čajová svíčka, 1x nádoba na pálení papíru
     - vzít si vysílačku od mrtvé postavy
     - počítač a vysílačku do vedlejší místnosti
     - mrtvý tajně nahlíží do hlavní místnosti, říct mu
