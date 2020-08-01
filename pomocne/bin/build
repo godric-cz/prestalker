@@ -5,10 +5,17 @@ require_once __DIR__ . '/../vendor/autoload.php';
 require_once __DIR__ . '/../src/_functions.php';
 require_once __DIR__ . '/../src/Merger.php';
 
-function build_document($input, $template, $output, $force = null, $male = false) {
-    if (is_array($input)) {
-        $mdFile1 = $input[0];
-        $mdFile2 = $input[1];
+function build_document($input, $template, $output, $opt = []) {
+    $defaultOpt = [
+        'force'     => null,
+        'isMale'    => false,
+        'mergeWith' => null,
+    ];
+    $realOpt = array_merge($defaultOpt, $opt);
+
+    if ($realOpt['mergeWith']) {
+        $mdFile1 = $input;
+        $mdFile2 = $realOpt['mergeWith'];
         $inputModified = max(filemtime($mdFile1), filemtime($mdFile2));
     } else {
         $mdFile1 = $input;
@@ -16,7 +23,7 @@ function build_document($input, $template, $output, $force = null, $male = false
         $inputModified = filemtime($mdFile1);
     }
 
-    $forceBuild = $force && fnmatch($force, $mdFile1);
+    $forceBuild = $realOpt['force'] && fnmatch($realOpt['force'], $mdFile1);
 
     if ($inputModified < @filemtime($output) && !$forceBuild) {
         echo "Not modified: $output\n";
@@ -37,7 +44,7 @@ function build_document($input, $template, $output, $force = null, $male = false
         $text = markdown_merge($text, $textMerge);
     }
 
-    $text = postprocess($text, $male);
+    $text = postprocess($text, $realOpt['isMale']);
     $html = markdown_to_html($text);
     ob_start();
     (function ($content) use ($template) {
@@ -69,12 +76,16 @@ foreach (glob("$dokumenty/postavy/*.md") as $postava) {
     }
 
     $pdf = 'postavy/' . basename($postava, '.md') . '.pdf';
-    $spolecne = "$dokumenty/postavy/spolecne.md";
-    $male = fnmatch_any($males, $postava);
-    build_document([$postava, $spolecne], "$templates/postava.php", $pdf, $force, $male);
+    build_document($postava, "$templates/postava.php", $pdf, [
+        'force'     => $force,
+        'isMale'    => fnmatch_any($males, $postava),
+        'mergeWith' => "$dokumenty/postavy/spolecne.md",
+    ]);
 }
 
 foreach (glob("$dokumenty/materialy/*.md") as $material) {
     $pdf = 'materialy/' . basename($material, '.md') . '.pdf';
-    build_document($material, "$templates/default.php", $pdf, $force);
+    build_document($material, "$templates/default.php", $pdf, [
+        'force' => $force,
+    ]);
 }
