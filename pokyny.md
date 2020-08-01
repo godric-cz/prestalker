@@ -2,8 +2,8 @@
 
 // TODO- obecné info o hře? (Jako pro člověka, který vezme dokument do ruky a chce vidět, o co jde.)
 
-- Vyisknout postavy a materiály.
-- Sehnat, nebo vyrobit rekvizity. // TODO! viz (nějaký dokument), vyřešit s MTZ
+- Vyisknout postavy a materiály. // MTZ Vytisknout všechny pdf včetně seznamu rekvizit (pro kontrolu na místě).
+- Sehnat, nebo vyrobit rekvizity podle rekvizity.pdf.
 - Říct hráčům, že ve hře se mohou objevit citlivá témata, jestli jsou s tím ok. Témata:
     - Sebevražda blízké osoby.
     - Nehoda s trvalými následky.
@@ -15,7 +15,7 @@
 - Umístit židle pro hibernaci tak, aby se tam dalo svítit na čtení postav. // MTZ 7 židlí (orgové + hráči), dva stoly (orgové pod počítač + hráči na bar a následně pod počítač)
 - Otestovat funkčnost vysílaček, terminálů. // MTZ Dva notebooky propojené přes wi-fi (tj. buď hotspot nebo nebo plus router) s nahraným a rozchozeným terminálem (TODO- instrukce k zprovoznění terminálu). Internet potřeba není.
 - Otestovat funkčnost zvuku a hudby. // MTZ Repro v hlavní místnosti hrající z počítače.
-- Zkontrolovat rekvizity. // TODO! podle dokumentu s MTZ, až bude
+- Zkontrolovat rekvizity podle vytisknutého seznamu.
 - Nachystat věci pro 1. scénu.
 
 # Příprava s hráči

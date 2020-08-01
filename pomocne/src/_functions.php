@@ -87,3 +87,10 @@ function fnmatch_any($patterns, $string) {
 
     return false;
 }
+
+function read_mtz($file) {
+    $text = file_get_contents($file);
+    preg_match_all("/\/\/ MTZ ([^\n]*)/", $text, $mtzs);
+    $out = implode('', array_map(fn ($e) => "- $e\n", $mtzs[1]));
+    return $out;
+}

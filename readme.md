@@ -13,6 +13,8 @@
 - [x] materiály a pokyny pro hlavní příběh
 - [x] alternativní postavy
 - [ ] projet TODOs a kritické dořešit
+    - [x] před-produkční TODOs
+    - [ ] produkční TODOs (zvuky apod.)
 - [x] postavy
     - [x] linky vyplývající ze snů
     - [x] vztahy

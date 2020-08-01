@@ -10,6 +10,7 @@ function build_document($input, $template, $output, $opt = []) {
         'force'     => null,
         'isMale'    => false,
         'mergeWith' => null,
+        'replace'   => [],
     ];
     $realOpt = array_merge($defaultOpt, $opt);
 
@@ -45,6 +46,7 @@ function build_document($input, $template, $output, $opt = []) {
     }
 
     $text = postprocess($text, $realOpt['isMale']);
+    $text = $realOpt['replace'] ? strtr($text, $realOpt['replace']) : $text;
     $html = markdown_to_html($text);
     ob_start();
     (function ($content) use ($template) {
@@ -89,3 +91,8 @@ foreach (glob("$dokumenty/materialy/*.md") as $material) {
         'force' => $force,
     ]);
 }
+
+$mtz = read_mtz("$dokumenty/pokyny.md");
+build_document("$dokumenty/rekvizity.md", "$templates/default.php", 'rekvizity.pdf', [
+    'replace' => ['(seznam rekvizit)' => $mtz],
+]);
